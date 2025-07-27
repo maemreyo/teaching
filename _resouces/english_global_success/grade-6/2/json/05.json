@@ -1,0 +1,38 @@
+{
+  "cultural_notes": [
+    {
+      "note_id": "cult_2_001",
+      "topic": "Smart Homes and Home Automation",
+      "content": "A 'smart home' uses technology to automate and control various items and systems around the house, often with a simple push of a button or a voice command.",
+      "key_points": [
+        "Home automation can control a wide range of items, from window shades to pet feeders.",
+        "Smart home products allow control over lights, temperature, locks, and home security systems.",
+        "Setting up a smart home can range from simple, inexpensive activities to more complex and costly investments like advanced surveillance cameras.",
+        "Smart home devices are often considered great gifts for holidays or as housewarming presents."
+      ],
+      "discussion_questions": [
+        "What smart home device would you most like to have in your house? Why?",
+        "Do you think smart homes make life better or more complicated? Explain your answer.",
+        "What are some potential privacy or security risks of having many smart devices in a home?"
+      ],
+      "unit_number": 2
+    },
+    {
+      "note_id": "cult_2_002",
+      "topic": "Diverse Ideas of a 'Dream Home'",
+      "content": "People's vision of a perfect home varies greatly, reflecting different personal tastes and lifestyle priorities regarding location, style, and features.",
+      "key_points": [
+        "Location preferences can be very different, such as living in the mountains versus living near the sea.",
+        "Architectural styles can range from modern and vintage to large and luxurious.",
+        "Desired amenities often include modern appliances, a fireplace, a swimming pool, or a yard with many trees.",
+        "The importance of certain rooms, like a relaxing living room or bedroom, can be a key factor in designing a dream home."
+      ],
+      "discussion_questions": [
+        "Describe your own dream home. Where would it be and what would it look like?",
+        "Which is more important to you in a home: a modern style or a traditional one? Why?",
+        "If you could add one special feature to your home (like a pool or a big garden), what would it be and why?"
+      ],
+      "unit_number": 2
+    }
+  ]
+}

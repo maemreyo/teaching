@@ -1,0 +1,88 @@
+{
+  "speaking_tasks": [
+    {
+      "task_id": "speak_2_001",
+      "unit_number": 2,
+      "lesson_number": 1,
+      "title": "Describing Your Favorite Room",
+      "main_prompt": "Talk about the room you like best in your house. You should speak for 1-2 minutes.",
+      "cue_questions": [
+        "Which room do you like best?",
+        "What does it have?",
+        "Why do you like it best?"
+      ],
+      "useful_language": {
+        "vocabulary": [
+          "living room",
+          "kitchen",
+          "my bedroom",
+          "reading room",
+          "pictures",
+          "dishwasher",
+          "wardrobe",
+          "bookshelf",
+          "beautiful",
+          "convenient",
+          "quiet",
+          "cosy"
+        ],
+        "structures": [
+          "There are...in my house but I like...best.",
+          "Most of...in my bedroom has...colour.",
+          "There is...opposite...",
+          "There is a...next to...",
+          "From the window, I can see...",
+          "Whenever I need to relax, I usually...to enjoy..."
+        ]
+      },
+      "enriched_content": {
+        "warm_up_questions": [
+          "How many rooms are there in your house?",
+          "What is your least favorite room? Why?",
+          "If you could add one piece of furniture to your favorite room, what would it be?"
+        ],
+        "follow_up_questions": [
+          "How would you redecorate your room if you had a lot of money?",
+          "Do you share your room with anyone? What are the advantages and disadvantages?",
+          "Describe a memorable moment that happened in that room."
+        ],
+        "role_play_scenario": {
+          "title": "House Tour with a Friend",
+          "setting": "You are showing your foreign friend around your house for the first time via a video call.",
+          "roles": [
+            "You",
+            "Your Friend"
+          ],
+          "instructions": "Start by welcoming your friend. Describe your favorite room using the cues and useful language. Your friend should listen and then ask at least two follow-up questions about the room or the furniture in it."
+        },
+        "extended_vocabulary": [
+          {
+            "word": "spacious",
+            "type": "adj",
+            "meaning": "rộng rãi"
+          },
+          {
+            "word": "cluttered",
+            "type": "adj",
+            "meaning": "bừa bộn, lộn xộn"
+          },
+          {
+            "word": "minimalist",
+            "type": "adj",
+            "meaning": "tối giản"
+          },
+          {
+            "word": "cozy nook",
+            "type": "n. phr.",
+            "meaning": "góc nhỏ ấm cúng"
+          },
+          {
+            "word": "state-of-the-art",
+            "type": "adj",
+            "meaning": "hiện đại nhất"
+          }
+        ]
+      }
+    }
+  ]
+}

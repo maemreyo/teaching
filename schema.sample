@@ -1,0 +1,275 @@
+{
+  "curriculum": {
+    "name": "Global Success Grade 6",
+    "version": "2024",
+    "total_units": 12
+  },
+  "units": [
+    {
+      "unit_id": "unit_1",
+      "unit_number": 1,
+      "title": "My New School",
+      "description": "Introducing school subjects, facilities, and activities",
+      "themes": ["school", "education", "subjects", "facilities"],
+      "estimated_duration": "8_lessons",
+      "vocabulary": [
+        {
+          "word_id": "vocab_1_001",
+          "word": "classroom",
+          "word_type": "noun",
+          "pronunciation_ipa": "/ˈklɑːsruːm/",
+          "pronunciation_audio_url": "/audio/classroom.mp3",
+          "meaning_vietnamese": "phòng học",
+          "definition_english": "A room where classes are taught in a school",
+          "example_sentences": [
+            {
+              "sentence": "Our classroom is very bright and modern.",
+              "translation": "Phòng học của chúng tôi rất sáng và hiện đại.",
+              "audio_url": "/audio/sentences/classroom_example_1.mp3"
+            },
+            {
+              "sentence": "There are 30 desks in the classroom.",
+              "translation": "Có 30 bàn học trong phòng học.",
+              "audio_url": "/audio/sentences/classroom_example_2.mp3"
+            }
+          ],
+          "image_url": "/images/vocabulary/classroom.jpg",
+          "difficulty_level": 1,
+          "frequency_rank": "high",
+          "word_family": ["class", "classmate", "classify"],
+          "synonyms": ["room", "class"],
+          "collocations": ["school classroom", "empty classroom", "crowded classroom"],
+          "tags": ["school_facilities", "noun", "countable"],
+          "lesson_introduced": 1
+        }
+      ],
+      "grammar": [
+        {
+          "grammar_id": "gram_1_001",
+          "topic": "Present Simple Tense",
+          "subtopic": "Affirmative sentences",
+          "description": "Using present simple for daily routines and facts",
+          "structure": "Subject + Verb (base form/s/es) + Object",
+          "examples": [
+            {
+              "sentence": "I study English every day.",
+              "breakdown": {
+                "subject": "I",
+                "verb": "study",
+                "object": "English",
+                "time_expression": "every day"
+              },
+              "translation": "Tôi học tiếng Anh mỗi ngày.",
+              "audio_url": "/audio/grammar/present_simple_ex1.mp3"
+            }
+          ],
+          "rules": [
+            "Add 's' or 'es' to verbs with he/she/it",
+            "Use base form with I/you/we/they"
+          ],
+          "exercises": [
+            {
+              "exercise_id": "ex_1_001",
+              "type": "fill_blank",
+              "question": "She _____ (go) to school by bus.",
+              "correct_answer": "goes",
+              "options": ["go", "goes", "going", "went"],
+              "explanation": "Use 'goes' because the subject is 'she' (3rd person singular)"
+            }
+          ],
+          "difficulty_level": 2,
+          "lesson_introduced": 2
+        }
+      ],
+      "functions": [
+        {
+          "function_id": "func_1_001",
+          "name": "Introducing yourself and others",
+          "description": "How to introduce yourself and introduce other people",
+          "key_phrases": [
+            {
+              "phrase": "My name is...",
+              "usage": "Self introduction",
+              "example": "My name is Minh. I'm 12 years old.",
+              "translation": "Tên tôi là... Tôi 12 tuổi.",
+              "audio_url": "/audio/functions/intro_1.mp3"
+            },
+            {
+              "phrase": "This is my friend...",
+              "usage": "Introducing others",
+              "example": "This is my friend, Lan. She's in my class.",
+              "translation": "Đây là bạn tôi, Lan. Cô ấy cùng lớp với tôi.",
+              "audio_url": "/audio/functions/intro_2.mp3"
+            }
+          ],
+          "dialogue_examples": [
+            {
+              "dialogue_id": "dial_1_001",
+              "title": "Meeting a new classmate",
+              "speakers": ["Student A", "Student B"],
+              "lines": [
+                {
+                  "speaker": "Student A",
+                  "text": "Hi! I'm Nam. What's your name?",
+                  "translation": "Chào! Tôi là Nam. Bạn tên gì?",
+                  "audio_url": "/audio/dialogues/dial_1_001_line_1.mp3"
+                },
+                {
+                  "speaker": "Student B",
+                  "text": "Hello Nam! I'm Linh. Nice to meet you.",
+                  "translation": "Chào Nam! Tôi là Linh. Rất vui được gặp bạn.",
+                  "audio_url": "/audio/dialogues/dial_1_001_line_2.mp3"
+                }
+              ],
+              "audio_full": "/audio/dialogues/dial_1_001_full.mp3"
+            }
+          ]
+        }
+      ],
+      "pronunciation": [
+        {
+          "pronunciation_id": "pron_1_001",
+          "focus": "Word stress in two-syllable words",
+          "description": "Learning where to put stress in common school-related words",
+          "examples": [
+            {
+              "word": "teacher",
+              "stress_pattern": "TEACH-er",
+              "ipa": "/ˈtiː.tʃər/",
+              "audio_url": "/audio/pronunciation/teacher_stress.mp3",
+              "practice_words": ["student", "subject", "homework", "language"]
+            }
+          ],
+          "exercises": [
+            {
+              "exercise_id": "pron_ex_1_001",
+              "type": "stress_identification",
+              "instruction": "Listen and identify which syllable is stressed",
+              "word": "computer",
+              "options": ["COM-puter", "com-PU-ter", "compu-TER"],
+              "correct_answer": "com-PU-ter",
+              "audio_url": "/audio/pronunciation/computer_exercise.mp3"
+            }
+          ]
+        }
+      ],
+      "cultural_notes": [
+        {
+          "note_id": "cult_1_001",
+          "topic": "School systems",
+          "content": "Differences between Vietnamese and international school systems",
+          "key_points": [
+            "In many countries, students move between classrooms for different subjects",
+            "School uniforms are common in some countries but not others",
+            "The school day structure varies globally"
+          ],
+          "discussion_questions": [
+            "How is your school different from schools in other countries?",
+            "What do you like most about your school?"
+          ]
+        }
+      ],
+      "assessments": [
+        {
+          "assessment_id": "assess_1_001",
+          "type": "unit_test",
+          "skills_tested": ["vocabulary", "grammar", "reading", "listening"],
+          "total_points": 100,
+          "sections": [
+            {
+              "section_name": "Vocabulary",
+              "points": 25,
+              "question_types": ["multiple_choice", "matching", "fill_blank"]
+            },
+            {
+              "section_name": "Grammar",
+              "points": 25,
+              "question_types": ["sentence_transformation", "error_correction"]
+            },
+            {
+              "section_name": "Reading",
+              "points": 25,
+              "question_types": ["comprehension", "true_false"]
+            },
+            {
+              "section_name": "Listening",
+              "points": 25,
+              "question_types": ["audio_comprehension", "dictation"]
+            }
+          ]
+        }
+      ],
+      "games_metadata": {
+        "suggested_games": [
+          {
+            "game_type": "vocabulary_collector",
+            "target_words": ["classroom", "teacher", "student", "subject", "library"],
+            "difficulty": "easy",
+            "estimated_playtime": "10_minutes"
+          },
+          {
+            "game_type": "grammar_builder",
+            "target_grammar": "present_simple_affirmative",
+            "difficulty": "medium",
+            "estimated_playtime": "15_minutes"
+          },
+          {
+            "game_type": "dialogue_adventure",
+            "target_functions": ["introducing_yourself", "asking_for_information"],
+            "difficulty": "medium",
+            "estimated_playtime": "20_minutes"
+          }
+        ]
+      }
+    }
+  ],
+  "global_resources": {
+    "characters": [
+      {
+        "character_id": "char_001",
+        "name": "Minh",
+        "age": 12,
+        "description": "A friendly Vietnamese student",
+        "avatar_url": "/images/characters/minh.png",
+        "voice_profile": "young_male_vietnamese_accent"
+      },
+      {
+        "character_id": "char_002",
+        "name": "Ms. Johnson",
+        "age": 35,
+        "description": "An enthusiastic English teacher",
+        "avatar_url": "/images/characters/ms_johnson.png",
+        "voice_profile": "adult_female_native_english"
+      }
+    ],
+    "audio_settings": {
+      "speed_options": ["0.75x", "1x", "1.25x"],
+      "voice_types": ["us_accent", "uk_accent", "vietnamese_accent"],
+      "audio_format": "mp3",
+      "quality": "128kbps"
+    },
+    "difficulty_levels": {
+      "1": "Beginner - Basic vocabulary and simple sentences",
+      "2": "Elementary - Common phrases and basic grammar",
+      "3": "Pre-intermediate - Complex sentences and varied vocabulary",
+      "4": "Intermediate - Advanced grammar and idiomatic expressions",
+      "5": "Advanced - Sophisticated language use and cultural references"
+    },
+    "tags_taxonomy": {
+      "skill_types": ["vocabulary", "grammar", "pronunciation", "listening", "speaking", "reading", "writing"],
+      "word_types": ["noun", "verb", "adjective", "adverb", "preposition", "conjunction"],
+      "themes": ["school", "family", "food", "hobbies", "travel", "health", "environment", "technology"],
+      "difficulty": ["easy", "medium", "hard"],
+      "frequency": ["high", "medium", "low"]
+    }
+  },
+  "metadata": {
+    "schema_version": "1.0",
+    "created_date": "2025-01-01",
+    "last_updated": "2025-01-01",
+    "total_vocabulary_words": 0,
+    "total_grammar_points": 0,
+    "content_language": "en-vi",
+    "target_cefr_level": "A1-A2"
+  }
+}

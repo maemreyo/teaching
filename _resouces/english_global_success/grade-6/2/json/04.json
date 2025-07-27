@@ -1,0 +1,123 @@
+{
+  "language_functions": [
+    {
+      "function_id": "func_2_001",
+      "name": "Asking about and describing a home",
+      "description": "How to ask questions about someone's home and describe your own house, rooms, and furniture.",
+      "unit_number": 2,
+      "phrases": [
+        {
+          "phrase": "Which room do you like best?",
+          "usage": "Asking for a preference",
+          "example": "There are many rooms, but which room do you like best?",
+          "translation": "Bạn thích căn phòng nào nhất?",
+          "audio_url": "/audio/functions/home_q1.mp3",
+          "enriched_usage": {
+            "formality_level": "Neutral / Informal",
+            "note": "A friendly and common question to start a conversation about someone's home.",
+            "typical_response": "I like my bedroom best because it's my own space.",
+            "cultural_note": "In many cultures, discussing one's favorite room can be a way to share personal values (e.g., valuing privacy, family, or cooking)."
+          }
+        },
+        {
+          "phrase": "What does it have?",
+          "usage": "Asking for details about a room",
+          "example": "You like your bedroom? What does it have?",
+          "translation": "Nó có những gì?",
+          "audio_url": "/audio/functions/home_q2.mp3",
+          "enriched_usage": {
+            "formality_level": "Neutral",
+            "note": "A direct follow-up question to get specific information about the contents of a room.",
+            "typical_response": "It has a bed, a desk, and a big window with a nice view.",
+            "cultural_note": ""
+          }
+        },
+        {
+          "phrase": "Why do you like it best?",
+          "usage": "Asking for reasons",
+          "example": "Why do you like it best? Is it quiet?",
+          "translation": "Tại sao bạn lại thích nó nhất?",
+          "audio_url": "/audio/functions/home_q3.mp3",
+          "enriched_usage": {
+            "formality_level": "Neutral",
+            "note": "Used to understand the feelings or reasons behind someone's preference.",
+            "typical_response": "I like it because it's very quiet and I can relax there.",
+            "cultural_note": ""
+          }
+        },
+        {
+          "phrase": "There is a... / There are...",
+          "usage": "Describing the contents of a room",
+          "example": "There is a big wardrobe next to the bed. There are also some pictures on the wall.",
+          "translation": "Có một cái tủ quần áo lớn cạnh giường. Cũng có một vài bức tranh trên tường.",
+          "audio_url": "/audio/functions/home_desc1.mp3",
+          "enriched_usage": {
+            "formality_level": "Neutral",
+            "note": "This is the most fundamental structure for stating what exists in a space. Use 'There is' for one item and 'There are' for multiple items.",
+            "typical_response": "Oh, that sounds nice!",
+            "cultural_note": ""
+          }
+        }
+      ],
+      "dialogues": []
+    }
+  ],
+  "pronunciation_focuses": [
+    {
+      "pronunciation_id": "pron_2_001",
+      "focus": "Ending sounds: /s/, /z/, /ɪz/",
+      "description": "How to correctly pronounce the '-s' and '-es' endings for plural nouns and 3rd person singular verbs based on the final sound of the base word.",
+      "unit_number": 2,
+      "examples": [
+        {
+          "sound": "/s/",
+          "rule": "After voiceless sounds like /p, t, k, f, θ/",
+          "words": ["boats", "lamps", "books", "chefs", "months"]
+        },
+        {
+          "sound": "/z/",
+          "rule": "After voiced sounds (like /b, d, g, v, l, m, n, r/) and all vowel sounds",
+          "words": ["wardrobes", "bedrooms", "bananas", "pillows", "halls"]
+        },
+        {
+          "sound": "/ɪz/",
+          "rule": "After sibilant (hissing/buzzing) sounds like /s, z, ʃ, tʃ, dʒ/",
+          "words": ["buses", "dishes", "watches", "fridges", "quizzes"]
+        }
+      ],
+      "enriched_practice": {
+        "articulation_guide": {
+          "description": "The key difference is 'voicing' (sự rung). Place your fingers on your throat. For /s/, your throat should NOT vibrate (it's a quiet hiss like a snake: s-s-s). For /z/, your throat MUST vibrate (it's a noisy buzz like a bee: z-z-z). The /ɪz/ sound adds a whole new syllable ('iz') to the word.",
+          "visual_aid_placeholder": "/images/pronunciation/s_z_vibration.gif"
+        },
+        "minimal_pair_drills": [
+          {
+            "pair_title": "Voiceless /s/ vs. Voiced /z/",
+            "instruction": "Practice saying these pairs. Feel your throat for the vibration on the /z/ sound.",
+            "pairs": [
+              {"word_A": "sinks", "ipa_A": "/sɪŋks/"},
+              {"word_B": "sings", "ipa_B": "/sɪŋz/"},
+              {"word_A": "desks", "ipa_A": "/desks/"},
+              {"word_B": "beds", "ipa_B": "/bedz/"},
+              {"word_A": "roofs", "ipa_A": "/ruːfs/"},
+              {"word_B": "shelves", "ipa_B": "/ʃelvz/"}
+            ]
+          },
+          {
+            "pair_title": "Voiced /z/ vs. Syllabic /ɪz/",
+            "instruction": "Listen for the extra syllable. '/z/' just adds a sound, but '/ɪz/' adds a sound AND a vowel.",
+            "pairs": [
+              {"word_A": "chairs", "ipa_A": "/tʃeərz/"},
+              {"word_B": "watches", "ipa_B": "/ˈwɒtʃɪz/"},
+              {"word_A": "bees", "ipa_A": "/biːz/"},
+              {"word_B": "boxes", "ipa_B": "/ˈbɒksɪz/"},
+              {"word_A": "halls", "ipa_A": "/hɔːlz/"},
+              {"word_B": "houses", "ipa_B": "/ˈhaʊzɪz/"}
+            ]
+          }
+        ]
+      },
+      "exercises": []
+    }
+  ]
+}

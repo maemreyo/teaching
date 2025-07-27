@@ -1,0 +1,141 @@
+{
+  "image_exercises": [
+    {
+      "exercise_id": "ex_img_2_001",
+      "type": "image_fill_in_the_blank",
+      "title": "Describing Adam's Messy Room",
+      "instructions": "Look at the picture of Adam's bedroom and complete the sentences about it.",
+      "unit_number": 2,
+      "lesson_number": 1,
+      "skill_focus": "grammar_vocabulary",
+      "difficulty_level": 2,
+      "has_images": true,
+      "questions": [
+        {
+          "question_id": "q_img_2_001_01",
+          "question_type": "image_based_question",
+          "image_description": "A cartoon illustration of a very messy child's bedroom. In the center, a young boy named Adam is sitting on a small rug on the floor, leaning against his unmade bed. In the doorway stands his mother, with her hands on her hips and an angry expression on her face. The room is in disarray: clothes are thrown on the bed, empty soda cans are on a small table, several toys are behind a white chair, and books are scattered under the bed. On the wall, a picture hangs between a window and a clock.",
+          "image_placeholder": "/images/exercises/unit2_adams_room.jpg",
+          "question_text": "Where are Adam's books?",
+          "options": [],
+          "correct_answer": "They are under the bed.",
+          "points": 1,
+          "enriched_contextual_learning": {
+            "image_analysis": {
+              "key_vocabulary_in_image": [
+                { "word": "bed", "meaning_vietnamese": "cái giường" },
+                { "word": "rug", "meaning_vietnamese": "tấm thảm" },
+                { "word": "clothes", "meaning_vietnamese": "quần áo" },
+                { "word": "toys", "meaning_vietnamese": "đồ chơi" },
+                { "word": "chair", "meaning_vietnamese": "cái ghế" }
+              ],
+              "grammar_point_demonstrated": "This image is excellent for practicing prepositions of place (on, in, under, behind, next to, between) to describe the location of objects.",
+              "cultural_insight": "The scene of a parent being unhappy with a child's messy room is a common and relatable family dynamic across many cultures."
+            },
+            "follow_up_activities": [
+              {
+                "type": "inference_question",
+                "prompt": "Look at the mother's posture (hands on her hips) and her face. How do you think she is feeling and why?"
+              },
+              {
+                "type": "personalization_question",
+                "prompt": "Is your room usually tidy or messy? Describe one thing that is on your desk right now using a preposition."
+              },
+              {
+                "type": "creative_speaking_prompt",
+                "prompt": "Imagine you are Adam. Your mother says, 'Clean your room!' What would you say back? Speak for 30 seconds."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "exercise_id": "ex_img_2_002",
+      "type": "image_yes_no_questions",
+      "title": "Describing a Living Room",
+      "instructions": "Look at the picture of the living room and answer the questions with 'Yes, there is/are' or 'No, there isn't/aren't'.",
+      "unit_number": 2,
+      "lesson_number": 1,
+      "skill_focus": "grammar_vocabulary",
+      "difficulty_level": 2,
+      "has_images": true,
+      "questions": [
+        {
+          "question_id": "q_img_2_002_01",
+          "question_type": "image_yes_no",
+          "image_description": "A cozy living room scene at night. There is a large sofa with three teddy bears sitting on it. To the right is an armchair. In the center is a coffee table with a newspaper on it, and some books are on the floor beside it. Against the back wall, there is a cupboard with a vase on top and a tall floor lamp next to it. Two pictures hang on the wall. A window shows that it is dark outside.",
+          "image_placeholder": "/images/exercises/unit2_living_room.jpg",
+          "question_text": "Are there two pictures in the living room?",
+          "options": [],
+          "correct_answer": "Yes, there are.",
+          "points": 1,
+          "enriched_contextual_learning": {
+            "image_analysis": {
+              "key_vocabulary_in_image": [
+                { "word": "sofa", "meaning_vietnamese": "ghế sô pha" },
+                { "word": "armchair", "meaning_vietnamese": "ghế bành" },
+                { "word": "lamp", "meaning_vietnamese": "cái đèn" },
+                { "word": "cupboard", "meaning_vietnamese": "tủ ly" },
+                { "word": "teddy bears", "meaning_vietnamese": "gấu bông" }
+              ],
+              "grammar_point_demonstrated": "This image is perfect for practicing 'There is/are' in both statement and question forms (e.g., 'Is there...?', 'Are there...?').",
+              "cultural_insight": "A living room filled with comfortable furniture, personal items like photos, and soft lighting is often seen as the heart of a home in many cultures, a place for family to gather and relax."
+            },
+            "follow_up_activities": [
+              {
+                "type": "inference_question",
+                "prompt": "Look at the window. What time of day do you think it is? How do you know?"
+              },
+              {
+                "type": "personalization_question",
+                "prompt": "What is your favorite piece of furniture in your living room? Describe where it is."
+              },
+              {
+                "type": "creative_writing_prompt",
+                "prompt": "Write three sentences describing your own living room. Start each sentence with 'There is...' or 'There are...'."
+              }
+            ]
+          }
+        },
+        {
+          "question_id": "q_img_2_002_02",
+          "question_type": "image_yes_no",
+          "image_description": "A cozy living room scene at night. There is a large sofa with three teddy bears sitting on it. To the right is an armchair. In the center is a coffee table with a newspaper on it, and some books are on the floor beside it. Against the back wall, there is a cupboard with a vase on top and a tall floor lamp next to it. Two pictures hang on the wall. A window shows that it is dark outside.",
+          "image_placeholder": "/images/exercises/unit2_living_room.jpg",
+          "question_text": "Are there three teddy bears on the sofa?",
+          "options": [],
+          "correct_answer": "Yes, there are.",
+          "points": 1,
+          "enriched_contextual_learning": {
+            "image_analysis": {
+              "key_vocabulary_in_image": [
+                { "word": "sofa", "meaning_vietnamese": "ghế sô pha" },
+                { "word": "armchair", "meaning_vietnamese": "ghế bành" },
+                { "word": "lamp", "meaning_vietnamese": "cái đèn" },
+                { "word": "cupboard", "meaning_vietnamese": "tủ ly" },
+                { "word": "teddy bears", "meaning_vietnamese": "gấu bông" }
+              ],
+              "grammar_point_demonstrated": "This image is perfect for practicing 'There is/are' in both statement and question forms (e.g., 'Is there...?', 'Are there...?').",
+              "cultural_insight": "A living room filled with comfortable furniture, personal items like photos, and soft lighting is often seen as the heart of a home in many cultures, a place for family to gather and relax."
+            },
+            "follow_up_activities": [
+              {
+                "type": "inference_question",
+                "prompt": "Look at the window. What time of day do you think it is? How do you know?"
+              },
+              {
+                "type": "personalization_question",
+                "prompt": "What is your favorite piece of furniture in your living room? Describe where it is."
+              },
+              {
+                "type": "creative_writing_prompt",
+                "prompt": "Write three sentences describing your own living room. Start each sentence with 'There is...' or 'There are...'."
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

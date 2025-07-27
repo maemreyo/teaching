@@ -1,0 +1,88 @@
+{
+  "listening_tasks": [
+    {
+      "task_id": "listen_2_001",
+      "unit_number": 2,
+      "lesson_number": 1,
+      "title": "A Tour of Luke's House",
+      "audio_placeholder": "/audio/listening/unit2_lukes_house.mp3",
+      "audio_script": "I live in Carlifornia. My house is very big. There are two floors. On the ground floor there is a big living room, a dining room and a beautiful kitchen. On the first floor there are three bedrooms and two bathrooms. There is a garden, but there isn't a garage. My bedroom is my favourite place. There is a desk next to my bed and there are two chairs in front of the desk. There are two lamps on the desk and the computer is between the lamps. My books are under the desk.",
+      "main_questions": [
+        {
+          "question_id": "q_listen_2_001_01",
+          "question_text": "How many rooms are there on the ground floor? What are they?",
+          "correct_answer": "There are three rooms on the ground floor. They are a living room, a dining room and a kitchen."
+        },
+        {
+          "question_id": "q_listen_2_001_02",
+          "question_text": "How many rooms are there on the first floor? What are they?",
+          "correct_answer": "There are five rooms on the first floor. They are three bedrooms and two bathrooms."
+        },
+        {
+          "question_id": "q_listen_2_001_03",
+          "question_text": "Where is the desk in his bedroom?",
+          "correct_answer": "It is next to his bed."
+        },
+        {
+          "question_id": "q_listen_2_001_04",
+          "question_text": "What are there in front of the desk?",
+          "correct_answer": "There are two chairs in front of it."
+        },
+        {
+          "question_id": "q_listen_2_001_05",
+          "question_text": "What are there on the desk?",
+          "correct_answer": "There are two lamps and a computer."
+        },
+        {
+          "question_id": "q_listen_2_001_06",
+          "question_text": "Are the books on the bed?",
+          "correct_answer": "No, they aren't. They are under the desk."
+        }
+      ],
+      "enriched_activities": {
+        "pre_listening": {
+          "discussion_prompts": [
+            "Before you listen, look at the title 'A Tour of Luke's House'. What words do you expect to hear?",
+            "What are the essential rooms in any house?"
+          ],
+          "key_vocabulary": [
+            {"word": "ground floor", "meaning": "tầng trệt"},
+            {"word": "first floor", "meaning": "tầng lầu một"},
+            {"word": "dining room", "meaning": "phòng ăn"},
+            {"word": "garage", "meaning": "nhà để xe"},
+            {"word": "favourite place", "meaning": "nơi yêu thích"}
+          ]
+        },
+        "post_listening": {
+          "script_gap_fill": [
+            {
+              "question": "My bedroom is my _______ place.",
+              "answer": "favourite"
+            },
+            {
+              "question": "The computer is _______ the lamps.",
+              "answer": "between"
+            },
+            {
+              "question": "My books are _______ the desk.",
+              "answer": "under"
+            }
+          ],
+          "discussion_questions": [
+            "Luke's house has a garden but no garage. What about your house or dream house?",
+            "Luke describes his desk setup in detail. How is your study space organized?",
+            "If you could ask Luke one question about his house, what would it be?"
+          ],
+          "pronunciation_practice": {
+            "title": "Connected Speech Practice",
+            "sentences_to_shadow": [
+              "There is a desk next to my bed...",
+              "...and there are two chairs in front of the desk."
+            ],
+            "focus": "Focus on the natural rhythm and linking the words 'desk_next', 'chairs_in'."
+          }
+        }
+      }
+    }
+  ]
+}

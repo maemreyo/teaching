@@ -1,0 +1,123 @@
+{
+  "grammar_rules": [
+    {
+      "grammar_id": "gram_2_001",
+      "topic": "Prepositions of Place",
+      "subtopic": "Describing Location",
+      "description": "Prepositions of place are used to show the position or location of one thing with respect to another.",
+      "structure": "Subject + Verb + Preposition + Object",
+      "rules": [
+        "In: Used for an enclosed space or a place with boundaries (e.g., in a box, in a city).",
+        "On: Used for a surface (e.g., on the table, on the wall).",
+        "Under: Directly below something.",
+        "Next to / Beside: Immediately at the side of something.",
+        "Between: In the space separating two things.",
+        "Behind: At the back of something.",
+        "In front of: Directly before something.",
+        "Near: Close to something, but not directly beside it."
+      ],
+      "difficulty_level": 1,
+      "lesson_introduced": 1,
+      "unit_number": 2,
+      "examples": [
+        {
+          "sentence": "The ball is in the box.",
+          "translation": "Quả bóng ở trong cái hộp.",
+          "audio_url": "/audio/grammar/prepositions_in.mp3"
+        },
+        {
+          "sentence": "The ball is on the box.",
+          "translation": "Quả bóng ở trên cái hộp.",
+          "audio_url": "/audio/grammar/prepositions_on.mp3"
+        },
+        {
+          "sentence": "The ball is behind the box.",
+          "translation": "Quả bóng ở phía sau cái hộp.",
+          "audio_url": "/audio/grammar/prepositions_behind.mp3"
+        },
+        {
+          "sentence": "The ball is between the boxes.",
+          "translation": "Quả bóng ở giữa các cái hộp.",
+          "audio_url": "/audio/grammar/prepositions_between.mp3"
+        }
+      ],
+      "enriched_context": {
+        "common_mistake": {
+          "title": "Confusing 'In' vs. 'On'",
+          "mistake": "Using 'in' for surfaces or 'on' for enclosed spaces.",
+          "correction": "Remember 'in' is for inside a 3D space (in the car, in the room) and 'on' is for a 2D surface (on the floor, on the page).",
+          "example_mistake": "WRONG: The poster is in the wall.",
+          "example_correction": "RIGHT: The poster is on the wall."
+        },
+        "comparison_note": {
+          "title": "'In front of' vs. 'Opposite'",
+          "comparison": "'In front of' means something is positioned ahead of another. 'Opposite' means two things are facing each other, often with a space like a street or table between them.",
+          "example_A": "The teacher stands in front of the students. (The teacher is ahead of them).",
+          "example_B": "My house is opposite the park. (My house and the park are on different sides of the street, facing each other)."
+        },
+        "pro_tip": {
+          "title": "Using 'At'",
+          "tip": "Use 'at' to talk about a specific point or general location, rather than inside or on a surface. For example, 'I am at the bus stop', 'Let's meet at the corner', or 'He is at home'."
+        }
+      }
+    },
+    {
+      "grammar_id": "gram_2_002",
+      "topic": "There is / There are",
+      "subtopic": "Describing Existence",
+      "description": "Used to state the existence or presence of a person or thing in a particular place.",
+      "structure": "There + to be (is/are) + Noun Phrase",
+      "rules": [
+        "Use 'There is' (or 'There's') with singular and uncountable nouns (e.g., a book, some water).",
+        "Use 'There are' with plural nouns (e.g., two chairs, many people).",
+        "In questions, invert the verb and 'there': 'Is there...?' / 'Are there...?'.",
+        "For negative statements, use 'isn't' or 'aren't': 'There isn't a cat.' / 'There aren't any dogs.'",
+        "The verb 'to be' agrees with the noun that immediately follows it, even in a list."
+      ],
+      "difficulty_level": 1,
+      "lesson_introduced": 1,
+      "unit_number": 2,
+      "examples": [
+        {
+          "sentence": "There is a vase on the table.",
+          "translation": "Có một lọ hoa ở trên bàn.",
+          "audio_url": "/audio/grammar/there_is_1.mp3"
+        },
+        {
+          "sentence": "There are two pillows on the bed.",
+          "translation": "Có hai cái gối ở trên giường.",
+          "audio_url": "/audio/grammar/there_are_1.mp3"
+        },
+        {
+          "sentence": "Is there a dishwasher in the kitchen?",
+          "translation": "Có một máy rửa bát đĩa ở trong bếp phải không?",
+          "audio_url": "/audio/grammar/there_is_q1.mp3"
+        },
+        {
+          "sentence": "There is a book and two pencils in her bag.",
+          "translation": "Có một cuốn sách và hai cây bút chì trong cặp của cô ấy.",
+          "audio_url": "/audio/grammar/there_is_list.mp3"
+        }
+      ],
+      "enriched_context": {
+        "common_mistake": {
+          "title": "Verb Agreement in a List",
+          "mistake": "Using 'are' just because there are multiple items in total in a list.",
+          "correction": "The verb must agree with the FIRST noun in the list. This is a very common point of confusion for learners.",
+          "example_mistake": "WRONG: There are a book and two pencils in her bag.",
+          "example_correction": "RIGHT: There is a book and two pencils in her bag."
+        },
+        "comparison_note": {
+          "title": "'There is' vs. 'It is'",
+          "comparison": "'There is' introduces something new to the listener for the first time. 'It is' (or 'They are') gives more information about something we already know exists.",
+          "example_A": "Look! There is a new café on our street. (Introducing the café).",
+          "example_B": "It is very modern and sells great coffee. (Describing the café we just introduced)."
+        },
+        "pro_tip": {
+          "title": "Contractions in Spoken English",
+          "tip": "In natural, informal speech, 'There is' is almost always contracted to 'There's'. You will very often hear native speakers say 'There's two cars outside' or 'There's some cookies in the kitchen', even though 'There are' is grammatically correct for written English. This is important for listening comprehension."
+        }
+      }
+    }
+  ]
+}

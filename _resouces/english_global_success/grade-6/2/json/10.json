@@ -1,0 +1,91 @@
+{
+  "writing_lessons": [
+    {
+      "lesson_id": "write_2_001",
+      "unit_number": 2,
+      "title": "Describing Your House",
+      "writing_prompt": {
+        "instruction": "Write a short paragraph (40-60 words) to describe your house.",
+        "cue_questions": [
+          "What type of house do you live in?",
+          "How many rooms are there in your house? What are they?",
+          "What is outside your house?"
+        ]
+      },
+      "model_text": "I live with my parents and elder sister in a beautiful villa. My house is quite large with eight rooms: a living room, a kitchen, three bedrooms and three bathrooms. My parents like plants so we have a large and beautiful garden behind my house. There is also a garage in front of my house. I love my house so much!",
+      "enriched_lesson_plan": {
+        "pre_writing_activities": {
+          "title": "Step 1: Planning Your Paragraph",
+          "model_text_analysis": [
+            "Read the model text. How does the author start the paragraph?",
+            "List the adjectives used in the model text (e.g., beautiful, large).",
+            "Which sentence concludes the paragraph and expresses the author's feelings?"
+          ],
+          "brainstorming_guide": {
+            "instruction": "Before you write, fill out these notes about your own house:",
+            "fields": [
+              {
+                "prompt": "Type of my house:",
+                "placeholder": "e.g., apartment, town house, villa..."
+              },
+              {
+                "prompt": "Number of rooms and names:",
+                "placeholder": "e.g., 4 rooms: a living room, a kitchen..."
+              },
+              {
+                "prompt": "Features outside:",
+                "placeholder": "e.g., a small balcony, a yard, a garden..."
+              },
+              {
+                "prompt": "One special thing I love:",
+                "placeholder": "e.g., the big window in my bedroom..."
+              }
+            ]
+          },
+          "writers_toolkit": {
+            "title": "Useful Vocabulary & Structures",
+            "descriptive_adjectives": [
+              "cozy",
+              "spacious",
+              "modern",
+              "traditional",
+              "bright",
+              "comfortable"
+            ],
+            "sentence_starters": [
+              "My family and I live in a...",
+              "My house has...",
+              "The best thing about my house is...",
+              "Outside, you can see..."
+            ]
+          }
+        },
+        "drafting_stage": {
+          "title": "Step 2: Writing Your First Draft",
+          "instruction": "Use your notes from the brainstorming guide to write your paragraph. Remember to keep it between 40 and 60 words.",
+          "self_check_list": [
+            "Did I answer all three cue questions?",
+            "Did I use 'There is' for one thing and 'There are' for many things correctly?",
+            "Did I use at least two adjectives from the toolkit?"
+          ]
+        },
+        "post_writing_activities": {
+          "title": "Step 3: Improving Your Writing",
+          "revision_prompts": [
+            "Read your paragraph again. Can you add one more detail to make it more interesting?",
+            "Find a 'basic' word like 'big' or 'nice' and replace it with a more descriptive word from the toolkit.",
+            "Read your paragraph aloud. Does it sound natural and flow well?"
+          ],
+          "peer_review_checklist": {
+            "instruction": "Share your paragraph with a partner. Give them feedback using these questions:",
+            "questions": [
+              "What is one thing you really liked about your partner's description?",
+              "Can you easily picture the house from their writing?",
+              "Is there any part that is confusing or could be clearer?"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+tôi sẽ phải chuẩn bị giáo án bằng các webpage tương tác trên screen để share cho học sinh của tôi (chúng tôi học online qua Google Meet). hiện tại là tôi đang dạy gia sư, nên chỉ có 1 học sinh và 1 thầy giáo là tôi.
+trước đây, mỗi buổi, tôi cần chuẩn bị:
+1. lý thuyết cho buổi đó -> tôi cần tìm cách truyền tải lý thuyết đó 1 cách trực quan trên màn hình webpage để học sinh chép dễ dàng, nhưng cũng cần nhớ dễ dàng khi nhìn vào với animation nhẹ
+2. bài tập vận dụng dựa vào giáo trình trong từng unit sẽ cần phải được tạo ra, gửi page đó cho học sinh để bạn đó vào làm. nhưng đó là layout của học sinh, tôi sẽ cần chấm điểm được qua 1 giao diện của teacher.
+3. tạo ra các games cho mỗi buổi học theo từng bài học:
+- vocab thì chơi gì
+- grammar thì chơi gì
+- reading thì chơi gì
+- writing thì chơi gì
+- listening thì chơi gì
+- ...
+Mỗi game thiết kế ra cần có nhiều level, để kích thích khả năng chinh phục của học sinh. Tôi toàn tạo ra các mức: easy, medium, hard, expert, nightmare, hell
+4. sau đó là bài tập về nhà
+5. tôi cần export được các bài mà học sinh đã làm, tình trạng làm, số điểm để phụ huynh dễ dàng theo dõi. tốt nhất là PDF có hiển thị bài làm của học sinh, kèm feedback từ tôi, điểm.
+
+Bạn còn gì thắc mắc không? không thì hãy bắt đầu với buổi từ vựng unit 2
+
+===========
+
+tôi muốn sử dụng database schema và data từ database thực, thay vì dùng fake data như currently bạn đang làm.
+và sau này, tôi muốn chỉ dựa vào các từ trong database và truỳene vào từng game là sẽ chạy được, thay vì hardcoded, sau này lại phải sửa. rất mệt.
+
+bạn đã design game gì? phaser không có default `Phaser` export thì phải use context7 use serena
+
+===========
+
+
+You need to double check each game in `unit2/vocabulary#games`, i see it blink blink and, it's better to open a new tab for each game for separation. I chose game types, difficulty and start -> should be a new tab. 
+page `unit2/student-exercises` is very simple:
+- work matching -> it's very easy, it should be a game with multiple choice questions, not just match words.
+- fill in the blank -> same as above
+- pronunciation -> record and play is not working
+
+Now we need to improve each game, make them more interactive, funnier, easier to understand. Let's start with `typing game`.
+currently, it looks poor and boring, let's add some animations, sounds, colors, etc. to make it look better.
+
+
+
+vì phát triển game bằng phaser sẽ rất mất thời gian và cần tỉ mỉ. Nên tôi sẽ không triển khai nó nữa. Hãy disable toàn bộ phần làm game. 
+Instead of that, tôi sẽ focus vào các slide bài học, các game xây dựng bằng chính webpage.
+Ngoài ra, tôi sẽ xóa đi phần code của game cũ, để tránh gây nhầm lẫn cho người khác. Dọn dẹp việc các game engine đang triển khai. Tôi 
+
+Tôi cần focus vào việc tạo ra flow của việc tạo ra các bài học thay vì game. tạm thời skip toàn bộ việc tạo game. focus toàn bộ vào việc tạo ra các bài học để tôi dạy học trước. 
+các bài học hiện tại đang rất ít câu hỏi, ví dụ các từ vựng, bài 2 có hơn 20 từ, nhưng khi tạo tài liệu dạy online, nó chỉ show có 3 từ, tìm hiểu lý do và triển khai việc dạy vocab (dựa vào dữ liệu database, thay vì mock nhé, không slice bớt)
+use serena
+
+rà soát toàn bộ các flow trong các page liên quan trong expenses.
+
+
+tiếp tục với game word fall
+nhưng cần chú ý, build kiểu reusable, sau này tôi có thể triển khai cho các lớp, cũng như unit khác nữa.
+use serena
+
+Stop improving games. We move to `student-exercises`, that's the most important part now.
+Điều tra các dữ liệu hiện có của từng phần trong database của từng unit, rồi thiết kế lại các game phù hợp với từng phần trong unit.
+Bắt đầu với 1 phần đầu tiên.

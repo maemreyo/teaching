@@ -1,0 +1,945 @@
+{
+  "vocabulary": [
+    {
+      "word_id": "vocab_2_001",
+      "word": "air-conditioner",
+      "word_type": "noun",
+      "pronunciation_ipa": "/ˈeə kəndɪʃənə(r)/",
+      "meaning_vietnamese": "điều hòa nhiệt độ",
+      "definition_english": "A machine that cools and dries the air in a room or building.",
+      "frequency_rank": "medium",
+      "word_family": ["condition", "air-conditioning"],
+      "synonyms": ["AC", "air-con", "cooling unit"],
+      "collocations": ["turn on the air-conditioner", "install an air-conditioner", "broken air-conditioner"],
+      "tags": ["home", "appliances", "objects", "noun"],
+      "lesson_introduced": 1,
+      "difficulty_level": 2,
+      "unit_number": 2,
+      "examples": [
+        {
+          "sentence": "There is an air-conditioner in my bedroom.",
+          "translation": "Có một cái điều hòa nhiệt độ trong phòng ngủ của tôi.",
+          "audio_url": "/audio/sentences/air-conditioner_1.mp3"
+        }
+      ],
+      "enriched_learning": {
+        "common_mistake": {
+          "mistake": "Sử dụng 'air-condition' như một danh từ.",
+          "correction": "'Air-condition' là động từ. Danh từ chỉ cái máy là 'air-conditioner'. Hệ thống làm mát là 'air-conditioning'.",
+          "example_mistake": "SAI: My room has a new air-condition.",
+          "example_correction": "ĐÚNG: My room has a new air-conditioner."
+        },
+        "context_corner": {
+          "title": "Dạng viết tắt",
+          "note": "Trong giao tiếp thông thường, người ta thường rút ngắn 'air-conditioner' thành 'AC' (phát âm là 'ây-xi') hoặc 'air-con'. Ví dụ: 'It's so hot! Please turn on the AC.'"
+        },
+        "memory_aid": {
+          "title": "Liên tưởng âm thanh",
+          "idea": "Hãy nghĩ về 'air' (không khí) làm cho 'condition' (tình trạng) của bạn tốt hơn khi trời nóng. Cái máy làm việc này là 'air-conditioner'."
+        }
+      }
+    },
+    {
+      "word_id": "vocab_2_002",
+      "word": "apartment",
+      "word_type": "noun",
+      "pronunciation_ipa": "/əˈpɑːtmənt/",
+      "meaning_vietnamese": "căn hộ",
+      "definition_english": "A set of rooms for living in, especially on one floor of a building.",
+      "frequency_rank": "high",
+      "word_family": [],
+      "synonyms": ["flat", "unit", "residence"],
+      "collocations": ["live in an apartment", "rent an apartment", "apartment building"],
+      "tags": ["home", "places", "building", "noun"],
+      "lesson_introduced": 1,
+      "difficulty_level": 1,
+      "unit_number": 2,
+      "examples": [
+        {
+          "sentence": "We are going to move to a new apartment next week.",
+          "translation": "Chúng tôi sẽ chuyển đến một căn hộ mới vào tuần tới.",
+          "audio_url": "/audio/sentences/apartment_1.mp3"
+        }
+      ],
+      "enriched_learning": {
+        "common_mistake": {
+          "mistake": "Nhầm lẫn giữa 'apartment' (tiếng Anh-Mỹ) và 'flat' (tiếng Anh-Anh).",
+          "correction": "Cả hai từ đều có nghĩa giống nhau. 'Apartment' phổ biến hơn ở Bắc Mỹ, trong khi 'flat' là từ chuẩn ở Anh.",
+          "example_mistake": "Không phải là lỗi, mà là sự khác biệt vùng miền. 'I live in a lovely flat in London.' so với 'I live in a lovely apartment in New York.'",
+          "example_correction": "Cả hai đều đúng trong khu vực tương ứng."
+        },
+        "context_corner": {
+          "title": "Apartment vs. House",
+          "note": "'Apartment' là một đơn vị nhà ở riêng lẻ trong một tòa nhà lớn chứa nhiều căn hộ khác. 'House' là một tòa nhà độc lập nơi một gia đình thường sinh sống."
+        },
+        "memory_aid": {
+          "title": "Các phần của từ",
+          "idea": "Hãy nghĩ về một căn hộ là 'a part' (một phần) của một tòa nhà lớn hơn. A-PART-ment."
+        }
+      }
+    },
+    {
+      "word_id": "vocab_2_003",
+      "word": "bathroom",
+      "word_type": "noun",
+      "pronunciation_ipa": "/ˈbɑːθruːm/",
+      "meaning_vietnamese": "phòng tắm",
+      "definition_english": "A room containing a toilet and a bath or shower and typically a washbasin.",
+      "frequency_rank": "high",
+      "word_family": ["bath", "bathe"],
+      "synonyms": ["restroom", "washroom", "toilet"],
+      "collocations": ["go to the bathroom", "clean the bathroom", "master bathroom"],
+      "tags": ["home", "rooms", "noun"],
+      "lesson_introduced": 1,
+      "difficulty_level": 1,
+      "unit_number": 2,
+      "examples": [
+        {
+          "sentence": "There are two bathrooms on the second floor.",
+          "translation": "Có hai phòng tắm ở trên tầng hai.",
+          "audio_url": "/audio/sentences/bathroom_1.mp3"
+        }
+      ],
+      "enriched_learning": {
+        "common_mistake": {
+          "mistake": "Sử dụng 'bathroom' khi bạn chỉ muốn nói đến 'toilet' (nhà vệ sinh).",
+          "correction": "Trong nhà, 'bathroom' là đúng vì nó thường có cả toilet, bồn rửa và vòi sen/bồn tắm. Ở nơi công cộng, 'restroom' (Mỹ) hoặc 'toilet' (Anh) là những cách phổ biến và lịch sự hơn để hỏi nhà vệ sinh ở đâu.",
+          "example_mistake": "Hỏi trong nhà hàng: 'Where is your bathroom?' (có thể nghe hơi thẳng thừng).",
+          "example_correction": "Nên hỏi: 'Excuse me, where is the restroom?'"
+        },
+        "context_corner": {
+          "title": "Cách nói giảm nói tránh lịch sự",
+          "note": "'May I use your bathroom?' là một cách lịch sự để xin phép dùng nhà vệ sinh trong nhà của ai đó. Đó là một cụm từ nhẹ nhàng và gián tiếp hơn."
+        },
+        "memory_aid": {
+          "title": "Kết hợp đơn giản",
+          "idea": "Đó là 'room' (căn phòng) nơi bạn 'bath' (tắm). Bath + Room = Bathroom."
+        }
+      }
+    },
+    {
+      "word_id": "vocab_2_004",
+      "word": "behind",
+      "word_type": "preposition",
+      "pronunciation_ipa": "/bɪˈhaɪnd/",
+      "meaning_vietnamese": "ở phía sau, đằng sau",
+      "definition_english": "At or to the far side or back of something.",
+      "frequency_rank": "high",
+      "word_family": [],
+      "synonyms": ["after", "at the back of"],
+      "collocations": ["fall behind", "look behind", "behind the door"],
+      "tags": ["location", "preposition"],
+      "lesson_introduced": 1,
+      "difficulty_level": 1,
+      "unit_number": 2,
+      "examples": [
+        {
+          "sentence": "The dog is behind the bookshelf.",
+          "translation": "Con chó nằm ở phía sau kệ sách.",
+          "audio_url": "/audio/sentences/behind_1.mp3"
+        }
+      ],
+      "enriched_learning": {
+        "common_mistake": {
+          "mistake": "Nhầm lẫn giữa 'behind' và 'in back of'.",
+          "correction": "'Behind' phổ biến và linh hoạt hơn. 'In back of' được dùng trong tiếng Anh-Mỹ nhưng đôi khi bị coi là kém trang trọng hoặc kém chuẩn hơn 'behind'.",
+          "example_mistake": "Đây không phải là một lỗi nghiêm ngặt, nhưng 'behind' thường là lựa chọn tốt hơn.",
+          "example_correction": "NÊN DÙNG: 'The garden is behind the house.' thay vì 'The garden is in back of the house.'"
+        },
+        "context_corner": {
+          "title": "Nghĩa trừu tượng",
+          "note": "'Behind' cũng có thể có nghĩa là 'muộn' hoặc 'không theo kịp tiến độ', như trong 'I am behind on my work.' Nó cũng có thể có nghĩa là 'lý do đằng sau một cái gì đó', như trong 'What's the story behind this decision?'"
+        },
+        "memory_aid": {
+          "title": "Vần điệu hành động",
+          "idea": "Để 'find' (tìm) thứ bạn đang tìm, đôi khi bạn phải nhìn 'behind' (phía sau)."
+        }
+      }
+    },
+    {
+      "word_id": "vocab_2_005",
+      "word": "between",
+      "word_type": "preposition",
+      "pronunciation_ipa": "/bɪˈtwiːn/",
+      "meaning_vietnamese": "ở giữa",
+      "definition_english": "In or into the space separating two objects, people, or places.",
+      "frequency_rank": "high",
+      "word_family": [],
+      "synonyms": ["in the middle of", "amid"],
+      "collocations": ["between you and me", "choose between", "somewhere between"],
+      "tags": ["location", "preposition"],
+      "lesson_introduced": 1,
+      "difficulty_level": 1,
+      "unit_number": 2,
+      "examples": [
+        {
+          "sentence": "Her house is between the hospital and the post office.",
+          "translation": "Nhà cô ấy nằm giữa bệnh viện và bưu điện.",
+          "audio_url": "/audio/sentences/between_1.mp3"
+        }
+      ],
+      "enriched_learning": {
+        "common_mistake": {
+          "mistake": "Sử dụng 'between' cho nhiều hơn hai đối tượng.",
+          "correction": "Theo truyền thống, 'between' được dùng cho hai đối tượng, và 'among' được dùng cho ba đối tượng trở lên. Tuy nhiên, có thể chấp nhận dùng 'between' cho nhiều hơn hai đối tượng nếu bạn đang nói về các đối tượng riêng biệt, khác biệt.",
+          "example_mistake": "A discussion was held among the three departments. (Đúng)",
+          "example_correction": "A treaty was signed between the four countries. (Cũng đúng, vì các quốc gia là những thực thể cụ thể, riêng biệt)."
+        },
+        "context_corner": {
+          "title": "Kết nối hai điểm",
+          "note": "'Between' không chỉ được dùng cho không gian, mà còn cho thời gian ('between 3 PM and 5 PM'), con số ('between 10 and 20'), và mối quan hệ ('a bond between a mother and child')."
+        },
+        "memory_aid": {
+          "title": "Gợi ý hình ảnh",
+          "idea": "Hãy nhìn vào từ: be-TWEE-n. Chữ 'T' trông giống như một cây cột, và từ này được cân bằng 'giữa' hai chữ 'e' ở hai bên. Nó ở giữa hai thứ."
+        }
+      }
+    },
+    {
+      "word_id": "vocab_2_006",
+      "word": "chest of drawers",
+      "word_type": "noun",
+      "pronunciation_ipa": "/ˌtʃest əv ˈdrɔːz/",
+      "meaning_vietnamese": "tủ có ngăn kéo",
+      "definition_english": "A piece of furniture consisting of a set of drawers in a frame, used for storing clothes.",
+      "frequency_rank": "low",
+      "word_family": [],
+      "synonyms": ["dresser", "bureau", "chest"],
+      "collocations": ["wooden chest of drawers", "in the chest of drawers"],
+      "tags": ["home", "furniture", "objects", "noun"],
+      "lesson_introduced": 1,
+      "difficulty_level": 3,
+      "unit_number": 2,
+      "examples": [
+        {
+          "sentence": "Your gloves are in the white box in the chest of drawers.",
+          "translation": "Găng tay của bạn nằm trong hộp màu trắng trong tủ có ngăn kéo.",
+          "audio_url": "/audio/sentences/chest-of-drawers_1.mp3"
+        }
+      ],
+      "enriched_learning": {
+        "common_mistake": {
+          "mistake": "Phát âm sai từ 'drawers'.",
+          "correction": "Âm 'er' trong 'drawers' thường bị nuốt hoặc giảm đi trong giao tiếp tự nhiên. Nó nghe giống như 'drawz' (/drɔːz/).",
+          "example_mistake": "Phát âm thành 'draw-ers'.",
+          "example_correction": "Phát âm mượt mà thành /drɔːz/."
+        },
+        "context_corner": {
+          "title": "Dresser vs. Chest of Drawers",
+          "note": "Trong tiếng Anh-Mỹ, 'dresser' phổ biến hơn và thường có gương đi kèm. 'Chest of drawers' thường cao và hẹp hơn mà không có gương. Trong tiếng Anh-Anh, 'chest of drawers' là thuật ngữ tiêu chuẩn."
+        },
+        "memory_aid": {
+          "title": "Hình dung nó!",
+          "idea": "Hãy tưởng tượng một 'chest' (rương) kho báu lớn không chứa đầy vàng, mà chứa đầy 'drawers' (ngăn kéo) để đựng quần áo của bạn."
+        }
+      }
+    },
+    {
+      "word_id": "vocab_2_007",
+      "word": "crazy",
+      "word_type": "adjective",
+      "pronunciation_ipa": "/ˈkreɪzi/",
+      "meaning_vietnamese": "kì dị, lạ thường",
+      "definition_english": "Very unusual or strange; not sensible.",
+      "frequency_rank": "medium",
+      "word_family": ["craziness"],
+      "synonyms": ["insane", "mad", "weird", "bizarre"],
+      "collocations": ["go crazy", "drive someone crazy", "a crazy idea"],
+      "tags": ["adjective", "personality", "informal"],
+      "lesson_introduced": 1,
+      "difficulty_level": 2,
+      "unit_number": 2,
+      "examples": [
+        {
+          "sentence": "This is a crazy house.",
+          "translation": "Đây là một ngôi nhà kỳ dị.",
+          "audio_url": "/audio/sentences/crazy_1.mp3"
+        }
+      ],
+      "enriched_learning": {
+        "common_mistake": {
+          "mistake": "Lạm dụng 'crazy' với nghĩa 'rất tốt' hoặc 'ngầu'.",
+          "correction": "Mặc dù có thể được sử dụng một cách không trang trọng để thể hiện sự nhiệt tình (ví dụ: 'The concert was crazy!'), nghĩa chính của nó vẫn là kỳ lạ, điên rồ hoặc mất kiểm soát. Hãy cẩn thận với ngữ cảnh.",
+          "example_mistake": "Dùng trong ngữ cảnh trang trọng: 'The president's speech was crazy.' (Không phù hợp)",
+          "example_correction": "Dùng trong ngữ cảnh không trang trọng: 'That new video game is crazy good!'"
+        },
+        "context_corner": {
+          "title": "Nghĩa tích cực và tiêu cực",
+          "note": "'Crazy' có thể mang nghĩa tiêu cực (He has a crazy look in his eyes) hoặc tích cực, tùy thuộc vào ngữ điệu và ngữ cảnh (She's crazy about him)."
+        },
+        "memory_aid": {
+          "title": "Liên tưởng hình ảnh",
+          "idea": "Hãy tưởng tượng một con vật đang làm những hành động rất 'kỳ dị' và không thể đoán trước được. Hành động đó thật 'crazy'."
+        }
+      }
+    },
+    {
+      "word_id": "vocab_2_008",
+      "word": "cupboard",
+      "word_type": "noun",
+      "pronunciation_ipa": "/ˈkʌbəd/",
+      "meaning_vietnamese": "tủ ly, tủ bát",
+      "definition_english": "A piece of furniture or a small recess with a door and shelves, used for storage.",
+      "frequency_rank": "medium",
+      "word_family": [],
+      "synonyms": ["cabinet", "closet"],
+      "collocations": ["kitchen cupboard", "open the cupboard", "top cupboard"],
+      "tags": ["home", "furniture", "objects", "noun"],
+      "lesson_introduced": 1,
+      "difficulty_level": 2,
+      "unit_number": 2,
+      "examples": [
+        {
+          "sentence": "There is a large cupboard in the kitchen.",
+          "translation": "Có một chiếc tủ ly lớn trong nhà bếp.",
+          "audio_url": "/audio/sentences/cupboard_1.mp3"
+        }
+      ],
+      "enriched_learning": {
+        "common_mistake": {
+          "mistake": "Phát âm rõ chữ 'p' và 'board'.",
+          "correction": "Cách phát âm của từ này khá đặc biệt! Chữ 'p' là âm câm và 'board' nghe giống như 'bird'. Nó được phát âm là 'cub-bird' /ˈkʌbəd/.",
+          "example_mistake": "Phát âm thành 'cup-board'.",
+          "example_correction": "Phát âm thành /ˈkʌbəd/."
+        },
+        "context_corner": {
+          "title": "Cupboard vs. Cabinet",
+          "note": "Hai từ này rất giống nhau. 'Cupboard' thường được dùng cho nơi chứa đồ trong bếp để đựng cốc, đĩa và thức ăn. 'Cabinet' cũng có thể được dùng trong nhà bếp, nhưng còn dùng để trưng bày đồ vật (a display cabinet) hoặc đựng hồ sơ (a filing cabinet)."
+        },
+        "memory_aid": {
+          "title": "Câu chuyện nguồn gốc",
+          "idea": "Ban đầu, nó là một 'board' (cái kệ) để đặt 'cups' (những cái cốc) lên. Theo thời gian, cửa được thêm vào và nó trở thành 'cupboard' mà chúng ta biết ngày nay. Ghi nhớ nguồn gốc giúp cho việc đánh vần."
+        }
+      }
+    },
+    {
+      "word_id": "vocab_2_009",
+      "word": "department store",
+      "word_type": "noun",
+      "pronunciation_ipa": "/dɪˈpɑːtmənt stɔː(r)/",
+      "meaning_vietnamese": "cửa hàng bách hóa",
+      "definition_english": "A large shop divided into several different parts, each selling different types of goods.",
+      "frequency_rank": "medium",
+      "word_family": ["department"],
+      "synonyms": ["emporium"],
+      "collocations": ["shop at a department store", "luxury department store"],
+      "tags": ["shopping", "places", "noun"],
+      "lesson_introduced": 1,
+      "difficulty_level": 2,
+      "unit_number": 2,
+      "examples": [
+        {
+          "sentence": "Is there a department store near your house?",
+          "translation": "Có cửa hàng bách hóa nào gần nhà bạn không?",
+          "audio_url": "/audio/sentences/department-store_1.mp3"
+        }
+      ],
+      "enriched_learning": {
+        "common_mistake": {
+          "mistake": "Nhầm lẫn với 'supermarket' (siêu thị).",
+          "correction": "Một 'supermarket' chủ yếu bán thực phẩm. Một 'department store' bán nhiều loại hàng hóa khác nhau như quần áo, đồ điện tử, đồ nội thất, mỹ phẩm, v.v.",
+          "example_mistake": "WRONG: I bought a new TV at the supermarket.",
+          "example_correction": "RIGHT: I bought a new TV at the department store."
+        },
+        "context_corner": {
+          "title": "Ví dụ thực tế",
+          "note": "Hãy nghĩ đến các trung tâm thương mại lớn như Vincom Center, Diamond Plaza, hoặc Lotte Department Store. Đây là những ví dụ điển hình về 'department stores'."
+        },
+        "memory_aid": {
+          "title": "Các phần của từ",
+          "idea": "Đó là một 'store' (cửa hàng) có nhiều 'departments' (gian hàng/khu vực) khác nhau (ví dụ: khu vực giày dép, khu vực đồ chơi)."
+        }
+      }
+    },
+    {
+      "word_id": "vocab_2_010",
+      "word": "dishwasher",
+      "word_type": "noun",
+      "pronunciation_ipa": "/ˈdɪʃwɒʃə(r)/",
+      "meaning_vietnamese": "máy rửa bát đĩa",
+      "definition_english": "A machine for washing dishes automatically.",
+      "frequency_rank": "medium",
+      "word_family": ["wash", "dish"],
+      "synonyms": ["dishwashing machine"],
+      "collocations": ["load the dishwasher", "empty the dishwasher", "run the dishwasher"],
+      "tags": ["home", "appliances", "objects", "noun", "kitchen"],
+      "lesson_introduced": 1,
+      "difficulty_level": 2,
+      "unit_number": 2,
+      "examples": [
+        {
+          "sentence": "We bought a dishwasher to make life easier.",
+          "translation": "Chúng tôi đã mua một chiếc máy rửa bát đĩa để làm cho cuộc sống dễ dàng hơn.",
+          "audio_url": "/audio/sentences/dishwasher_1.mp3"
+        },
+        {
+          "sentence": "Is there a dishwasher in the kitchen?",
+          "translation": "Có một máy rửa bát đĩa ở trong bếp phải không?",
+          "audio_url": "/audio/sentences/dishwasher_2.mp3"
+        }
+      ],
+      "enriched_learning": {
+        "common_mistake": {
+          "mistake": "Nhầm lẫn giữa máy móc và con người.",
+          "correction": "Trong khi 'dishwasher' là một cái máy, thuật ngữ này cũng có thể chỉ một người có công việc là rửa bát đĩa trong nhà hàng. Ngữ cảnh sẽ làm rõ ý nghĩa.",
+          "example_mistake": "Không phải là lỗi, mà là một điểm mơ hồ. 'The dishwasher is broken.' (Cái máy). 'The restaurant is hiring a new dishwasher.' (Con người).",
+          "example_correction": "Ngữ cảnh là yếu tố quyết định."
+        },
+        "context_corner": {
+          "title": "Các động từ thông dụng",
+          "note": "Bạn không 'use' một cái máy rửa bát. Các động từ phổ biến là 'load' (cho bát đĩa bẩn vào), 'run' hoặc 'turn on' (khởi động nó), và 'empty' (lấy bát đĩa sạch ra)."
+        },
+        "memory_aid": {
+          "title": "Kết hợp đơn giản",
+          "idea": "Đó là một cái máy 'washes' (rửa) những cái 'dishes' (bát đĩa). Dish + Washer = Dishwasher."
+        }
+      }
+    },
+    {
+      "word_id": "vocab_2_011",
+      "word": "fridge",
+      "word_type": "noun",
+      "pronunciation_ipa": "/frɪdʒ/",
+      "meaning_vietnamese": "tủ lạnh",
+      "definition_english": "A large piece of kitchen equipment that uses electricity to preserve food at a cold temperature.",
+      "frequency_rank": "high",
+      "word_family": ["refrigerate", "refrigerator"],
+      "synonyms": ["refrigerator", "icebox"],
+      "collocations": ["open the fridge", "get something from the fridge", "fridge magnet"],
+      "tags": ["home", "appliances", "objects", "noun", "kitchen"],
+      "lesson_introduced": 1,
+      "difficulty_level": 1,
+      "unit_number": 2,
+      "examples": [
+        {
+          "sentence": "Milk keeps much longer in a fridge.",
+          "translation": "Sữa giữ được lâu hơn khi để trong tủ lạnh.",
+          "audio_url": "/audio/sentences/fridge_1.mp3"
+        }
+      ],
+      "enriched_learning": {
+        "common_mistake": {
+          "mistake": "Đánh vần 'fridge' có chữ 'd' nhưng 'refrigerator' thì không.",
+          "correction": "Đây là một lỗi chính tả rất phổ biến. Từ ngắn 'fridge' có chữ 'd'. Từ dài 'refrigerator' thì không có.",
+          "example_mistake": "SAI: I bought a new frige.",
+          "example_correction": "ĐÚNG: I bought a new fridge."
+        },
+        "context_corner": {
+          "title": "Trang trọng vs. Thân mật",
+          "note": "'Fridge' là từ thông dụng, hàng ngày. 'Refrigerator' là thuật ngữ đầy đủ, trang trọng và kỹ thuật hơn. Bạn sẽ thấy 'refrigerator' trong sách hướng dẫn và cửa hàng, nhưng mọi người hầu như luôn nói 'fridge' khi nói chuyện."
+        },
+        "memory_aid": {
+          "title": "Liên tưởng chính tả",
+          "idea": "Hãy tưởng tượng một cái 'bridge' (cây cầu) bên trong 'fridge' (tủ lạnh) của bạn để đi đến thức ăn ở phía sau. Cả 'bridge' và 'fridge' đều có đuôi 'd-g-e'."
+        }
+      }
+    },
+    {
+      "word_id": "vocab_2_012",
+      "word": "furniture",
+      "word_type": "noun",
+      "pronunciation_ipa": "/ˈfɜːnɪtʃə(r)/",
+      "meaning_vietnamese": "đồ đạc trong nhà, đồ nội thất",
+      "definition_english": "Large movable equipment, such as tables and chairs, used to make a house or office suitable for living or working.",
+      "frequency_rank": "high",
+      "word_family": ["furnish", "furnished", "unfurnished"],
+      "synonyms": ["furnishings", "possessions", "household goods"],
+      "collocations": ["buy furniture", "piece of furniture", "antique furniture"],
+      "tags": ["home", "objects", "noun", "uncountable"],
+      "lesson_introduced": 1,
+      "difficulty_level": 2,
+      "unit_number": 2,
+      "examples": [
+        {
+          "sentence": "You should buy some new furniture for your apartment.",
+          "translation": "Bạn nên mua một số đồ nội thất mới cho căn hộ của mình.",
+          "audio_url": "/audio/sentences/furniture_1.mp3"
+        }
+      ],
+      "enriched_learning": {
+        "common_mistake": {
+          "mistake": "Sử dụng 'furnitures' với đuôi 's'.",
+          "correction": "'Furniture' là một danh từ không đếm được. Nó không có dạng số nhiều. Để đếm nó, bạn nói 'a piece of furniture' (một món đồ nội thất) hoặc 'some items of furniture' (một vài món đồ nội thất).",
+          "example_mistake": "SAI: My mom bought many new furnitures.",
+          "example_correction": "ĐÚNG: My mom bought a lot of new furniture."
+        },
+        "context_corner": {
+          "title": "Chung vs. Cụ thể",
+          "note": "Sử dụng 'furniture' như một danh mục chung. Khi bạn muốn nói về các món đồ cụ thể, hãy sử dụng tên của chúng như 'table', 'chair', 'sofa', 'bed', v.v."
+        },
+        "memory_aid": {
+          "title": "Hình dung nó!",
+          "idea": "Hãy tưởng tượng một chiếc áo khoác 'FUR' (lông thú) trên mỗi món đồ furni'TURE' trong nhà bạn để nhớ từ này. Hình ảnh này rất vui và dễ nhớ."
+        }
+      }
+    },
+    {
+      "word_id": "vocab_2_013",
+      "word": "hall",
+      "word_type": "noun",
+      "pronunciation_ipa": "/hɔːl/",
+      "meaning_vietnamese": "hành lang, sảnh",
+      "definition_english": "A space or passage inside the entrance of a house or building.",
+      "frequency_rank": "high",
+      "word_family": ["hallway"],
+      "synonyms": ["corridor", "passage", "lobby"],
+      "collocations": ["down the hall", "entrance hall", "concert hall"],
+      "tags": ["home", "rooms", "noun", "places"],
+      "lesson_introduced": 1,
+      "difficulty_level": 1,
+      "unit_number": 2,
+      "examples": [
+        {
+          "sentence": "She ran into the hall and up the stairs.",
+          "translation": "Cô ấy chạy vào sảnh và đi lên cầu thang.",
+          "audio_url": "/audio/sentences/hall_1.mp3"
+        }
+      ],
+      "enriched_learning": {
+        "common_mistake": {
+          "mistake": "Nhầm lẫn giữa 'hall' (hành lang) và 'hall' (hội trường lớn).",
+          "correction": "Từ 'hall' có thể có nhiều nghĩa. Trong một ngôi nhà, nó thường có nghĩa là hành lang hoặc sảnh (còn gọi là 'hallway'). Nó cũng có thể chỉ một căn phòng rất lớn dành cho các sự kiện, ví dụ như 'concert hall' (phòng hòa nhạc) hoặc 'town hall' (tòa thị chính).",
+          "example_mistake": "Không phải lỗi, nhưng cần chú ý ngữ cảnh.",
+          "example_correction": "'My room is at the end of the hall.' (Phòng của tôi ở cuối hành lang.) vs 'The meeting is in the main hall.' (Cuộc họp ở trong hội trường chính.)"
+        },
+        "context_corner": {
+          "title": "Hallway",
+          "note": "Để nói cụ thể về lối đi dài nối các phòng trong nhà, người Mỹ thường dùng từ 'hallway' để tránh nhầm lẫn."
+        },
+        "memory_aid": {
+          "title": "Liên tưởng hành động",
+          "idea": "Hãy tưởng tượng bạn phải 'haul' (kéo) một vật nặng đi dọc một hành lang dài. 'Haul' nghe giống 'hall'."
+        }
+      }
+    },
+    {
+      "word_id": "vocab_2_014",
+      "word": "in front of",
+      "word_type": "preposition",
+      "pronunciation_ipa": "/ɪn frʌnt əv/",
+      "meaning_vietnamese": "ở phía trước, đằng trước",
+      "definition_english": "In a position that is further forward than someone or something.",
+      "frequency_rank": "high",
+      "word_family": [],
+      "synonyms": ["before"],
+      "collocations": ["sit in front of", "stand in front of", "in front of the house"],
+      "tags": ["location", "preposition"],
+      "lesson_introduced": 1,
+      "difficulty_level": 1,
+      "unit_number": 2,
+      "examples": [
+        {
+          "sentence": "There is a bus stop in front of our house.",
+          "translation": "Có một trạm dừng xe buýt ở phía trước nhà của chúng tôi.",
+          "audio_url": "/audio/sentences/in-front-of_1.mp3"
+        }
+      ],
+      "enriched_learning": {
+        "common_mistake": {
+          "mistake": "Nhầm lẫn giữa 'in front of' và 'opposite'.",
+          "correction": "'In front of' có nghĩa là ở phía trước và thường cùng hướng. 'Opposite' có nghĩa là ở phía đối diện, mặt đối mặt. Một chiếc xe đậu 'in front of' một ngôi nhà thì ở cùng bên đường. Một ngôi nhà 'opposite' một ngôi nhà khác thì ở bên kia đường.",
+          "example_mistake": "The bank is opposite my house, not in front of it.",
+          "example_correction": "A car is parked in front of my house."
+        },
+        "context_corner": {
+          "title": "Trong lớp học",
+          "note": "Học sinh ngồi 'in front of' giáo viên (phía trước, nhưng không đối mặt). Giáo viên đứng 'in front of' cả lớp (phía trước, và đối mặt)."
+        },
+        "memory_aid": {
+          "title": "Nghĩa đen",
+          "idea": "Nó theo nghĩa đen là ở trong không gian 'front' (phía trước) 'of' (của) một cái gì đó."
+        }
+      }
+    },
+    {
+      "word_id": "vocab_2_015",
+      "word": "kitchen",
+      "word_type": "noun",
+      "pronunciation_ipa": "/ˈkɪtʃɪn/",
+      "meaning_vietnamese": "nhà bếp",
+      "definition_english": "A room where food is prepared and cooked.",
+      "frequency_rank": "high",
+      "word_family": ["kitchenette"],
+      "synonyms": ["galley", "cookhouse"],
+      "collocations": ["in the kitchen", "kitchen sink", "modern kitchen"],
+      "tags": ["home", "rooms", "noun"],
+      "lesson_introduced": 1,
+      "difficulty_level": 1,
+      "unit_number": 2,
+      "examples": [
+        {
+          "sentence": "My mother is cooking in the kitchen.",
+          "translation": "Mẹ tôi đang nấu ăn trong bếp.",
+          "audio_url": "/audio/sentences/kitchen_1.mp3"
+        }
+      ],
+      "enriched_learning": {
+        "common_mistake": {
+          "mistake": "Nhầm lẫn giữa 'kitchen' và 'cuisine'.",
+          "correction": "'Kitchen' là căn phòng vật lý. 'Cuisine' đề cập đến một phong cách nấu ăn (ví dụ: ẩm thực Pháp, ẩm thực Việt Nam).",
+          "example_mistake": "SAI: I love to eat Italian kitchen.",
+          "example_correction": "ĐÚNG: I love to eat Italian cuisine."
+        },
+        "context_corner": {
+          "title": "Thành ngữ: 'Everything but the kitchen sink'",
+          "note": "Thành ngữ này có nghĩa là 'gần như mọi thứ có thể nghĩ đến'. Ví dụ: 'He packed for his trip and took everything but the kitchen sink!' (Anh ấy đóng gói cho chuyến đi và mang theo gần như mọi thứ!)"
+        },
+        "memory_aid": {
+          "title": "Liên tưởng âm thanh",
+          "idea": "Hãy tưởng tượng một con 'chick'en (gà) trong 'kitch'en (nhà bếp). Âm thanh vần điệu giúp bạn ghi nhớ."
+        }
+      }
+    },
+    {
+      "word_id": "vocab_2_016",
+      "word": "living room",
+      "word_type": "noun",
+      "pronunciation_ipa": "/ˈlɪvɪŋ ruːm/",
+      "meaning_vietnamese": "phòng khách",
+      "definition_english": "The main room in a house where people relax, entertain guests, and watch TV.",
+      "frequency_rank": "high",
+      "word_family": [],
+      "synonyms": ["lounge", "sitting room", "front room"],
+      "collocations": ["in the living room", "living room furniture", "spacious living room"],
+      "tags": ["home", "rooms", "noun"],
+      "lesson_introduced": 1,
+      "difficulty_level": 1,
+      "unit_number": 2,
+      "examples": [
+        {
+          "sentence": "The house has two bedrooms, a living room and a kitchen.",
+          "translation": "Ngôi nhà có hai phòng ngủ, một phòng khách và một nhà bếp.",
+          "audio_url": "/audio/sentences/living-room_1.mp3"
+        }
+      ],
+      "enriched_learning": {
+        "common_mistake": {
+          "mistake": "Viết 'livingroom' thành một từ.",
+          "correction": "Mặc dù nó chỉ một khái niệm duy nhất, 'living room' được viết đúng chính tả là hai từ riêng biệt.",
+          "example_mistake": "SAI: We watched a movie in the livingroom.",
+          "example_correction": "ĐÚNG: We watched a movie in the living room."
+        },
+        "context_corner": {
+          "title": "Sự khác biệt vùng miền",
+          "note": "'Living room' phổ biến trong cả tiếng Anh-Mỹ và Anh-Anh. Tuy nhiên, 'lounge' hoặc 'sitting room' cũng rất phổ biến trong tiếng Anh-Anh."
+        },
+        "memory_aid": {
+          "title": "Logic đơn giản",
+          "idea": "Đó là 'room' (căn phòng) nơi gia đình dành phần lớn thời gian 'living' (sinh sống) cùng nhau. Living + Room."
+        }
+      }
+    },
+    {
+      "word_id": "vocab_2_017",
+      "word": "messy",
+      "word_type": "adjective",
+      "pronunciation_ipa": "/ˈmesi/",
+      "meaning_vietnamese": "lộn xộn, bừa bộn",
+      "definition_english": "Untidy or dirty.",
+      "frequency_rank": "medium",
+      "word_family": ["mess", "messily"],
+      "synonyms": ["untidy", "disorganized", "cluttered"],
+      "collocations": ["messy room", "messy hair", "a messy situation"],
+      "tags": ["adjective", "description"],
+      "lesson_introduced": 1,
+      "difficulty_level": 1,
+      "unit_number": 2,
+      "examples": [
+        {
+          "sentence": "Your bedroom is so messy.",
+          "translation": "Phòng ngủ của cậu thật bừa bộn.",
+          "audio_url": "/audio/sentences/messy_1.mp3"
+        }
+      ],
+      "enriched_learning": {
+        "common_mistake": {
+          "mistake": "Sử dụng 'mess' thay vì 'messy'.",
+          "correction": "'Mess' là danh từ (sự bừa bộn), 'messy' là tính từ (bừa bộn).",
+          "example_mistake": "SAI: Your room is a messy.",
+          "example_correction": "ĐÚNG: Your room is a mess. / Your room is messy."
+        },
+        "context_corner": {
+          "title": "Nhiều cách dùng",
+          "note": "Từ này có thể mô tả một nơi ('messy room'), một người ('messy person'), hoặc một tình huống phức tạp ('a messy divorce')."
+        },
+        "memory_aid": {
+          "title": "Liên kết từ",
+          "idea": "Khi mọi thứ không gọn gàng, nó tạo ra một 'mess' (sự bừa bộn). Một căn phòng đầy 'mess' thì 'messy' (bừa bộn)."
+        }
+      }
+    },
+    {
+      "word_id": "vocab_2_018",
+      "word": "microwave",
+      "word_type": "noun",
+      "pronunciation_ipa": "/ˈmaɪkrəweɪv/",
+      "meaning_vietnamese": "lò vi sóng",
+      "definition_english": "An electric oven that heats and cooks food by exposing it to electromagnetic radiation.",
+      "frequency_rank": "medium",
+      "word_family": [],
+      "synonyms": ["microwave oven"],
+      "collocations": ["heat up in the microwave", "microwave popcorn", "use the microwave"],
+      "tags": ["home", "appliances", "objects", "noun", "kitchen"],
+      "lesson_introduced": 1,
+      "difficulty_level": 2,
+      "unit_number": 2,
+      "examples": [
+        {
+          "sentence": "Reheat the soup in the microwave.",
+          "translation": "Hãy hâm nóng súp trong lò vi sóng.",
+          "audio_url": "/audio/sentences/microwave_1.mp3"
+        }
+      ],
+      "enriched_learning": {
+        "common_mistake": {
+          "mistake": "Sử dụng nó như một động từ mà không có ngữ cảnh.",
+          "correction": "Mặc dù bạn có thể nói 'microwave the soup' (hâm súp bằng lò vi sóng), nghĩa chính của nó vẫn là danh từ. Trong văn viết, tốt hơn nên nói 'heat it in the microwave'.",
+          "example_mistake": "Không hẳn là lỗi, nhưng cách nói tự nhiên hơn là:",
+          "example_correction": "Can you heat up this soup in the microwave?"
+        },
+        "context_corner": {
+          "title": "Cả danh từ và động từ",
+          "note": "Trong giao tiếp hàng ngày, 'microwave' được dùng phổ biến như một động từ. Ví dụ: 'Just microwave it for two minutes.' (Cứ cho vào lò vi sóng quay hai phút là được.)"
+        },
+        "memory_aid": {
+          "title": "Các phần của từ",
+          "idea": "Nó sử dụng những 'waves' (sóng) 'micro' (siêu nhỏ) để nấu thức ăn."
+        }
+      }
+    },
+    {
+      "word_id": "vocab_2_019",
+      "word": "move",
+      "word_type": "verb",
+      "pronunciation_ipa": "/muːv/",
+      "meaning_vietnamese": "chuyển, di chuyển nhà",
+      "definition_english": "To change the place where you live or work.",
+      "frequency_rank": "high",
+      "word_family": ["movement", "mover"],
+      "synonyms": ["relocate", "transfer"],
+      "collocations": ["move house", "move to a new city", "move in", "move out"],
+      "tags": ["verb", "action", "home"],
+      "lesson_introduced": 1,
+      "difficulty_level": 1,
+      "unit_number": 2,
+      "examples": [
+        {
+          "sentence": "They moved house last month.",
+          "translation": "Họ đã chuyển nhà vào tháng trước.",
+          "audio_url": "/audio/sentences/move_1.mp3"
+        }
+      ],
+      "enriched_learning": {
+        "common_mistake": {
+          "mistake": "Quên giới từ đi kèm.",
+          "correction": "Bạn 'move to' một thành phố mới, 'move into' một ngôi nhà mới, và 'move out of' một ngôi nhà cũ.",
+          "example_mistake": "SAI: I moved my new apartment.",
+          "example_correction": "ĐÚNG: I moved into my new apartment."
+        },
+        "context_corner": {
+          "title": "Move vs. Move house",
+          "note": "Cụm từ 'move house' rất phổ biến, đặc biệt trong tiếng Anh-Anh. Trong tiếng Anh-Mỹ, người ta thường chỉ nói 'move'. Ví dụ: 'When are you moving?'"
+        },
+        "memory_aid": {
+          "title": "Hình dung hành động",
+          "idea": "Khi bạn đóng gói đồ đạc, bạn cho chúng lên xe và chúng 'move' (di chuyển) đến một địa điểm mới."
+        }
+      }
+    },
+    {
+      "word_id": "vocab_2_020",
+      "word": "next to",
+      "word_type": "preposition",
+      "pronunciation_ipa": "/ˈnekst tu/",
+      "meaning_vietnamese": "ở cạnh",
+      "definition_english": "In a position beside someone or something.",
+      "frequency_rank": "high",
+      "word_family": [],
+      "synonyms": ["beside", "by", "adjacent to"],
+      "collocations": ["sit next to", "the house next to mine"],
+      "tags": ["location", "preposition"],
+      "lesson_introduced": 1,
+      "difficulty_level": 1,
+      "unit_number": 2,
+      "examples": [
+        {
+          "sentence": "His bedroom is next to the living room.",
+          "translation": "Phòng ngủ của anh ấy ở cạnh phòng khách.",
+          "audio_url": "/audio/sentences/next-to_1.mp3"
+        }
+      ],
+      "enriched_learning": {
+        "common_mistake": {
+          "mistake": "Nhầm lẫn giữa 'next to' và 'near'.",
+          "correction": "'Next to' có nghĩa là ngay bên cạnh, chạm vào hoặc gần như chạm vào. 'Near' có nghĩa là gần, nhưng không nhất thiết phải ở ngay bên cạnh.",
+          "example_mistake": "A is next to B. C is near A and B.",
+          "example_correction": "The post office is near my house, but the bakery is next to my house."
+        },
+        "context_corner": {
+          "title": "Có thể thay thế cho 'Beside'",
+          "note": "'Next to' và 'beside' có thể dùng thay thế cho nhau trong hầu hết các trường hợp. 'The bank is next to the library.' = 'The bank is beside the library.'"
+        },
+        "memory_aid": {
+          "title": "Logic đơn giản",
+          "idea": "Thứ 'next' (tiếp theo) trong hàng thì ở ngay 'to' (bên cạnh) bạn."
+        }
+      }
+    },
+    {
+      "word_id": "vocab_2_021",
+      "word": "sofa",
+      "word_type": "noun",
+      "pronunciation_ipa": "/ˈsəʊfə/",
+      "meaning_vietnamese": "ghế sô pha",
+      "definition_english": "A long, comfortable seat with a back and arms, for two or more people to sit on.",
+      "frequency_rank": "high",
+      "word_family": [],
+      "synonyms": ["couch", "settee"],
+      "collocations": ["sit on the sofa", "leather sofa", "sofa bed"],
+      "tags": ["home", "furniture", "objects", "noun"],
+      "lesson_introduced": 1,
+      "difficulty_level": 1,
+      "unit_number": 2,
+      "examples": [
+        {
+          "sentence": "The cat is sitting on the sofa.",
+          "translation": "Con mèo đang ngồi trên ghế sô pha.",
+          "audio_url": "/audio/sentences/sofa_1.mp3"
+        }
+      ],
+      "enriched_learning": {
+        "common_mistake": {
+          "mistake": "Nghĩ rằng 'sofa' và 'couch' rất khác nhau.",
+          "correction": "Trong cách sử dụng hiện đại, 'sofa' và 'couch' được dùng thay thế cho nhau để chỉ cùng một thứ. Không có sự khác biệt lớn về ý nghĩa.",
+          "example_mistake": "Không có, chúng là từ đồng nghĩa.",
+          "example_correction": "'Let's sit on the sofa.' và 'Let's sit on the couch.' có nghĩa giống nhau."
+        },
+        "context_corner": {
+          "title": "Sofa Bed",
+          "note": "'Sofa bed' là một loại đồ nội thất rất phổ biến. Nó trông giống như một chiếc ghế sofa bình thường, nhưng có thể mở ra để trở thành một chiếc giường cho khách."
+        },
+        "memory_aid": {
+          "title": "Âm thanh và Hành động",
+          "idea": "Bạn ngồi lún 'so-fa'r' (sâu thế) xuống một chiếc 'sofa' êm ái."
+        }
+      }
+    },
+    {
+      "word_id": "vocab_2_022",
+      "word": "stilt house",
+      "word_type": "noun",
+      "pronunciation_ipa": "/stɪlt haʊs/",
+      "meaning_vietnamese": "nhà sàn",
+      "definition_english": "A house raised on stilts (long posts) over the surface of the soil or a body of water.",
+      "frequency_rank": "low",
+      "word_family": [],
+      "synonyms": ["pile dwelling"],
+      "collocations": ["live in a stilt house", "wooden stilt house"],
+      "tags": ["home", "places", "building", "noun"],
+      "lesson_introduced": 1,
+      "difficulty_level": 3,
+      "unit_number": 2,
+      "examples": [
+        {
+          "sentence": "My grandparents live in a stilt house.",
+          "translation": "Ông bà tôi sống trong một ngôi nhà sàn.",
+          "audio_url": "/audio/sentences/stilt-house_1.mp3"
+        }
+      ],
+      "enriched_learning": {
+        "common_mistake": {
+          "mistake": "Đánh vần sai từ 'stilt'.",
+          "correction": "Hãy nhớ rằng nó được đánh vần là s-t-i-l-t.",
+          "example_mistake": "WRONG: still house",
+          "example_correction": "RIGHT: stilt house"
+        },
+        "context_corner": {
+          "title": "Bối cảnh văn hóa",
+          "note": "Nhà sàn rất phổ biến ở các vùng cụ thể của Việt Nam và Đông Nam Á, thường để chống lũ lụt hoặc để thông gió tốt hơn."
+        },
+        "memory_aid": {
+          "title": "Hình dung nó!",
+          "idea": "Hãy tưởng tượng ngôi nhà đang đi trên những chiếc chân dài gọi là 'stilts' (cà kheo)."
+        }
+      }
+    },
+    {
+      "word_id": "vocab_2_023",
+      "word": "under",
+      "word_type": "preposition",
+      "pronunciation_ipa": "/ˈʌndə(r)/",
+      "meaning_vietnamese": "ở bên dưới, phía dưới",
+      "definition_english": "In or to a position below or lower than something else.",
+      "frequency_rank": "high",
+      "word_family": [],
+      "synonyms": ["below", "beneath", "underneath"],
+      "collocations": ["under the table", "under pressure", "under construction"],
+      "tags": ["location", "preposition"],
+      "lesson_introduced": 1,
+      "difficulty_level": 1,
+      "unit_number": 2,
+      "examples": [
+        {
+          "sentence": "The hat is under the table.",
+          "translation": "Chiếc mũ ở bên dưới cái bàn.",
+          "audio_url": "/audio/sentences/under_1.mp3"
+        }
+      ],
+      "enriched_learning": {
+        "common_mistake": {
+          "mistake": "Nhầm lẫn giữa 'under' và 'below'.",
+          "correction": "Chúng thường có thể thay thế cho nhau. 'Under' thường ngụ ý bị che phủ hoặc ở ngay bên dưới một cái gì đó. 'Below' có thể chung chung hơn.",
+          "example_mistake": "The cat is under the blanket (covered). The temperature is below zero (a level).",
+          "example_correction": "My shoes are under the bed."
+        },
+        "context_corner": {
+          "title": "Nghĩa trừu tượng",
+          "note": "Từ này cũng có thể có nghĩa là 'ít hơn' ('under 18'), 'đang trong tình trạng' ('under construction' - đang xây dựng), hoặc 'dưới quyền quản lý của' ('He works under a new manager')."
+        },
+        "memory_aid": {
+          "title": "Liên tưởng âm thanh",
+          "idea": "Khi có th'under' (sấm sét), bạn trốn 'under' (dưới) gầm giường."
+        }
+      }
+    },
+    {
+      "word_id": "vocab_2_024",
+      "word": "wardrobe",
+      "word_type": "noun",
+      "pronunciation_ipa": "/ˈwɔːdrəʊb/",
+      "meaning_vietnamese": "tủ đựng quần áo",
+      "definition_english": "A large, tall cupboard in which clothes may be hung or stored.",
+      "frequency_rank": "medium",
+      "word_family": [],
+      "synonyms": ["closet", "armoire"],
+      "collocations": ["built-in wardrobe", "open the wardrobe", "hang clothes in the wardrobe"],
+      "tags": ["home", "furniture", "objects", "noun"],
+      "lesson_introduced": 1,
+      "difficulty_level": 2,
+      "unit_number": 2,
+      "examples": [
+        {
+          "sentence": "He hung his suit in the wardrobe.",
+          "translation": "Anh ấy đã treo bộ com-lê trong tủ quần áo.",
+          "audio_url": "/audio/sentences/wardrobe_1.mp3"
+        }
+      ],
+      "enriched_learning": {
+        "common_mistake": {
+          "mistake": "Nhầm lẫn giữa 'wardrobe' (tiếng Anh-Anh) và 'closet' (tiếng Anh-Mỹ).",
+          "correction": "'Wardrobe' thường chỉ một món đồ nội thất đứng riêng. 'Closet' phổ biến hơn ở Mỹ và thường chỉ một căn phòng nhỏ hoặc không gian được xây âm vào tường để chứa quần áo.",
+          "example_mistake": "Không phải lỗi, mà là sự khác biệt vùng miền.",
+          "example_correction": "Một người Anh có thể nói 'Put it in the wardrobe.' Một người Mỹ có thể sẽ nói 'Put it in the closet.'"
+        },
+        "context_corner": {
+          "title": "Nghĩa trừu tượng",
+          "note": "Từ 'wardrobe' cũng có thể chỉ toàn bộ bộ sưu tập quần áo mà một người sở hữu. Ví dụ: 'She has an extensive summer wardrobe.' (Cô ấy có một bộ sưu tập quần áo mùa hè rất phong phú.)"
+        },
+        "memory_aid": {
+          "title": "Hình ảnh liên tưởng",
+          "idea": "Hãy tưởng tượng một vị tướng 'WAR' (chiến tranh) cất chiếc áo 'ROBE' (áo choàng) chiến đấu của mình trong một cái tủ đặc biệt. WAR + ROBE = WARDROBE."
+        }
+      }
+    }
+  ]
+}

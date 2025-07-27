@@ -1,0 +1,25 @@
+{
+  "curriculum": {
+    "name": "English Curriculum - My Home",
+    "version": "2024",
+    "grade_level": 6,
+    "target_cefr_level": "A1-A2",
+    "content_language": "en-vi",
+    "total_units": 1
+  },
+  "units": [
+    {
+      "unit_number": 2,
+      "title": "My Home",
+      "description": "Learning vocabulary for houses, rooms, and furniture; using prepositions of place and 'There is/are'; and practicing skills related to describing a home.",
+      "themes": [
+        "home",
+        "rooms",
+        "furniture",
+        "location",
+        "description"
+      ],
+      "estimated_duration": "8_lessons"
+    }
+  ]
+}

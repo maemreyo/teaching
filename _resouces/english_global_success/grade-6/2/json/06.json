@@ -1,0 +1,660 @@
+{
+  "grammar_exercises": [
+    {
+      "exercise_id": "ex_2_004",
+      "type": "transformation",
+      "title": "Grammar: Positive and Negative Sentences",
+      "instructions": "Use the cues to write a positive and a negative sentence for each item using 'There is/are'.",
+      "unit_number": 2,
+      "lesson_number": 1,
+      "skill_focus": "grammar",
+      "difficulty_level": 2,
+      "questions": [
+        {
+          "question_id": "q_2_004_01",
+          "question_text": "a bookshelf / the bedroom",
+          "question_type": "transformation",
+          "correct_answer": "There is a bookshelf in the bedroom. / There isn't a bookshelf in the bedroom.",
+          "points": 2,
+          "learning_scaffold": {
+            "hint": "Is 'a bookshelf' singular or plural? Use the correct form of 'There + be' for one item, then make it negative.",
+            "feedback": {
+              "rule_reference": "Use 'There is' for singular nouns and 'There isn't' for the negative form.",
+              "correct_answer_rationale": "Because 'a bookshelf' is a singular noun, the correct structure is 'There is...' for the positive sentence and 'There isn't...' for the negative one.",
+              "distractor_analysis": []
+            },
+            "reinforcement_example": {
+              "sentence": "There is a lamp on the desk. / There isn't a lamp on the desk.",
+              "translation": "Có một cái đèn trên bàn. / Không có cái đèn nào trên bàn cả."
+            }
+          }
+        },
+        {
+          "question_id": "q_2_004_02",
+          "question_text": "chairs / the dining room",
+          "question_type": "transformation",
+          "correct_answer": "There are chairs in the dining room. / There aren't chairs in the dining room.",
+          "points": 2,
+          "learning_scaffold": {
+            "hint": "Is 'chairs' singular or plural? Use the correct form of 'There + be' for multiple items, then make it negative.",
+            "feedback": {
+              "rule_reference": "Use 'There are' for plural nouns and 'There aren't' for the negative form.",
+              "correct_answer_rationale": "Because 'chairs' is a plural noun, the correct structure is 'There are...' for the positive sentence and 'There aren't...' for the negative one.",
+              "distractor_analysis": []
+            },
+            "reinforcement_example": {
+              "sentence": "There are pictures on the wall. / There aren't pictures on the wall.",
+              "translation": "Có những bức tranh trên tường. / Không có bức tranh nào trên tường cả."
+            }
+          }
+        },
+        {
+          "question_id": "q_2_004_03",
+          "question_text": "a television / the cupboard",
+          "question_type": "transformation",
+          "correct_answer": "There is a television on the cupboard. / There isn't a television on the cupboard.",
+          "points": 2,
+          "learning_scaffold": {
+            "hint": "The noun 'a television' is singular. Use the correct structure for one item.",
+            "feedback": {
+              "rule_reference": "Use 'There is' for singular nouns and 'There isn't' for the negative form.",
+              "correct_answer_rationale": "'a television' is singular, so we use 'There is...' and 'There isn't...'.",
+              "distractor_analysis": []
+            },
+            "reinforcement_example": {
+              "sentence": "There is a cat under the table. / There isn't a cat under the table.",
+              "translation": "Có một con mèo dưới gầm bàn. / Không có con mèo nào dưới gầm bàn cả."
+            }
+          }
+        },
+        {
+          "question_id": "q_2_004_04",
+          "question_text": "pictures / the wall",
+          "question_type": "transformation",
+          "correct_answer": "There are pictures on the wall. / There aren't pictures on the wall.",
+          "points": 2,
+          "learning_scaffold": {
+            "hint": "The noun 'pictures' is plural. Use the correct structure for multiple items.",
+            "feedback": {
+              "rule_reference": "Use 'There are' for plural nouns and 'There aren't' for the negative form.",
+              "correct_answer_rationale": "'pictures' is plural, so we use 'There are...' and 'There aren't...'.",
+              "distractor_analysis": []
+            },
+            "reinforcement_example": {
+              "sentence": "There are books on the shelf. / There aren't books on the shelf.",
+              "translation": "Có những quyển sách trên kệ. / Không có quyển sách nào trên kệ cả."
+            }
+          }
+        },
+        {
+          "question_id": "q_2_004_05",
+          "question_text": "a washing machine / the bathroom",
+          "question_type": "transformation",
+          "correct_answer": "There is a washing machine in the bathroom. / There isn't a washing machine in the bathroom.",
+          "points": 2,
+          "learning_scaffold": {
+            "hint": "Is 'a washing machine' one item or many? Choose the correct 'There + be' structure.",
+            "feedback": {
+              "rule_reference": "Use 'There is' for singular nouns and 'There isn't' for the negative form.",
+              "correct_answer_rationale": "'a washing machine' is a singular noun, requiring the use of 'There is...' and 'There isn't...'.",
+              "distractor_analysis": []
+            },
+            "reinforcement_example": {
+              "sentence": "There is a big window in the living room. / There isn't a big window in the living room.",
+              "translation": "Có một cái cửa sổ lớn trong phòng khách. / Không có cái cửa sổ lớn nào trong phòng khách cả."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "exercise_id": "ex_2_007",
+      "type": "completion",
+      "title": "Grammar: Sentence Building",
+      "instructions": "Complete each of the following sentences using the cues given. You can change the cues and use other words in addition to the cues to complete the sentences.",
+      "unit_number": 2,
+      "lesson_number": 1,
+      "skill_focus": "grammar",
+      "difficulty_level": 2,
+      "questions": [
+        {
+          "question_id": "q_2_007_01",
+          "question_text": "Lina / usually / read / and / have a rest / her living room.",
+          "question_type": "completion",
+          "correct_answer": "Lina usually reads and has a rest in her living room.",
+          "points": 1,
+          "learning_scaffold": {
+            "hint": "Start with the subject. Where does the adverb of frequency 'usually' go? Don't forget to add 's' to the verbs for a third-person singular subject and a preposition for the location.",
+            "feedback": {
+              "rule_reference": "In the present simple tense, for a third-person singular subject (Lina), add '-s' or '-es' to the verb. Adverbs of frequency like 'usually' typically go before the main verb.",
+              "correct_answer_rationale": "The subject is 'Lina' (singular), so the verbs become 'reads' and 'has'. The adverb 'usually' is placed before the verbs, and the preposition 'in' is needed for the location 'her living room'.",
+              "distractor_analysis": []
+            },
+            "reinforcement_example": {
+              "sentence": "He often plays football in the park.",
+              "translation": "Anh ấy thường chơi bóng đá trong công viên."
+            }
+          }
+        },
+        {
+          "question_id": "q_2_007_02",
+          "question_text": "My bedroom / between / my parents' bedroom / bathroom.",
+          "question_type": "completion",
+          "correct_answer": "My bedroom is between my parents' bedroom and the bathroom.",
+          "points": 1,
+          "learning_scaffold": {
+            "hint": "You need a verb 'to be' after the subject. The preposition 'between' is used to connect two things. What word do you need to connect them?",
+            "feedback": {
+              "rule_reference": "The structure is 'Subject + is + between + Noun 1 + and + Noun 2'.",
+              "correct_answer_rationale": "The sentence requires the verb 'is' after 'My bedroom'. The preposition 'between' must be followed by two nouns connected by 'and'.",
+              "distractor_analysis": []
+            },
+            "reinforcement_example": {
+              "sentence": "The bank is between the post office and the supermarket.",
+              "translation": "Ngân hàng ở giữa bưu điện và siêu thị."
+            }
+          }
+        },
+        {
+          "question_id": "q_2_007_03",
+          "question_text": "There / a beautiful garden / front / my house.",
+          "question_type": "completion",
+          "correct_answer": "There is a beautiful garden in front of my house.",
+          "points": 1,
+          "learning_scaffold": {
+            "hint": "This sentence describes existence. What verb should follow 'There' for a singular noun 'a beautiful garden'? What is the full preposition for 'phía trước'?",
+            "feedback": {
+              "rule_reference": "Use 'There is' to describe a singular noun. The preposition for 'phía trước' is 'in front of'.",
+              "correct_answer_rationale": "The structure 'There is' is used for the singular noun 'a beautiful garden'. The prepositional phrase is 'in front of'.",
+              "distractor_analysis": []
+            },
+            "reinforcement_example": {
+              "sentence": "There is a big tree in front of the school.",
+              "translation": "Có một cái cây to ở phía trước trường học."
+            }
+          }
+        },
+        {
+          "question_id": "q_2_007_04",
+          "question_text": "My house / quite / small / but / very comfortable.",
+          "question_type": "completion",
+          "correct_answer": "My house is quite small but very comfortable.",
+          "points": 1,
+          "learning_scaffold": {
+            "hint": "You need to add a verb 'to be' to link the subject 'My house' with its description.",
+            "feedback": {
+              "rule_reference": "Use the verb 'to be' (is, am, are) to link a subject with an adjective that describes it.",
+              "correct_answer_rationale": "The sentence needs the verb 'is' to connect the subject 'My house' with the adjectives 'small' and 'comfortable'.",
+              "distractor_analysis": []
+            },
+            "reinforcement_example": {
+              "sentence": "This book is very interesting but quite long.",
+              "translation": "Quyển sách này rất thú vị nhưng khá dài."
+            }
+          }
+        },
+        {
+          "question_id": "q_2_007_05",
+          "question_text": "There / a desk / a bookshelf / near / window / Helen's bedroom.",
+          "question_type": "completion",
+          "correct_answer": "There is a desk and a bookshelf near the window in Helen's bedroom.",
+          "points": 1,
+          "learning_scaffold": {
+            "hint": "Start with 'There is' because the first item 'a desk' is singular. You need to connect 'a desk' and 'a bookshelf' with 'and'. You also need an article for 'window'.",
+            "feedback": {
+              "rule_reference": "When listing items with 'There is/are', the verb agrees with the first noun. Use 'and' to connect items in a list. Use articles like 'the' before specific nouns like 'window'.",
+              "correct_answer_rationale": "We use 'There is' because the first noun, 'a desk', is singular. 'a desk' and 'a bookshelf' are joined by 'and'. The location is specified with 'near the window' and 'in Helen's bedroom'.",
+              "distractor_analysis": []
+            },
+            "reinforcement_example": {
+              "sentence": "There is a sofa and an armchair in the living room.",
+              "translation": "Có một ghế sô pha và một ghế bành trong phòng khách."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "pronunciation_exercises": [
+    {
+      "exercise_id": "ex_2_002",
+      "type": "true_false",
+      "title": "Pronunciation: Same or Different?",
+      "instructions": "Decide whether the underlined ending sounds of each pair of words are pronounced the same (S) or differently (D).",
+      "unit_number": 2,
+      "lesson_number": 1,
+      "skill_focus": "pronunciation",
+      "difficulty_level": 2,
+      "questions": [
+        {
+          "question_id": "q_2_002_01",
+          "question_text": "chairs / sofas",
+          "question_type": "true_false",
+          "options": ["Same", "Different"],
+          "correct_answer": "Same",
+          "points": 1,
+          "learning_scaffold": {
+            "hint": "Feel your throat when you say the sound at the end of 'chair' and 'sofa'. Are they both voiced (rung)? If so, the '-s' ending will be pronounced the same.",
+            "feedback": {
+              "rule_reference": "The '-s' ending is pronounced /z/ after voiced sounds (like /r/) and vowel sounds.",
+              "correct_answer_rationale": "The word 'chair' ends in the voiced sound /r/ and 'sofa' ends in a vowel sound. Therefore, the '-s' in both words is pronounced as a voiced /z/. The sounds are the same.",
+              "distractor_analysis": []
+            },
+            "reinforcement_example": {
+              "sentence": "The words 'beds' and 'keys' both end with the /z/ sound.",
+              "translation": "Các từ 'beds' và 'keys' đều kết thúc bằng âm /z/."
+            }
+          }
+        },
+        {
+          "question_id": "q_2_002_02",
+          "question_text": "tables / watches",
+          "question_type": "true_false",
+          "options": ["Same", "Different"],
+          "correct_answer": "Different",
+          "points": 1,
+          "learning_scaffold": {
+            "hint": "Listen carefully. Does one word have an extra syllable at the end that the other doesn't?",
+            "feedback": {
+              "rule_reference": "The '-s' ending is pronounced /z/ after a voiced sound like /l/, but it is pronounced /ɪz/ (adding a syllable) after a sibilant sound like /tʃ/.",
+              "correct_answer_rationale": "'tables' is pronounced /'teɪblz/ (ends in /z/). 'watches' is pronounced /'wɒtʃɪz/ (ends in /ɪz/). The sounds are different.",
+              "distractor_analysis": []
+            },
+            "reinforcement_example": {
+              "sentence": "The word 'pens' ends in /z/, but the word 'offices' ends in /ɪz/.",
+              "translation": "Từ 'pens' kết thúc bằng âm /z/, nhưng từ 'offices' kết thúc bằng âm /ɪz/."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "exercise_id": "ex_2_003",
+      "type": "multiple_choice_odd_one_out",
+      "title": "Pronunciation: Find the Different Sound",
+      "instructions": "Choose the word which has the underlined part pronounced differently from the others.",
+      "unit_number": 2,
+      "lesson_number": 1,
+      "skill_focus": "pronunciation",
+      "difficulty_level": 2,
+      "questions": [
+        {
+          "question_id": "q_2_003_01",
+          "question_text": "Which word has a different ending sound?",
+          "question_type": "multiple_choice",
+          "options": ["lamps", "beds", "halls", "chairs"],
+          "correct_answer": "lamps",
+          "points": 1,
+          "learning_scaffold": {
+            "hint": "Three of these words end with a buzzing /z/ sound. One ends with a quiet hissing /s/ sound. Which one is the quiet one?",
+            "feedback": {
+              "rule_reference": "The '-s' ending is pronounced /s/ after voiceless sounds (like /p/) and /z/ after voiced sounds (like /d/, /l/, /r/).",
+              "correct_answer_rationale": "'lamps' ends with the voiceless sound /p/, so its ending is /s/. The other words end with voiced sounds, so their endings are /z/.",
+              "distractor_analysis": [
+                { "option": "beds", "explanation": "Ends with voiced /d/, so the sound is /z/." },
+                { "option": "halls", "explanation": "Ends with voiced /l/, so the sound is /z/." },
+                { "option": "chairs", "explanation": "Ends with voiced /r/, so the sound is /z/." }
+              ]
+            },
+            "reinforcement_example": {
+              "sentence": "The word 'books' ends in /s/, but 'dogs' ends in /z/.",
+              "translation": "Từ 'books' kết thúc bằng âm /s/, nhưng từ 'dogs' kết thúc bằng âm /z/."
+            }
+          }
+        },
+        {
+          "question_id": "q_2_003_02",
+          "question_text": "Which word has a different ending sound?",
+          "question_type": "multiple_choice",
+          "options": ["roofs", "books", "lights", "fans"],
+          "correct_answer": "fans",
+          "points": 1,
+          "learning_scaffold": {
+            "hint": "Three of these words end with a voiceless /s/ sound. One ends with a voiced /z/ sound. Which one makes your throat vibrate?",
+            "feedback": {
+              "rule_reference": "The '-s' ending is pronounced /s/ after voiceless sounds (/f/, /k/, /t/) and /z/ after voiced sounds (/n/).",
+              "correct_answer_rationale": "'fans' ends with the voiced sound /n/, so its ending is /z/. The other words end with voiceless sounds, so their endings are /s/.",
+              "distractor_analysis": [
+                { "option": "roofs", "explanation": "Ends with voiceless /f/, so the sound is /s/." },
+                { "option": "books", "explanation": "Ends with voiceless /k/, so the sound is /s/." },
+                { "option": "lights", "explanation": "Ends with voiceless /t/, so the sound is /s/." }
+              ]
+            },
+            "reinforcement_example": {
+              "sentence": "The word 'hats' ends in /s/, but 'friends' ends in /z/.",
+              "translation": "Từ 'hats' kết thúc bằng âm /s/, nhưng từ 'friends' kết thúc bằng âm /z/."
+            }
+          }
+        },
+        {
+          "question_id": "q_2_003_03",
+          "question_text": "Which word has a different ending sound?",
+          "question_type": "multiple_choice",
+          "options": ["watches", "shelves", "bridges", "buses"],
+          "correct_answer": "shelves",
+          "points": 1,
+          "learning_scaffold": {
+            "hint": "Three of these words have an extra syllable /ɪz/ at the end. One word just adds a /z/ sound. Which one is different?",
+            "feedback": {
+              "rule_reference": "The '-es' ending is pronounced /ɪz/ after sibilant sounds (/tʃ/, /dʒ/, /s/), but /z/ after other voiced sounds like /v/.",
+              "correct_answer_rationale": "'shelves' ends with the voiced sound /v/, so its ending is /z/. The other words end with sibilant sounds, so their endings are /ɪz/.",
+              "distractor_analysis": [
+                { "option": "watches", "explanation": "Ends with /tʃ/, so the sound is /ɪz/." },
+                { "option": "bridges", "explanation": "Ends with /dʒ/, so the sound is /ɪz/." },
+                { "option": "buses", "explanation": "Ends with /s/, so the sound is /ɪz/." }
+              ]
+            },
+            "reinforcement_example": {
+              "sentence": "The word 'dishes' ends in /ɪz/, but 'gloves' ends in /z/.",
+              "translation": "Từ 'dishes' kết thúc bằng âm /ɪz/, nhưng từ 'gloves' kết thúc bằng âm /z/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "standalone_exercises": [
+    {
+      "exercise_id": "ex_2_001",
+      "type": "multiple_choice_odd_one_out",
+      "title": "Vocabulary: Odd One Out",
+      "instructions": "Find which word does not belong in each group.",
+      "unit_number": 2,
+      "lesson_number": 1,
+      "skill_focus": "vocabulary",
+      "difficulty_level": 2,
+      "questions": [
+        {
+          "question_id": "q_2_001_01",
+          "question_text": "Which word does not belong?",
+          "question_type": "multiple_choice",
+          "options": ["aunt", "uncle", "cousin", "sister"],
+          "correct_answer": "sister",
+          "points": 1,
+          "learning_scaffold": {
+            "hint": "Three of these words describe relatives who are not your parents or siblings (extended family). Which word describes an immediate family member?",
+            "feedback": {
+              "rule_reference": "Categorizing family members into immediate family (parents, siblings) and extended family (aunts, uncles, cousins).",
+              "correct_answer_rationale": "'sister' is an immediate family member. 'aunt', 'uncle', and 'cousin' are all members of the extended family (họ hàng).",
+              "distractor_analysis": [
+                { "option": "aunt", "explanation": "This is an extended family member." },
+                { "option": "uncle", "explanation": "This is an extended family member." },
+                { "option": "cousin", "explanation": "This is an extended family member." }
+              ]
+            },
+            "reinforcement_example": {
+              "sentence": "I went to the party with my parents and my sister, but my cousins couldn't come.",
+              "translation": "Tôi đã đi dự tiệc với bố mẹ và chị gái, nhưng các anh chị em họ của tôi không thể đến."
+            }
+          }
+        },
+        {
+          "question_id": "q_2_001_02",
+          "question_text": "Which word does not belong?",
+          "question_type": "multiple_choice",
+          "options": ["apartment", "bedroom", "bathroom", "kitchen"],
+          "correct_answer": "apartment",
+          "points": 1,
+          "learning_scaffold": {
+            "hint": "Three of these words are types of rooms inside a home. One word describes the entire home itself.",
+            "feedback": {
+              "rule_reference": "Differentiating between types of homes (a whole unit) and rooms (parts of the unit).",
+              "correct_answer_rationale": "An 'apartment' is a type of home. A 'bedroom', 'bathroom', and 'kitchen' are all rooms inside a home.",
+              "distractor_analysis": [
+                { "option": "bedroom", "explanation": "This is a room within a home." },
+                { "option": "bathroom", "explanation": "This is a room within a home." },
+                { "option": "kitchen", "explanation": "This is a room within a home." }
+              ]
+            },
+            "reinforcement_example": {
+              "sentence": "Our new apartment is small, but the kitchen is very modern.",
+              "translation": "Căn hộ mới của chúng tôi nhỏ, nhưng nhà bếp thì rất hiện đại."
+            }
+          }
+        },
+        {
+          "question_id": "q_2_001_03",
+          "question_text": "Which word does not belong?",
+          "question_type": "multiple_choice",
+          "options": ["microwave", "cooker", "dishwasher", "wardrobe"],
+          "correct_answer": "wardrobe",
+          "points": 1,
+          "learning_scaffold": {
+            "hint": "Three of these items are usually found in the kitchen. One is usually found in a bedroom.",
+            "feedback": {
+              "rule_reference": "Categorizing household items by the room they belong in.",
+              "correct_answer_rationale": "A 'wardrobe' is a piece of furniture for storing clothes in a bedroom. A 'microwave', 'cooker', and 'dishwasher' are all appliances found in a kitchen.",
+              "distractor_analysis": [
+                { "option": "microwave", "explanation": "This is a kitchen appliance." },
+                { "option": "cooker", "explanation": "This is a kitchen appliance." },
+                { "option": "dishwasher", "explanation": "This is a kitchen appliance." }
+              ]
+            },
+            "reinforcement_example": {
+              "sentence": "I hung my coat in the wardrobe before going to the kitchen to use the microwave.",
+              "translation": "Tôi treo áo khoác vào tủ quần áo trước khi vào bếp để dùng lò vi sóng."
+            }
+          }
+        },
+        {
+          "question_id": "q_2_001_04",
+          "question_text": "Which word does not belong?",
+          "question_type": "multiple_choice",
+          "options": ["furniture", "sofa", "armchair", "table"],
+          "correct_answer": "furniture",
+          "points": 1,
+          "learning_scaffold": {
+            "hint": "One of these words is a general category. The other three are specific examples of that category.",
+            "feedback": {
+              "rule_reference": "Differentiating between a general category and specific examples.",
+              "correct_answer_rationale": "'furniture' is the general category for household items like sofas, armchairs, and tables. The other three words are specific types of furniture.",
+              "distractor_analysis": [
+                { "option": "sofa", "explanation": "This is a specific piece of furniture." },
+                { "option": "armchair", "explanation": "This is a specific piece of furniture." },
+                { "option": "table", "explanation": "This is a specific piece of furniture." }
+              ]
+            },
+            "reinforcement_example": {
+              "sentence": "We need to buy new furniture, including a sofa and a coffee table.",
+              "translation": "Chúng tôi cần mua đồ nội thất mới, bao gồm một chiếc ghế sô pha và một bàn cà phê."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "exercise_id": "ex_2_005",
+      "type": "reading_comprehension",
+      "title": "Reading: Anne's Living Room",
+      "instructions": "Read the passage about Anne's living room and answer the questions.",
+      "unit_number": 2,
+      "lesson_number": 1,
+      "skill_focus": "reading",
+      "difficulty_level": 2,
+      "questions": [
+        {
+          "question_id": "q_2_005_01",
+          "question_text": "Anne comes from Great Britain.",
+          "question_type": "true_false",
+          "options": ["True", "False"],
+          "correct_answer": "True",
+          "points": 1,
+          "learning_scaffold": {
+            "hint": "Read the first two sentences of the passage. What nationality does Anne say she is?",
+            "feedback": {
+              "rule_reference": "Identifying specific details from the text.",
+              "correct_answer_rationale": "The statement is True because the first paragraph says, \"I am Anne. I'm British...\" 'British' means from Great Britain.",
+              "distractor_analysis": []
+            },
+            "reinforcement_example": {
+              "sentence": "The text states that Anne is British, so she comes from Great Britain.",
+              "translation": "Văn bản nói rằng Anne là người Anh, vì vậy cô ấy đến từ Vương quốc Anh."
+            }
+          }
+        },
+        {
+          "question_id": "q_2_005_02",
+          "question_text": "Her favourite part of the house is the kitchen.",
+          "question_type": "true_false",
+          "options": ["True", "False"],
+          "correct_answer": "False",
+          "points": 1,
+          "learning_scaffold": {
+            "hint": "Find the phrase 'favourite room' in the text. Which room is she talking about?",
+            "feedback": {
+              "rule_reference": "Understanding main ideas and specific details.",
+              "correct_answer_rationale": "The statement is False. The text says, \"My living room is very spacious... it is my favourite room in the house.\"",
+              "distractor_analysis": []
+            },
+            "reinforcement_example": {
+              "sentence": "According to the passage, Anne's favourite room is her living room, not the kitchen.",
+              "translation": "Theo đoạn văn, phòng yêu thích của Anne là phòng khách chứ không phải nhà bếp."
+            }
+          }
+        },
+        {
+          "question_id": "q_2_005_03",
+          "question_text": "There is a big yellow carpet on the floor.",
+          "question_type": "true_false",
+          "options": ["True", "False"],
+          "correct_answer": "False",
+          "points": 1,
+          "learning_scaffold": {
+            "hint": "Scan the text for the word 'carpet'. What color is it?",
+            "feedback": {
+              "rule_reference": "Identifying descriptive details (adjectives).",
+              "correct_answer_rationale": "The statement is False. The text says, \"...there is a big blue carpet.\", not a yellow one.",
+              "distractor_analysis": []
+            },
+            "reinforcement_example": {
+              "sentence": "The walls of the living room are blue, and the carpet is also blue.",
+              "translation": "Những bức tường của phòng khách màu xanh lam, và tấm thảm cũng màu xanh lam."
+            }
+          }
+        },
+        {
+          "question_id": "q_2_005_04",
+          "question_text": "What colour are the walls of Anne's living room?",
+          "question_type": "completion",
+          "correct_answer": "(They are) blue.",
+          "points": 1,
+          "learning_scaffold": {
+            "hint": "Find the word 'walls' in the second paragraph. The sentence will tell you the color.",
+            "feedback": {
+              "rule_reference": "Extracting specific information to answer a 'What' question.",
+              "correct_answer_rationale": "The correct answer is 'blue'. The text clearly states, \"Its walls are blue and the floor is salmon.\"",
+              "distractor_analysis": []
+            },
+            "reinforcement_example": {
+              "sentence": "The text mentions two colors for the room: the walls are blue and the floor is salmon.",
+              "translation": "Văn bản đề cập đến hai màu sắc cho căn phòng: tường màu xanh lam và sàn nhà màu hồng cam."
+            }
+          }
+        },
+        {
+          "question_id": "q_2_005_05",
+          "question_text": "How many sofas are there in the living room?",
+          "question_type": "completion",
+          "correct_answer": "There are two sofas.",
+          "points": 1,
+          "learning_scaffold": {
+            "hint": "Look for the word 'sofas' in the text. The number will be right before it.",
+            "feedback": {
+              "rule_reference": "Extracting numerical information to answer a 'How many' question.",
+              "correct_answer_rationale": "The correct answer is 'two'. The text says, \"On it there are two sofas and a coffee table.\"",
+              "distractor_analysis": []
+            },
+            "reinforcement_example": {
+              "sentence": "The living room has two sofas and four windows.",
+              "translation": "Phòng khách có hai ghế sô pha và bốn cửa sổ."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "exercise_id": "ex_2_006",
+      "type": "reading_comprehension_mcq",
+      "title": "Reading: Dream Homes",
+      "instructions": "Read the descriptions of different dream homes and choose the best answer to each question.",
+      "unit_number": 2,
+      "lesson_number": 1,
+      "skill_focus": "reading",
+      "difficulty_level": 3,
+      "questions": [
+        {
+          "question_id": "q_2_006_01",
+          "question_text": "Irina wants her dream home to be...",
+          "question_type": "multiple_choice",
+          "options": ["modern", "simple", "old and vintage", "luxury"],
+          "correct_answer": "modern",
+          "points": 1,
+          "learning_scaffold": {
+            "hint": "Read Irina's description carefully. What two words does she use to describe the style of her house?",
+            "feedback": {
+              "rule_reference": "Identifying key descriptive words in a text.",
+              "correct_answer_rationale": "The correct answer is 'modern'. The text says, \"My house will be in a modern and vintage style.\" 'Modern' is one of the styles mentioned.",
+              "distractor_analysis": [
+                { "option": "simple", "explanation": "Incorrect. She wants a 'big house with five or six rooms', which is not simple." },
+                { "option": "old and vintage", "explanation": "Incorrect. This is only half of the description; she wants both modern and vintage." },
+                { "option": "luxury", "explanation": "Incorrect. The word 'luxury' is used by Chris to describe his house, not by Irina." }
+              ]
+            },
+            "reinforcement_example": {
+              "sentence": "Chris wants a 'big and luxury house', while Irina wants a 'modern and vintage' style.",
+              "translation": "Chris muốn một 'ngôi nhà lớn và sang trọng', trong khi Irina muốn một phong cách 'hiện đại và cổ điển'."
+            }
+          }
+        },
+        {
+          "question_id": "q_2_006_02",
+          "question_text": "Who wants to locate their dream home near a beach?",
+          "question_type": "multiple_choice",
+          "options": ["Irina and Chris", "Irina and Denis", "Chris and Denis", "Irina, Chris and Denis"],
+          "correct_answer": "Chris and Denis",
+          "points": 1,
+          "learning_scaffold": {
+            "hint": "Read the first sentence of each person's description. Look for words like 'sea' or 'beach'.",
+            "feedback": {
+              "rule_reference": "Synthesizing information from different parts of a text.",
+              "correct_answer_rationale": "The correct answer is 'Chris and Denis'. Chris wants a house 'near the sea', and Denis wants a home 'near a beach'. Irina wants her home 'in a mountain'.",
+              "distractor_analysis": [
+                { "option": "Irina and Chris", "explanation": "Incorrect. Irina wants to live in a mountain." },
+                { "option": "Irina and Denis", "explanation": "Incorrect. Irina wants to live in a mountain." },
+                { "option": "Irina, Chris and Denis", "explanation": "Incorrect. Irina's preference is different." }
+              ]
+            },
+            "reinforcement_example": {
+              "sentence": "While Chris and Denis prefer the coast, Irina prefers the mountains.",
+              "translation": "Trong khi Chris và Denis thích bờ biển, Irina lại thích núi non."
+            }
+          }
+        },
+        {
+          "question_id": "q_2_006_03",
+          "question_text": "How many bedrooms are there in Denis' dream home?",
+          "question_type": "multiple_choice",
+          "options": ["one", "two", "three", "four"],
+          "correct_answer": "three",
+          "points": 1,
+          "learning_scaffold": {
+            "hint": "Scan Denis's description for the word 'bedrooms'. The number will be nearby.",
+            "feedback": {
+              "rule_reference": "Locating specific numerical details in a text.",
+              "correct_answer_rationale": "The correct answer is 'three'. Denis says he will buy furniture to make it welcoming in 'three bedrooms and a living room.'",
+              "distractor_analysis": [
+                { "option": "one", "explanation": "Incorrect. The text specifies a different number." },
+                { "option": "two", "explanation": "Incorrect. The text specifies a different number." },
+                { "option": "four", "explanation": "Incorrect. The text specifies a different number." }
+              ]
+            },
+            "reinforcement_example": {
+              "sentence": "Denis's dream home has three bedrooms, while Irina's has five or six rooms in total.",
+              "translation": "Ngôi nhà mơ ước của Denis có ba phòng ngủ, trong khi nhà của Irina có tổng cộng năm hoặc sáu phòng."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "curriculum-import-scripts",
+  "version": "1.0.0",
+  "description": "Scripts for importing enriched curriculum data into Supabase",
+  "type": "module",
+  "scripts": {
+    "import": "node import-unit-data.js",
+    "import:dry-run": "node import-unit-data.js --dry-run",
+    "import:unit2": "node import-unit-data.js '../_resouces/english_global_success/grade-6/2'",
+    "import:unit2:dry": "node import-unit-data.js '../_resouces/english_global_success/grade-6/2' --dry-run",
+    
+    "batch:grade6": "node import-multiple-units.js grade-6 --all",
+    "batch:grade6:dry": "node import-multiple-units.js grade-6 --all --dry-run",
+    "batch:units": "node import-multiple-units.js grade-6 --units",
+    "batch:update": "node import-multiple-units.js grade-6 --all --update-existing",
+    
+    "update:unit2": "node update-curriculum.js '../_resouces/english_global_success/grade-6/2'",
+    "update:check": "node update-curriculum.js '../_resouces/english_global_success/grade-6/2' --check-changes",
+    "update:force": "node update-curriculum.js '../_resouces/english_global_success/grade-6/2' --force-update",
+    
+    "verify": "node quick-verify.js",
+    "verify:full": "node verify-import.js"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
