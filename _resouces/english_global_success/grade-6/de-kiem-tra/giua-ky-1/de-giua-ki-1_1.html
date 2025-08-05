@@ -1,0 +1,677 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Đề Thi Giữa Học Kì 1 - Tiếng Anh 6</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #f0f4f8;
+        }
+        .question-card {
+            background-color: white;
+            border-radius: 12px;
+            padding: 24px;
+            margin-bottom: 20px;
+            box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+            transition: all 0.3s ease;
+        }
+        .question-card:hover {
+            box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -2px rgb(0 0 0 / 0.1);
+        }
+        .question-title {
+            font-weight: 600;
+            color: #1e293b;
+            margin-bottom: 16px;
+        }
+        .option-label {
+            display: flex;
+            align-items: center;
+            padding: 12px;
+            border: 1px solid #e2e8f0;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            margin-bottom: 8px;
+        }
+        .option-label:hover {
+            background-color: #f8fafc;
+            border-color: #3b82f6;
+        }
+        .option-label input[type="radio"] {
+            margin-right: 12px;
+        }
+        .text-input {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #cbd5e1;
+            border-radius: 8px;
+            margin-top: 8px;
+            transition: border-color 0.2s ease;
+        }
+        .text-input:focus {
+            outline: none;
+            border-color: #3b82f6;
+            box-shadow: 0 0 0 2px rgba(59, 130, 246, 0.2);
+        }
+        .submit-btn {
+            background-color: #2563eb;
+            color: white;
+            font-weight: 600;
+            padding: 12px 24px;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+            border: none;
+        }
+        .submit-btn:hover {
+            background-color: #1d4ed8;
+        }
+        #results-modal, #teacher-modal {
+            display: none;
+            position: fixed;
+            z-index: 100;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            overflow: auto;
+            background-color: rgba(0,0,0,0.5);
+            align-items: center;
+            justify-content: center;
+        }
+        .modal-content {
+            background-color: #fefefe;
+            margin: auto;
+            padding: 24px;
+            border: 1px solid #888;
+            width: 90%;
+            max-width: 600px;
+            border-radius: 12px;
+            text-align: center;
+        }
+        .modal-content textarea {
+            width: 100%;
+            height: 150px;
+            margin-top: 16px;
+            padding: 8px;
+            border-radius: 8px;
+            border: 1px solid #ccc;
+            resize: vertical;
+        }
+    </style>
+</head>
+<body class="p-4 md:p-8">
+
+    <div class="max-w-4xl mx-auto">
+        <div id="student-view">
+            <header class="text-center mb-8 bg-white p-6 rounded-xl shadow-md">
+                <h1 class="text-3xl font-bold text-slate-800">ĐỀ THI GIỮA HỌC KÌ 1 - MÔN: TIẾNG ANH 6</h1>
+                <p class="text-slate-600 mt-2">GLOBAL SUCCESS - ĐỀ SỐ 2</p>
+            </header>
+
+            <div class="question-card">
+                <label for="studentName" class="question-title">Vui lòng nhập họ và tên của bạn:</label>
+                <input type="text" id="studentName" class="text-input" placeholder="Ví dụ: Nguyễn Văn An">
+            </div>
+
+            <form id="quizForm">
+                <!-- I. PRONUNCIATION -->
+                <div class="question-card" id="part1">
+                    <h2 class="text-xl font-bold mb-4 text-blue-700">I. PRONUNCIATION</h2>
+                    <p class="question-title">Find the word which has a different sound in the part underlined.</p>
+                    <!-- Question 1 -->
+                    <div class="mb-6">
+                        <p class="font-semibold">1.</p>
+                        <div class="grid grid-cols-2 md:grid-cols-4 gap-2 mt-2">
+                            <label class="option-label"><input type="radio" name="q1" value="A"> A. p<u>a</u>stime</label>
+                            <label class="option-label"><input type="radio" name="q1" value="B"> B. w<u>i</u>nter</label>
+                            <label class="option-label"><input type="radio" name="q1" value="C"> C. <u>i</u>ce</label>
+                            <label class="option-label"><input type="radio" name="q1" value="D"> D. b<u>i</u>ke</label>
+                        </div>
+                    </div>
+                    <!-- Question 2 -->
+                    <div class="mb-6">
+                        <p class="font-semibold">2.</p>
+                        <div class="grid grid-cols-2 md:grid-cols-4 gap-2 mt-2">
+                            <label class="option-label"><input type="radio" name="q2" value="A"> A. sandwi<u>ch</u></label>
+                            <label class="option-label"><input type="radio" name="q2" value="B"> B. <u>ch</u>air</label>
+                            <label class="option-label"><input type="radio" name="q2" value="C"> C. s<u>ch</u>ool</label>
+                            <label class="option-label"><input type="radio" name="q2" value="D"> D. <u>ch</u>icken</label>
+                        </div>
+                    </div>
+                     <!-- Question 3 -->
+                    <div class="mb-6">
+                        <p class="font-semibold">3.</p>
+                        <div class="grid grid-cols-2 md:grid-cols-4 gap-2 mt-2">
+                            <label class="option-label"><input type="radio" name="q3" value="A"> A. l<u>a</u>mp</label>
+                            <label class="option-label"><input type="radio" name="q3" value="B"> B. pl<u>ay</u></label>
+                            <label class="option-label"><input type="radio" name="q3" value="C"> C. st<u>ay</u></label>
+                            <label class="option-label"><input type="radio" name="q3" value="D"> D. cr<u>a</u>zy</label>
+                        </div>
+                    </div>
+                    <!-- Question 4 -->
+                    <div class="mb-6">
+                        <p class="font-semibold">4.</p>
+                        <div class="grid grid-cols-2 md:grid-cols-4 gap-2 mt-2">
+                            <label class="option-label"><input type="radio" name="q4" value="A"> A. couch<u>es</u></label>
+                            <label class="option-label"><input type="radio" name="q4" value="B"> B. box<u>es</u></label>
+                            <label class="option-label"><input type="radio" name="q4" value="C"> C. hous<u>es</u></label>
+                            <label class="option-label"><input type="radio" name="q4" value="D"> D. tabl<u>es</u></label>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- II. VOCABULARY AND GRAMMAR -->
+                <div class="question-card" id="part2">
+                    <h2 class="text-xl font-bold mb-4 text-blue-700">II. VOCABULARY AND GRAMMAR</h2>
+                    <p class="question-title">Choose the correct answer A, B, C, or D to finish the sentences.</p>
+                    <!-- Question 5 -->
+                    <div class="mb-6">
+                        <p class="font-semibold">5. "______ class are you in?" - "Class 6B."</p>
+                        <div class="grid grid-cols-2 md:grid-cols-4 gap-2 mt-2">
+                            <label class="option-label"><input type="radio" name="q5" value="A"> A. Which</label>
+                            <label class="option-label"><input type="radio" name="q5" value="B"> B. Where</label>
+                            <label class="option-label"><input type="radio" name="q5" value="C"> C. When</label>
+                            <label class="option-label"><input type="radio" name="q5" value="D"> D. Whose</label>
+                        </div>
+                    </div>
+                    <!-- Question 6 -->
+                    <div class="mb-6">
+                        <p class="font-semibold">6. In many schools in Vietnam students have to wear a ______.</p>
+                        <div class="grid grid-cols-2 md:grid-cols-4 gap-2 mt-2">
+                            <label class="option-label"><input type="radio" name="q6" value="A"> A. clothing</label>
+                            <label class="option-label"><input type="radio" name="q6" value="B"> B. suit</label>
+                            <label class="option-label"><input type="radio" name="q6" value="C"> C. uniform</label>
+                            <label class="option-label"><input type="radio" name="q6" value="D"> D. coat</label>
+                        </div>
+                    </div>
+                    <!-- Question 7 -->
+                     <div class="mb-6">
+                        <p class="font-semibold">7. My father likes ______ up early and watering the flowers in our garden.</p>
+                        <div class="grid grid-cols-2 md:grid-cols-4 gap-2 mt-2">
+                            <label class="option-label"><input type="radio" name="q7" value="A"> A. going</label>
+                            <label class="option-label"><input type="radio" name="q7" value="B"> B. staying</label>
+                            <label class="option-label"><input type="radio" name="q7" value="C"> C. getting</label>
+                            <label class="option-label"><input type="radio" name="q7" value="D"> D. get</label>
+                        </div>
+                    </div>
+                    <!-- Question 8 -->
+                    <div class="mb-6">
+                        <p class="font-semibold">8. What do you usually ______ for breakfast?</p>
+                        <div class="grid grid-cols-2 md:grid-cols-4 gap-2 mt-2">
+                            <label class="option-label"><input type="radio" name="q8" value="A"> A. to have</label>
+                            <label class="option-label"><input type="radio" name="q8" value="B"> B. have</label>
+                            <label class="option-label"><input type="radio" name="q8" value="C"> C. having</label>
+                            <label class="option-label"><input type="radio" name="q8" value="D"> D. has</label>
+                        </div>
+                    </div>
+                    <!-- Question 9 -->
+                    <div class="mb-6">
+                        <p class="font-semibold">9. My friend, Nga is very hard-working. She ______ most of her time studying.</p>
+                        <div class="grid grid-cols-2 md:grid-cols-4 gap-2 mt-2">
+                            <label class="option-label"><input type="radio" name="q9" value="A"> A. to spend</label>
+                            <label class="option-label"><input type="radio" name="q9" value="B"> B. spends</label>
+                            <label class="option-label"><input type="radio" name="q9" value="C"> C. spending</label>
+                            <label class="option-label"><input type="radio" name="q9" value="D"> D. spent</label>
+                        </div>
+                    </div>
+                    <!-- Question 10 -->
+                    <div class="mb-6">
+                        <p class="font-semibold">10. This Saturday we ______ to the Art Museum.</p>
+                        <div class="grid grid-cols-2 md:grid-cols-4 gap-2 mt-2">
+                            <label class="option-label"><input type="radio" name="q10" value="A"> A. go</label>
+                            <label class="option-label"><input type="radio" name="q10" value="B"> B. is going</label>
+                            <label class="option-label"><input type="radio" name="q10" value="C"> C. are going</label>
+                            <label class="option-label"><input type="radio" name="q10" value="D"> D. went</label>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- III. Put the verbs in brackets -->
+                <div class="question-card" id="part3">
+                    <h2 class="text-xl font-bold mb-4 text-blue-700">III. Put the verbs in brackets in the present simple tense or present continuous tense.</h2>
+                     <div class="mb-4">
+                        <p class="font-semibold">11. Phong often (play) ______ football on the weekend.</p>
+                        <input type="text" id="q11" class="text-input">
+                    </div>
+                     <div class="mb-4">
+                        <p class="font-semibold">12. We (visit) ______ our grandparents this weekend.</p>
+                        <input type="text" id="q12" class="text-input">
+                    </div>
+                     <div class="mb-4">
+                        <p class="font-semibold">13. They (not go) ______ to work on Saturdays and Sundays.</p>
+                        <input type="text" id="q13" class="text-input">
+                    </div>
+                     <div class="mb-4">
+                        <p class="font-semibold">14. Mr. Ninh (not work) ______ in the office every Friday afternoon.</p>
+                        <input type="text" id="q14" class="text-input">
+                    </div>
+                     <div class="mb-4">
+                        <p class="font-semibold">15. ______ Mary (have) ______ short hair?</p>
+                        <input type="text" id="q15" class="text-input" placeholder="Điền cả trợ động từ và động từ">
+                    </div>
+                </div>
+
+                <!-- IV. Underline the correct answer -->
+                <div class="question-card" id="part4">
+                    <h2 class="text-xl font-bold mb-4 text-blue-700">IV. Choose the correct answer to complete sentences.</h2>
+                    <!-- Question 16 -->
+                    <div class="mb-6">
+                        <p class="font-semibold">16. What ______ opposite your house?</p>
+                        <div class="grid grid-cols-2 gap-2 mt-2">
+                            <label class="option-label"><input type="radio" name="q16" value="A"> A. is there</label>
+                            <label class="option-label"><input type="radio" name="q16" value="B"> B. there is</label>
+                        </div>
+                    </div>
+                    <!-- Question 17 -->
+                    <div class="mb-6">
+                        <p class="font-semibold">17. Our store is ______ the photocopy store.</p>
+                        <div class="grid grid-cols-2 gap-2 mt-2">
+                            <label class="option-label"><input type="radio" name="q17" value="A"> A. next</label>
+                            <label class="option-label"><input type="radio" name="q17" value="B"> B. next to</label>
+                        </div>
+                    </div>
+                    <!-- Question 18 -->
+                    <div class="mb-6">
+                        <p class="font-semibold">18. The police station is between the drugstore ______ the bookstore.</p>
+                        <div class="grid grid-cols-2 gap-2 mt-2">
+                            <label class="option-label"><input type="radio" name="q18" value="A"> A. or</label>
+                            <label class="option-label"><input type="radio" name="q18" value="B"> B. and</label>
+                        </div>
+                    </div>
+                    <!-- Question 19 -->
+                    <div class="mb-6">
+                        <p class="font-semibold">19. Is her school ______ the park?</p>
+                        <div class="grid grid-cols-2 gap-2 mt-2">
+                            <label class="option-label"><input type="radio" name="q19" value="A"> A. in front of</label>
+                            <label class="option-label"><input type="radio" name="q19" value="B"> B. of front in</label>
+                        </div>
+                    </div>
+                    <!-- Question 20 -->
+                    <div class="mb-6">
+                        <p class="font-semibold">20. There ______ a restaurant and two hotels on our street.</p>
+                        <div class="grid grid-cols-2 gap-2 mt-2">
+                            <label class="option-label"><input type="radio" name="q20" value="A"> A. is</label>
+                            <label class="option-label"><input type="radio" name="q20" value="B"> B. are</label>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- V. Choose the letter A, B, C, or D that needs correcting. -->
+                <div class="question-card" id="part5">
+                    <h2 class="text-xl font-bold mb-4 text-blue-700">V. Choose the letter A, B, C, or D that needs correcting.</h2>
+                    <!-- Question 21 -->
+                    <div class="mb-6">
+                        <p class="font-semibold">21. She <u>get up</u><sub>(B)</sub> at 6:30 <u>every day</u><sub>(D)</sub>.</p>
+                        <div class="grid grid-cols-2 md:grid-cols-4 gap-2 mt-2">
+                            <label class="option-label"><input type="radio" name="q21" value="A"> A. She</label>
+                            <label class="option-label"><input type="radio" name="q21" value="B"> B. get up</label>
+                            <label class="option-label"><input type="radio" name="q21" value="C"> C. at 6:30</label>
+                            <label class="option-label"><input type="radio" name="q21" value="D"> D. every day</label>
+                        </div>
+                    </div>
+                     <!-- Question 22 -->
+                    <div class="mb-6">
+                        <p class="font-semibold">22. She <u>plays</u><sub>(B)</sub> sports <u>in afternoon</u><sub>(D)</sub>.</p>
+                        <div class="grid grid-cols-2 md:grid-cols-4 gap-2 mt-2">
+                            <label class="option-label"><input type="radio" name="q22" value="A"> A. She</label>
+                            <label class="option-label"><input type="radio" name="q22" value="B"> B. plays</label>
+                            <label class="option-label"><input type="radio" name="q22" value="C"> C. sports</label>
+                            <label class="option-label"><input type="radio" name="q22" value="D"> D. in afternoon</label>
+                        </div>
+                    </div>
+                    <!-- Question 23 -->
+                    <div class="mb-6">
+                        <p class="font-semibold">23. <u>Every evening</u><sub>(A)</sub>, she <u>do her</u><sub>(C)</sub> homework.</p>
+                        <div class="grid grid-cols-2 md:grid-cols-4 gap-2 mt-2">
+                            <label class="option-label"><input type="radio" name="q23" value="A"> A. Every evening</label>
+                            <label class="option-label"><input type="radio" name="q23" value="B"> B. she</label>
+                            <label class="option-label"><input type="radio" name="q23" value="C"> C. do her</label>
+                            <label class="option-label"><input type="radio" name="q23" value="D"> D. homework</label>
+                        </div>
+                    </div>
+                     <!-- Question 24 -->
+                    <div class="mb-6">
+                        <p class="font-semibold">24. There <u>are</u><sub>(A)</sub> trees and flowers <u>on</u><sub>(D)</sub> the park.</p>
+                        <div class="grid grid-cols-2 md:grid-cols-4 gap-2 mt-2">
+                            <label class="option-label"><input type="radio" name="q24" value="A"> A. are</label>
+                            <label class="option-label"><input type="radio" name="q24" value="B"> B. trees</label>
+                            <label class="option-label"><input type="radio" name="q24" value="C"> C. flowers</label>
+                            <label class="option-label"><input type="radio" name="q24" value="D"> D. on</label>
+                        </div>
+                    </div>
+                    <!-- Question 25 -->
+                    <div class="mb-6">
+                        <p class="font-semibold">25. What colour <u>are</u><sub>(B)</sub> her hair? It <u>is</u><sub>(C)</sub> red.</p>
+                        <div class="grid grid-cols-2 md:grid-cols-4 gap-2 mt-2">
+                            <label class="option-label"><input type="radio" name="q25" value="A"> A. What</label>
+                            <label class="option-label"><input type="radio" name="q25" value="B"> B. are</label>
+                            <label class="option-label"><input type="radio" name="q25" value="C"> C. is</label>
+                            <label class="option-label"><input type="radio" name="q25" value="D"> D. red</label>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- VI. READING -->
+                <div class="question-card" id="part6">
+                    <h2 class="text-xl font-bold mb-4 text-blue-700">VI. READING</h2>
+                    <div class="bg-slate-50 p-4 rounded-lg mb-4">
+                        <p class="question-title">Read the following passage, then choose the correct answer A, B, C or D.</p>
+                        <p class="text-slate-700 leading-relaxed">
+                            Jack is my best friend. He is a teacher. He's teaching in a school in London. Every morning he gets up at about 7 o'clock, has breakfast and a cup of coffee. Then he leaves for work. The school is far from his home, so he can't walk there. He must go by bus. He has lunch at a restaurant nearby. In the afternoon he works until 5 or 5:30 and then he goes home. He doesn't work on Saturdays or Sundays. He goes to the cinema or theatre. He is married and he has a son. He loves his family. They are very happy.
+                        </p>
+                    </div>
+                    <!-- Question 26 -->
+                    <div class="mb-6">
+                        <p class="font-semibold">26. What's Jack's job?</p>
+                        <div class="grid grid-cols-2 md:grid-cols-4 gap-2 mt-2">
+                            <label class="option-label"><input type="radio" name="q26" value="A"> A. a student</label>
+                            <label class="option-label"><input type="radio" name="q26" value="B"> B. a teacher</label>
+                            <label class="option-label"><input type="radio" name="q26" value="C"> C. a writer</label>
+                            <label class="option-label"><input type="radio" name="q26" value="D"> D. a doctor</label>
+                        </div>
+                    </div>
+                    <!-- Question 27 -->
+                    <div class="mb-6">
+                        <p class="font-semibold">27. What does "leave for" mean?</p>
+                        <div class="grid grid-cols-2 md:grid-cols-4 gap-2 mt-2">
+                            <label class="option-label"><input type="radio" name="q27" value="A"> A. run to</label>
+                            <label class="option-label"><input type="radio" name="q27" value="B"> B. swim to</label>
+                            <label class="option-label"><input type="radio" name="q27" value="C"> C. fly to</label>
+                            <label class="option-label"><input type="radio" name="q27" value="D"> D. go to</label>
+                        </div>
+                    </div>
+                    <!-- Question 28 -->
+                    <div class="mb-6">
+                        <p class="font-semibold">28. What's his favorite drink?</p>
+                        <div class="grid grid-cols-2 md:grid-cols-4 gap-2 mt-2">
+                            <label class="option-label"><input type="radio" name="q28" value="A"> A. milk</label>
+                            <label class="option-label"><input type="radio" name="q28" value="B"> B. tea</label>
+                            <label class="option-label"><input type="radio" name="q28" value="C"> C. coffee</label>
+                            <label class="option-label"><input type="radio" name="q28" value="D"> D. lemonade</label>
+                        </div>
+                    </div>
+                    <!-- Question 29 -->
+                    <div class="mb-6">
+                        <p class="font-semibold">29. According to the passage, which of the following statements is not true?</p>
+                        <div class="grid grid-cols-1 md:grid-cols-2 gap-2 mt-2">
+                            <label class="option-label"><input type="radio" name="q29" value="A"> A. He doesn't have lunch at home.</label>
+                            <label class="option-label"><input type="radio" name="q29" value="B"> B. He works in a school.</label>
+                            <label class="option-label"><input type="radio" name="q29" value="C"> C. He doesn't have any son.</label>
+                            <label class="option-label"><input type="radio" name="q29" value="D"> D. He goes to work by bus.</label>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- VII. WRITING -->
+                <div class="question-card" id="part7">
+                    <h2 class="text-xl font-bold mb-4 text-blue-700">VII. WRITING</h2>
+                    <p class="question-title">Make sentences using the words and phrases given.</p>
+                    <div class="mb-4">
+                        <p class="font-semibold">30. Mai and Lan / my / new / friends.</p>
+                        <input type="text" id="q30" class="text-input">
+                    </div>
+                    <div class="mb-4">
+                        <p class="font-semibold">31. They / 11 years old / and / they / be / class / 6A.</p>
+                        <input type="text" id="q31" class="text-input">
+                    </div>
+                    <div class="mb-4">
+                        <p class="font-semibold">32. They / live / Hai Ba Trung Street.</p>
+                        <input type="text" id="q32" class="text-input">
+                    </div>
+                </div>
+
+                <!-- VIII. SENTENCE TRANSFORMATION -->
+                <div class="question-card" id="part8">
+                     <h2 class="text-xl font-bold mb-4 text-blue-700">VIII. Use the words given and other words, complete the second sentence so that it has a similar meaning to the first sentence.</h2>
+                     <div class="mb-4">
+                        <p class="font-semibold">33. The lamp is behind the computer. => The computer ______ the lamp.</p>
+                        <input type="text" id="q33" class="text-input" placeholder="is in front of">
+                    </div>
+                     <div class="mb-4">
+                        <p class="font-semibold">34. There is an air conditioner and a ceiling fan in our living room. => Our living room ______ an air conditioner and a ceiling fan.</p>
+                        <input type="text" id="q34" class="text-input" placeholder="has">
+                    </div>
+                     <div class="mb-4">
+                        <p class="font-semibold">35. My favorite room in the house is the living room. => I like ______ in the house.</p>
+                        <input type="text" id="q35" class="text-input" placeholder="the living room best">
+                    </div>
+                </div>
+
+                <div class="text-center mt-8">
+                    <button type="button" id="submitBtn" class="submit-btn text-lg">Nộp Bài</button>
+                </div>
+            </form>
+        </div>
+
+        <!-- Teacher View -->
+        <div id="teacher-view" class="hidden">
+            <header class="text-center mb-8 bg-white p-6 rounded-xl shadow-md">
+                <h1 class="text-3xl font-bold text-slate-800">Chế Độ Giáo Viên</h1>
+                <p class="text-slate-600 mt-2">Dán dữ liệu bài làm của học sinh vào đây để xem chi tiết.</p>
+            </header>
+            <div class="question-card">
+                <textarea id="studentDataInput" class="text-input h-40" placeholder="Dán chuỗi dữ liệu của học sinh vào đây..."></textarea>
+                <button id="viewSubmissionBtn" class="submit-btn mt-4">Xem Bài Làm</button>
+            </div>
+            <div id="submission-details" class="mt-6"></div>
+        </div>
+
+    </div>
+
+    <!-- Results Modal for Student -->
+    <div id="results-modal" class="fixed inset-0 bg-gray-600 bg-opacity-50 overflow-y-auto h-full w-full flex items-center justify-center" style="display: none;">
+        <div class="modal-content">
+            <h2 class="text-2xl font-bold mb-4">Kết Quả Bài Làm</h2>
+            <p id="finalScore" class="text-xl mb-4"></p>
+            <p class="text-left text-red-600 font-semibold">QUAN TRỌNG: Hãy sao chép TOÀN BỘ nội dung dưới đây và gửi cho giáo viên của bạn.</p>
+            <textarea id="submissionData" readonly></textarea>
+            <button id="closeModalBtn" class="submit-btn mt-4">Đóng</button>
+        </div>
+    </div>
+
+
+    <script>
+        // --- CONFIGURATION ---
+        const totalAutoGradedQuestions = 29; // Total questions that are auto-graded
+        const pointsPerQuestion = 10 / totalAutoGradedQuestions;
+
+        const correctAnswers = {
+            q1: 'B', q2: 'C', q3: 'A', q4: 'D',
+            q5: 'A', q6: 'C', q7: 'C', q8: 'B', q9: 'B', q10: 'C',
+            q11: 'plays', q12: 'are visiting', q13: "don't go", q14: "doesn't work", q15: 'does have',
+            q16: 'A', q17: 'B', q18: 'B', q19: 'A', q20: 'A',
+            q21: 'B', q22: 'D', q23: 'C', q24: 'D', q25: 'B',
+            q26: 'B', q27: 'D', q28: 'C', q29: 'C',
+            // Writing parts are manually graded
+            q30: 'Mai and Lan are my new friends.',
+            q31: 'They are 11 years old and they are in class 6A.',
+            q32: 'They live on Hai Ba Trung Street.',
+            q33: 'is in front of',
+            q34: 'has an air conditioner and a', // Simplified for auto-check
+            q35: 'the living room best'
+        };
+
+        // --- DOM ELEMENTS ---
+        const submitBtn = document.getElementById('submitBtn');
+        const studentNameInput = document.getElementById('studentName');
+        const quizForm = document.getElementById('quizForm');
+        const resultsModal = document.getElementById('results-modal');
+        const closeModalBtn = document.getElementById('closeModalBtn');
+        const finalScoreEl = document.getElementById('finalScore');
+        const submissionDataEl = document.getElementById('submissionData');
+
+        const studentView = document.getElementById('student-view');
+        const teacherView = document.getElementById('teacher-view');
+        const studentDataInput = document.getElementById('studentDataInput');
+        const viewSubmissionBtn = document.getElementById('viewSubmissionBtn');
+        const submissionDetailsEl = document.getElementById('submission-details');
+
+        // --- FUNCTIONS ---
+        function calculateScore() {
+            let score = 0;
+            const studentAnswers = {};
+            const formData = new FormData(quizForm);
+
+            // Process radio button questions (Parts I, II, IV, V, VI)
+            for (let i = 1; i <= 29; i++) {
+                if (i >= 11 && i <= 15) continue; // Skip text inputs for now
+                const questionName = `q${i}`;
+                const answer = formData.get(questionName);
+                studentAnswers[questionName] = answer || "Chưa trả lời";
+                if (answer === correctAnswers[questionName]) {
+                    score++;
+                }
+            }
+            
+            // Process text input questions (Part III)
+            for (let i = 11; i <= 15; i++) {
+                 const questionId = `q${i}`;
+                 const inputElement = document.getElementById(questionId);
+                 const answer = inputElement.value.trim().toLowerCase().replace(/\s+/g, ' ');
+                 studentAnswers[questionId] = inputElement.value || "Chưa trả lời";
+                 const correctAnswer = correctAnswers[questionId].toLowerCase().replace(/\s+/g, ' ');
+                 if (answer === correctAnswer) {
+                     score++;
+                 }
+            }
+
+            // Get answers for writing parts (not scored automatically)
+            for (let i = 30; i <= 35; i++) {
+                const questionId = `q${i}`;
+                studentAnswers[questionId] = document.getElementById(questionId).value || "Chưa trả lời";
+            }
+
+            const finalScore = (score * pointsPerQuestion).toFixed(2);
+            return { finalScore, studentAnswers };
+        }
+
+        function showResults(score, answers) {
+            const studentName = studentNameInput.value.trim() || "Chưa nhập tên";
+            finalScoreEl.textContent = `Điểm trắc nghiệm của bạn: ${score} / 10.0`;
+            
+            const submission = {
+                studentName: studentName,
+                score: score,
+                answers: answers,
+                submittedAt: new Date().toLocaleString('vi-VN')
+            };
+            
+            // NEW: Send submission to server log
+            fetch('/log-submission', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify(submission)
+            })
+            .then(response => {
+                if(response.ok) {
+                    console.log('Bài làm đã được gửi thành công tới server.');
+                } else {
+                    console.error('Gửi bài làm tới server thất bại.');
+                }
+            })
+            .catch(err => console.error('Lỗi khi gửi bài làm tới server:', err));
+
+            // Save to local storage (as a fallback)
+            const submissions = JSON.parse(localStorage.getItem('quizSubmissions')) || [];
+            submissions.push(submission);
+            localStorage.setItem('quizSubmissions', JSON.stringify(submissions));
+
+            // Display data for student to copy
+            submissionDataEl.value = JSON.stringify(submission);
+            resultsModal.style.display = 'flex';
+        }
+        
+        function displayTeacherView(submission) {
+            let detailsHtml = `<div class="question-card">
+                <h3 class="text-xl font-bold mb-4">Chi tiết bài làm của: ${submission.studentName}</h3>
+                <p><strong>Thời gian nộp:</strong> ${submission.submittedAt}</p>
+                <p><strong>Điểm trắc nghiệm:</strong> ${submission.score} / 10.0</p>
+                <hr class="my-4">
+            `;
+            
+            for (let i = 1; i <= 35; i++) {
+                const qKey = `q${i}`;
+                const studentAnswer = submission.answers[qKey] || 'N/A';
+                const correctAnswer = correctAnswers[qKey] || 'N/A';
+                
+                let isCorrect = false;
+                if (typeof studentAnswer === 'string' && typeof correctAnswer === 'string') {
+                    isCorrect = studentAnswer.trim().toLowerCase() === correctAnswer.trim().toLowerCase();
+                }
+
+                const colorClass = isCorrect ? 'text-green-600' : 'text-red-600';
+
+                detailsHtml += `
+                    <div class="mb-3 p-2 border-l-4 ${isCorrect ? 'border-green-500' : 'border-red-500'} bg-gray-50 rounded-r-lg">
+                        <p><strong>Câu ${i}:</strong></p>
+                        <p class="${colorClass}"><strong>Học sinh trả lời:</strong> ${studentAnswer}</p>
+                        <p class="text-blue-600"><strong>Đáp án đúng:</strong> ${correctAnswer}</p>
+                    </div>
+                `;
+            }
+
+            detailsHtml += '</div>';
+            submissionDetailsEl.innerHTML = detailsHtml;
+        }
+
+        function checkTeacherMode() {
+            // Teacher can enable this mode by opening browser console and typing:
+            // localStorage.setItem('isTeacher', 'true');
+            // And then refreshing the page.
+            if (localStorage.getItem('isTeacher') === 'true') {
+                studentView.style.display = 'none';
+                teacherView.style.display = 'block';
+            } else {
+                studentView.style.display = 'block';
+                teacherView.style.display = 'none';
+            }
+        }
+
+        // --- EVENT LISTENERS ---
+        submitBtn.addEventListener('click', () => {
+            if (!studentNameInput.value.trim()) {
+                alert('Vui lòng nhập họ và tên của bạn trước khi nộp bài.');
+                studentNameInput.focus();
+                return;
+            }
+            const { finalScore, studentAnswers } = calculateScore();
+            showResults(finalScore, studentAnswers);
+        });
+
+        closeModalBtn.addEventListener('click', () => {
+            resultsModal.style.display = 'none';
+        });
+
+        viewSubmissionBtn.addEventListener('click', () => {
+            try {
+                const submission = JSON.parse(studentDataInput.value);
+                displayTeacherView(submission);
+            } catch (error) {
+                alert('Dữ liệu không hợp lệ. Vui lòng kiểm tra lại chuỗi dữ liệu bạn đã dán.');
+                console.error("Error parsing submission data:", error);
+            }
+        });
+        
+        // --- INITIALIZATION ---
+        window.addEventListener('load', () => {
+             checkTeacherMode();
+             console.log("HƯỚNG DẪN DÀNH CHO GIÁO VIÊN:");
+             console.log("1. Gửi file HTML này (hoặc link ngrok) cho học sinh.");
+             console.log("2. KHI HỌC SINH NỘP BÀI, KẾT QUẢ SẼ TỰ ĐỘNG ĐƯỢC GỬI TỚI SERVER CỦA BẠN.");
+             console.log("   Bạn cần thiết lập một endpoint POST tại '/log-submission' để nhận và ghi lại dữ liệu JSON.");
+             console.log("3. (Phương án dự phòng) Học sinh vẫn có thể sao chép chuỗi dữ liệu để gửi cho bạn thủ công.");
+             console.log("4. Để vào chế độ chấm bài thủ công, mở Console (nhấn F12), gõ lệnh sau rồi Enter:");
+             console.log("   localStorage.setItem('isTeacher', 'true')");
+             console.log("5. Tải lại trang. Bạn sẽ thấy giao diện của giáo viên.");
+             console.log("6. Dán chuỗi dữ liệu của học sinh vào ô và nhấn 'Xem Bài Làm'.");
+             console.log("7. Để quay lại chế độ học sinh, gõ: localStorage.removeItem('isTeacher') rồi tải lại trang.");
+        });
+
+    </script>
+</body>
+</html>

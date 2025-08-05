@@ -1,0 +1,467 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bài tập Tiếng Anh - Unit 1: My New School</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        /* Custom styles for better look and feel */
+        @import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;700&display=swap');
+        body {
+            font-family: 'Be Vietnam Pro', sans-serif;
+            background-color: #f0f4f8;
+        }
+        .section-header {
+            background-color: #1e3a8a;
+            color: white;
+            padding: 1rem 2rem;
+            border-radius: 12px;
+            margin-bottom: 1.5rem;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        .exercise-container {
+            background-color: white;
+            border-radius: 12px;
+            padding: 2rem;
+            margin-bottom: 1.5rem;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            transition: all 0.3s ease-in-out;
+        }
+        .exercise-container:hover {
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+        }
+        .exercise-title {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: #1e3a8a;
+            border-bottom: 2px solid #3b82f6;
+            padding-bottom: 0.5rem;
+            margin-bottom: 1.5rem;
+        }
+        .question-number {
+            font-weight: 600;
+            color: #1e3a8a;
+            margin-right: 0.5rem;
+            display: inline-block;
+            width: 25px;
+            flex-shrink: 0;
+        }
+        input[type="text"] {
+            border: 1px solid #cbd5e1;
+            border-radius: 6px;
+            padding: 0.5rem 0.75rem;
+            transition: all 0.3s ease;
+            outline: none;
+            font-weight: 500;
+            color: #334155;
+            margin: 0 4px;
+        }
+        .full-sentence-input {
+            width: 100%;
+            margin-top: 0.5rem;
+        }
+        input[type="text"]:focus {
+            border-color: #3b82f6;
+            box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.2);
+        }
+        .correct {
+            border-color: #16a34a !important;
+            background-color: #f0fdf4 !important;
+        }
+        .incorrect {
+            border-color: #dc2626 !important;
+            background-color: #fef2f2 !important;
+        }
+        .action-button {
+            padding: 0.75rem 1.5rem;
+            border-radius: 8px;
+            font-weight: 600;
+            color: white;
+            transition: all 0.3s ease;
+            cursor: pointer;
+            border: none;
+        }
+        .check-btn { background-color: #2563eb; }
+        .check-btn:hover { background-color: #1d4ed8; }
+        .show-btn { background-color: #16a34a; }
+        .show-btn:hover { background-color: #15803d; }
+        .reset-btn { background-color: #94a3b8; }
+        .reset-btn:hover { background-color: #64748b; }
+        #score-container {
+            font-size: 1.25rem;
+            font-weight: 700;
+            padding: 1rem;
+            border-radius: 8px;
+            margin-top: 1rem;
+            text-align: center;
+        }
+        .prompt {
+            color: #475569;
+            font-style: italic;
+        }
+        .matching-grid {
+            display: grid;
+            grid-template-columns: 1fr auto 1fr;
+            gap: 0.5rem 1rem;
+            align-items: center;
+        }
+        .matching-grid p { margin: 0.5rem 0; }
+        .error-word {
+            text-decoration: underline;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body class="p-4 md:p-8">
+
+    <div class="max-w-4xl mx-auto">
+        <header class="text-center mb-8">
+            <h1 class="text-3xl md:text-4xl font-bold text-blue-800">PHIẾU BÀI TẬP TIẾNG ANH (HOÀN CHỈNH)</h1>
+            <p class="text-xl md:text-2xl font-semibold text-blue-600 mt-2">Unit 1: My New School (Global Success)</p>
+        </header>
+
+        <!-- Vocabulary Section -->
+        <div class="section-header">
+            <h2 class="text-2xl font-bold">Phần A: Từ vựng</h2>
+        </div>
+
+        <!-- Exercise 1: Matching -->
+        <div class="exercise-container">
+            <h3 class="exercise-title text-xl">Bài 1: Nối từ với định nghĩa</h3>
+            <div class="matching-grid">
+                <div class="font-bold text-lg text-center text-blue-700">A</div><div></div><div class="font-bold text-lg text-center text-blue-700">B</div>
+                <p>1. classmate</p> <input type="text" data-answer="f" class="answer-input w-12 text-center"> <p>F. a person who is in the same class as you</p>
+                <p>2. uniform</p> <input type="text" data-answer="h" class="answer-input w-12 text-center"> <p>H. special clothes that students wear to school</p>
+                <p>3. library</p> <input type="text" data-answer="a" class="answer-input w-12 text-center"> <p>A. a place with a lot of books to read or borrow</p>
+                <p>4. homework</p> <input type="text" data-answer="j" class="answer-input w-12 text-center"> <p>J. work that a teacher gives a student to do at home</p>
+                <p>5. lesson</p> <input type="text" data-answer="b" class="answer-input w-12 text-center"> <p>B. a period of time in which a person is taught about a subject</p>
+                <p>6. subject</p> <input type="text" data-answer="i" class="answer-input w-12 text-center"> <p>I. an area of knowledge studied in school</p>
+                <p>7. break time</p> <input type="text" data-answer="c" class="answer-input w-12 text-center"> <p>C. a short period of rest between lessons</p>
+                <p>8. excited</p> <input type="text" data-answer="k" class="answer-input w-12 text-center"> <p>K. feeling very happy and enthusiastic</p>
+                <p>9. gym</p> <input type="text" data-answer="d" class="answer-input w-12 text-center"> <p>D. a large room with equipment for physical exercise</p>
+                <p>10. heavy</p> <input type="text" data-answer="l" class="answer-input w-12 text-center"> <p>L. weighing a lot; difficult to lift or carry</p>
+                <p>11. canteen</p> <input type="text" data-answer="e" class="answer-input w-12 text-center"> <p>E. a place in a school where food and drink are served</p>
+                <p>12. creative</p> <input type="text" data-answer="g" class="answer-input w-12 text-center"> <p>G. good at thinking of new ideas or making new things</p>
+            </div>
+        </div>
+
+        <!-- Exercise 2: Fill in the Blanks -->
+        <div class="exercise-container">
+            <h3 class="exercise-title text-xl">Bài 2: Điền từ vào chỗ trống</h3>
+            <div class="text-center bg-blue-50 border border-blue-200 p-3 rounded-lg mb-6">
+                <p class="font-semibold text-blue-800">
+                    uniform / library / friends / lessons / heavy / subject / homework / creative / international / science / break / excited
+                </p>
+            </div>
+            <div class="space-y-4">
+                <p><span class="question-number">1.</span> My favourite <input type="text" data-answer="subject" class="answer-input"> is Art because I'm a <input type="text" data-answer="creative" class="answer-input"> person.</p>
+                <p><span class="question-number">2.</span> I feel so <input type="text" data-answer="excited" class="answer-input"> about my first day at the new school.</p>
+                <p><span class="question-number">3.</span> We have five <input type="text" data-answer="lessons" class="answer-input"> today, including Maths and English.</p>
+                <p><span class="question-number">4.</span> My school is an <input type="text" data-answer="international" class="answer-input"> school with students from many countries.</p>
+                <p><span class="question-number">5.</span> We do experiments in the <input type="text" data-answer="science" class="answer-input"> class.</p>
+                <p><span class="question-number">6.</span> My school bag is <input type="text" data-answer="heavy" class="answer-input"> today because I have a lot of books.</p>
+                <p><span class="question-number">7.</span> During <input type="text" data-answer="break" class="answer-input"> time, I often go to the <input type="text" data-answer="library" class="answer-input"> to read books.</p>
+                <p><span class="question-number">8.</span> Students must wear their school <input type="text" data-answer="uniform" class="answer-input"> when they go to school.</p>
+                <p><span class="question-number">9.</span> My teacher gives us a lot of <input type="text" data-answer="homework" class="answer-input">, so I'm very busy in the evening.</p>
+                <p><span class="question-number">10.</span> It's important to have good <input type="text" data-answer="friends" class="answer-input"> at school to share happiness and sadness.</p>
+            </div>
+        </div>
+        
+        <!-- Exercise 3: Odd One Out -->
+        <div class="exercise-container">
+            <h3 class="exercise-title text-xl">Bài 3: Tìm từ khác loại</h3>
+            <div class="space-y-4">
+                <p><span class="question-number">1.</span> A. teacher &nbsp;&nbsp;B. student &nbsp;&nbsp;C. doctor &nbsp;&nbsp;D. classmate &rarr; <input type="text" data-answer="c" class="answer-input w-12"></p>
+                <p><span class="question-number">2.</span> A. Maths &nbsp;&nbsp;B. English &nbsp;&nbsp;C. book &nbsp;&nbsp;D. History &rarr; <input type="text" data-answer="c" class="answer-input w-12"></p>
+                <p><span class="question-number">3.</span> A. play &nbsp;&nbsp;B. study &nbsp;&nbsp;C. beautiful &nbsp;&nbsp;D. do &rarr; <input type="text" data-answer="c" class="answer-input w-12"></p>
+                <p><span class="question-number">4.</span> A. library &nbsp;&nbsp;B. classroom &nbsp;&nbsp;C. gym &nbsp;&nbsp;D. lesson &rarr; <input type="text" data-answer="d" class="answer-input w-12"></p>
+                <p><span class="question-number">5.</span> A. uniform &nbsp;&nbsp;B. notebook &nbsp;&nbsp;C. calculator &nbsp;&nbsp;D. pencil &rarr; <input type="text" data-answer="a" class="answer-input w-12"></p>
+                <p><span class="question-number">6.</span> A. morning &nbsp;&nbsp;B. afternoon &nbsp;&nbsp;C. evening &nbsp;&nbsp;D. homework &rarr; <input type="text" data-answer="d" class="answer-input w-12"></p>
+                <p><span class="question-number">7.</span> A. ride &nbsp;&nbsp;B. drive &nbsp;&nbsp;C. walk &nbsp;&nbsp;D. have &rarr; <input type="text" data-answer="d" class="answer-input w-12"></p>
+                <p><span class="question-number">8.</span> A. Monday &nbsp;&nbsp;B. Tuesday &nbsp;&nbsp;C. subject &nbsp;&nbsp;D. Friday &rarr; <input type="text" data-answer="c" class="answer-input w-12"></p>
+                <p><span class="question-number">9.</span> A. friend &nbsp;&nbsp;B. brother &nbsp;&nbsp;C. sister &nbsp;&nbsp;D. teacher &rarr; <input type="text" data-answer="d" class="answer-input w-12"></p>
+                <p><span class="question-number">10.</span> A. nice &nbsp;&nbsp;B. big &nbsp;&nbsp;C. new &nbsp;&nbsp;D. school &rarr; <input type="text" data-answer="d" class="answer-input w-12"></p>
+                <p><span class="question-number">11.</span> A. football &nbsp;&nbsp;B. judo &nbsp;&nbsp;C. breakfast &nbsp;&nbsp;D. badminton &rarr; <input type="text" data-answer="c" class="answer-input w-12"></p>
+                <p><span class="question-number">12.</span> A. read &nbsp;&nbsp;B. write &nbsp;&nbsp;C. listen &nbsp;&nbsp;D. quiet &rarr; <input type="text" data-answer="d" class="answer-input w-12"></p>
+            </div>
+        </div>
+
+        <!-- Grammar Section -->
+        <div class="section-header">
+            <h2 class="text-2xl font-bold">Phần B: Ngữ pháp và Cấu trúc</h2>
+        </div>
+
+        <!-- Exercise 4: Verb Forms -->
+        <div class="exercise-container">
+            <h3 class="exercise-title text-xl">Bài 4: Dạng đúng của động từ</h3>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+                <div>
+                    <h4 class="font-bold text-lg mb-3 text-slate-700">A. Thêm -s / -es</h4>
+                    <ol class="list-decimal list-inside space-y-3">
+                        <li>go &rarr; <input type="text" data-answer="goes" class="answer-input"></li>
+                        <li>study &rarr; <input type="text" data-answer="studies" class="answer-input"></li>
+                        <li>watch &rarr; <input type="text" data-answer="watches" class="answer-input"></li>
+                        <li>have &rarr; <input type="text" data-answer="has" class="answer-input"></li>
+                        <li>play &rarr; <input type="text" data-answer="plays" class="answer-input"></li>
+                        <li>fix &rarr; <input type="text" data-answer="fixes" class="answer-input"></li>
+                        <li>wash &rarr; <input type="text" data-answer="washes" class="answer-input"></li>
+                        <li>pass &rarr; <input type="text" data-answer="passes" class="answer-input"></li>
+                        <li>fly &rarr; <input type="text" data-answer="flies" class="answer-input"></li>
+                        <li>do &rarr; <input type="text" data-answer="does" class="answer-input"></li>
+                        <li>enjoy &rarr; <input type="text" data-answer="enjoys" class="answer-input"></li>
+                        <li>miss &rarr; <input type="text" data-answer="misses" class="answer-input"></li>
+                    </ol>
+                </div>
+                <div>
+                    <h4 class="font-bold text-lg mb-3 text-slate-700">B. Thêm -ing</h4>
+                    <ol class="list-decimal list-inside space-y-3">
+                        <li>run &rarr; <input type="text" data-answer="running" class="answer-input"></li>
+                        <li>write &rarr; <input type="text" data-answer="writing" class="answer-input"></li>
+                        <li>study &rarr; <input type="text" data-answer="studying" class="answer-input"></li>
+                        <li>get &rarr; <input type="text" data-answer="getting" class="answer-input"></li>
+                        <li>swim &rarr; <input type="text" data-answer="swimming" class="answer-input"></li>
+                        <li>stop &rarr; <input type="text" data-answer="stopping" class="answer-input"></li>
+                        <li>sit &rarr; <input type="text" data-answer="sitting" class="answer-input"></li>
+                        <li>plan &rarr; <input type="text" data-answer="planning" class="answer-input"></li>
+                        <li>lie &rarr; <input type="text" data-answer="lying" class="answer-input"></li>
+                        <li>begin &rarr; <input type="text" data-answer="beginning" class="answer-input"></li>
+                        <li>travel &rarr; <input type="text" data-answer="travelling" class="answer-input"></li>
+                        <li>open &rarr; <input type="text" data-answer="opening" class="answer-input"></li>
+                    </ol>
+                </div>
+            </div>
+        </div>
+
+        <!-- Exercise 5: Present Simple vs Continuous -->
+        <div class="exercise-container">
+            <h3 class="exercise-title text-xl">Bài 5: Thì Hiện tại đơn và Hiện tại tiếp diễn</h3>
+            <div class="space-y-4">
+                <p><span class="question-number">1.</span> I usually (walk) <input type="text" data-answer="walk" class="answer-input"> to school with my friends.</p>
+                <p><span class="question-number">2.</span> Look! The teacher (come) <input type="text" data-answer="is coming" class="answer-input">. Let's be quiet!</p>
+                <p><span class="question-number">3.</span> My sister (work) <input type="text" data-answer="works" class="answer-input"> as a journalist. She often (interview) <input type="text" data-answer="interviews" class="answer-input"> famous people.</p>
+                <p><span class="question-number">4.</span> What time <input type="text" data-answer="does your school finish" class="answer-input w-48"> (your school/finish) every day?</p>
+                <p><span class="question-number">5.</span> I can't talk now. I (do) <input type="text" data-answer="am doing" class="answer-input"> my homework.</p>
+                <p><span class="question-number">6.</span> He (not play) <input type="text" data-answer="does not play" class="answer-input"> sports very often.</p>
+                <p><span class="question-number">7.</span> Why <input type="text" data-answer="are you laughing" class="answer-input w-36"> (you/laugh)? The story isn't funny.</p>
+                <p><span class="question-number">8.</span> The Earth (revolve) <input type="text" data-answer="revolves" class="answer-input"> around the Sun.</p>
+                <p><span class="question-number">9.</span> My family (watch) <input type="text" data-answer="is watching" class="answer-input"> a football match on TV at the moment.</p>
+                <p><span class="question-number">10.</span> She rarely (go) <input type="text" data-answer="goes" class="answer-input"> to the cinema because she (prefer) <input type="text" data-answer="prefers" class="answer-input"> reading books.</p>
+                <p><span class="question-number">11.</span> Be careful! The bus (come) <input type="text" data-answer="is coming" class="answer-input">.</p>
+                <p><span class="question-number">12.</span> How many languages <input type="text" data-answer="do you speak" class="answer-input w-36"> (you/speak)?</p>
+            </div>
+        </div>
+
+        <!-- Exercise 6: Verbs + V-ing -->
+        <div class="exercise-container">
+            <h3 class="exercise-title text-xl">Bài 6: Động từ + V-ing</h3>
+            <div class="space-y-4">
+                <p><span class="question-number">1.</span> My dad enjoys (do) <input type="text" data-answer="doing" class="answer-input"> morning exercise.</p>
+                <p><span class="question-number">2.</span> They love (play) <input type="text" data-answer="playing" class="answer-input"> badminton after school.</p>
+                <p><span class="question-number">3.</span> My sister hates (clean) <input type="text" data-answer="cleaning" class="answer-input"> the house on weekends.</p>
+                <p><span class="question-number">4.</span> I don't mind (help) <input type="text" data-answer="helping" class="answer-input"> my mom with the housework.</p>
+                <p><span class="question-number">5.</span> We fancy (go) <input type="text" data-answer="going" class="answer-input"> to the cinema instead of staying home.</p>
+                <p><span class="question-number">6.</span> My mom is good at (cook) <input type="text" data-answer="cooking" class="answer-input"> Vietnamese food.</p>
+                <p><span class="question-number">7.</span> I can't stand (eat) <input type="text" data-answer="eating" class="answer-input"> fast food because it's unhealthy.</p>
+                <p><span class="question-number">8.</span> He is interested in (paint) <input type="text" data-answer="painting" class="answer-input"> pictures of the countryside.</p>
+                <p><span class="question-number">9.</span> Do you prefer (watch) <input type="text" data-answer="watching" class="answer-input"> films at home or at the cinema?</p>
+                <p><span class="question-number">10.</span> She avoids (talk) <input type="text" data-answer="talking" class="answer-input"> to strangers.</p>
+                <p><span class="question-number">11.</span> Keep on (study) <input type="text" data-answer="studying" class="answer-input"> hard and you will pass the exam.</p>
+                <p><span class="question-number">12.</span> He finished (write) <input type="text" data-answer="writing" class="answer-input"> the report late last night.</p>
+            </div>
+        </div>
+
+        <!-- Writing Section -->
+        <div class="section-header">
+            <h2 class="text-2xl font-bold">Phần C: Kỹ năng Viết</h2>
+        </div>
+
+        <!-- Exercise 7: Error Correction -->
+        <div class="exercise-container">
+            <h3 class="exercise-title text-xl">Bài 7: Tìm và sửa lỗi sai</h3>
+            <p class="mb-4 text-slate-600">Mỗi câu sau có một lỗi sai. Tìm và sửa lại cho đúng.</p>
+            <div class="space-y-4">
+                <p><span class="question-number">1.</span> My new school <span class="error-word">are</span> big and modern. &rarr; <input type="text" data-answer="is" class="answer-input w-24"></p>
+                <p><span class="question-number">2.</span> I <span class="error-word">likes</span> my new uniform. &rarr; <input type="text" data-answer="like" class="answer-input w-24"></p>
+                <p><span class="question-number">3.</span> He <span class="error-word">don't</span> have classes on Sunday. &rarr; <input type="text" data-answer="doesn't" class="answer-input w-24"></p>
+                <p><span class="question-number">4.</span> They enjoy <span class="error-word">play</span> football after school. &rarr; <input type="text" data-answer="playing" class="answer-input w-24"></p>
+                <p><span class="question-number">5.</span> What are you <span class="error-word">read</span> now? &rarr; <input type="text" data-answer="reading" class="answer-input w-24"></p>
+                <p><span class="question-number">6.</span> Listen! Someone <span class="error-word">cries</span> in the next room. &rarr; <input type="text" data-answer="is crying" class="answer-input w-24"></p>
+                <p><span class="question-number">7.</span> My brother is good at <span class="error-word">draw</span> pictures. &rarr; <input type="text" data-answer="drawing" class="answer-input w-24"></p>
+                <p><span class="question-number">8.</span> She <span class="error-word">studys</span> hard every day. &rarr; <input type="text" data-answer="studies" class="answer-input w-24"></p>
+                <p><span class="question-number">9.</span> We have <span class="error-word">a</span> English lesson today. &rarr; <input type="text" data-answer="an" class="answer-input w-24"></p>
+                <p><span class="question-number">10.</span> My school has a library <span class="error-word">big</span>. &rarr; <input type="text" data-answer="big library" class="answer-input w-24"></p>
+                <p><span class="question-number">11.</span> How <span class="error-word">often you go</span> to the gym? &rarr; <input type="text" data-answer="often do you go" class="answer-input w-36"></p>
+                <p><span class="question-number">12.</span> He is <span class="error-word">rideing</span> his bike to school at the moment. &rarr; <input type="text" data-answer="riding" class="answer-input w-24"></p>
+            </div>
+        </div>
+
+        <!-- Exercise 8: Sentence Completion -->
+        <div class="exercise-container">
+            <h3 class="exercise-title text-xl">Bài 8: Viết câu hoàn chỉnh</h3>
+            <div class="space-y-6">
+                <p class="flex items-start"><span class="question-number">1.</span> <span class="prompt flex-1">I / live / a house / near / school.</span></p>
+                <input type="text" data-answer="I live in a house near the school" class="answer-input full-sentence-input">
+                <p class="flex items-start"><span class="question-number">2.</span> <span class="prompt flex-1">We / often / do / our homework / library.</span></p>
+                <input type="text" data-answer="We often do our homework in the library" class="answer-input full-sentence-input">
+                <p class="flex items-start"><span class="question-number">3.</span> <span class="prompt flex-1">They / wear / school uniform / every Monday?</span></p>
+                <input type="text" data-answer="Do they wear their school uniform every Monday" class="answer-input full-sentence-input">
+                <p class="flex items-start"><span class="question-number">4.</span> <span class="prompt flex-1">He / enjoy / play / football / his friends / at break time.</span></p>
+                <input type="text" data-answer="He enjoys playing football with his friends at break time" class="answer-input full-sentence-input">
+                <p class="flex items-start"><span class="question-number">5.</span> <span class="prompt flex-1">My new school / be / not as big / as / my old one.</span></p>
+                <input type="text" data-answer="My new school is not as big as my old one" class="answer-input full-sentence-input">
+                <p class="flex items-start"><span class="question-number">6.</span> <span class="prompt flex-1">She / not like / get up / early / on Sundays.</span></p>
+                <input type="text" data-answer="She does not like getting up early on Sundays" class="answer-input full-sentence-input">
+                <p class="flex items-start"><span class="question-number">7.</span> <span class="prompt flex-1">What / you / do / at the moment?</span></p>
+                <input type="text" data-answer="What are you doing at the moment" class="answer-input full-sentence-input">
+                <p class="flex items-start"><span class="question-number">8.</span> <span class="prompt flex-1">They / be / excited / about / first day of school.</span></p>
+                <input type="text" data-answer="They are excited about their first day of school" class="answer-input full-sentence-input">
+                <p class="flex items-start"><span class="question-number">9.</span> <span class="prompt flex-1">He / ride / his bike / to school / now?</span></p>
+                <input type="text" data-answer="Is he riding his bike to school now" class="answer-input full-sentence-input">
+                <p class="flex items-start"><span class="question-number">10.</span> <span class="prompt flex-1">My favourite subject / be / English / because / I / want / talk / foreigners.</span></p>
+                <input type="text" data-answer="My favourite subject is English because I want to talk to foreigners" class="answer-input full-sentence-input">
+                <p class="flex items-start"><span class="question-number">11.</span> <span class="prompt flex-1">There / be / a lot of / interesting books / the new library.</span></p>
+                <input type="text" data-answer="There are a lot of interesting books in the new library" class="answer-input full-sentence-input">
+                <p class="flex items-start"><span class="question-number">12.</span> <span class="prompt flex-1">Look! / That girl / try / climb / the tree.</span></p>
+                <input type="text" data-answer="Look! That girl is trying to climb the tree" class="answer-input full-sentence-input">
+            </div>
+        </div>
+
+        <!-- Exercise 9: Unscramble Sentences -->
+        <div class="exercise-container">
+            <h3 class="exercise-title text-xl">Bài 9: Sắp xếp từ thành câu hoàn chỉnh</h2>
+            <div class="space-y-6">
+                 <p class="flex items-start"><span class="question-number">1.</span> <span class="prompt flex-1">is / school / this / my / new / .</span></p>
+                 <input type="text" data-answer="This is my new school" class="answer-input full-sentence-input">
+                 <p class="flex items-start"><span class="question-number">2.</span> <span class="prompt flex-1">friends / play / my / with / I / badminton / often / .</span></p>
+                 <input type="text" data-answer="I often play badminton with my friends" class="answer-input full-sentence-input">
+                 <p class="flex items-start"><span class="question-number">3.</span> <span class="prompt flex-1">listening / to / music / I / enjoy / my / in / free time / .</span></p>
+                 <input type="text" data-answer="I enjoy listening to music in my free time" class="answer-input full-sentence-input">
+                 <p class="flex items-start"><span class="question-number">4.</span> <span class="prompt flex-1">your / is / subject / what / favourite / ?</span></p>
+                 <input type="text" data-answer="What is your favourite subject" class="answer-input full-sentence-input">
+                 <p class="flex items-start"><span class="question-number">5.</span> <span class="prompt flex-1">school / do / to / you / how / go / every day / ?</span></p>
+                 <input type="text" data-answer="How do you go to school every day" class="answer-input full-sentence-input">
+                 <p class="flex items-start"><span class="question-number">6.</span> <span class="prompt flex-1">are / they / in / the / library / studying / at the moment / .</span></p>
+                 <input type="text" data-answer="They are studying in the library at the moment" class="answer-input full-sentence-input">
+                 <p class="flex items-start"><span class="question-number">7.</span> <span class="prompt flex-1">a / school / is / there / yard / big / my / school / in / .</span></p>
+                 <input type="text" data-answer="There is a big school yard in my school" class="answer-input full-sentence-input">
+                 <p class="flex items-start"><span class="question-number">8.</span> <span class="prompt flex-1">do / judo / on / they / usually / Saturdays / .</span></p>
+                 <input type="text" data-answer="They usually do judo on Saturdays" class="answer-input full-sentence-input">
+                 <p class="flex items-start"><span class="question-number">9.</span> <span class="prompt flex-1">is / my / reading / a / brother / interesting / book / now / .</span></p>
+                 <input type="text" data-answer="My brother is reading an interesting book now" class="answer-input full-sentence-input">
+                 <p class="flex items-start"><span class="question-number">10.</span> <span class="prompt flex-1">school / starts / my / at / 7 o'clock / every morning / .</span></p>
+                 <input type="text" data-answer="My school starts at 7 o'clock every morning" class="answer-input full-sentence-input">
+                 <p class="flex items-start"><span class="question-number">11.</span> <span class="prompt flex-1">don't / have / we / on / any / lessons / Sunday / .</span></p>
+                 <input type="text" data-answer="We don't have any lessons on Sunday" class="answer-input full-sentence-input">
+                 <p class="flex items-start"><span class="question-number">12.</span> <span class="prompt flex-1">are / new / there / students / many / in / my class / ?</span></p>
+                 <input type="text" data-answer="Are there many new students in my class" class="answer-input full-sentence-input">
+            </div>
+        </div>
+
+        <!-- Action buttons and score -->
+        <div class="text-center space-x-4 sticky bottom-0 bg-white/80 backdrop-blur-sm py-4 rounded-t-lg">
+            <button id="check-button" class="action-button check-btn">Kiểm tra đáp án</button>
+            <button id="show-button" class="action-button show-btn">Xem đáp án</button>
+            <button id="reset-button" class="action-button reset-btn">Làm lại bài</button>
+        </div>
+        <div id="score-container" class="hidden"></div>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // This script controls the visibility of the "Show Answers" button.
+            // For teachers: To show the button, open the browser's developer console (F12),
+            // go to the "Console" tab, type `localStorage.setItem('teacher', 'true')` and press Enter.
+            // Then, reload the page. The button will appear.
+            const isTeacher = localStorage.getItem('teacher') === 'true';
+            const showButton = document.getElementById('show-button');
+            
+            if (!isTeacher) {
+                showButton.style.display = 'none';
+            }
+
+            const checkButton = document.getElementById('check-button');
+            const resetButton = document.getElementById('reset-button');
+            const answerInputs = document.querySelectorAll('.answer-input');
+            const scoreContainer = document.getElementById('score-container');
+
+            // Function to normalize strings for comparison
+            function normalizeString(str) {
+                return str.trim().toLowerCase()
+                    .replace(/\s+/g, ' ') // Replace multiple spaces with a single space
+                    .replace("don't", "do not")
+                    .replace("doesn't", "does not")
+                    .replace("isn't", "is not")
+                    .replace("aren't", "are not")
+                    .replace(/[.?!,]/g, ''); // Remove common punctuation
+            }
+
+            // Event listener for the "Check Answers" button
+            checkButton.addEventListener('click', () => {
+                let correctCount = 0;
+                let totalCount = answerInputs.length;
+
+                answerInputs.forEach(input => {
+                    input.classList.remove('correct', 'incorrect');
+                    const userAnswer = normalizeString(input.value);
+                    const correctAnswer = normalizeString(input.dataset.answer);
+
+                    if (userAnswer === correctAnswer) {
+                        input.classList.add('correct');
+                        correctCount++;
+                    } else if (input.value.trim() !== '') {
+                        input.classList.add('incorrect');
+                    }
+                });
+                
+                // Display the score
+                scoreContainer.innerHTML = `Kết quả: Bạn đã làm đúng ${correctCount} / ${totalCount} câu!`;
+                scoreContainer.classList.remove('hidden');
+                let scorePercentage = totalCount > 0 ? correctCount / totalCount : 0;
+
+                if (scorePercentage >= 0.8) {
+                    scoreContainer.style.backgroundColor = '#dcfce7';
+                    scoreContainer.style.color = '#166534';
+                } else if (scorePercentage >= 0.5) {
+                    scoreContainer.style.backgroundColor = '#fef9c3';
+                    scoreContainer.style.color = '#854d0e';
+                } else {
+                    scoreContainer.style.backgroundColor = '#fee2e2';
+                    scoreContainer.style.color = '#991b1b';
+                }
+                scoreContainer.scrollIntoView({ behavior: 'smooth', block: 'center' });
+            });
+
+            // Event listener for the "Show Answers" button
+            if (isTeacher) {
+                showButton.addEventListener('click', () => {
+                    answerInputs.forEach(input => {
+                        input.classList.remove('correct', 'incorrect');
+                        let answer = input.dataset.answer;
+                        if (input.classList.contains('full-sentence-input') || answer.length === 1) {
+                            answer = answer.charAt(0).toUpperCase() + answer.slice(1);
+                        }
+                        input.value = answer;
+                        input.style.color = '#16a34a';
+                        input.style.fontWeight = 'bold';
+                    });
+                    scoreContainer.classList.add('hidden');
+                });
+            }
+
+            // Event listener for the "Reset" button
+            resetButton.addEventListener('click', () => {
+                answerInputs.forEach(input => {
+                    input.value = '';
+                    input.classList.remove('correct', 'incorrect');
+                    input.style.color = '';
+                    input.style.fontWeight = '';
+                });
+                scoreContainer.classList.add('hidden');
+                window.scrollTo({ top: 0, behavior: 'smooth' });
+            });
+        });
+    </script>
+
+</body>
+</html>

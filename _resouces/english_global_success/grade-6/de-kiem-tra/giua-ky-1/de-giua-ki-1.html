@@ -1,0 +1,679 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Đề Thi Giữa Học Kì 1 - Môn: Tiếng Anh 6 Global Success</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #f0f4f8;
+        }
+        .quiz-container {
+            max-width: 800px;
+            margin: 2rem auto;
+            padding: 2rem;
+            background-color: white;
+            border-radius: 1rem;
+            box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+        }
+        .quiz-section {
+            margin-bottom: 2.5rem;
+            padding: 1.5rem;
+            border: 1px solid #e2e8f0;
+            border-radius: 0.75rem;
+        }
+        .question {
+            margin-bottom: 1.5rem;
+        }
+        .question p {
+            font-weight: 500;
+            margin-bottom: 0.75rem;
+        }
+        .options label {
+            display: block;
+            margin-bottom: 0.5rem;
+            padding: 0.75rem;
+            border-radius: 0.5rem;
+            border: 1px solid #cbd5e1;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+        .options label:hover {
+            background-color: #f1f5f9;
+        }
+        input[type="radio"], input[type="checkbox"] {
+            margin-right: 0.75rem;
+        }
+        input[type="text"] {
+            width: 100%;
+            padding: 0.5rem 0.75rem;
+            border-radius: 0.5rem;
+            border: 1px solid #cbd5e1;
+            transition: border-color 0.2s ease, box-shadow 0.2s ease;
+        }
+        input[type="text"]:focus {
+            outline: none;
+            border-color: #4f46e5;
+            box-shadow: 0 0 0 2px rgba(79, 70, 229, 0.2);
+        }
+        .btn {
+            padding: 0.75rem 1.5rem;
+            border-radius: 0.5rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            border: none;
+        }
+        .btn-primary {
+            background-color: #4f46e5;
+            color: white;
+        }
+        .btn-primary:hover {
+            background-color: #4338ca;
+        }
+        .btn-secondary {
+            background-color: #e2e8f0;
+            color: #1e293b;
+        }
+        .btn-secondary:hover {
+            background-color: #cbd5e1;
+        }
+        .result {
+            font-weight: bold;
+            margin-top: 1rem;
+        }
+        .correct {
+            background-color: #dcfce7 !important;
+            border-color: #22c55e !important;
+        }
+        .incorrect {
+            background-color: #fee2e2 !important;
+            border-color: #ef4444 !important;
+        }
+        .correct-answer-text {
+            color: #16a34a;
+            font-weight: 600;
+            display: none; /* Hidden by default */
+        }
+        .teacher-view .correct-answer-text {
+            display: inline; /* Shown in teacher mode */
+        }
+    </style>
+</head>
+<body class="text-gray-800">
+
+    <div class="quiz-container">
+        <header class="text-center mb-8">
+            <h1 class="text-3xl font-bold text-gray-900">ĐỀ THI GIỮA HỌC KÌ 1 – MÔN: TIẾNG ANH 6</h1>
+            <p class="text-lg text-gray-600">Bộ sách: Global Success</p>
+        </header>
+
+        <div class="bg-indigo-50 border-l-4 border-indigo-500 text-indigo-700 p-4 rounded-md mb-8" role="alert">
+            <p class="font-bold">Hướng dẫn</p>
+            <p>1. Nhập tên của bạn để bắt đầu làm bài. <br>2. Hoàn thành các câu hỏi trong mỗi phần. <br>3. Nhấn nút "Kiểm tra đáp án" ở cuối mỗi phần để xem kết quả. <br>4. Nhấn "Nộp bài và xem tổng điểm" ở cuối trang để lưu lại kết quả.</p>
+        </div>
+        
+        <div class="mb-6">
+            <label for="studentName" class="block text-lg font-medium text-gray-700 mb-2">Tên học sinh:</label>
+            <input type="text" id="studentName" placeholder="Nhập họ và tên của bạn..." class="w-full p-3 border border-gray-300 rounded-lg shadow-sm focus:ring-indigo-500 focus:border-indigo-500">
+        </div>
+
+        <!-- SECTION I -->
+        <section id="section1" class="quiz-section">
+            <h2 class="text-2xl font-bold mb-4">I. Choose the word which has a different sound in the part underlined.</h2>
+            <div class="space-y-6">
+                <!-- Q1 -->
+                <div class="question" data-question="1.1">
+                    <p>1. A. k<u>i</u>nd &nbsp;&nbsp;&nbsp; B. conf<u>i</u>dent &nbsp;&nbsp;&nbsp; C. n<u>i</u>ce &nbsp;&nbsp;&nbsp; D. l<u>i</u>ke</p>
+                    <div class="options space-y-2">
+                        <label><input type="radio" name="q1.1" value="A"> A. k<u>i</u>nd</label>
+                        <label><input type="radio" name="q1.1" value="B"> B. conf<u>i</u>dent</label>
+                        <label><input type="radio" name="q1.1" value="C"> C. n<u>i</u>ce</label>
+                        <label><input type="radio" name="q1.1" value="D"> D. l<u>i</u>ke</label>
+                    </div>
+                    <div class="correct-answer-text mt-2">Đáp án đúng: B</div>
+                </div>
+                <!-- Q2 -->
+                <div class="question" data-question="1.2">
+                    <p>2. A. r<u>e</u>quest &nbsp;&nbsp;&nbsp; B. proj<u>e</u>ct &nbsp;&nbsp;&nbsp; C. n<u>e</u>ck &nbsp;&nbsp;&nbsp; D. <u>e</u>xciting</p>
+                    <div class="options space-y-2">
+                        <label><input type="radio" name="q1.2" value="A"> A. r<u>e</u>quest</label>
+                        <label><input type="radio" name="q1.2" value="B"> B. proj<u>e</u>ct</label>
+                        <label><input type="radio" name="q1.2" value="C"> C. n<u>e</u>ck</label>
+                        <label><input type="radio" name="q1.2" value="D"> D. <u>e</u>xciting</label>
+                    </div>
+                    <div class="correct-answer-text mt-2">Đáp án đúng: D</div>
+                </div>
+                <!-- Q3 -->
+                <div class="question" data-question="1.3">
+                    <p>3. A. f<u>oo</u>t &nbsp;&nbsp;&nbsp; B. b<u>oo</u>k &nbsp;&nbsp;&nbsp; C. f<u>oo</u>d &nbsp;&nbsp;&nbsp; D. l<u>oo</u>k</p>
+                    <div class="options space-y-2">
+                        <label><input type="radio" name="q1.3" value="A"> A. f<u>oo</u>t</label>
+                        <label><input type="radio" name="q1.3" value="B"> B. b<u>oo</u>k</label>
+                        <label><input type="radio" name="q1.3" value="C"> C. f<u>oo</u>d</label>
+                        <label><input type="radio" name="q1.3" value="D"> D. l<u>oo</u>k</label>
+                    </div>
+                    <div class="correct-answer-text mt-2">Đáp án đúng: C</div>
+                </div>
+                <!-- Q4 -->
+                <div class="question" data-question="1.4">
+                    <p>4. A. fing<u>e</u>r &nbsp;&nbsp;&nbsp; B. l<u>e</u>g &nbsp;&nbsp;&nbsp; C. n<u>e</u>ck &nbsp;&nbsp;&nbsp; D. <u>e</u>lbow</p>
+                    <div class="options space-y-2">
+                        <label><input type="radio" name="q1.4" value="A"> A. fing<u>e</u>r</label>
+                        <label><input type="radio" name="q1.4" value="B"> B. l<u>e</u>g</label>
+                        <label><input type="radio" name="q1.4" value="C"> C. n<u>e</u>ck</label>
+                        <label><input type="radio" name="q1.4" value="D"> D. <u>e</u>lbow</label>
+                    </div>
+                    <div class="correct-answer-text mt-2">Đáp án đúng: A</div>
+                </div>
+            </div>
+            <button onclick="checkSection('section1')" class="btn btn-secondary mt-6">Kiểm tra đáp án Phần I</button>
+            <div id="result-section1" class="result"></div>
+        </section>
+
+        <!-- SECTION II -->
+        <section id="section2" class="quiz-section">
+            <h2 class="text-2xl font-bold mb-4">II. Choose the best answer.</h2>
+            <div class="space-y-6">
+                <!-- Q1 -->
+                <div class="question" data-question="2.1">
+                    <p>1. It's cold. The students _______ warm clothes.</p>
+                    <div class="options space-y-2">
+                        <label><input type="radio" name="q2.1" value="A"> A. wear</label>
+                        <label><input type="radio" name="q2.1" value="B"> B. wears</label>
+                        <label><input type="radio" name="q2.1" value="C"> C. wearing</label>
+                        <label><input type="radio" name="q2.1" value="D"> D. are wearing</label>
+                    </div>
+                    <div class="correct-answer-text mt-2">Đáp án đúng: D</div>
+                </div>
+                <!-- Q2 -->
+                <div class="question" data-question="2.2">
+                    <p>2. My friends always do their homework. They're _______.</p>
+                    <div class="options space-y-2">
+                        <label><input type="radio" name="q2.2" value="A"> A. lazy</label>
+                        <label><input type="radio" name="q2.2" value="B"> B. curious</label>
+                        <label><input type="radio" name="q2.2" value="C"> C. hardworking</label>
+                        <label><input type="radio" name="q2.2" value="D"> D. talkative</label>
+                    </div>
+                    <div class="correct-answer-text mt-2">Đáp án đúng: C</div>
+                </div>
+                <!-- Q3 -->
+                <div class="question" data-question="2.3">
+                    <p>3. "What would you like to drink now?" - "_______"</p>
+                    <div class="options space-y-2">
+                        <label><input type="radio" name="q2.3" value="A"> A. No, thank you</label>
+                        <label><input type="radio" name="q2.3" value="B"> B. Yes, please</label>
+                        <label><input type="radio" name="q2.3" value="C"> C. I like to do nothing</label>
+                        <label><input type="radio" name="q2.3" value="D"> D. Orange juice, please</label>
+                    </div>
+                    <div class="correct-answer-text mt-2">Đáp án đúng: D</div>
+                </div>
+                <!-- Q4 -->
+                <div class="question" data-question="2.4">
+                    <p>4. They are _______ because they do morning exercises every day.</p>
+                    <div class="options space-y-2">
+                        <label><input type="radio" name="q2.4" value="A"> A. fine</label>
+                        <label><input type="radio" name="q2.4" value="B"> B. well</label>
+                        <label><input type="radio" name="q2.4" value="C"> C. healthy</label>
+                        <label><input type="radio" name="q2.4" value="D"> D. healthful</label>
+                    </div>
+                    <div class="correct-answer-text mt-2">Đáp án đúng: C</div>
+                </div>
+                <!-- Q5 -->
+                <div class="question" data-question="2.5">
+                    <p>5. Hung often _______ his bike to visit his hometown.</p>
+                    <div class="options space-y-2">
+                        <label><input type="radio" name="q2.5" value="A"> A. drives</label>
+                        <label><input type="radio" name="q2.5" value="B"> B. flies</label>
+                        <label><input type="radio" name="q2.5" value="C"> C. rides</label>
+                        <label><input type="radio" name="q2.5" value="D"> D. goes</label>
+                    </div>
+                    <div class="correct-answer-text mt-2">Đáp án đúng: C</div>
+                </div>
+                 <!-- Q6 -->
+                <div class="question" data-question="2.6">
+                    <p>6. "What are you doing this afternoon?" - "I don't know, but I'd like to _______ swimming."</p>
+                    <div class="options space-y-2">
+                        <label><input type="radio" name="q2.6" value="A"> A. have</label>
+                        <label><input type="radio" name="q2.6" value="B"> B. do</label>
+                        <label><input type="radio" name="q2.6" value="C"> C. play</label>
+                        <label><input type="radio" name="q2.6" value="D"> D. go</label>
+                    </div>
+                    <div class="correct-answer-text mt-2">Đáp án đúng: D</div>
+                </div>
+                <!-- Q7 -->
+                <div class="question" data-question="2.7">
+                    <p>7. Where is the cat? It's _______ the table and the bookshelf.</p>
+                    <div class="options space-y-2">
+                        <label><input type="radio" name="q2.7" value="A"> A. on</label>
+                        <label><input type="radio" name="q2.7" value="B"> B. behind</label>
+                        <label><input type="radio" name="q2.7" value="C"> C. between</label>
+                        <label><input type="radio" name="q2.7" value="D"> D. under</label>
+                    </div>
+                    <div class="correct-answer-text mt-2">Đáp án đúng: C</div>
+                </div>
+            </div>
+            <button onclick="checkSection('section2')" class="btn btn-secondary mt-6">Kiểm tra đáp án Phần II</button>
+            <div id="result-section2" class="result"></div>
+        </section>
+
+        <!-- SECTION III -->
+        <section id="section3" class="quiz-section">
+            <h2 class="text-2xl font-bold mb-4">III. Give the right form of the verbs in brackets.</h2>
+            <div class="space-y-4">
+                <div class="question" data-question="3.1">
+                    <p>1. Where's Tuan? He (<span class="font-semibold">do</span>) _______ judo in Room 2A now.</p>
+                    <input type="text" name="q3.1" class="w-full">
+                    <div class="correct-answer-text mt-2">Đáp án đúng: is doing</div>
+                </div>
+                <div class="question" data-question="3.2">
+                    <p>2. Mai (<span class="font-semibold">take</span>) _______ a test next Monday.</p>
+                    <input type="text" name="q3.2" class="w-full">
+                    <div class="correct-answer-text mt-2">Đáp án đúng: is taking</div>
+                </div>
+                <div class="question" data-question="3.3">
+                    <p>3. I usually (<span class="font-semibold">skip</span>) _______ ropes with my classmates at break time.</p>
+                    <input type="text" name="q3.3" class="w-full">
+                    <div class="correct-answer-text mt-2">Đáp án đúng: skip</div>
+                </div>
+                <div class="question" data-question="3.4">
+                    <p>4. They (<span class="font-semibold">not go</span>) _______ to school on Sundays.</p>
+                    <input type="text" name="q3.4" class="w-full">
+                    <div class="correct-answer-text mt-2">Đáp án đúng: don't go</div>
+                </div>
+            </div>
+            <button onclick="checkSection('section3')" class="btn btn-secondary mt-6">Kiểm tra đáp án Phần III</button>
+            <div id="result-section3" class="result"></div>
+        </section>
+
+        <!-- SECTION IV -->
+        <section id="section4" class="quiz-section">
+            <h2 class="text-2xl font-bold mb-4">IV. Fill in each blank with one suitable word from the box to complete the passage.</h2>
+            <div class="bg-gray-100 p-4 rounded-lg mb-4 text-center">
+                <p class="font-semibold">tidying - untidy - bag - on - are - near</p>
+            </div>
+            <div class="text-lg leading-relaxed space-y-2">
+                <p>
+                    Trung's bedroom is big but messy. There (1) <input type="text" name="q4.1" class="inline-block w-24 align-baseline"> clothes on the floor. There is a big desk (2) <input type="text" name="q4.2" class="inline-block w-24 align-baseline"> the window and there are dirty bowls and chopsticks (3) <input type="text" name="q4.3" class="inline-block w-24 align-baseline"> it. He usually puts his school (4) <input type="text" name="q4.4" class="inline-block w-24 align-baseline"> under the desk. His bed is next to the desk and it is also (5) <input type="text" name="q4.5" class="inline-block w-24 align-baseline">. There is a cap, some CDs and some books on the bed. Trung's mum is not happy with this, and now Trung is tidying up his room.
+                </p>
+            </div>
+            <div class="correct-answer-text mt-4">
+                <p>Đáp án đúng:</p>
+                <ol class="list-decimal list-inside">
+                    <li>are</li>
+                    <li>near</li>
+                    <li>on</li>
+                    <li>bag</li>
+                    <li>untidy</li>
+                </ol>
+            </div>
+            <button onclick="checkSection('section4')" class="btn btn-secondary mt-6">Kiểm tra đáp án Phần IV</button>
+            <div id="result-section4" class="result"></div>
+        </section>
+
+        <!-- SECTION V -->
+        <section id="section5" class="quiz-section">
+            <h2 class="text-2xl font-bold mb-4">V. Read the text and write True (T) or False (F).</h2>
+            <div class="bg-gray-50 p-4 rounded-lg mb-6 border border-gray-200">
+                <p class="italic leading-relaxed">
+                    Hi. I am Lan. I would like to tell you about my new school. It is in a quiet place not far from the city center. It has three buildings and a large yard. This year there are 26 classes with more than 1,000 students in my school. Most students are hard-working and serious. The school has about 40 teachers. They are all helpful and friendly. My school has different clubs: Dance, English, Arts, Football and Basketball. I like English, so I joined the English club. I love my school because it is a good school.
+                </p>
+            </div>
+            <div class="space-y-4">
+                <div class="question" data-question="5.1">
+                    <p>1. Lan's new school is in a noisy place near the city center.</p>
+                    <div class="options space-x-4">
+                        <label><input type="radio" name="q5.1" value="T"> True</label>
+                        <label><input type="radio" name="q5.1" value="F"> False</label>
+                    </div>
+                     <div class="correct-answer-text mt-2">Đáp án đúng: F</div>
+                </div>
+                <div class="question" data-question="5.2">
+                    <p>2. Lan's school has three buildings and twenty classes.</p>
+                    <div class="options space-x-4">
+                        <label><input type="radio" name="q5.2" value="T"> True</label>
+                        <label><input type="radio" name="q5.2" value="F"> False</label>
+                    </div>
+                    <div class="correct-answer-text mt-2">Đáp án đúng: F</div>
+                </div>
+                <div class="question" data-question="5.3">
+                    <p>3. The teachers are helpful and friendly.</p>
+                    <div class="options space-x-4">
+                        <label><input type="radio" name="q5.3" value="T"> True</label>
+                        <label><input type="radio" name="q5.3" value="F"> False</label>
+                    </div>
+                    <div class="correct-answer-text mt-2">Đáp án đúng: T</div>
+                </div>
+                <div class="question" data-question="5.4">
+                    <p>4. There are five clubs in Lan's new school.</p>
+                    <div class="options space-x-4">
+                        <label><input type="radio" name="q5.4" value="T"> True</label>
+                        <label><input type="radio" name="q5.4" value="F"> False</label>
+                    </div>
+                    <div class="correct-answer-text mt-2">Đáp án đúng: T</div>
+                </div>
+                <div class="question" data-question="5.5">
+                    <p>5. Lan doesn't like English.</p>
+                    <div class="options space-x-4">
+                        <label><input type="radio" name="q5.5" value="T"> True</label>
+                        <label><input type="radio" name="q5.5" value="F"> False</label>
+                    </div>
+                    <div class="correct-answer-text mt-2">Đáp án đúng: F</div>
+                </div>
+            </div>
+            <button onclick="checkSection('section5')" class="btn btn-secondary mt-6">Kiểm tra đáp án Phần V</button>
+            <div id="result-section5" class="result"></div>
+        </section>
+
+        <!-- SECTION VI -->
+        <section id="section6" class="quiz-section">
+            <h2 class="text-2xl font-bold mb-4">VI. Complete the sentences using the words and the given pictures.</h2>
+            <div class="space-y-6">
+                 <div class="question" data-question="6.1">
+                    <p>1. The vase is _______ the 🐱 and the 🐶.</p>
+                    <input type="text" name="q6.1" class="w-full">
+                    <div class="correct-answer-text mt-2">Đáp án đúng: between</div>
+                </div>
+                 <div class="question" data-question="6.2">
+                    <p>2. I am doing Maths exercises with my _______ (máy tính) and _______ (compa).</p>
+                    <input type="text" name="q6.2" class="w-full" placeholder="Viết 2 từ, cách nhau bằng dấu phẩy">
+                    <div class="correct-answer-text mt-2">Đáp án đúng: calculator, compass</div>
+                </div>
+            </div>
+            <button onclick="checkSection('section6')" class="btn btn-secondary mt-6">Kiểm tra đáp án Phần VI</button>
+            <div id="result-section6" class="result"></div>
+        </section>
+
+        <!-- SECTION VII -->
+        <section id="section7" class="quiz-section">
+            <h2 class="text-2xl font-bold mb-4">VII. Rearrange the words to make a meaningful sentence.</h2>
+            <div class="space-y-6">
+                <div class="question" data-question="7.1">
+                    <p>1. can / turn on / the / please / lights / you / ?</p>
+                    <input type="text" name="q7.1" class="w-full">
+                    <div class="correct-answer-text mt-2">Đáp án đúng: Can you please turn on the lights? / Can you turn on the lights, please?</div>
+                </div>
+                <div class="question" data-question="7.2">
+                    <p>2. you / would / have / a picnic / to / like / next Sunday / ?</p>
+                    <input type="text" name="q7.2" class="w-full">
+                    <div class="correct-answer-text mt-2">Đáp án đúng: Would you like to have a picnic next Sunday?</div>
+                </div>
+            </div>
+            <button onclick="checkSection('section7')" class="btn btn-secondary mt-6">Kiểm tra đáp án Phần VII</button>
+            <div id="result-section7" class="result"></div>
+        </section>
+
+        <!-- SUBMIT & HISTORY -->
+        <div class="mt-10 text-center">
+            <button id="submitBtn" class="btn btn-primary text-lg">Nộp bài và xem tổng điểm</button>
+        </div>
+
+        <div id="finalResult" class="mt-8 text-center text-2xl font-bold"></div>
+
+        <div id="historySection" class="mt-12">
+            <h2 class="text-2xl font-bold mb-4">Lịch sử làm bài</h2>
+            <div class="overflow-x-auto">
+                <table class="min-w-full bg-white border border-gray-200 rounded-lg">
+                    <thead class="bg-gray-50">
+                        <tr>
+                            <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Tên học sinh</th>
+                            <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Điểm số</th>
+                            <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Ngày làm</th>
+                        </tr>
+                    </thead>
+                    <tbody id="historyTableBody" class="divide-y divide-gray-200">
+                        <!-- History rows will be inserted here -->
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        
+        <!-- Teacher Mode Toggle -->
+        <footer class="text-center mt-12 pt-6 border-t">
+            <button id="teacherModeBtn" class="text-sm text-gray-500 hover:text-indigo-600">Kích hoạt Chế độ giáo viên</button>
+        </footer>
+    </div>
+
+    <script>
+        // --- DATABASE ---
+        const quizData = {
+            section1: {
+                '1.1': 'B', '1.2': 'D', '1.3': 'C', '1.4': 'A'
+            },
+            section2: {
+                '2.1': 'D', '2.2': 'C', '2.3': 'D', '2.4': 'C', '2.5': 'C', '2.6': 'D', '2.7': 'C'
+            },
+            section3: {
+                '3.1': 'is doing', '3.2': 'is taking', '3.3': 'skip', '3.4': "don't go"
+            },
+            section4: {
+                '4.1': 'are', '4.2': 'near', '4.3': 'on', '4.4': 'bag', '4.5': 'untidy'
+            },
+            section5: {
+                '5.1': 'F', '5.2': 'F', '5.3': 'T', '5.4': 'T', '5.5': 'F'
+            },
+            section6: {
+                '6.1': 'between', '6.2': ['calculator', 'compass']
+            },
+            section7: {
+                '7.1': ['can you please turn on the lights?', 'can you turn on the lights, please?'],
+                '7.2': 'would you like to have a picnic next sunday?'
+            }
+        };
+
+        // --- FUNCTIONS ---
+
+        /**
+         * Checks answers for a given section.
+         * @param {string} sectionId - The ID of the section to check.
+         */
+        function checkSection(sectionId) {
+            const section = document.getElementById(sectionId);
+            const correctAnswers = quizData[sectionId];
+            let score = 0;
+            let totalQuestions = 0;
+
+            const questions = section.querySelectorAll('.question');
+            if (questions.length > 0) {
+                 questions.forEach(question => {
+                    totalQuestions++;
+                    const questionId = question.dataset.question;
+                    const correctAnswer = correctAnswers[questionId];
+                    
+                    // For radio button questions
+                    const radioInputs = question.querySelectorAll('input[type="radio"]');
+                    if (radioInputs.length > 0) {
+                        const userAnswer = question.querySelector(`input[name="q${questionId}"]:checked`);
+                        radioInputs.forEach(radio => {
+                            radio.parentElement.classList.remove('correct', 'incorrect');
+                        });
+                        if (userAnswer) {
+                            if (userAnswer.value === correctAnswer) {
+                                score++;
+                                userAnswer.parentElement.classList.add('correct');
+                            } else {
+                                userAnswer.parentElement.classList.add('incorrect');
+                                // Highlight the correct answer
+                                const correctRadio = question.querySelector(`input[value="${correctAnswer}"]`);
+                                if (correctRadio) {
+                                    correctRadio.parentElement.classList.add('correct');
+                                }
+                            }
+                        }
+                    }
+
+                    // For text input questions
+                    const textInput = question.querySelector('input[type="text"]');
+                    if (textInput) {
+                        const userAnswer = textInput.value.trim().toLowerCase().replace(/[.,?]/g, '');
+                        textInput.classList.remove('correct', 'incorrect');
+                        
+                        if (Array.isArray(correctAnswer)) {
+                            // Handle multiple possible correct answers (like sentence rearrangement)
+                            if (correctAnswer.map(ans => ans.toLowerCase().replace(/[.,?]/g, '')).includes(userAnswer)) {
+                               score++;
+                               textInput.classList.add('correct');
+                            } else {
+                               textInput.classList.add('incorrect');
+                            }
+                        } else if (questionId === '6.2') { // Special case for question 6.2
+                            const userAnswers = userAnswer.split(',').map(s => s.trim());
+                            if(userAnswers.length === 2 && correctAnswer.every(val => userAnswers.includes(val))) {
+                                score++;
+                                textInput.classList.add('correct');
+                            } else {
+                                textInput.classList.add('incorrect');
+                            }
+                        }
+                        else {
+                            if (userAnswer === correctAnswer.toLowerCase()) {
+                                score++;
+                                textInput.classList.add('correct');
+                            } else {
+                                textInput.classList.add('incorrect');
+                            }
+                        }
+                    }
+                });
+            }
+
+
+            // For section 4 (fill in the passage)
+            if (sectionId === 'section4') {
+                totalQuestions = Object.keys(correctAnswers).length;
+                score = 0;
+                for (let i = 1; i <= totalQuestions; i++) {
+                    const input = section.querySelector(`input[name="q4.${i}"]`);
+                    const userAnswer = input.value.trim().toLowerCase();
+                    const correctAnswer = correctAnswers[`4.${i}`];
+                    input.classList.remove('correct', 'incorrect');
+                    if (userAnswer === correctAnswer) {
+                        score++;
+                        input.classList.add('correct');
+                    } else {
+                        input.classList.add('incorrect');
+                    }
+                }
+            }
+
+            const resultDiv = document.getElementById(`result-${sectionId}`);
+            resultDiv.textContent = `Kết quả: ${score} / ${totalQuestions} câu đúng.`;
+            resultDiv.style.color = score === totalQuestions ? '#16a34a' : '#dc2626';
+            
+            return { score, totalQuestions };
+        }
+
+        /**
+         * Calculates the total score for the entire quiz.
+         */
+        function calculateTotalScore() {
+            let totalScore = 0;
+            let totalQuestions = 0;
+            Object.keys(quizData).forEach(sectionId => {
+                const result = checkSection(sectionId);
+                totalScore += result.score;
+                totalQuestions += result.totalQuestions;
+            });
+            return { totalScore, totalQuestions };
+        }
+        
+        /**
+         * Loads and displays the submission history from localStorage.
+         */
+        function loadHistory() {
+            const history = JSON.parse(localStorage.getItem('quizHistory')) || [];
+            const tableBody = document.getElementById('historyTableBody');
+            tableBody.innerHTML = '';
+            history.forEach(record => {
+                const row = `
+                    <tr class="hover:bg-gray-50">
+                        <td class="px-6 py-4 whitespace-nowrap">${record.name}</td>
+                        <td class="px-6 py-4 whitespace-nowrap">${record.score}</td>
+                        <td class="px-6 py-4 whitespace-nowrap">${record.date}</td>
+                    </tr>
+                `;
+                tableBody.insertAdjacentHTML('beforeend', row);
+            });
+        }
+        
+        /**
+         * Toggles teacher mode.
+         */
+        function toggleTeacherMode() {
+            if (localStorage.getItem('teacherMode') === 'true') {
+                localStorage.setItem('teacherMode', 'false');
+                alert('Chế độ giáo viên đã được tắt. Tải lại trang để áp dụng.');
+            } else {
+                const password = prompt("Vui lòng nhập mật khẩu của giáo viên:");
+                if (password === "????") { // Simple password
+                    localStorage.setItem('teacherMode', 'true');
+                    alert('Chế độ giáo viên đã được kích hoạt. Tải lại trang để xem đáp án.');
+                } else {
+                    alert('Mật khẩu không đúng!');
+                }
+            }
+            location.reload();
+        }
+
+        /**
+         * Applies teacher mode styles if active.
+         */
+        function applyTeacherMode() {
+            const teacherModeBtn = document.getElementById('teacherModeBtn');
+            if (localStorage.getItem('teacherMode') === 'true') {
+                document.body.classList.add('teacher-view');
+                teacherModeBtn.textContent = 'Tắt Chế độ giáo viên';
+            } else {
+                 document.body.classList.remove('teacher-view');
+                 teacherModeBtn.textContent = 'Kích hoạt Chế độ giáo viên';
+            }
+        }
+
+
+        // --- EVENT LISTENERS ---
+        document.addEventListener('DOMContentLoaded', () => {
+            loadHistory();
+            applyTeacherMode();
+
+            document.getElementById('submitBtn').addEventListener('click', () => {
+                const studentName = document.getElementById('studentName').value.trim();
+                if (!studentName) {
+                    alert('Vui lòng nhập tên của bạn trước khi nộp bài!');
+                    document.getElementById('studentName').focus();
+                    return;
+                }
+
+                if (!confirm('Bạn có chắc chắn muốn nộp bài không?')) {
+                    return;
+                }
+
+                const { totalScore, totalQuestions } = calculateTotalScore();
+                const finalResultDiv = document.getElementById('finalResult');
+                finalResultDiv.textContent = `Tổng điểm của bạn: ${totalScore} / ${totalQuestions}`;
+
+                // Save to history
+                const history = JSON.parse(localStorage.getItem('quizHistory')) || [];
+                const newRecord = {
+                    name: studentName,
+                    score: `${totalScore}/${totalQuestions}`,
+                    date: new Date().toLocaleString('vi-VN')
+                };
+                history.unshift(newRecord); // Add new record to the top
+                localStorage.setItem('quizHistory', JSON.stringify(history));
+                
+                loadHistory(); // Refresh history table
+                window.scrollTo(0, document.body.scrollHeight);
+            });
+            
+            document.getElementById('teacherModeBtn').addEventListener('click', toggleTeacherMode);
+        });
+
+    </script>
+
+</body>
+</html>
