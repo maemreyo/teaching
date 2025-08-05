@@ -306,7 +306,7 @@
                     <h2 class="text-xl font-bold mb-4 text-blue-700">V. Choose the letter A, B, C, or D that needs correcting.</h2>
                     <!-- Question 21 -->
                     <div class="mb-6">
-                        <p class="font-semibold">21. She <u>get up</u><sub>(B)</sub> at 6:30 <u>every day</u><sub>(D)</sub>.</p>
+                        <p class="font-semibold">21. She <u>get up</u> at 6:30 <u>every day</u>.</p>
                         <div class="grid grid-cols-2 md:grid-cols-4 gap-2 mt-2">
                             <label class="option-label"><input type="radio" name="q21" value="A"> A. She</label>
                             <label class="option-label"><input type="radio" name="q21" value="B"> B. get up</label>
@@ -316,7 +316,7 @@
                     </div>
                      <!-- Question 22 -->
                     <div class="mb-6">
-                        <p class="font-semibold">22. She <u>plays</u><sub>(B)</sub> sports <u>in afternoon</u><sub>(D)</sub>.</p>
+                        <p class="font-semibold">22. She <u>plays</u> sports <u>in afternoon</u>.</p>
                         <div class="grid grid-cols-2 md:grid-cols-4 gap-2 mt-2">
                             <label class="option-label"><input type="radio" name="q22" value="A"> A. She</label>
                             <label class="option-label"><input type="radio" name="q22" value="B"> B. plays</label>
@@ -326,7 +326,7 @@
                     </div>
                     <!-- Question 23 -->
                     <div class="mb-6">
-                        <p class="font-semibold">23. <u>Every evening</u><sub>(A)</sub>, she <u>do her</u><sub>(C)</sub> homework.</p>
+                        <p class="font-semibold">23. <u>Every evening</u>, she <u>do her</u> homework.</p>
                         <div class="grid grid-cols-2 md:grid-cols-4 gap-2 mt-2">
                             <label class="option-label"><input type="radio" name="q23" value="A"> A. Every evening</label>
                             <label class="option-label"><input type="radio" name="q23" value="B"> B. she</label>
@@ -336,7 +336,7 @@
                     </div>
                      <!-- Question 24 -->
                     <div class="mb-6">
-                        <p class="font-semibold">24. There <u>are</u><sub>(A)</sub> trees and flowers <u>on</u><sub>(D)</sub> the park.</p>
+                        <p class="font-semibold">24. There <u>are</u> trees and flowers <u>on</u> the park.</p>
                         <div class="grid grid-cols-2 md:grid-cols-4 gap-2 mt-2">
                             <label class="option-label"><input type="radio" name="q24" value="A"> A. are</label>
                             <label class="option-label"><input type="radio" name="q24" value="B"> B. trees</label>
@@ -346,7 +346,7 @@
                     </div>
                     <!-- Question 25 -->
                     <div class="mb-6">
-                        <p class="font-semibold">25. What colour <u>are</u><sub>(B)</sub> her hair? It <u>is</u><sub>(C)</sub> red.</p>
+                        <p class="font-semibold">25. What colour <u>are</u> her hair? It <u>is</u> red.</p>
                         <div class="grid grid-cols-2 md:grid-cols-4 gap-2 mt-2">
                             <label class="option-label"><input type="radio" name="q25" value="A"> A. What</label>
                             <label class="option-label"><input type="radio" name="q25" value="B"> B. are</label>
@@ -468,7 +468,7 @@
         <div class="modal-content">
             <h2 class="text-2xl font-bold mb-4">Kết Quả Bài Làm</h2>
             <p id="finalScore" class="text-xl mb-4"></p>
-            <p class="text-left text-red-600 font-semibold">QUAN TRỌNG: Hãy sao chép TOÀN BỘ nội dung dưới đây và gửi cho giáo viên của bạn.</p>
+            <p class="text-left text-red-600 font-semibold">QUAN TRỌNG: Hãy sao chép TOÀN BỘ nội dung dưới đây và gửi cho giáo viên của bạn (nếu được yêu cầu).</p>
             <textarea id="submissionData" readonly></textarea>
             <button id="closeModalBtn" class="submit-btn mt-4">Đóng</button>
         </div>
@@ -550,7 +550,7 @@
             return { finalScore, studentAnswers };
         }
 
-        function showResults(score, answers) {
+        async function showResults(score, answers) {
             const studentName = studentNameInput.value.trim() || "Chưa nhập tên";
             finalScoreEl.textContent = `Điểm trắc nghiệm của bạn: ${score} / 10.0`;
             
@@ -561,20 +561,25 @@
                 submittedAt: new Date().toLocaleString('vi-VN')
             };
             
-            // NEW: Send submission to server log
-            fetch('/log-submission', {
-                method: 'POST',
-                headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify(submission)
-            })
-            .then(response => {
-                if(response.ok) {
+            // **UPDATED**: Send submission to the correct Next.js API route
+            try {
+                const response = await fetch('http://localhost:3999/api/log-submission', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify(submission)
+                });
+                if (response.ok) {
                     console.log('Bài làm đã được gửi thành công tới server.');
+                    finalScoreEl.textContent += ' (Đã nộp bài thành công!)';
                 } else {
                     console.error('Gửi bài làm tới server thất bại.');
+                     finalScoreEl.textContent += ' (Nộp bài thất bại!)';
                 }
-            })
-            .catch(err => console.error('Lỗi khi gửi bài làm tới server:', err));
+            } catch (err) {
+                console.error('Lỗi khi gửi bài làm tới server:', err);
+                finalScoreEl.textContent += ' (Lỗi kết nối khi nộp bài!)';
+            }
+
 
             // Save to local storage (as a fallback)
             const submissions = JSON.parse(localStorage.getItem('quizSubmissions')) || [];
@@ -663,7 +668,7 @@
              console.log("HƯỚNG DẪN DÀNH CHO GIÁO VIÊN:");
              console.log("1. Gửi file HTML này (hoặc link ngrok) cho học sinh.");
              console.log("2. KHI HỌC SINH NỘP BÀI, KẾT QUẢ SẼ TỰ ĐỘNG ĐƯỢC GỬI TỚI SERVER CỦA BẠN.");
-             console.log("   Bạn cần thiết lập một endpoint POST tại '/log-submission' để nhận và ghi lại dữ liệu JSON.");
+             console.log("   Bạn cần thiết lập một endpoint POST tại '/api/log-submission' để nhận và ghi lại dữ liệu JSON.");
              console.log("3. (Phương án dự phòng) Học sinh vẫn có thể sao chép chuỗi dữ liệu để gửi cho bạn thủ công.");
              console.log("4. Để vào chế độ chấm bài thủ công, mở Console (nhấn F12), gõ lệnh sau rồi Enter:");
              console.log("   localStorage.setItem('isTeacher', 'true')");
