@@ -561,6 +561,17 @@
                 submittedAt: new Date().toLocaleString('vi-VN')
             };
             
+            // Save to local storage (as a fallback)
+            const submissions = JSON.parse(localStorage.getItem('quizSubmissions')) || [];
+            submissions.push(submission);
+            localStorage.setItem('quizSubmissions', JSON.stringify(submissions));
+
+            // Display data for student to copy
+            submissionDataEl.value = JSON.stringify(submission);
+            
+            // Show modal first, then try to send to server
+            resultsModal.style.display = 'flex';
+            
             // **UPDATED**: Send submission to the correct Next.js API route
             try {
                 const response = await fetch('http://localhost:3999/api/log-submission', {
@@ -573,22 +584,12 @@
                     finalScoreEl.textContent += ' (Đã nộp bài thành công!)';
                 } else {
                     console.error('Gửi bài làm tới server thất bại.');
-                     finalScoreEl.textContent += ' (Nộp bài thất bại!)';
+                    finalScoreEl.textContent += ' (Nộp bài thất bại!)';
                 }
             } catch (err) {
                 console.error('Lỗi khi gửi bài làm tới server:', err);
                 finalScoreEl.textContent += ' (Lỗi kết nối khi nộp bài!)';
             }
-
-
-            // Save to local storage (as a fallback)
-            const submissions = JSON.parse(localStorage.getItem('quizSubmissions')) || [];
-            submissions.push(submission);
-            localStorage.setItem('quizSubmissions', JSON.stringify(submissions));
-
-            // Display data for student to copy
-            submissionDataEl.value = JSON.stringify(submission);
-            resultsModal.style.display = 'flex';
         }
         
         function displayTeacherView(submission) {
