@@ -1,0 +1,500 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bài kiểm tra Từ vựng - Unit 2: My Home</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+        .answer-key, .teacher-feedback {
+            display: none;
+        }
+        .teacher-mode .answer-key {
+            display: inline;
+        }
+        .teacher-mode .teacher-feedback {
+            display: block;
+        }
+        .input-correct-teacher {
+            border-color: #22c55e;
+            background-color: #f0fdf4;
+        }
+        .input-incorrect-teacher {
+            border-color: #ef4444;
+            background-color: #fef2f2;
+        }
+    </style>
+</head>
+<body class="bg-gray-100">
+
+    <div class="container mx-auto p-4 sm:p-8">
+        <header class="text-center mb-8">
+            <h1 class="text-4xl font-bold text-purple-700">Bài kiểm tra từ vựng: Unit 2</h1>
+            <p class="text-gray-600 mt-2">Hoàn thành các bài tập dưới đây để kiểm tra kiến thức của bạn.</p>
+        </header>
+
+        <!-- Teacher Mode Status (Hidden by default) -->
+        <div id="teacher-status" class="flex justify-end mb-8" style="display: none;">
+            <div class="bg-green-100 border border-green-400 text-green-700 px-4 py-2 rounded">
+                <span class="font-medium">🎓 Chế độ Giáo viên đã kích hoạt</span>
+            </div>
+        </div>
+
+        <div class="space-y-12">
+            <!-- Part 1: Vietnamese to English -->
+            <section id="part1" class="bg-white p-6 rounded-lg shadow-md">
+                <h2 class="text-2xl font-bold text-gray-800 mb-4">Phần 1: Viết từ tiếng Anh tương ứng</h2>
+                <div class="space-y-4">
+                    <!-- Question 1 -->
+                    <div>
+                        <label class="block text-gray-700">1. căn hộ: 
+                            <span class="answer-key text-green-600 font-bold ml-2">(apartment)</span>
+                        </label>
+                        <input type="text" class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50">
+                    </div>
+                     <!-- Question 2 -->
+                    <div>
+                        <label class="block text-gray-700">2. phòng khách: 
+                            <span class="answer-key text-green-600 font-bold ml-2">(living room)</span>
+                        </label>
+                        <input type="text" class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50">
+                    </div>
+                     <!-- Question 3 -->
+                    <div>
+                        <label class="block text-gray-700">3. tủ lạnh: 
+                            <span class="answer-key text-green-600 font-bold ml-2">(fridge)</span>
+                        </label>
+                        <input type="text" class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50">
+                    </div>
+                     <!-- Question 4 -->
+                    <div>
+                        <label class="block text-gray-700">4. lộn xộn, bừa bộn: 
+                            <span class="answer-key text-green-600 font-bold ml-2">(messy)</span>
+                        </label>
+                        <input type="text" class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50">
+                    </div>
+                     <!-- Question 5 -->
+                    <div>
+                        <label class="block text-gray-700">5. phòng ngủ: 
+                            <span class="answer-key text-green-600 font-bold ml-2">(bedroom)</span>
+                        </label>
+                        <input type="text" class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50">
+                    </div>
+                     <!-- Question 6 -->
+                    <div>
+                        <label class="block text-gray-700">6. nhà bếp: 
+                            <span class="answer-key text-green-600 font-bold ml-2">(kitchen)</span>
+                        </label>
+                        <input type="text" class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50">
+                    </div>
+                     <!-- Question 7 -->
+                    <div>
+                        <label class="block text-gray-700">7. tủ quần áo: 
+                            <span class="answer-key text-green-600 font-bold ml-2">(wardrobe)</span>
+                        </label>
+                        <input type="text" class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50">
+                    </div>
+                     <!-- Question 8 -->
+                    <div>
+                        <label class="block text-gray-700">8. ghế sofa: 
+                            <span class="answer-key text-green-600 font-bold ml-2">(sofa)</span>
+                        </label>
+                        <input type="text" class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50">
+                    </div>
+                     <!-- Question 9 -->
+                    <div>
+                        <label class="block text-gray-700">9. phòng tắm: 
+                            <span class="answer-key text-green-600 font-bold ml-2">(bathroom)</span>
+                        </label>
+                        <input type="text" class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50">
+                    </div>
+                     <!-- Question 10 -->
+                    <div>
+                        <label class="block text-gray-700">10. sạch sẽ, gọn gàng: 
+                            <span class="answer-key text-green-600 font-bold ml-2">(tidy)</span>
+                        </label>
+                        <input type="text" class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50">
+                    </div>
+                </div>
+                <div class="mt-6 text-right">
+                    <span class="student-feedback font-bold mr-4"></span>
+                    <button class="check-btn bg-blue-500 text-white py-2 px-4 rounded-md hover:bg-blue-600">Kiểm tra Phần 1</button>
+                </div>
+            </section>
+
+            <!-- Part 2: Fill in the Blanks -->
+            <section id="part2" class="bg-white p-6 rounded-lg shadow-md">
+                <h2 class="text-2xl font-bold text-gray-800 mb-4">Phần 2: Điền từ còn thiếu vào câu</h2>
+                <div class="space-y-4">
+                    <!-- Question 1 -->
+                    <div>
+                        <label class="block text-gray-700">1. He hung his suit in the <input type="text" class="mx-2 p-1 w-32 rounded-md border-gray-300 shadow-sm">.
+                            <span class="answer-key text-green-600 font-bold ml-2">(wardrobe)</span>
+                        </label>
+                    </div>
+                    <!-- Question 2 -->
+                    <div>
+                        <label class="block text-gray-700">2. Reheat the soup in the <input type="text" class="mx-2 p-1 w-32 rounded-md border-gray-300 shadow-sm">.
+                            <span class="answer-key text-green-600 font-bold ml-2">(microwave)</span>
+                        </label>
+                    </div>
+                    <!-- Question 3 -->
+                    <div>
+                        <label class="block text-gray-700">3. His bedroom is <input type="text" class="mx-2 p-1 w-32 rounded-md border-gray-300 shadow-sm"> the living room.
+                            <span class="answer-key text-green-600 font-bold ml-2">(next to)</span>
+                        </label>
+                    </div>
+                    <!-- Question 4 -->
+                     <div>
+                        <label class="block text-gray-700">4. You should buy some new <input type="text" class="mx-2 p-1 w-32 rounded-md border-gray-300 shadow-sm"> for your apartment.
+                            <span class="answer-key text-green-600 font-bold ml-2">(furniture)</span>
+                        </label>
+                    </div>
+                    <!-- Question 5 -->
+                    <div>
+                        <label class="block text-gray-700">5. The milk is in the <input type="text" class="mx-2 p-1 w-32 rounded-md border-gray-300 shadow-sm"> to keep it fresh.
+                            <span class="answer-key text-green-600 font-bold ml-2">(fridge)</span>
+                        </label>
+                    </div>
+                    <!-- Question 6 -->
+                    <div>
+                        <label class="block text-gray-700">6. We watch TV in the <input type="text" class="mx-2 p-1 w-32 rounded-md border-gray-300 shadow-sm"> every evening.
+                            <span class="answer-key text-green-600 font-bold ml-2">(living room)</span>
+                        </label>
+                    </div>
+                    <!-- Question 7 -->
+                    <div>
+                        <label class="block text-gray-700">7. I brush my teeth in the <input type="text" class="mx-2 p-1 w-32 rounded-md border-gray-300 shadow-sm"> every morning.
+                            <span class="answer-key text-green-600 font-bold ml-2">(bathroom)</span>
+                        </label>
+                    </div>
+                    <!-- Question 8 -->
+                    <div>
+                        <label class="block text-gray-700">8. My room is very <input type="text" class="mx-2 p-1 w-32 rounded-md border-gray-300 shadow-sm"> because I clean it every day.
+                            <span class="answer-key text-green-600 font-bold ml-2">(tidy)</span>
+                        </label>
+                    </div>
+                </div>
+                <div class="mt-6 text-right">
+                    <span class="student-feedback font-bold mr-4"></span>
+                    <button class="check-btn bg-blue-500 text-white py-2 px-4 rounded-md hover:bg-blue-600">Kiểm tra Phần 2</button>
+                </div>
+            </section>
+
+            <!-- Part 3: Multiple Choice -->
+            <section id="part3" class="bg-white p-6 rounded-lg shadow-md">
+                <h2 class="text-2xl font-bold text-gray-800 mb-4">Phần 3: Chọn loại từ đúng</h2>
+                <div class="space-y-4">
+                    <!-- Question 1 -->
+                    <div>
+                        <p class="text-gray-700">1. Từ "move" là:</p>
+                        <div class="flex space-x-4 mt-2">
+                            <label><input type="radio" name="q3_1" value="n."> Danh từ</label>
+                            <label><input type="radio" name="q3_1" value="v."> Động từ</label>
+                            <label><input type="radio" name="q3_1" value="adj."> Tính từ</label>
+                        </div>
+                        <p class="teacher-feedback text-sm text-green-600 font-bold mt-1">Đáp án đúng: Động từ</p>
+                    </div>
+                     <!-- Question 2 -->
+                    <div>
+                        <p class="text-gray-700">2. Từ "crazy" là:</p>
+                        <div class="flex space-x-4 mt-2">
+                            <label><input type="radio" name="q3_2" value="n."> Danh từ</label>
+                            <label><input type="radio" name="q3_2" value="v."> Động từ</label>
+                            <label><input type="radio" name="q3_2" value="adj."> Tính từ</label>
+                        </div>
+                         <p class="teacher-feedback text-sm text-green-600 font-bold mt-1">Đáp án đúng: Tính từ</p>
+                    </div>
+                     <!-- Question 3 -->
+                    <div>
+                        <p class="text-gray-700">3. Từ "apartment" là:</p>
+                        <div class="flex space-x-4 mt-2">
+                            <label><input type="radio" name="q3_3" value="n."> Danh từ</label>
+                            <label><input type="radio" name="q3_3" value="v."> Động từ</label>
+                            <label><input type="radio" name="q3_3" value="adj."> Tính từ</label>
+                        </div>
+                         <p class="teacher-feedback text-sm text-green-600 font-bold mt-1">Đáp án đúng: Danh từ</p>
+                    </div>
+                     <!-- Question 4 -->
+                    <div>
+                        <p class="text-gray-700">4. Từ "messy" là:</p>
+                        <div class="flex space-x-4 mt-2">
+                            <label><input type="radio" name="q3_4" value="n."> Danh từ</label>
+                            <label><input type="radio" name="q3_4" value="v."> Động từ</label>
+                            <label><input type="radio" name="q3_4" value="adj."> Tính từ</label>
+                        </div>
+                         <p class="teacher-feedback text-sm text-green-600 font-bold mt-1">Đáp án đúng: Tính từ</p>
+                    </div>
+                     <!-- Question 5 -->
+                    <div>
+                        <p class="text-gray-700">5. Từ "kitchen" là:</p>
+                        <div class="flex space-x-4 mt-2">
+                            <label><input type="radio" name="q3_5" value="n."> Danh từ</label>
+                            <label><input type="radio" name="q3_5" value="v."> Động từ</label>
+                            <label><input type="radio" name="q3_5" value="adj."> Tính từ</label>
+                        </div>
+                         <p class="teacher-feedback text-sm text-green-600 font-bold mt-1">Đáp án đúng: Danh từ</p>
+                    </div>
+                     <!-- Question 6 -->
+                    <div>
+                        <p class="text-gray-700">6. Từ "tidy" là:</p>
+                        <div class="flex space-x-4 mt-2">
+                            <label><input type="radio" name="q3_6" value="n."> Danh từ</label>
+                            <label><input type="radio" name="q3_6" value="v."> Động từ</label>
+                            <label><input type="radio" name="q3_6" value="adj."> Tính từ</label>
+                        </div>
+                         <p class="teacher-feedback text-sm text-green-600 font-bold mt-1">Đáp án đúng: Tính từ</p>
+                    </div>
+                </div>
+                <div class="mt-6 text-right">
+                    <span class="student-feedback font-bold mr-4"></span>
+                    <button class="check-btn bg-blue-500 text-white py-2 px-4 rounded-md hover:bg-blue-600">Kiểm tra Phần 3</button>
+                </div>
+            </section>
+
+             <!-- Part 4: Unscramble -->
+            <section id="part4" class="bg-white p-6 rounded-lg shadow-md">
+                <h2 class="text-2xl font-bold text-gray-800 mb-4">Phần 4: Sắp xếp các chữ cái thành từ đúng</h2>
+                <div class="space-y-4">
+                    <!-- Question 1 -->
+                    <div>
+                        <label class="block text-gray-700">1. ofsa &rarr; 
+                            <span class="answer-key text-green-600 font-bold ml-2">(sofa)</span>
+                        </label>
+                        <input type="text" class="mt-1 block w-full rounded-md border-gray-300 shadow-sm">
+                    </div>
+                     <!-- Question 2 -->
+                    <div>
+                        <label class="block text-gray-700">2. thabomor &rarr; 
+                            <span class="answer-key text-green-600 font-bold ml-2">(bathroom)</span>
+                        </label>
+                        <input type="text" class="mt-1 block w-full rounded-md border-gray-300 shadow-sm">
+                    </div>
+                     <!-- Question 3 -->
+                    <div>
+                        <label class="block text-gray-700">3. pucdraob &rarr; 
+                            <span class="answer-key text-green-600 font-bold ml-2">(cupboard)</span>
+                        </label>
+                        <input type="text" class="mt-1 block w-full rounded-md border-gray-300 shadow-sm">
+                    </div>
+                     <!-- Question 4 -->
+                    <div>
+                        <label class="block text-gray-700">4. nehcitk &rarr; 
+                            <span class="answer-key text-green-600 font-bold ml-2">(kitchen)</span>
+                        </label>
+                        <input type="text" class="mt-1 block w-full rounded-md border-gray-300 shadow-sm">
+                    </div>
+                     <!-- Question 5 -->
+                    <div>
+                        <label class="block text-gray-700">5. dorbwera &rarr; 
+                            <span class="answer-key text-green-600 font-bold ml-2">(wardrobe)</span>
+                        </label>
+                        <input type="text" class="mt-1 block w-full rounded-md border-gray-300 shadow-sm">
+                    </div>
+                     <!-- Question 6 -->
+                    <div>
+                        <label class="block text-gray-700">6. drifge &rarr; 
+                            <span class="answer-key text-green-600 font-bold ml-2">(fridge)</span>
+                        </label>
+                        <input type="text" class="mt-1 block w-full rounded-md border-gray-300 shadow-sm">
+                    </div>
+                     <!-- Question 7 -->
+                    <div>
+                        <label class="block text-gray-700">7. symes &rarr; 
+                            <span class="answer-key text-green-600 font-bold ml-2">(messy)</span>
+                        </label>
+                        <input type="text" class="mt-1 block w-full rounded-md border-gray-300 shadow-sm">
+                    </div>
+                     <!-- Question 8 -->
+                    <div>
+                        <label class="block text-gray-700">8. dity &rarr; 
+                            <span class="answer-key text-green-600 font-bold ml-2">(tidy)</span>
+                        </label>
+                        <input type="text" class="mt-1 block w-full rounded-md border-gray-300 shadow-sm">
+                    </div>
+                </div>
+                <div class="mt-6 text-right">
+                    <span class="student-feedback font-bold mr-4"></span>
+                    <button class="check-btn bg-blue-500 text-white py-2 px-4 rounded-md hover:bg-blue-600">Kiểm tra Phần 4</button>
+                </div>
+            </section>
+
+            <!-- Part 5: English to Vietnamese -->
+            <section id="part5" class="bg-white p-6 rounded-lg shadow-md">
+                <h2 class="text-2xl font-bold text-gray-800 mb-4">Phần 5: Viết nghĩa tiếng Việt tương ứng</h2>
+                <div class="space-y-4">
+                    <!-- Question 1 -->
+                    <div>
+                        <label class="block text-gray-700">1. microwave: 
+                            <span class="answer-key text-green-600 font-bold ml-2">(lò vi sóng)</span>
+                        </label>
+                        <input type="text" class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50">
+                    </div>
+                     <!-- Question 2 -->
+                    <div>
+                        <label class="block text-gray-700">2. furniture: 
+                            <span class="answer-key text-green-600 font-bold ml-2">(đồ nội thất)</span>
+                        </label>
+                        <input type="text" class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50">
+                    </div>
+                     <!-- Question 3 -->
+                    <div>
+                        <label class="block text-gray-700">3. cupboard: 
+                            <span class="answer-key text-green-600 font-bold ml-2">(tủ chén)</span>
+                        </label>
+                        <input type="text" class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50">
+                    </div>
+                     <!-- Question 4 -->
+                    <div>
+                        <label class="block text-gray-700">4. next to: 
+                            <span class="answer-key text-green-600 font-bold ml-2">(bên cạnh)</span>
+                        </label>
+                        <input type="text" class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50">
+                    </div>
+                     <!-- Question 5 -->
+                    <div>
+                        <label class="block text-gray-700">5. crazy: 
+                            <span class="answer-key text-green-600 font-bold ml-2">(điên, phát cuồng)</span>
+                        </label>
+                        <input type="text" class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50">
+                    </div>
+                     <!-- Question 6 -->
+                    <div>
+                        <label class="block text-gray-700">6. move: 
+                            <span class="answer-key text-green-600 font-bold ml-2">(di chuyển)</span>
+                        </label>
+                        <input type="text" class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50">
+                    </div>
+                </div>
+                <div class="mt-6 text-right">
+                    <span class="student-feedback font-bold mr-4"></span>
+                    <button class="check-btn bg-blue-500 text-white py-2 px-4 rounded-md hover:bg-blue-600">Kiểm tra Phần 5</button>
+                </div>
+            </section>
+        </div>
+    </div>
+
+    <script>
+        const answers = {
+            part1: ["apartment", "living room", "fridge", "messy", "bedroom", "kitchen", "wardrobe", "sofa", "bathroom", "tidy"],
+            part2: ["wardrobe", "microwave", "next to", "furniture", "fridge", "living room", "bathroom", "tidy"],
+            part3: ["v.", "adj.", "n.", "adj.", "n.", "adj."],
+            part4: ["sofa", "bathroom", "cupboard", "kitchen", "wardrobe", "fridge", "messy", "tidy"],
+            part5: ["lò vi sóng", "đồ nội thất", "tủ chén", "bên cạnh", "điên, phát cuồng", "di chuyển"]
+        };
+
+        const body = document.body;
+        const teacherStatus = document.getElementById('teacher-status');
+
+        // Teacher mode console functions
+        window.enableTeacherMode = function(password) {
+            if (password === "giaoVien123") {
+                body.classList.add('teacher-mode');
+                teacherStatus.style.display = 'flex';
+                console.log("✅ Chế độ giáo viên đã được kích hoạt!");
+                return "Chế độ giáo viên đã được kích hoạt thành công.";
+            } else {
+                console.log("❌ Mật khẩu không đúng!");
+                return "Mật khẩu không đúng!";
+            }
+        };
+
+        window.disableTeacherMode = function() {
+            body.classList.remove('teacher-mode');
+            teacherStatus.style.display = 'none';
+            console.log("🔒 Chế độ giáo viên đã được tắt!");
+            return "Chế độ giáo viên đã được tắt.";
+        };
+
+        // Help function for teachers
+        window.teacherHelp = function() {
+            console.log(`
+🎓 HƯỚNG DẪN CHẾ ĐỘ GIÁO VIÊN:
+
+Để kích hoạt chế độ giáo viên:
+enableTeacherMode("mật_khẩu")
+
+Để tắt chế độ giáo viên:
+disableTeacherMode()
+
+Để xem hướng dẫn này:
+teacherHelp()
+
+Ví dụ: enableTeacherMode("giaoVien123")
+            `);
+            return "Đã hiển thị hướng dẫn trong console.";
+        };
+
+        document.querySelectorAll('.check-btn').forEach(button => {
+            button.addEventListener('click', (e) => {
+                const section = e.target.closest('section');
+                const sectionId = section.id;
+                const inputs = section.querySelectorAll('input[type="text"], input[type="radio"]:checked');
+                const feedbackEl = section.querySelector('.student-feedback');
+                let allCorrect = true;
+
+                if (sectionId === 'part3') { // Multiple choice logic
+                    const correctAnswers = answers[sectionId];
+                    const radioGroups = section.querySelectorAll('div > p + div'); // Get all radio groups
+                    radioGroups.forEach((group, index) => {
+                         const checkedRadio = group.querySelector('input[type="radio"]:checked');
+                         if (!checkedRadio || checkedRadio.value !== correctAnswers[index]) {
+                             allCorrect = false;
+                         }
+                    });
+                } else { // Text input logic
+                    const correctAnswers = answers[sectionId];
+                    const textInputs = section.querySelectorAll('input[type="text"]');
+                    if (textInputs.length === 0) return;
+                    
+                    textInputs.forEach((input, index) => {
+                        const userAnswer = input.value.trim().toLowerCase();
+                        const correctAnswer = correctAnswers[index].toLowerCase();
+                        let isCorrect = false;
+                        
+                        // Special handling for Vietnamese answers (part5)
+                        if (sectionId === 'part5') {
+                            // Allow multiple correct answers for Vietnamese translations
+                            const possibleAnswers = correctAnswer.split(',').map(ans => ans.trim());
+                            isCorrect = possibleAnswers.some(ans => 
+                                userAnswer === ans || 
+                                userAnswer.includes(ans.split(' ')[0]) || // Allow partial matches
+                                ans.includes(userAnswer)
+                            );
+                        } else {
+                            isCorrect = userAnswer === correctAnswer;
+                        }
+                        
+                        // Teacher mode feedback
+                        if (body.classList.contains('teacher-mode')) {
+                            input.classList.remove('input-correct-teacher', 'input-incorrect-teacher');
+                            if (isCorrect) {
+                                input.classList.add('input-correct-teacher');
+                            } else {
+                                input.classList.add('input-incorrect-teacher');
+                            }
+                        }
+
+                        if (!isCorrect) {
+                            allCorrect = false;
+                        }
+                    });
+                }
+
+                // Student feedback
+                if (allCorrect) {
+                    feedbackEl.textContent = "Đúng";
+                    feedbackEl.style.color = "green";
+                } else {
+                    feedbackEl.textContent = "Sai";
+                    feedbackEl.style.color = "red";
+                }
+            });
+        });
+    </script>
+</body>
+</html>

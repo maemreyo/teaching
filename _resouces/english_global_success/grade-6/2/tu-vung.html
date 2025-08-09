@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bài tập & Luyện tập từ vựng - Unit 2: My Home</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+        .vocab-card {
+            transition: all 0.3s ease;
+        }
+        .details {
+            display: none;
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height 0.5s ease-in-out;
+        }
+        .details.show {
+             display: block;
+             max-height: 200px; /* Adjust as needed */
+        }
+        .input-correct {
+            border-color: #22c55e; /* green-500 */
+            background-color: #f0fdf4; /* green-50 */
+        }
+        .input-incorrect {
+            border-color: #ef4444; /* red-500 */
+            background-color: #fef2f2; /* red-50 */
+        }
+    </style>
+</head>
+<body class="bg-gray-50 text-gray-800">
+
+    <div class="container mx-auto p-4 sm:p-6 lg:p-8">
+        <header class="text-center mb-8">
+            <h1 class="text-3xl sm:text-4xl font-bold text-blue-600">Unit 2: My Home</h1>
+            <p class="text-gray-600 mt-2">Dùng nút ✓ để kiểm tra từng từ. Hoàn thành đúng tất cả 3 lần để nộp bài.</p>
+        </header>
+
+        <div id="vocab-list" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            <!-- Dữ liệu từ vựng sẽ được chèn vào đây bằng JavaScript -->
+        </div>
+
+        <div class="text-center mt-10 pt-6 border-t-2 border-gray-200">
+            <div id="submission-tracker" class="mb-4 text-lg font-semibold text-gray-700">
+                Số lần hoàn thành: <span id="submission-count" class="text-blue-600 font-bold">0</span> / 3
+            </div>
+            <button id="submit-all-btn" class="bg-green-600 text-white font-bold py-3 px-8 rounded-lg hover:bg-green-700 transition-colors text-lg shadow-lg focus:outline-none focus:ring-4 focus:ring-green-300">
+                Nộp Bài Tập
+            </button>
+            <div id="feedback-message" class="mt-4 text-md font-medium h-6"></div>
+        </div>
+    </div>
+
+    <script>
+        const vocabulary = [
+            { word: "air-conditioner", pronunciation: "/'eə kən'dɪʃənə(r)/", type: "n.", definition: "điều hòa nhiệt độ", example: "There is an air-conditioner in my bedroom. (Có một cái điều hòa nhiệt độ trong phòng ngủ của tôi)" },
+            { word: "apartment", pronunciation: "/ə'pɑ:tmənt/", type: "n.", definition: "căn hộ", example: "We are going to move to a new apartment next week. (Chúng tôi sẽ chuyển đến một căn hộ mới vào tuần tới)" },
+            { word: "bathroom", pronunciation: "/'bɑ:θru:m/", type: "n.", definition: "phòng tắm", example: "There are two bathrooms on the second floor. (Có hai phòng tắm ở trên tầng hai)" },
+            { word: "behind", pronunciation: "/bɪ'haɪnd/", type: "pre.", definition: "ở phía sau, đằng sau", example: "The dog is behind the bookshelf. (Con chó nằm ở phía sau kệ sách)" },
+            { word: "between", pronunciation: "/bɪ'twi:n/", type: "pre.", definition: "ở giữa", example: "Her house is between the hospital and the post office. (Nhà cô ấy nằm giữa bệnh viện và bưu điện)" },
+            { word: "chest of drawers", pronunciation: "/tʃest əv drɔ:z/", type: "n.", definition: "ngăn kéo tủ", example: "Your gloves are in the white box in the chest of drawers. (Găng tay của bạn nằm trong hộp màu trắng trong ngăn kéo tủ)" },
+            { word: "crazy", pronunciation: "/'kreɪzi/", type: "adj.", definition: "kì dị, lạ thường", example: "This is a crazy house. (Đây là một ngôi nhà kỳ dị)" },
+            { word: "cupboard", pronunciation: "/'kʌbəd/", type: "n.", definition: "tủ ly, tủ bát", example: "There is a large cupboard in the kitchen. (Có một chiếc tủ ly lớn trong nhà bếp)" },
+            { word: "department store", pronunciation: "/dɪ'pɑ:tmənt stɔ:(r)/", type: "n.", definition: "cửa hàng bách hóa", example: "Is there a department store near your house? (Có cửa hàng bách hóa nào gần nhà bạn không?)" },
+            { word: "dishwasher", pronunciation: "/'dɪʃwɒʃə(r)/", type: "n.", definition: "máy rửa bát đĩa", example: "We bought a dishwasher to make life easier. (Chúng tôi đã mua một chiếc máy rửa bát đĩa để làm cho cuộc sống dễ dàng hơn.)" },
+            { word: "fridge", pronunciation: "/frɪdʒ/", type: "n.", definition: "tủ lạnh", example: "Milk keeps much longer in a fridge. (Sữa giữ được lâu hơn khi để trong tủ lạnh)" },
+            { word: "furniture", pronunciation: "/'fɜ:nɪtʃə(r)/", type: "n.", definition: "đồ đạc trong nhà, đồ gỗ", example: "You should buy some new furniture for your apartment. (Bạn nên mua một số đồ nội thất mới cho căn hộ của mình)" },
+            { word: "hall", pronunciation: "/hɔ:l/", type: "n.", definition: "hành lang", example: "She ran into the hall and up the stairs. (Cô ấy chạy vào hành lang và leo lên cầu thang)" },
+            { word: "in front of", pronunciation: "/ɪn frʌnt əv/", type: "pre.", definition: "ở phía trước, đằng trước", example: "There is a bus stop in front of our house. (Có một trạm dừng xe buýt ở phía trước nhà của chúng tôi)" },
+            { word: "kitchen", pronunciation: "/'kɪtʃɪn/", type: "n.", definition: "nhà bếp", example: "My mother is cooking in the kitchen. (Mẹ tôi đang nấu ăn trong bếp)" },
+            { word: "living room", pronunciation: "/'lɪvɪŋ ru:m/", type: "n.", definition: "phòng khách", example: "The house has two bedrooms, a living room and a kitchen. (Ngôi nhà có hai phòng ngủ, một phòng khách và một nhà bếp)" },
+            { word: "messy", pronunciation: "/'mesi/", type: "adj.", definition: "lộn xộn, bừa bộn", example: "Your bedroom is so messy. (Phòng ngủ của cậu thật bừa bộn)" },
+            { word: "microwave", pronunciation: "/'maɪkrəweɪv/", type: "n.", definition: "lò vi sóng", example: "Reheat the soup in the microwave. (Hãy hâm nóng súp trong lò vi sóng)" },
+            { word: "move", pronunciation: "/mu:v/", type: "v.", definition: "chuyển, di chuyển nhà", example: "They moved their house last month. (Họ đã chuyển nhà vào tháng trước)" },
+            { word: "next to", pronunciation: "/nekst tə/", type: "pre.", definition: "ở cạnh", example: "His bedroom is next to the living room. (Phòng ngủ của anh ấy ở cạnh phòng khách)" },
+            { word: "sofa", pronunciation: "/'səʊfə/", type: "n.", definition: "ghế sô pha", example: "The cat is sitting on the sofa. (Con mèo đang ngồi trên ghế sô pha)" },
+            { word: "stilt house", pronunciation: "/stɪlt haʊs/", type: "n.", definition: "nhà sàn", example: "My grandparents live in a stilt house. (Ông bà tôi sống trong một ngôi nhà sàn)" },
+            { word: "under", pronunciation: "/'ʌndə(r)/", type: "pre.", definition: "ở bên dưới, phía dưới", example: "The hat is under the table. (Chiếc mũ ở bên dưới cái bàn)" },
+            { word: "wardrobe", pronunciation: "/'wɔ:drəʊb/", type: "n.", definition: "tủ đựng quần áo", example: "He hung his suit in the wardrobe. (Anh ấy đã treo bộ com-le trong tủ quần áo)" }
+        ];
+
+        const vocabListContainer = document.getElementById('vocab-list');
+        
+        // Render vocabulary cards
+        vocabulary.forEach((item, index) => {
+            const card = document.createElement('div');
+            card.className = 'vocab-card bg-white p-5 rounded-lg shadow-md border border-gray-200';
+            card.innerHTML = `
+                <div class="flex justify-between items-center mb-3">
+                    <span class="text-sm font-semibold text-indigo-600 bg-indigo-100 px-2 py-1 rounded">${item.type}</span>
+                    <span class="text-sm text-gray-600 font-mono">${item.pronunciation}</span>
+                </div>
+                <div class="flex items-center space-x-2">
+                    <input type="text" placeholder="Gõ từ vựng..." class="vocab-input w-full p-2 border-2 border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent transition" data-index="${index}">
+                    <button class="check-btn p-2 bg-blue-500 text-white rounded-md hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-opacity-50 transition">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
+                        </svg>
+                    </button>
+                </div>
+                <div class="details mt-4 pt-4 border-t border-gray-200">
+                    <h3 class="font-bold text-lg text-gray-800">${item.word}</h3>
+                    <p class="text-blue-700 font-semibold text-lg mt-1">${item.definition}</p>
+                    <p class="text-gray-600 mt-2 text-sm italic"><strong>Ví dụ:</strong> ${item.example}</p>
+                </div>
+            `;
+            vocabListContainer.appendChild(card);
+        });
+
+        // --- Logic ---
+        let submissionCount = 0;
+        const totalSubmissionsRequired = 3;
+
+        const submitAllBtn = document.getElementById('submit-all-btn');
+        const submissionCountDisplay = document.getElementById('submission-count');
+        const feedbackMessage = document.getElementById('feedback-message');
+        
+        function checkIndividualWord(button) {
+            const card = button.closest('.vocab-card');
+            const input = card.querySelector('.vocab-input');
+            const details = card.querySelector('.details');
+            const index = input.getAttribute('data-index');
+            const correctWord = vocabulary[index].word;
+
+            const userInput = input.value.trim().toLowerCase();
+            const normalizedCorrectWord = correctWord.trim().toLowerCase();
+
+            if (userInput === normalizedCorrectWord) {
+                input.classList.remove('input-incorrect');
+                input.classList.add('input-correct');
+            } else {
+                input.classList.remove('input-correct');
+                input.classList.add('input-incorrect');
+            }
+            details.classList.toggle('show');
+        }
+
+        vocabListContainer.addEventListener('click', function(e) {
+            const checkButton = e.target.closest('.check-btn');
+            if (checkButton) {
+                checkIndividualWord(checkButton);
+            }
+        });
+
+        function resetAllFields() {
+            document.querySelectorAll('.vocab-input').forEach(input => {
+                input.value = '';
+                input.classList.remove('input-correct', 'input-incorrect');
+            });
+            document.querySelectorAll('.details').forEach(detail => {
+                detail.classList.remove('show');
+            });
+            feedbackMessage.textContent = 'Cố lên! Hãy điền lại từ đầu nhé!';
+            feedbackMessage.className = 'mt-4 text-md font-medium h-6 text-gray-600';
+            setTimeout(() => {
+                if (submissionCount < totalSubmissionsRequired) {
+                    feedbackMessage.textContent = '';
+                }
+            }, 2500);
+        }
+
+        function handleSubmitAll() {
+            let allCorrect = true;
+            let answeredCount = 0;
+            const allInputs = document.querySelectorAll('.vocab-input');
+
+            allInputs.forEach((input, index) => {
+                const details = input.closest('.vocab-card').querySelector('.details');
+                const correctWord = vocabulary[index].word;
+                const userInput = input.value.trim().toLowerCase();
+                const normalizedCorrectWord = correctWord.trim().toLowerCase();
+
+                if (userInput) {
+                    answeredCount++;
+                }
+
+                if (userInput === normalizedCorrectWord) {
+                    input.classList.remove('input-incorrect');
+                    input.classList.add('input-correct');
+                } else {
+                    input.classList.remove('input-correct');
+                    input.classList.add('input-incorrect');
+                    allCorrect = false;
+                }
+            });
+
+            if (answeredCount < allInputs.length) {
+                feedbackMessage.textContent = 'Vui lòng trả lời tất cả các câu hỏi!';
+                feedbackMessage.className = 'mt-4 text-md font-medium h-6 text-yellow-600';
+                return; 
+            }
+
+            if (allCorrect) {
+                submissionCount++;
+                submissionCountDisplay.textContent = submissionCount;
+                
+                if (submissionCount >= totalSubmissionsRequired) {
+                    feedbackMessage.textContent = '🎉 Chúc mừng! Bạn đã hoàn thành bài tập! 🎉';
+                    feedbackMessage.className = 'mt-4 text-md font-medium h-6 text-green-600';
+                    submitAllBtn.disabled = true;
+                    submitAllBtn.classList.add('opacity-50', 'cursor-not-allowed');
+                } else {
+                    feedbackMessage.textContent = `Tuyệt vời! Đã xong lần ${submissionCount}. Chuẩn bị làm lại nhé...`;
+                    feedbackMessage.className = 'mt-4 text-md font-medium h-6 text-blue-600';
+                    setTimeout(resetAllFields, 3000);
+                }
+            } else {
+                feedbackMessage.textContent = 'Có lỗi sai. Vui lòng kiểm tra lại các câu màu đỏ.';
+                feedbackMessage.className = 'mt-4 text-md font-medium h-6 text-red-500';
+            }
+        }
+
+        submitAllBtn.addEventListener('click', handleSubmitAll);
+    </script>
+
+</body>
+</html>
