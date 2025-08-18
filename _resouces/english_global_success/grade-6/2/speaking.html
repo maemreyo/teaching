@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Slides: Luyện nói - Căn phòng yêu thích (Sáng tạo)</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Montserrat', sans-serif;
+        }
+        .slide {
+            display: none;
+            animation: fadeIn 0.5s;
+        }
+        .slide.active {
+            display: block;
+        }
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+        .slide-container {
+            min-height: 550px;
+        }
+    </style>
+</head>
+<body class="bg-gray-200 flex items-center justify-center min-h-screen p-4">
+
+    <div class="w-full max-w-4xl bg-white rounded-2xl shadow-2xl overflow-hidden">
+        <div id="slideshow-container" class="relative">
+            <div class="slide-container p-8 sm:p-12 md:p-16 flex flex-col justify-center">
+                <!-- Slide 1: Title -->
+                <div class="slide active flex flex-col items-center justify-center text-center h-full">
+                    <h1 class="text-5xl font-bold text-green-600">Speaking Skill</h1>
+                    <p class="text-3xl text-gray-700 mt-4">Talk about the room you like best in your house</p>
+                    <p class="text-xl text-gray-500 mt-2">(Nói về căn phòng bạn yêu thích nhất trong nhà)</p>
+                </div>
+
+                <!-- Slide 2: Warm-up (Creative) -->
+                <div class="slide">
+                    <h2 class="text-4xl font-bold text-center text-green-600">Khởi động</h2>
+                    <p class="text-xl text-center text-gray-600 mt-2">Đây là những loại nhà gì?</p>
+                    <div class="grid grid-cols-2 gap-6 mt-8">
+                        <div class="text-center"><img src="https://placehold.co/300x200/e0f2fe/0c4a6e?text=Apartment" alt="Căn hộ" class="rounded-lg shadow-md mx-auto"><p class="mt-2 text-lg font-semibold">Apartment (Căn hộ)</p></div>
+                        <div class="text-center"><img src="https://placehold.co/300x200/dcfce7/14532d?text=Stilt+House" alt="Nhà sàn" class="rounded-lg shadow-md mx-auto"><p class="mt-2 text-lg font-semibold">Stilt house (Nhà sàn)</p></div>
+                        <div class="text-center"><img src="https://placehold.co/300x200/fef9c3/b45309?text=Town+House" alt="Nhà phố" class="rounded-lg shadow-md mx-auto"><p class="mt-2 text-lg font-semibold">Town house (Nhà phố)</p></div>
+                        <div class="text-center"><img src="https://placehold.co/300x200/f3e8ff/6b21a8?text=Villa" alt="Biệt thự" class="rounded-lg shadow-md mx-auto"><p class="mt-2 text-lg font-semibold">Villa (Biệt thự)</p></div>
+                    </div>
+                </div>
+
+                <!-- Slide 3: Guiding Questions (Expanded) -->
+                <div class="slide">
+                    <h2 class="text-4xl font-bold text-center text-green-600">Brainstorm ý tưởng</h2>
+                    <div class="mt-8 text-left text-2xl space-y-4">
+                        <p>Để bài nói thật hay, hãy trả lời các câu hỏi sau:</p>
+                        <ol class="list-decimal list-inside space-y-3 text-gray-800">
+                            <li><strong>Căn phòng đó là phòng nào?</strong> (Which room?)</li>
+                            <li><strong>Trong đó có gì?</strong> (What does it have?)</li>
+                            <li><strong>Tại sao bạn thích nó?</strong> (Why do you like it?)</li>
+                        </ol>
+                        <div class="mt-4 pt-4 border-t-2">
+                            <h3 class="font-bold text-xl">Thêm gia vị...</h3>
+                            <ul class="list-disc list-inside text-xl space-y-2 mt-2">
+                                <li>Nó có gì đặc biệt không? (một góc bí mật, một cửa sổ lớn...)</li>
+                                <li>Nó khiến bạn cảm thấy thế nào? (thư giãn, vui vẻ, sáng tạo...)</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Slide 4: Useful Vocabulary (Expanded) -->
+                <div class="slide">
+                    <h2 class="text-4xl font-bold text-center text-green-600">Từ vựng "Tăng hương vị"</h2>
+                    <div class="mt-6 grid grid-cols-1 md:grid-cols-2 gap-x-8 gap-y-4 text-lg">
+                        <div>
+                            <h3 class="font-bold text-xl text-gray-700 border-b-2 pb-1 mb-2">Đồ vật (Things)</h3>
+                            <ul class="list-disc list-inside space-y-1">
+                                <li>wardrobe, bookshelf</li>
+                                <li>sofa, bed, desk</li>
+                                <li>pictures, computer</li>
+                            </ul>
+                        </div>
+                        <div>
+                            <h3 class="font-bold text-xl text-gray-700 border-b-2 pb-1 mb-2">Tính từ (Adjectives)</h3>
+                            <ul class="list-disc list-inside space-y-1">
+                                <li><strong>cosy</strong> (ấm cúng)</li>
+                                <li><strong>spacious</strong> (rộng rãi)</li>
+                                <li><strong>bright</strong> (sáng sủa)</li>
+                                <li><strong>messy</strong> (bừa bộn)</li>
+                                <li><strong>crazy</strong> (kỳ dị, độc đáo)</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Slide 5: "Level Up" Your Sentences -->
+                <div class="slide">
+                    <h2 class="text-4xl font-bold text-center text-green-600">"Nâng cấp" câu của bạn</h2>
+                     <div class="mt-6 text-left text-lg space-y-3">
+                        <p class="font-semibold">▶ Bắt đầu thật ấn tượng:</p>
+                        <p class="pl-4 italic">"My favorite place in the whole house is..."</p>
+                        <p class="font-semibold mt-4">▶ Thêm chi tiết sống động:</p>
+                        <p class="pl-4 italic">"The first thing you'll notice is..."</p>
+                        <p class="pl-4 italic">"From the window, I can see..."</p>
+                        <p class="font-semibold mt-4">▶ Chia sẻ cảm xúc cá nhân:</p>
+                        <p class="pl-4 italic">"It's my favorite room because it makes me feel..."</p>
+                        <p class="pl-4 italic">"Whenever I feel sad, I go there to..."</p>
+                    </div>
+                </div>
+
+                <!-- Slide 6: Creative Sample Answer -->
+                <div class="slide">
+                    <h2 class="text-4xl font-bold text-center text-green-600">Bài nói mẫu (Sáng tạo)</h2>
+                    <div class="mt-6 text-lg text-gray-800 bg-gray-50 p-6 rounded-lg italic space-y-3">
+                        <p>"My favorite place isn't really a room, it's my small balcony. It's tiny, but it's my own little garden in the sky. There are many small plant pots on the shelf. The first thing you'll notice is a crazy, colorful armchair where I love to sit. Whenever I need to relax, I go there to read a book and look at the city below. It makes me feel peaceful and happy."</p>
+                    </div>
+                </div>
+
+                <!-- Slide 7: Pro Tip -->
+                <div class="slide">
+                     <h2 class="text-4xl font-bold text-center text-green-600">Bí kíp cuối cùng</h2>
+                     <div class="mt-8 text-center">
+                        <p class="text-5xl">💡</p>
+                        <p class="text-3xl mt-4 font-semibold">Thêm "Nguyên liệu bí mật"!</p>
+                        <p class="text-xl mt-4 text-gray-700">Điều gì khiến căn phòng của bạn trở nên độc nhất? Một cái đèn kỳ lạ? Một chiếc bàn bừa bộn nhưng đầy ý tưởng? Một cửa sổ nhìn ra cảnh đẹp? Hãy kể cho mọi người bí mật đó!</p>
+                     </div>
+                </div>
+
+                 <!-- Slide 8: Your Turn! -->
+                <div class="slide flex flex-col items-center justify-center text-center h-full">
+                    <h2 class="text-5xl font-bold text-green-600">Đến lượt bạn!</h2>
+                    <p class="text-2xl text-gray-600 mt-4">Lập dàn ý cho bài nói của mình.</p>
+                    <div class="mt-8 text-left border-2 p-6 rounded-lg w-full space-y-3">
+                        <p><strong>1. Căn phòng của tôi:</strong> ________________</p>
+                        <p><strong>2. 3 đồ vật trong phòng:</strong> ____________, ____________, ____________</p>
+                        <p><strong>3. 2 tính từ miêu tả:</strong> ____________, ____________</p>
+                        <p><strong>4. "Nguyên liệu bí mật" của tôi là:</strong> ________________</p>
+                        <p><strong>5. Lý do tôi yêu nó:</strong> ________________</p>
+                    </div>
+                </div>
+
+            </div>
+
+             <!-- Navigation -->
+            <div class="absolute bottom-8 w-full flex justify-between px-8">
+                <button onclick="changeSlide(-1)" class="bg-gray-700 text-white py-2 px-6 rounded-lg hover:bg-gray-800 transition">&larr; Trước</button>
+                <button onclick="changeSlide(1)" class="bg-gray-700 text-white py-2 px-6 rounded-lg hover:bg-gray-800 transition">Sau &rarr;</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let slideIndex = 1;
+        showSlides(slideIndex);
+
+        function changeSlide(n) {
+            showSlides(slideIndex += n);
+        }
+
+        function showSlides(n) {
+            let i;
+            let slides = document.getElementsByClassName("slide");
+            if (n > slides.length) {slideIndex = 1}
+            if (n < 1) {slideIndex = slides.length}
+            for (i = 0; i < slides.length; i++) {
+                slides[i].style.display = "none";  
+            }
+            slides[slideIndex-1].style.display = "block";  
+            slides[slideIndex-1].classList.add('active');
+        }
+    </script>
+</body>
+</html>
