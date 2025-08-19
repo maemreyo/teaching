@@ -50,6 +50,19 @@
         </header>
 
         <div class="space-y-12">
+            <div class="bg-white p-6 rounded-lg shadow-md">
+                <h2 class="text-2xl font-bold text-gray-700 mb-4">Thông tin học sinh</h2>
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                    <div>
+                        <label for="student-name" class="block text-sm font-medium text-gray-700">Họ và tên</label>
+                        <input type="text" id="student-name" class="mt-1 block w-full px-3 py-2 bg-white border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm">
+                    </div>
+                    <div>
+                        <label for="student-class" class="block text-sm font-medium text-gray-700">Lớp</label>
+                        <input type="text" id="student-class" class="mt-1 block w-full px-3 py-2 bg-white border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm">
+                    </div>
+                </div>
+            </div>
 
             <section id="part1" class="bg-white p-6 rounded-lg shadow-md">
                 <h2 class="text-3xl font-bold text-blue-600 mb-6">Phần 1: Thì Hiện tại & Từ vựng</h2>
@@ -87,6 +100,10 @@
                 </div>
             </section>
 
+            <div class="text-center mt-10">
+                <button id="submit-all-btn" class="bg-red-600 text-white font-bold py-4 px-8 rounded-lg text-2xl hover:bg-red-700 transition-transform transform hover:scale-105">NỘP TOÀN BỘ BÀI</button>
+                <p id="submission-status" class="mt-4 text-lg"></p>
+            </div>
         </div>
     </div>
 
@@ -171,7 +188,6 @@
             exercises[part].forEach(group => {
                 html += `<h3 class="text-xl font-semibold text-gray-700 mb-4">${group.instruction}</h3>`;
 
-                // Render example
                 if (group.example) {
                     html += `
                     <div class="example-item">
@@ -180,17 +196,13 @@
                     </div>`;
                 }
                 
-                // Render questions
                 const questionsHtml = group.questions.map((item, index) => {
                     let questionContent = item.q;
                     let reasonContent = item.reason || '';
 
                     if (isTeacher) {
-                        // Create a temporary div to parse and manipulate the question HTML
                         const tempDiv = document.createElement('div');
                         tempDiv.innerHTML = `<div>${questionContent}</div>`;
-                        
-                        // Set values for inputs and selects
                         tempDiv.querySelectorAll('.student-answer').forEach(el => {
                             const answer = el.dataset.answer;
                             const answerWrapper = document.createElement('span');
@@ -202,7 +214,7 @@
                     }
 
                     return `
-                    <div class="question-item">
+                    <div class="question-item" data-question-id="${item.id}">
                         <p class="text-lg"><strong>Câu ${index + 1}:</strong> ${questionContent}</p>
                         <input type="text" placeholder="Lý do bạn chọn đáp án này..." class="reason-input" ${isTeacher ? `value="${reasonContent}" disabled` : ''}>
                     </div>
@@ -220,7 +232,80 @@
             renderExercises('part3', 'part3-container', isTeacher);
             renderExercises('part4', 'part4-container', isTeacher);
             document.querySelectorAll('.check-btn').forEach(btn => btn.style.display = isTeacher ? 'none' : 'inline-block');
+            const submissionBlock = document.getElementById('submission-block');
+            if(submissionBlock) submissionBlock.style.display = isTeacher ? 'none' : 'block';
         }
+
+        // --- SUBMISSION LOGIC --- //
+        async function handleSubmit() {
+            const studentName = document.getElementById('student-name').value.trim();
+            const studentClass = document.getElementById('student-class').value.trim();
+            const statusEl = document.getElementById('submission-status');
+
+            if (!studentName || !studentClass) {
+                statusEl.textContent = 'Vui lòng nhập đầy đủ Họ và tên và Lớp.';
+                statusEl.style.color = 'red';
+                return;
+            }
+
+            statusEl.textContent = 'Đang nộp bài...';
+            statusEl.style.color = 'blue';
+
+            const allAnswers = [];
+            let correctCount = 0;
+            const allInputs = document.querySelectorAll('.student-answer');
+
+            document.querySelectorAll('.question-item').forEach(item => {
+                const questionId = item.dataset.questionId;
+                const questionText = item.querySelector('p').innerText;
+                const reason = item.querySelector('.reason-input').value;
+                const answers = [];
+                
+                item.querySelectorAll('.student-answer').forEach(input => {
+                    const isCorrect = (input.value.toLowerCase() === input.dataset.answer.toLowerCase());
+                    if(isCorrect) correctCount++;
+                    answers.push({ 
+                        answer: input.value, 
+                        correctAnswer: input.dataset.answer,
+                        isCorrect
+                    });
+                });
+
+                allAnswers.push({ questionId, questionText, reason, answers });
+            });
+
+            const payload = {
+                studentName,
+                studentClass,
+                submittedAt: new Date().toISOString(),
+                score: `${correctCount}/${allInputs.length}`,
+                answers: allAnswers
+            };
+
+            try {
+                const response = await fetch('http://localhost:3999/api/log-submission', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify(payload),
+                });
+
+                if (!response.ok) {
+                    throw new Error(`Lỗi từ server: ${response.statusText}`);
+                }
+
+                const result = await response.json();
+                statusEl.textContent = `Nộp bài thành công! Cảm ơn bạn.`;
+                statusEl.style.color = 'green';
+                document.getElementById('submit-all-btn').disabled = true;
+
+            } catch (error) {
+                statusEl.textContent = `Đã có lỗi xảy ra khi nộp bài. Vui lòng thử lại. Lỗi: ${error.message}`;
+                statusEl.style.color = 'red';
+            }
+        }
+
 
         // --- GLOBAL FUNCTION FOR TEACHER --- //
         function enableTeacherMode(password) {
@@ -242,27 +327,19 @@
                 document.querySelectorAll('.check-btn').forEach(button => {
                     button.addEventListener('click', (e) => {
                         const section = e.target.closest('section');
-                        const feedbackEl = section.querySelector('.student-feedback');
-                        let allCorrect = true;
-
                         const inputs = section.querySelectorAll('.student-answer');
-
                         inputs.forEach(input => {
                             const userAnswer = (input.value || '').trim().toLowerCase();
                             const correctAnswer = (input.dataset.answer || '').trim().toLowerCase();
                             const isCorrect = (userAnswer === correctAnswer);
-                            
                             input.classList.remove('border-green-500', 'border-red-500');
                             if (input.value) { 
                                 input.classList.add(isCorrect ? 'border-green-500' : 'border-red-500');
                             }
-                            if (!isCorrect) allCorrect = false;
                         });
-
-                        feedbackEl.textContent = allCorrect ? "Chính xác!" : "Cần xem lại!";
-                        feedbackEl.style.color = allCorrect ? "#22c55e" : "#ef4444";
                     });
                 });
+                document.getElementById('submit-all-btn').addEventListener('click', handleSubmit);
             }
         });
 

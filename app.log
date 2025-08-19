@@ -1,54 +1,78 @@
-danh sách các từ vựng có trong Unit 1 và Unit 2.
 
-### Unit 1: My New School 🏫
-
-* **activity**: hoạt động
-* **art**: nghệ thuật
-* **boarding school**: trường nội trú
-* **classmate**: bạn cùng lớp
-* **compass**: compa
-* **creative**: sáng tạo
-* **equipment**: thiết bị
-* **excited**: phấn chấn, phấn khích
-* **greenhouse**: nhà kính
-* **help**: giúp đỡ
-* **international**: quốc tế
-* **interview**: phỏng vấn
-* **judo**: võ judo
-* **knock**: gõ cửa
-* **overseas**: (ở) nước ngoài
-* **pocket money**: tiền túi, tiền tiêu vặt
-* **poem**: bài thơ
-* **remember**: nhớ, ghi nhớ
-* **share**: chia sẻ
-* **smart**: bảnh bao, sáng sủa
-* **surround**: bao quanh
-* **swimming pool**: bể bơi
-
----
-### Unit 2: My Home 🏡
-
-* **air-conditioner**: điều hòa nhiệt độ
-* **apartment**: căn hộ
-* **bathroom**: phòng tắm
-* **behind**: ở phía sau, đằng sau
-* **between**: ở giữa
-* **chest of drawers**: ngăn kéo tủ
-* **crazy**: kì dị, lạ thường
-* **cupboard**: tủ ly, tủ bát
-* **department store**: cửa hàng bách hóa
-* **dishwasher**: máy rửa bát đĩa
-* **fridge**: tủ lạnh
-* **furniture**: đồ đạc trong nhà, đồ gỗ
-* **hall**: hành lang
-* **in front of**: ở phía trước, đằng trước
-* **kitchen**: nhà bếp
-* **living room**: phòng khách
-* **messy**: lộn xộn, bừa bộn
-* **microwave**: lò vi sóng
-* **move**: chuyển, di chuyển nhà
-* **next to**: ở cạnh
-* **sofa**: ghế sô pha
-* **stilt house**: nhà sàn
-* **under**: ở bên dưới, phía dưới
-* **wardrobe**: tủ đựng quần áo
+=============================================
+✅ BÀI LÀM MỚI VỪA ĐƯỢC NỘP
+=============================================
+👨‍🎓 Học sinh: Nguyễn Văn A
+🗓️ Thời gian nộp: 2025-08-19T08:22:13.130Z
+💯 Điểm trắc nghiệm: 0/65
+📁 Đã lưu vào file: /Users/matthewngo/Documents/dev/projects/teaching/quiz-server/logs/quiz-submissions-2025-08-19.log
+---------- CHI TIẾT CÂU TRẢ LỜI ----------
+[
+  {
+    "questionId": "undefined",
+    "questionText": "Câu 1: Listen! Someone \nknocks\nis knocking\n on the door.",
+    "reason": "123",
+    "answers": [
+      {
+        "answer": "knocks",
+        "correctAnswer": "is knocking",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionId": "undefined",
+    "questionText": "Câu 2: I \nfeel\nam feeling\n very \nexcited\ncreative\n about the first day at my \ninternational\nboarding school\n school.",
+    "reason": "",
+    "answers": [
+      {
+        "answer": "",
+        "correctAnswer": "am feeling",
+        "isCorrect": false
+      },
+      {
+        "answer": "",
+        "correctAnswer": "excited",
+        "isCorrect": false
+      },
+      {
+        "answer": "",
+        "correctAnswer": "international",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionId": "undefined",
+    "questionText": "Câu 3: We \nlearn\nare learning\n how to write a \npoem\njudo\n in Literature class right now.",
+    "reason": "",
+    "answers": [
+      {
+        "answer": "",
+        "correctAnswer": "are learning",
+        "isCorrect": false
+      },
+      {
+        "answer": "",
+        "correctAnswer": "poem",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionId": "undefined",
+    "questionText": "Câu 4: My brother \nhelps\nis helping\n me with my homework in the \nliving room\ngreenhouse\n.",
+    "reason": "",
+    "answers": [
+      {
+        "answer": "",
+        "correctAnswer": "is helping",
+        "isCorrect": false
+      },
+      {
+        "answer": "",
+        "correctAnswer": "living room",
+        "isCorrect": false
+      }
+    ]
+  },

@@ -39,6 +39,7 @@ export async function POST(request) {
     const logEntry = {
       timestamp: new Date().toISOString(),
       studentName: submissionData.studentName,
+      studentClass: submissionData.studentClass, // Thêm lớp của học sinh
       submittedAt: submissionData.submittedAt,
       score: submissionData.score,
       answers: submissionData.answers
