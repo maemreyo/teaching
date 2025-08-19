@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bài kiểm tra Ngữ pháp - Unit 1 & 2 (Hướng dẫn chi tiết)</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Montserrat', sans-serif;
+        }
+        .answer-key { display: none; }
+        .teacher-mode .answer-key { display: inline-block; }
+        .input-correct-teacher { border-color: #22c55e !important; background-color: #f0fdf4 !important; }
+        .input-incorrect-teacher { border-color: #ef4444 !important; background-color: #fef2f2 !important; }
+        .reason-input {
+            margin-top: 4px;
+            width: 100%;
+            padding: 6px;
+            border: 1px solid #d1d5db;
+            border-radius: 4px;
+            font-style: italic;
+            background-color: #f9fafb;
+        }
+        .example-item {
+            background-color: #eff6ff;
+            padding: 12px;
+            border-radius: 8px;
+            border-left: 4px solid #3b82f6;
+            margin-bottom: 16px;
+        }
+    </style>
+</head>
+<body class="bg-gray-100">
+
+    <div class="container mx-auto p-4 sm:p-8">
+        <header class="text-center mb-10">
+            <h1 class="text-5xl font-bold text-gray-800">Bài kiểm tra Ngữ pháp</h1>
+            <p class="text-2xl text-gray-600 mt-4">Unit 1 & 2 (Hướng dẫn chi tiết)</p>
+        </header>
+
+        <div class="space-y-12">
+
+            <section id="part1" class="bg-white p-6 rounded-lg shadow-md">
+                <h2 class="text-3xl font-bold text-blue-600 mb-6">Phần 1: Thì Hiện tại & Từ vựng</h2>
+                <div id="part1-container" class="space-y-8"></div>
+                <div class="mt-6 text-right">
+                    <span class="student-feedback font-bold mr-4"></span>
+                    <button class="check-btn bg-blue-500 text-white py-2 px-4 rounded-md hover:bg-blue-600">Kiểm tra Phần 1</button>
+                </div>
+            </section>
+
+            <section id="part2" class="bg-white p-6 rounded-lg shadow-md">
+                <h2 class="text-3xl font-bold text-green-600 mb-6">Phần 2: Động từ & Từ vựng</h2>
+                <div id="part2-container" class="space-y-8"></div>
+                <div class="mt-6 text-right">
+                    <span class="student-feedback font-bold mr-4"></span>
+                    <button class="check-btn bg-green-500 text-white py-2 px-4 rounded-md hover:bg-green-600">Kiểm tra Phần 2</button>
+                </div>
+            </section>
+
+            <section id="part3" class="bg-white p-6 rounded-lg shadow-md">
+                <h2 class="text-3xl font-bold text-purple-600 mb-6">Phần 3: Giới từ & Từ vựng</h2>
+                <div id="part3-container" class="space-y-8"></div>
+                <div class="mt-6 text-right">
+                    <span class="student-feedback font-bold mr-4"></span>
+                    <button class="check-btn bg-purple-500 text-white py-2 px-4 rounded-md hover:bg-purple-600">Kiểm tra Phần 3</button>
+                </div>
+            </section>
+
+            <section id="part4" class="bg-white p-6 rounded-lg shadow-md">
+                <h2 class="text-3xl font-bold text-orange-500 mb-6">Phần 4: There is / are & Từ vựng</h2>
+                <div id="part4-container" class="space-y-8"></div>
+                <div class="mt-6 text-right">
+                    <span class="student-feedback font-bold mr-4"></span>
+                    <button class="check-btn bg-orange-500 text-white py-2 px-4 rounded-md hover:bg-orange-600">Kiểm tra Phần 4</button>
+                </div>
+            </section>
+
+        </div>
+    </div>
+
+    <script>
+        // --- DATA --- //
+        const exercises = {
+            part1: [
+                {
+                    instruction: "Chọn dạng đúng của động từ và từ vựng cho sẵn.",
+                    example: {
+                        q: 'My new <select disabled><option>classmate</option></select> often <select disabled><option>shares</option></select> his lunch with me.',
+                        reason: "Dùng thì hiện tại đơn (shares) vì có 'often' chỉ thói quen. 'classmate' là danh từ phù hợp."
+                    },
+                    questions: [
+                        { q: 'Listen! Someone <select class="p-1 rounded border-gray-300 student-answer" data-answer="is knocking"><option></option><option value="knocks">knocks</option><option value="is knocking">is knocking</option></select> on the door.' },
+                        { q: 'I <select class="p-1 rounded border-gray-300 student-answer" data-answer="am feeling"><option></option><option value="feel">feel</option><option value="am feeling">am feeling</option></select> very <select class="p-1 rounded border-gray-300 student-answer" data-answer="excited"><option></option><option value="excited">excited</option><option value="creative">creative</option></select> about the first day at my <select class="p-1 rounded border-gray-300 student-answer" data-answer="international"><option></option><option value="international">international</option><option value="boarding school">boarding school</option></select> school.' },
+                        { q: 'We <select class="p-1 rounded border-gray-300 student-answer" data-answer="are learning"><option></option><option value="learn">learn</option><option value="are learning">are learning</option></select> how to write a <select class="p-1 rounded border-gray-300 student-answer" data-answer="poem"><option></option><option value="poem">poem</option><option value="judo">judo</option></select> in Literature class right now.' },
+                        { q: 'My brother <select class="p-1 rounded border-gray-300 student-answer" data-answer="is helping"><option></option><option value="helps">helps</option><option value="is helping">is helping</option></select> me with my homework in the <select class="p-1 rounded border-gray-300 student-answer" data-answer="living room"><option></option><option value="living room">living room</option><option value="greenhouse">greenhouse</option></select>.' },
+                        { q: 'She is very <select class="p-1 rounded border-gray-300 student-answer" data-answer="creative"><option></option><option value="creative">creative</option><option value="smart">smart</option></select>; she always <select class="p-1 rounded border-gray-300 student-answer" data-answer="has"><option></option><option value="has">has</option><option value="is having">is having</option></select> new ideas for the <select class="p-1 rounded border-gray-300 student-answer" data-answer="art"><option></option><option value="art">art</option><option value="activity">activity</option></select> club.' },
+                        { q: 'They usually <select class="p-1 rounded border-gray-300 student-answer" data-answer="remember"><option></option><option value="remember">remember</option><option value="are remembering">are remembering</option></select> to bring their <select class="p-1 rounded border-gray-300 student-answer" data-answer="compass"><option></option><option value="compass">compass</option><option value="pocket money">pocket money</option></select> for the Geography lesson.' },
+                        { q: 'What <select class="p-1 rounded border-gray-300 student-answer" data-answer="are you doing"><option></option><option value="do you do">do you do</option><option value="are you doing">are you doing</option></select>? I\'m looking for my <select class="p-1 rounded border-gray-300 student-answer" data-answer="equipment"><option></option><option value="equipment">equipment</option><option value="interview">interview</option></select>.' },
+                        { q: 'He looks <select class="p-1 rounded border-gray-300 student-answer" data-answer="smart"><option></option><option value="smart">smart</option><option value="messy">messy</option></select> in his new school uniform.' },
+                    ]
+                }
+            ],
+            part2: [
+                {
+                    instruction: "Điền động từ đúng (do, play, have, study, help, share, remember) và chọn từ vựng phù hợp.",
+                    example: {
+                        q: 'We often <input type="text" class="p-1 w-20 border-b-2" value="play" disabled> badminton after school.',
+                        reason: "Dùng 'play' với môn thể thao badminton."
+                    },
+                    questions: [
+                        { q: 'Can you <input type="text" class="p-1 w-20 border-b-2 student-answer" data-answer="help"> me fix the <select class="p-1 rounded border-gray-300 student-answer" data-answer="air-conditioner"><option></option><option value="air-conditioner">air-conditioner</option><option value="fridge">fridge</option></select>?' },
+                        { q: 'My new school <input type="text" class="p-1 w-20 border-b-2 student-answer" data-answer="has"> a large <select class="p-1 rounded border-gray-300 student-answer" data-answer="swimming pool"><option></option><option value="swimming pool">swimming pool</option><option value="greenhouse">greenhouse</option></select>.' },
+                        { q: 'I must <input type="text" class="p-1 w-20 border-b-2 student-answer" data-answer="do"> my homework before watching TV.' },
+                        { q: 'Do you <input type="text" class="p-1 w-20 border-b-2 student-answer" data-answer="remember"> your first day at school?' },
+                        { q: 'Let\'s <input type="text" class="p-1 w-20 border-b-2 student-answer" data-answer="study"> the new vocabulary for the next lesson.' },
+                        { q: 'My best friend and I <input type="text" class="p-1 w-20 border-b-2 student-answer" data-answer="share"> everything, even our <select class="p-1 rounded border-gray-300 student-answer" data-answer="pocket money"><option></option><option value="pocket money">pocket money</option><option value="compass">compass</option></select>.' },
+                        { q: 'My dad teaches me how to <input type="text" class="p-1 w-20 border-b-2 student-answer" data-answer="do"> <select class="p-1 rounded border-gray-300 student-answer" data-answer="judo"><option></option><option value="judo">judo</option><option value="poem">poem</option></select>.' },
+                        { q: 'We <input type="text" class="p-1 w-20 border-b-2 student-answer" data-answer="have"> a small party in our <select class="p-1 rounded border-gray-300 student-answer" data-answer="apartment"><option></option><option value="apartment">apartment</option><option value="stilt house">stilt house</option></select> tonight.' },
+                    ]
+                }
+            ],
+            part3: [
+                {
+                    instruction: "Điền giới từ đúng và chọn từ vựng phù hợp.",
+                    example: {
+                        q: 'The new <select disabled><option>sofa</option></select> is <input type="text" class="p-1 w-24 border-b-2" value="in front of" disabled> the big window.',
+                        reason: "Dùng 'in front of' (phía trước) để chỉ vị trí của sofa so với cửa sổ."
+                    },
+                    questions: [
+                        { q: 'I can\'t find my <select class="p-1 rounded border-gray-300 student-answer" data-answer="compass"><option></option><option value="compass">compass</option><option value="classmate">classmate</option></select>, maybe it\'s <input type="text" class="p-1 w-24 border-b-2 student-answer" data-answer="under"> the book.' },
+                        { q: 'My <select class="p-1 rounded border-gray-300 student-answer" data-answer="wardrobe"><option></option><option value="wardrobe">wardrobe</option><option value="apartment">apartment</option></select> is <input type="text" class="p-1 w-24 border-b-2 student-answer" data-answer="between"> the bed and the <select class="p-1 rounded border-gray-300 student-answer" data-answer="chest of drawers"><option></option><option value="chest of drawers">chest of drawers</option><option value="dishwasher">dishwasher</option></select>.' },
+                        { q: 'Don\'t leave your clothes on the floor, your room is so <select class="p-1 rounded border-gray-300 student-answer" data-answer="messy"><option></option><option value="messy">messy</option><option value="smart">smart</option></select>! Put them <input type="text" class="p-1 w-24 border-b-2 student-answer" data-answer="behind"> the door.' },
+                        { q: 'The <select class="p-1 rounded border-gray-300 student-answer" data-answer="microwave"><option></option><option value="microwave">microwave</option><option value="fridge">fridge</option></select> is <input type="text" class="p-1 w-24 border-b-2 student-answer" data-answer="next to"> the <select class="p-1 rounded border-gray-300 student-answer" data-answer="cupboard"><option></option><option value="cupboard">cupboard</option><option value="bathroom">bathroom</option></select> in our <select class="p-1 rounded border-gray-300 student-answer" data-answer="kitchen"><option></option><option value="kitchen">kitchen</option><option value="hall">hall</option></select>.' },
+                        { q: 'The main <select class="p-1 rounded border-gray-300 student-answer" data-answer="hall"><option></option><option value="hall">hall</option><option value="fridge">fridge</option></select> is <input type="text" class="p-1 w-24 border-b-2 student-answer" data-answer="in front of"> the school gate.' },
+                        { q: 'My books are <input type="text" class="p-1 w-24 border-b-2 student-answer" data-answer="on"> the top shelf of the <select class="p-1 rounded border-gray-300 student-answer" data-answer="cupboard"><option></option><option value="cupboard">cupboard</option><option value="sofa">sofa</option></select>.' },
+                        { q: 'The <select class="p-1 rounded border-gray-300 student-answer" data-answer="bathroom"><option></option><option value="bathroom">bathroom</option><option value="kitchen">kitchen</option></select> is <input type="text" class="p-1 w-24 border-b-2 student-answer" data-answer="next to"> my bedroom.' },
+                        { q: 'Our house is <input type="text" class="p-1 w-24 border-b-2 student-answer" data-answer="behind"> a large <select class="p-1 rounded border-gray-300 student-answer" data-answer="department store"><option></option><option value="department store">department store</option><option value="stilt house">stilt house</option></select>.' },
+                    ]
+                }
+            ],
+            part4: [
+                {
+                    instruction: "Hoàn thành câu, sắp xếp hoặc sửa lỗi sử dụng There is/are và từ vựng.",
+                    example: {
+                        q: '<input type="text" class="p-1 w-28 border-b-2" value="There is" disabled> a new <select disabled><option>dishwasher</option></select> in the kitchen.',
+                        reason: "Dùng 'There is' cho danh từ số ít (a new dishwasher)."
+                    },
+                    questions: [
+                        { q: '<input type="text" class="p-1 w-28 border-b-2 student-answer" data-answer="There are"> many trees surrounding my <select class="p-1 rounded border-gray-300 student-answer" data-answer="stilt house"><option></option><option value="stilt house">stilt house</option><option value="department store">department store</option></select>.' },
+                        { q: '(in / my / a / <select class="p-1 rounded border-gray-300 student-answer" data-answer="fridge"><option></option><option value="fridge">fridge</option><option value="hall">hall</option></select> / is / there / kitchen) &rarr; <input type="text" class="p-1 w-full border-b-2 student-answer" data-answer="There is a fridge in my kitchen">' },
+                        { q: '<input type="text" class="p-1 w-28 border-b-2 student-answer" data-answer="Is there"> a <select class="p-1 rounded border-gray-300 student-answer" data-answer="greenhouse"><option></option><option value="greenhouse">greenhouse</option><option value="equipment">equipment</option></select> at your school?' },
+                        { q: '<input type="text" class="p-1 w-28 border-b-2 student-answer" data-answer="Are there"> any <select class="p-1 rounded border-gray-300 student-answer" data-answer="overseas"><option></option><option value="overseas">overseas</option><option value="crazy">crazy</option></select> students in your class?' },
+                        { q: '(new / <select class="p-1 rounded border-gray-300 student-answer" data-answer="furniture"><option></option><option value="furniture">furniture</option><option value="activity">activity</option></select> / is / in / the / there / <select class="p-1 rounded border-gray-300 student-answer" data-answer="apartment"><option></option><option value="apartment">apartment</option><option value="bathroom">bathroom</option></select>) &rarr; <input type="text" class="p-1 w-full border-b-2 student-answer" data-answer="There is new furniture in the apartment">' },
+                        { q: '<input type="text" class="p-1 w-28 border-b-2 student-answer" data-answer="There isn\'t"> a <select class="p-1 rounded border-gray-300 student-answer" data-answer="department store"><option></option><option value="department store">department store</option><option value="living room">living room</option></select> near my house.' },
+                        { q: 'There <span class="bg-yellow-200">are</span> a lot of <select class="p-1 rounded border-gray-300 student-answer" data-answer="crazy"><option></option><option value="crazy">crazy</option><option value="smart">smart</option></select> ideas for the new project. &rarr; <input type="text" class="p-1 w-16 border-b-2 student-answer" data-answer="is">' },
+                        { q: '<input type="text" class="p-1 w-28 border-b-2 student-answer" data-answer="Are there"> any good <select class="p-1 rounded border-gray-300 student-answer" data-answer="equipment"><option></option><option value="equipment">equipment</option><option value="furniture">furniture</option></select> in the gym?' },
+                    ]
+                }
+            ]
+        };
+
+        // --- RENDER FUNCTION --- //
+        function renderExercises(part, containerId) {
+            const container = document.getElementById(containerId);
+            if (!container) return;
+
+            let html = '';
+            exercises[part].forEach(group => {
+                html += `<h3 class="text-xl font-semibold text-gray-700 mb-4">${group.instruction}</h3>`;
+
+                // Render example
+                if (group.example) {
+                    html += `
+                    <div class="example-item">
+                        <p class="text-lg text-gray-600"><strong>Ví dụ:</strong> ${group.example.q}</p>
+                        <input type="text" class="reason-input bg-blue-100 border-blue-200" value="${group.example.reason}" disabled>
+                    </div>`;
+                }
+                
+                // Render questions
+                const questionsHtml = group.questions.map((item, index) => `
+                    <div class="question-item">
+                        <p class="text-lg"><strong>Câu ${index + 1}:</strong> ${item.q}</p>
+                        <input type="text" placeholder="Lý do bạn chọn đáp án này..." class="reason-input">
+                    </div>
+                `).join('');
+
+                html += `<div class="space-y-6 mt-4">${questionsHtml}</div>`;
+            });
+            container.innerHTML = html;
+        }
+
+        // --- INITIALIZATION --- //
+        window.addEventListener('load', () => {
+            renderExercises('part1', 'part1-container');
+            renderExercises('part2', 'part2-container');
+            renderExercises('part3', 'part3-container');
+            renderExercises('part4', 'part4-container');
+            
+            checkTeacherMode();
+
+            document.querySelectorAll('.check-btn').forEach(button => {
+                button.addEventListener('click', (e) => {
+                    const section = e.target.closest('section');
+                    const feedbackEl = section.querySelector('.student-feedback');
+                    let allCorrect = true;
+                    const isTeacher = document.body.classList.contains('teacher-mode');
+
+                    const inputs = section.querySelectorAll('.student-answer');
+
+                    inputs.forEach(input => {
+                        const userAnswer = (input.value || '').trim().toLowerCase();
+                        const correctAnswer = (input.dataset.answer || '').trim().toLowerCase();
+                        const isCorrect = (userAnswer === correctAnswer);
+                        
+                        if (isTeacher) {
+                            input.classList.remove('input-correct-teacher', 'input-incorrect-teacher');
+                            if (input.value) { 
+                                input.classList.add(isCorrect ? 'input-correct-teacher' : 'input-incorrect-teacher');
+                            }
+                        }
+                        if (!isCorrect) allCorrect = false;
+                    });
+
+                    feedbackEl.textContent = allCorrect ? "Chính xác!" : "Cần xem lại!";
+                    feedbackEl.style.color = allCorrect ? "#22c55e" : "#ef4444";
+                });
+            });
+        });
+
+        function checkTeacherMode() {
+            if (localStorage.getItem('teacherMode') === 'true') {
+                document.body.classList.add('teacher-mode');
+            } else {
+                document.body.classList.remove('teacher-mode');
+            }
+        }
+
+    </script>
+</body>
+</html>
