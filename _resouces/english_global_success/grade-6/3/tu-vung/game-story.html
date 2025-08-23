@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vocabulary Story Builder - Unit 3</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+        #story-area {
+            white-space: pre-wrap;
+        }
+        .word-bank-item {
+            transition: all 0.2s ease-in-out;
+            position: relative;
+        }
+        .word-bank-item .tooltip {
+            visibility: hidden;
+            opacity: 0;
+            transition: opacity 0.3s;
+            position: absolute;
+            bottom: 125%;
+            left: 50%;
+            transform: translateX(-50%);
+            z-index: 10;
+        }
+        .word-bank-item:hover .tooltip {
+            visibility: visible;
+            opacity: 1;
+        }
+    </style>
+</head>
+<body class="bg-gray-100 flex items-center justify-center min-h-screen p-4">
+
+    <div class="w-full max-w-4xl mx-auto bg-white p-8 rounded-xl shadow-2xl">
+        <header class="text-center mb-6">
+            <h1 class="text-4xl font-bold text-teal-700">Vocabulary Story Builder</h1>
+            <p class="text-gray-600 mt-2 text-lg">Dùng các từ trong "Word Bank" để viết tiếp câu chuyện. Hãy sáng tạo!</p>
+        </header>
+
+        <div id="game-container" class="grid grid-cols-1 md:grid-cols-2 gap-8">
+            <!-- Left Side: Story & Input -->
+            <div id="story-panel">
+                <h2 class="text-2xl font-semibold mb-3 text-gray-800">Your Story</h2>
+                <div class="bg-gray-50 p-4 rounded-lg min-h-[250px] max-h-[400px] overflow-y-auto border mb-6">
+                    <p id="story-area"></p>
+                </div>
+                <form id="sentence-form">
+                    <textarea id="sentence-input" class="w-full p-3 border-2 border-gray-300 rounded-lg text-base focus:outline-none focus:border-teal-500 transition" rows="4" placeholder="Viết câu tiếp theo của bạn ở đây..."></textarea>
+                    <button type="submit" class="mt-4 w-full bg-teal-600 text-white font-bold py-3 px-6 rounded-lg hover:bg-teal-700 transition-colors text-lg shadow-md">Add to Story</button>
+                </form>
+            </div>
+
+            <!-- Right Side: Word Bank & Progress -->
+            <div id="controls-panel">
+                <h2 class="text-2xl font-semibold mb-3 text-gray-800">Word Bank</h2>
+                <div id="word-bank-area" class="flex flex-wrap gap-3 p-4 bg-teal-50 rounded-lg min-h-[150px] border border-teal-200">
+                    <!-- Words go here -->
+                </div>
+                <div id="feedback-area" class="text-center mt-4 min-h-[30px] text-md font-semibold text-red-600"></div>
+                
+                <div class="mt-6 text-center">
+                    <h3 class="text-xl font-semibold text-gray-700">Words Used</h3>
+                    <p id="words-used-counter" class="text-4xl font-bold text-teal-600">0 / 10</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Results Screen -->
+        <div id="results-area" class="hidden text-center py-10">
+            <h2 class="text-3xl font-bold mb-4 text-teal-700">Congratulations!</h2>
+            <p class="text-xl mb-6">You have completed the story. Here is your creation:</p>
+            <div class="bg-gray-50 p-6 rounded-lg text-left max-w-2xl mx-auto border">
+                 <p id="final-story"></p>
+            </div>
+            <button id="restart-btn" class="mt-8 bg-green-600 text-white font-bold py-3 px-10 rounded-lg hover:bg-green-700 transition-colors text-lg shadow-md">Play Again</button>
+        </div>
+    </div>
+
+    <script>
+        const gameContainer = document.getElementById('game-container');
+        const storyArea = document.getElementById('story-area');
+        const sentenceForm = document.getElementById('sentence-form');
+        const sentenceInput = document.getElementById('sentence-input');
+        const wordBankArea = document.getElementById('word-bank-area');
+        const feedbackArea = document.getElementById('feedback-area');
+        const wordsUsedCounter = document.getElementById('words-used-counter');
+        const resultsArea = document.getElementById('results-area');
+        const finalStory = document.getElementById('final-story');
+        const restartBtn = document.getElementById('restart-btn');
+
+        let vocabulary = [];
+        let unusedVocab = [];
+        let currentWordBank = [];
+        let story = [];
+        let wordsUsed = 0;
+        const wordsToWin = 10;
+
+        async function initGame() {
+            try {
+                const response = await fetch('tu-vung.json');
+                if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
+                vocabulary = await response.json();
+                startGame();
+            } catch (error) {
+                gameContainer.innerHTML = `<p class="text-red-500 text-center"><strong>Error:</strong> Could not load vocabulary data. Please make sure the server is running and the file 'tu-vung.json' exists.</p>`;
+            }
+        }
+
+        function startGame() {
+            wordsUsed = 0;
+            unusedVocab = [...vocabulary].sort(() => Math.random() - 0.5);
+            story = ["Once upon a time, in a town full of interesting people..."];
+            
+            updateStoryDisplay();
+            updateCounter();
+            loadWordBank();
+
+            gameContainer.classList.remove('hidden');
+            resultsArea.classList.add('hidden');
+            sentenceInput.value = '';
+            feedbackArea.textContent = '';
+        }
+
+        function updateStoryDisplay() {
+            storyArea.textContent = story.join(' ');
+        }
+
+        function updateCounter() {
+            wordsUsedCounter.textContent = `${wordsUsed} / ${wordsToWin}`;
+        }
+
+        function loadWordBank() {
+            wordBankArea.innerHTML = '';
+            currentWordBank = unusedVocab.slice(0, 5);
+            currentWordBank.forEach(vocabItem => {
+                const wordElement = document.createElement('div');
+                wordElement.className = 'word-bank-item cursor-pointer bg-teal-200 text-teal-800 font-semibold py-2 px-4 rounded-full hover:bg-teal-300';
+                wordElement.textContent = vocabItem.word;
+                
+                const tooltip = document.createElement('span');
+                tooltip.className = 'tooltip w-48 bg-gray-800 text-white text-center text-xs rounded-lg py-2 px-3';
+                tooltip.textContent = vocabItem.definition;
+                wordElement.appendChild(tooltip);
+
+                wordBankArea.appendChild(wordElement);
+            });
+        }
+
+        sentenceForm.addEventListener('submit', (e) => {
+            e.preventDefault();
+            const sentence = sentenceInput.value.trim();
+            if (!sentence) return;
+
+            let wordFound = null;
+            for (const vocabItem of currentWordBank) {
+                if (sentence.toLowerCase().includes(vocabItem.word.toLowerCase())) {
+                    wordFound = vocabItem;
+                    break;
+                }
+            }
+
+            if (wordFound) {
+                story.push(sentence);
+                updateStoryDisplay();
+                sentenceInput.value = '';
+                feedbackArea.textContent = '';
+                wordsUsed++;
+                updateCounter();
+
+                // Remove used word from unused list
+                unusedVocab = unusedVocab.filter(v => v.word !== wordFound.word);
+
+                if (wordsUsed >= wordsToWin) {
+                    endGame();
+                } else {
+                    loadWordBank();
+                }
+            } else {
+                feedbackArea.textContent = 'Your sentence must include a word from the Word Bank!';
+            }
+        });
+
+        function endGame() {
+            gameContainer.classList.add('hidden');
+            resultsArea.classList.remove('hidden');
+            finalStory.textContent = story.join(' ');
+        }
+
+        restartBtn.addEventListener('click', startGame);
+
+        initGame();
+
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Matching Game - Unit 3</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            perspective: 1000px;
+        }
+        .card {
+            position: relative;
+            transition: transform 0.6s, opacity 0.5s;
+            transform-style: preserve-3d;
+            cursor: pointer;
+        }
+        .card.is-flipped {
+            transform: rotateY(180deg);
+        }
+        .card-face {
+            position: absolute;
+            height: 100%;
+            width: 100%;
+            backface-visibility: hidden;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            padding: 1rem;
+            border-radius: 0.5rem;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        .card-face-front {
+            background-color: #4f46e5; /* indigo-600 */
+            color: white;
+        }
+        .card-face-back {
+            background-color: #f0f9ff; /* sky-50 */
+            color: #0c4a6e; /* sky-900 */
+            transform: rotateY(180deg);
+            border: 2px solid #e0f2fe; /* sky-100 */
+        }
+        .card.is-matched {
+            transform: rotateY(180deg) scale(1.05);
+        }
+        .card.is-matched .card-face-back {
+            background-color: #dcfce7; /* green-100 */
+            border: 2px solid #22c55e; /* green-500 */
+            color: #166534; /* green-800 */
+        }
+        .card.is-removed {
+            opacity: 0;
+            transform: scale(0.9);
+            pointer-events: none;
+        }
+    </style>
+</head>
+<body class="bg-gray-100 flex flex-col items-center justify-center min-h-screen p-4">
+
+    <div class="w-full max-w-4xl mx-auto">
+        <header class="text-center mb-6">
+            <h1 class="text-4xl font-bold text-indigo-700">Matching Game: By Rounds</h1>
+            <p class="text-gray-600 mt-2 text-lg">Clear the board by matching all the pairs in each round.</p>
+        </header>
+
+        <div class="flex justify-between items-center mb-4 px-2">
+            <div class="text-xl font-semibold">Round: <span id="round-counter" class="text-indigo-600">1</span></div>
+            <div class="text-xl font-semibold">Attempts: <span id="attempts-counter" class="text-indigo-600">0</span></div>
+        </div>
+
+        <div id="game-board" class="grid grid-cols-4 gap-4 min-h-[400px]">
+            <!-- Cards will be generated here -->
+        </div>
+
+        <div id="round-cleared-message" class="hidden text-center mt-8">
+            <h2 class="text-3xl font-bold text-green-600">🎉 Round Cleared! 🎉</h2>
+            <button id="next-round-btn" class="mt-4 bg-indigo-600 text-white font-bold py-3 px-8 rounded-lg hover:bg-indigo-700 transition-colors text-lg shadow-md">Next Round</button>
+            <button id="restart-btn" class="mt-4 bg-gray-600 text-white font-bold py-3 px-8 rounded-lg hover:bg-gray-700 transition-colors text-lg shadow-md">Restart Game</button>
+        </div>
+    </div>
+
+    <script>
+        const gameBoard = document.getElementById('game-board');
+        const attemptsCounter = document.getElementById('attempts-counter');
+        const roundCounter = document.getElementById('round-counter');
+        const roundClearedMessage = document.getElementById('round-cleared-message');
+        const nextRoundBtn = document.getElementById('next-round-btn');
+        const restartBtn = document.getElementById('restart-btn');
+
+        let fullVocabulary = [];
+        let shuffledVocab = [];
+        let firstCard = null;
+        let secondCard = null;
+        let lockBoard = false;
+        let attempts = 0;
+        let matchedPairsInRound = 0;
+        let currentRound = 0;
+        const PAIRS_PER_ROUND = 8;
+
+        async function initGame() {
+            try {
+                const response = await fetch('tu-vung.json');
+                if (!response.ok) throw new Error(`HTTP error!`);
+                fullVocabulary = await response.json();
+                startGame();
+            } catch (error) {
+                gameBoard.innerHTML = `<p class="col-span-4 text-red-500 text-center"><strong>Error:</strong> Could not load vocabulary data.</p>`;
+            }
+        }
+
+        function startGame() {
+            currentRound = 0;
+            attempts = 0;
+            attemptsCounter.textContent = attempts;
+            shuffledVocab = [...fullVocabulary].sort(() => Math.random() - 0.5);
+            loadRound();
+        }
+
+        function loadRound() {
+            gameBoard.innerHTML = '';
+            roundClearedMessage.classList.add('hidden');
+            gameBoard.classList.remove('hidden');
+            matchedPairsInRound = 0;
+            roundCounter.textContent = currentRound + 1;
+
+            const startIndex = currentRound * PAIRS_PER_ROUND;
+            const roundVocab = shuffledVocab.slice(startIndex, startIndex + PAIRS_PER_ROUND);
+
+            if (roundVocab.length === 0) {
+                endGame();
+                return;
+            }
+
+            let gameCards = [];
+            roundVocab.forEach((item, index) => {
+                gameCards.push({ type: 'word', content: item.word, pairId: index });
+                gameCards.push({ type: 'definition', content: item.definition, pairId: index });
+            });
+
+            gameCards.sort(() => Math.random() - 0.5);
+
+            gameCards.forEach(cardData => {
+                const cardElement = createCardElement(cardData);
+                gameBoard.appendChild(cardElement);
+            });
+        }
+
+        function createCardElement(cardData) {
+            const cardElement = document.createElement('div');
+            cardElement.className = 'card h-36 md:h-40';
+            cardElement.dataset.pairId = cardData.pairId;
+            cardElement.dataset.type = cardData.type;
+            cardElement.innerHTML = `
+                <div class="card-face card-face-front">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-12 w-12" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M8.228 9c.549-1.165 2.03-2 3.772-2 2.21 0 4 1.343 4 3 0 1.4-1.278 2.575-3.006 2.907-.542.104-.994.54-.994 1.093m0 3h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                    </svg>
+                </div>
+                <div class="card-face card-face-back"><p class="font-semibold">${cardData.content}</p></div>
+            `;
+            cardElement.addEventListener('click', handleCardClick);
+            return cardElement;
+        }
+
+        function handleCardClick() {
+            if (lockBoard || this.classList.contains('is-flipped')) return;
+            this.classList.add('is-flipped');
+            if (!firstCard) {
+                firstCard = this;
+                return;
+            }
+            secondCard = this;
+            lockBoard = true;
+            attempts++;
+            attemptsCounter.textContent = attempts;
+            checkForMatch();
+        }
+
+        function checkForMatch() {
+            const isPair = firstCard.dataset.pairId === secondCard.dataset.pairId;
+            const isSameType = firstCard.dataset.type === secondCard.dataset.type;
+
+            if (isPair && !isSameType) {
+                handleCorrectMatch();
+            } else {
+                handleIncorrectMatch();
+            }
+        }
+
+        function handleCorrectMatch() {
+            firstCard.classList.add('is-matched');
+            secondCard.classList.add('is-matched');
+            matchedPairsInRound++;
+
+            setTimeout(() => {
+                firstCard.classList.add('is-removed');
+                secondCard.classList.add('is-removed');
+                resetBoard();
+                if (matchedPairsInRound * 2 === gameBoard.children.length) {
+                    gameBoard.classList.add('hidden');
+                    roundClearedMessage.classList.remove('hidden');
+                }
+            }, 1000);
+        }
+
+        function handleIncorrectMatch() {
+            setTimeout(() => {
+                firstCard.classList.remove('is-flipped');
+                secondCard.classList.remove('is-flipped');
+                resetBoard();
+            }, 1200);
+        }
+
+        function resetBoard() {
+            [firstCard, secondCard, lockBoard] = [null, null, false];
+        }
+
+        function endGame() {
+            roundClearedMessage.innerHTML = `<h2 class="text-3xl font-bold text-green-600">🎉 All words matched! Congratulations! 🎉</h2>
+            <button id="restart-btn-final" class="mt-4 bg-gray-600 text-white font-bold py-3 px-8 rounded-lg hover:bg-gray-700 transition-colors text-lg shadow-md">Play Again</button>`;
+            document.getElementById('restart-btn-final').addEventListener('click', startGame);
+        }
+
+        nextRoundBtn.addEventListener('click', () => {
+            currentRound++;
+            loadRound();
+        });
+        restartBtn.addEventListener('click', startGame);
+
+        initGame();
+
+    </script>
+
+</body>
+</html>
