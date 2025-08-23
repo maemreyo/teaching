@@ -3,14 +3,28 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bài tập Ngữ pháp - Unit 3: My Friends (Bổ trợ)</title>
+    <title>Bài tập Ngữ pháp - Unit 3: My Friends (Mở rộng)</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     <style>
         body {
             font-family: 'Montserrat', sans-serif;
         }
-        .answer-key { display: none; }
+        .answer-key { 
+            display: none;
+            color: #1d4ed8; /* blue-700 */
+            font-style: italic;
+            font-size: 0.9em;
+            margin-left: 8px;
+        }
+        .explanation {
+            color: #57534e; /* stone-600 */
+            font-style: normal;
+            display: block;
+            margin-top: 2px;
+            padding-left: 12px;
+            border-left: 2px solid #dbeafe; /* blue-200 */
+        }
         .teacher-mode .answer-key { display: inline-block; }
         .input-correct-teacher { border-color: #22c55e !important; background-color: #f0fdf4 !important; }
         .input-incorrect-teacher { border-color: #ef4444 !important; background-color: #fef2f2 !important; }
@@ -19,9 +33,12 @@
 <body class="bg-gray-100">
 
     <div class="container mx-auto p-4 sm:p-8 max-w-5xl">
-        <header class="text-center mb-12">
+        <header class="text-center mb-12 relative">
             <h1 class="text-5xl font-extrabold text-gray-800">Bài tập Ngữ pháp Unit 3</h1>
-            <p class="text-xl text-gray-500 mt-4">Luyện tập & Vận dụng</p>
+            <p class="text-xl text-gray-500 mt-4">Luyện tập & Vận dụng (Mở rộng)</p>
+            <button id="toggle-teacher-mode" class="absolute top-0 right-0 bg-blue-500 text-white font-bold py-2 px-4 rounded-lg hover:bg-blue-600 transition-colors text-sm">
+                Bật Chế độ Giáo viên
+            </button>
         </header>
 
         <div class="space-y-12">
@@ -32,20 +49,23 @@
                 <div class="space-y-8">
                     <div>
                         <h3 class="text-xl font-semibold text-gray-700 mb-3">1.1 Nối tính từ với miêu tả đúng.</h3>
-                        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-                            <div><p>1. A person who likes to talk a lot.</p><select class="p-1 rounded border-gray-300 w-full" data-answer="talkative"><option></option><option value="shy">shy</option><option value="talkative">talkative</option></select></div>
-                            <div><p>2. A person who is nervous with strangers.</p><select class="p-1 rounded border-gray-300 w-full" data-answer="shy"><option></option><option value="shy">shy</option><option value="confident">confident</option></select></div>
-                            <div><p>3. A person who gives freely.</p><select class="p-1 rounded border-gray-300 w-full" data-answer="generous"><option></option><option value="generous">generous</option><option value="serious">serious</option></select></div>
-                            <div><p>4. A person who is sure about their ability.</p><select class="p-1 rounded border-gray-300 w-full" data-answer="confident"><option></option><option value="patient">patient</option><option value="confident">confident</option></select></div>
+                        <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                            <div><p>1. A person who likes to talk a lot.</p><select class="p-2 rounded border-gray-300 w-full" data-answer="talkative"><option></option><option value="shy">shy</option><option value="talkative">talkative</option><option value="kind">kind</option></select><span class="answer-key">talkative</span></div>
+                            <div><p>2. A person who is nervous with strangers.</p><select class="p-2 rounded border-gray-300 w-full" data-answer="shy"><option></option><option value="shy">shy</option><option value="confident">confident</option><option value="creative">creative</option></select><span class="answer-key">shy</span></div>
+                            <div><p>3. A person who gives freely.</p><select class="p-2 rounded border-gray-300 w-full" data-answer="generous"><option></option><option value="generous">generous</option><option value="serious">serious</option><option value="talkative">talkative</option></select><span class="answer-key">generous</span></div>
+                            <div><p>4. A person who is sure about their ability.</p><select class="p-2 rounded border-gray-300 w-full" data-answer="confident"><option></option><option value="patient">patient</option><option value="confident">confident</option><option value="shy">shy</option></select><span class="answer-key">confident</span></div>
+                            <div><p>5. A person who is helpful and thinks about others.</p><select class="p-2 rounded border-gray-300 w-full" data-answer="kind"><option></option><option value="kind">kind</option><option value="serious">serious</option><option value="talkative">talkative</option></select><span class="answer-key">kind</span></div>
+                            <div><p>6. A person who has many new ideas.</p><select class="p-2 rounded border-gray-300 w-full" data-answer="creative"><option></option><option value="creative">creative</option><option value="patient">patient</option><option value="confident">confident</option></select><span class="answer-key">creative</span></div>
                         </div>
                     </div>
                     <div>
                         <h3 class="text-xl font-semibold text-gray-700 mb-3">1.2 Viết câu hoàn chỉnh.</h3>
-                        <div class="space-y-2">
-                            <p>5. (He / confident) &rarr; <input type="text" class="p-1 w-full border-b-2" data-answer="He is confident."></p>
-                            <p>6. (They / not / serious) &rarr; <input type="text" class="p-1 w-full border-b-2" data-answer="They are not serious."></p>
-                            <p>7. (She / not / patient) &rarr; <input type="text" class="p-1 w-full border-b-2" data-answer="She is not patient."></p>
-                            <p>8. (you / active / ?) &rarr; <input type="text" class="p-1 w-full border-b-2" data-answer="Are you active?"></p>
+                        <div class="space-y-4">
+                            <div><p>7. (He / confident) &rarr; <input type="text" class="p-1 w-full border-b-2" data-answer="He is confident."><div class="answer-key"><b>Đáp án:</b> He is confident.<span class="explanation"><b>Giải thích:</b> Chủ ngữ "He" (ngôi thứ 3 số ít) đi với động từ "to be" là "is".</span></div></p></div>
+                            <div><p>8. (They / not / serious) &rarr; <input type="text" class="p-1 w-full border-b-2" data-answer="They are not serious."><div class="answer-key"><b>Đáp án:</b> They are not serious.<span class="explanation"><b>Giải thích:</b> Chủ ngữ "They" (số nhiều) đi với "are". Dạng phủ định thêm "not" sau "are".</span></div></p></div>
+                            <div><p>9. (She / kind / and / friendly) &rarr; <input type="text" class="p-1 w-full border-b-2" data-answer="She is kind and friendly."><div class="answer-key"><b>Đáp án:</b> She is kind and friendly.<span class="explanation"><b>Giải thích:</b> Chủ ngữ "She" đi với "is". Dùng "and" để nối hai tính từ.</span></div></p></div>
+                            <div><p>10. (you / active / ?) &rarr; <input type="text" class="p-1 w-full border-b-2" data-answer="Are you active?"><div class="answer-key"><b>Đáp án:</b> Are you active?<span class="explanation"><b>Giải thích:</b> Đây là câu hỏi Yes/No, nên đảo động từ "to be" ("are" cho "you") lên đầu câu.</span></div></p></div>
+                            <div><p>11. (Your friends / shy / ?) &rarr; <input type="text" class="p-1 w-full border-b-2" data-answer="Are your friends shy?"><div class="answer-key"><b>Đáp án:</b> Are your friends shy?<span class="explanation"><b>Giải thích:</b> "Your friends" là danh từ số nhiều, nên dùng "Are".</span></div></p></div>
                         </div>
                     </div>
                 </div>
@@ -57,20 +77,22 @@
                 <div class="space-y-8">
                     <div>
                         <h3 class="text-xl font-semibold text-gray-700 mb-3">2.1 Chọn 'have' hoặc 'has'.</h3>
-                        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-                            <p>1. My best friend <select class="p-1 rounded border-gray-300" data-answer="has"><option></option><option value="have">have</option><option value="has">has</option></select> long, curly hair.</p>
-                            <p>2. I <select class="p-1 rounded border-gray-300" data-answer="have"><option></option><option value="have">have</option><option value="has">has</option></select> a round face.</p>
-                            <p>3. They <select class="p-1 rounded border-gray-300" data-answer="have"><option></option><option value="have">have</option><option value="has">has</option></select> brown eyes.</p>
-                            <p>4. He <select class="p-1 rounded border-gray-300" data-answer="has"><option></option><option value="have">have</option><option value="has">has</option></select> a new bicycle.</p>
+                        <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                            <p>1. My best friend <select class="p-2 rounded border-gray-300" data-answer="has"><option></option><option value="have">have</option><option value="has">has</option></select> long, curly hair. <span class="answer-key">has</span></p>
+                            <p>2. I <select class="p-2 rounded border-gray-300" data-answer="have"><option></option><option value="have">have</option><option value="has">has</option></select> a round face. <span class="answer-key">have</span></p>
+                            <p>3. They <select class="p-2 rounded border-gray-300" data-answer="have"><option></option><option value="have">have</option><option value="has">has</option></select> brown eyes. <span class="answer-key">have</span></p>
+                            <p>4. He <select class="p-2 rounded border-gray-300" data-answer="has"><option></option><option value="have">have</option><option value="has">has</option></select> a new bicycle. <span class="answer-key">has</span></p>
+                            <p>5. We <select class="p-2 rounded border-gray-300" data-answer="have"><option></option><option value="have">have</option><option value="has">has</option></select> a friendly teacher. <span class="answer-key">have</span></p>
+                            <p>6. Does she <select class="p-2 rounded border-gray-300" data-answer="have"><option></option><option value="have">have</option><option value="has">has</option></select> any pets? <span class="answer-key">have</span></p>
                         </div>
                     </div>
                     <div>
                         <h3 class="text-xl font-semibold text-gray-700 mb-3">2.2 Đặt câu hỏi cho câu trả lời sau.</h3>
-                        <div class="space-y-2">
-                            <p>5. Trả lời: She has big, brown eyes. &rarr; Câu hỏi: <input type="text" class="p-1 w-full border-b-2" data-answer="What color eyes does she have?"></p>
-                            <p>6. Trả lời: No, he doesn't. He has short hair. &rarr; Câu hỏi: <input type="text" class="p-1 w-full border-b-2" data-answer="Does he have long hair?"></p>
-                            <p>7. Trả lời: Yes, they do. They have a big garden. &rarr; Câu hỏi: <input type="text" class="p-1 w-full border-b-2" data-answer="Do they have a big garden?"></p>
-                            <p>8. Trả lời: He has short, black hair. &rarr; Câu hỏi: <input type="text" class="p-1 w-full border-b-2" data-answer="What does he look like?"></p>
+                        <div class="space-y-4">
+                            <div><p>7. Trả lời: She has big, brown eyes. &rarr; Câu hỏi: <input type="text" class="p-1 w-full border-b-2" data-answer="What does she have?"><div class="answer-key"><b>Đáp án:</b> What does she have? / What do her eyes look like?<span class="explanation"><b>Giải thích:</b> Dùng "What" để hỏi về đặc điểm. Trợ động từ là "does" cho chủ ngữ "she".</span></div></p></div>
+                            <div><p>8. Trả lời: No, he doesn't. He has short hair. &rarr; Câu hỏi: <input type="text" class="p-1 w-full border-b-2" data-answer="Does he have long hair?"><div class="answer-key"><b>Đáp án:</b> Does he have long hair?<span class="explanation"><b>Giải thích:</b> Câu trả lời là Yes/No, nên bắt đầu bằng trợ động từ "Does".</span></div></p></div>
+                            <div><p>9. Trả lời: Yes, they do. They have a big garden. &rarr; Câu hỏi: <input type="text" class="p-1 w-full border-b-2" data-answer="Do they have a big garden?"><div class="answer-key"><b>Đáp án:</b> Do they have a big garden?<span class="explanation"><b>Giải thích:</b> Câu trả lời là Yes/No, bắt đầu bằng "Do" cho chủ ngữ "they".</span></div></p></div>
+                            <div><p>10. Trả lời: He has short, black hair. &rarr; Câu hỏi: <input type="text" class="p-1 w-full border-b-2" data-answer="What does his hair look like?"><div class="answer-key"><b>Đáp án:</b> What does his hair look like? / What kind of hair does he have?<span class="explanation"><b>Giải thích:</b> Dùng "What... look like?" để hỏi về ngoại hình.</span></div></p></div>
                         </div>
                     </div>
                 </div>
@@ -82,21 +104,34 @@
                 <div class="space-y-8">
                     <div>
                         <h3 class="text-xl font-semibold text-gray-700 mb-3">3.1 Phân biệt: Hiện tại (Now) hay Tương lai (Future)?</h3>
-                        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-                            <p>1. My mother is doing the gardening right now. <select class="p-1 rounded border-gray-300" data-answer="Now"><option></option><option value="Now">Now</option><option value="Future">Future</option></select></p>
-                            <p>2. They are flying to Da Nang tomorrow. <select class="p-1 rounded border-gray-300" data-answer="Future"><option></option><option value="Now">Now</option><option value="Future">Future</option></select></p>
-                            <p>3. I'm preparing for the party tonight. <select class="p-1 rounded border-gray-300" data-answer="Future"><option></option><option value="Now">Now</option><option value="Future">Future</option></select></p>
-                            <p>4. Be quiet! The baby is sleeping. <select class="p-1 rounded border-gray-300" data-answer="Now"><option></option><option value="Now">Now</option><option value="Future">Future</option></select></p>
+                        <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                            <p>1. My mother is doing the gardening right now. <select class="p-2 rounded border-gray-300" data-answer="Now"><option></option><option value="Now">Now</option><option value="Future">Future</option></select><span class="answer-key">Now</span></p>
+                            <p>2. They are flying to Da Nang tomorrow. <select class="p-2 rounded border-gray-300" data-answer="Future"><option></option><option value="Now">Now</option><option value="Future">Future</option></select><span class="answer-key">Future</span></p>
+                            <p>3. I'm meeting my friends for dinner tonight. <select class="p-2 rounded border-gray-300" data-answer="Future"><option></option><option value="Now">Now</option><option value="Future">Future</option></select><span class="answer-key">Future</span></p>
+                            <p>4. Be quiet! The baby is sleeping. <select class="p-2 rounded border-gray-300" data-answer="Now"><option></option><option value="Now">Now</option><option value="Future">Future</option></select><span class="answer-key">Now</span></p>
+                            <p>5. We are visiting the museum next Saturday. <select class="p-2 rounded border-gray-300" data-answer="Future"><option></option><option value="Now">Now</option><option value="Future">Future</option></select><span class="answer-key">Future</span></p>
                         </div>
                     </div>
                     <div>
-                        <h3 class="text-xl font-semibold text-gray-700 mb-3">3.2 Điền vào đoạn hội thoại.</h3>
-                        <p class="bg-gray-50 p-3 rounded-md italic">
-                            A: What (5) <input type="text" class="p-1 w-32 border-b-2" data-answer="are you doing"> this weekend?<br>
-                            B: I (6) <input type="text" class="p-1 w-32 border-b-2" data-answer="am visiting"> my grandparents.<br>
-                            A: (7) <input type="text" class="p-1 w-32 border-b-2" data-answer="Are you going"> to the cinema tomorrow?<br>
-                            B: No, I (8) <input type="text" class="p-1 w-32 border-b-2" data-answer="am staying"> home.
-                        </p>
+                        <h3 class="text-xl font-semibold text-gray-700 mb-3">3.2 Hoàn thành đoạn hội thoại.</h3>
+                        <div class="bg-gray-50 p-4 rounded-md italic space-y-2">
+                            <p>
+                                A: What (6) <input type="text" class="p-1 w-36 border-b-2 bg-transparent" data-answer="are you doing"> this weekend?<br>
+                                <div class="answer-key not-italic"><b>Đáp án:</b> are you doing<span class="explanation"><b>Giải thích:</b> Hỏi về kế hoạch tương lai (this weekend) dùng thì HTTD. Cấu trúc: What + am/is/are + S + V-ing?</span></div>
+                            </p>
+                            <p>
+                                B: I (7) <input type="text" class="p-1 w-36 border-b-2 bg-transparent" data-answer="am visiting"> my grandparents.<br>
+                                <div class="answer-key not-italic"><b>Đáp án:</b> am visiting<span class="explanation"><b>Giải thích:</b> Diễn tả một kế hoạch đã định sẵn. Cấu trúc: S + am/is/are + V-ing.</span></div>
+                            </p>
+                            <p>
+                                A: That's nice! (8) <input type="text" class="p-1 w-36 border-b-2 bg-transparent" data-answer="Are you going"> to the cinema with Lan tomorrow?<br>
+                                <div class="answer-key not-italic"><b>Đáp án:</b> Are you going<span class="explanation"><b>Giải thích:</b> Câu hỏi Yes/No về kế hoạch tương lai (tomorrow).</span></div>
+                            </p>
+                            <p>
+                                B: No, I'm not. She (9) <input type="text" class="p-1 w-36 border-b-2 bg-transparent" data-answer="is helping"> her mom with the housework.<br>
+                                <div class="answer-key not-italic"><b>Đáp án:</b> is helping<span class="explanation"><b>Giải thích:</b> Diễn tả kế hoạch của Lan. Chủ ngữ "She" đi với "is".</span></div>
+                            </p>
+                        </div>
                     </div>
                 </div>
             </section>
@@ -113,58 +148,138 @@
     </div>
 
     <script>
-        function checkTeacherMode() {
-            if (localStorage.getItem('teacherMode') === 'true') {
-                document.body.classList.add('teacher-mode');
+        const teacherModeBtn = document.getElementById('toggle-teacher-mode');
+        const body = document.body;
+        const TEACHER_PASSWORD = "matkhaudailam";
+
+        function setTeacherMode(isTeacher) {
+            if (isTeacher) {
+                body.classList.add('teacher-mode');
+                teacherModeBtn.textContent = 'Tắt Chế độ Giáo viên';
+                localStorage.setItem('teacherMode', 'true');
+                showAllAnswers();
             } else {
-                document.body.classList.remove('teacher-mode');
+                body.classList.remove('teacher-mode');
+                teacherModeBtn.textContent = 'Bật Chế độ Giáo viên';
+                localStorage.setItem('teacherMode', 'false');
+                hideAllAnswers();
             }
         }
-        window.addEventListener('load', checkTeacherMode);
+
+        function showAllAnswers() {
+            const allInputs = document.querySelectorAll('input[type="text"], select');
+            allInputs.forEach(input => {
+                const correctAnswer = input.dataset.answer.split('/')[0]; // Show the first answer if multiple exist
+                if (input.tagName === 'SELECT') {
+                    input.value = correctAnswer;
+                } else {
+                    input.value = correctAnswer;
+                }
+                input.classList.add('input-correct-teacher');
+                input.disabled = true;
+            });
+        }
+
+        function hideAllAnswers() {
+             const allInputs = document.querySelectorAll('input[type="text"], select');
+            allInputs.forEach(input => {
+                if (input.tagName === 'SELECT') {
+                    input.selectedIndex = 0;
+                } else {
+                    input.value = '';
+                }
+                input.classList.remove('input-correct-teacher', 'input-incorrect-teacher');
+                input.disabled = false;
+            });
+        }
+
+        teacherModeBtn.addEventListener('click', () => {
+            const isCurrentlyTeacher = body.classList.contains('teacher-mode');
+
+            if (isCurrentlyTeacher) {
+                setTeacherMode(false);
+            } else {
+                const password = prompt("Vui lòng nhập mật khẩu giáo viên:");
+                if (password === TEACHER_PASSWORD) {
+                    setTeacherMode(true);
+                } else if (password !== null) { // Only show error if user didn't cancel
+                    alert("Mật khẩu không đúng!");
+                }
+            }
+        });
+
+        window.addEventListener('load', () => {
+            // Always start in student mode for security
+            setTeacherMode(false);
+        });
 
         function normalizeText(text) {
-            return text.trim().toLowerCase().replace(/[.,\/#!$%\^&\*;:{}=\-_`~()?]/g,"");
+            if (typeof text !== 'string') return '';
+            return text.trim().toLowerCase().replace(/[.,\/#!$%\^&\*;:{}=\-_`~()?]/g, "").replace(/\s+/g, ' ');
         }
 
         document.getElementById('check-all-btn').addEventListener('click', () => {
             const feedbackEl = document.getElementById('global-feedback');
             let allCorrect = true;
-            const isTeacher = document.body.classList.contains('teacher-mode');
+            const isTeacher = body.classList.contains('teacher-mode');
+
+            if (isTeacher) {
+                feedbackEl.textContent = "Chế độ giáo viên đang bật. Vui lòng tắt để kiểm tra.";
+                feedbackEl.style.color = "blue";
+                return;
+            }
 
             const allTextInputs = document.querySelectorAll('input[type="text"]');
             const allSelectInputs = document.querySelectorAll('select');
 
+            let answeredCount = 0;
+            let correctCount = 0;
+
             allTextInputs.forEach(input => {
                 const userAnswer = normalizeText(input.value);
-                const correctAnswer = normalizeText(input.dataset.answer);
-                const isCorrect = (userAnswer === correctAnswer);
-                if (isTeacher) {
-                    input.classList.remove('input-correct-teacher', 'input-incorrect-teacher');
-                    if (input.value.trim() !== '') {
-                       input.classList.add(isCorrect ? 'input-correct-teacher' : 'input-incorrect-teacher');
-                    }
-                }
-                if (!isCorrect) allCorrect = false;
+                if (userAnswer === '') return;
+
+                answeredCount++;
+                const correctAnswers = input.dataset.answer.split('/').map(normalizeText);
+                const isCorrect = correctAnswers.some(ans => userAnswer === ans);
+                
+                input.classList.remove('input-correct-teacher', 'input-incorrect-teacher');
+                input.classList.add(isCorrect ? 'input-correct-teacher' : 'input-incorrect-teacher');
+                
+                if (isCorrect) correctCount++;
+                else allCorrect = false;
             });
 
             allSelectInputs.forEach(select => {
                 const userAnswer = select.value;
+                if (userAnswer === '') return;
+
+                answeredCount++;
                 const correctAnswer = select.dataset.answer;
                 const isCorrect = (userAnswer === correctAnswer);
-                 if (isTeacher) {
-                    select.classList.remove('input-correct-teacher', 'input-incorrect-teacher');
-                     if (select.value.trim() !== '') {
-                        select.classList.add(isCorrect ? 'input-correct-teacher' : 'input-incorrect-teacher');
-                     }
-                }
-                if (!isCorrect) allCorrect = false;
+
+                select.classList.remove('input-correct-teacher', 'input-incorrect-teacher');
+                select.classList.add(isCorrect ? 'input-correct-teacher' : 'input-incorrect-teacher');
+                
+                if (isCorrect) correctCount++;
+                else allCorrect = false;
             });
 
-            if (allCorrect) {
-                feedbackEl.textContent = "Xuất sắc! Tất cả đều đúng!";
+            if (answeredCount === 0) {
+                feedbackEl.textContent = "Hãy làm bài trước khi kiểm tra nhé!";
+                feedbackEl.style.color = "orange";
+                return;
+            }
+
+            if (allCorrect && (answeredCount === allTextInputs.length + allSelectInputs.length)) {
+                feedbackEl.textContent = `Xuất sắc! Bạn đã trả lời đúng tất cả ${correctCount} câu!`;
                 feedbackEl.style.color = "green";
-            } else {
-                feedbackEl.textContent = "Có lỗi sai, hãy kiểm tra lại!";
+            } else if (allCorrect) {
+                feedbackEl.textContent = `Làm tốt! Bạn đã trả lời đúng ${correctCount}/${answeredCount} câu đã làm.`;
+                feedbackEl.style.color = "green";
+            }
+            else {
+                feedbackEl.textContent = `Cố lên! Bạn đã đúng ${correctCount}/${answeredCount} câu. Hãy sửa lại các câu sai.`;
                 feedbackEl.style.color = "red";
             }
         });
