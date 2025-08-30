@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Game Ngữ âm: Phân biệt /b/ và /p/</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Montserrat', sans-serif;
+            touch-action: manipulation;
+        }
+        .game-container {
+            width: 100%;
+            max-width: 800px;
+            height: 600px;
+            background: linear-gradient(to bottom, #87CEEB, #B0E0E6);
+            border: 5px solid #fff;
+            box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+        }
+        .balloon {
+            width: 100px;
+            height: 120px;
+            border-radius: 50%;
+            position: absolute;
+            bottom: -150px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 20px;
+            font-weight: bold;
+            color: white;
+            text-shadow: 1px 1px 2px rgba(0,0,0,0.5);
+            animation-name: floatUp;
+            animation-timing-function: linear;
+            animation-iteration-count: infinite;
+        }
+        .balloon::after {
+            content: '';
+            position: absolute;
+            bottom: -10px;
+            left: 50%;
+            transform: translateX(-50%);
+            border-left: 5px solid transparent;
+            border-right: 5px solid transparent;
+            border-top: 10px solid currentColor;
+        }
+        .bomb-balloon, .time-balloon {
+            font-size: 50px;
+        }
+        .bomb-balloon {
+            background-color: #333 !important;
+            border-color: #333 !important;
+        }
+        .popped {
+            animation: pop 0.3s ease-out forwards;
+            pointer-events: none;
+        }
+        @keyframes floatUp {
+            0% { transform: translateY(0); }
+            100% { transform: translateY(-750px); }
+        }
+        @keyframes pop {
+            0% { transform: scale(1); opacity: 1; }
+            100% { transform: scale(1.5); opacity: 0; }
+        }
+        @keyframes flash {
+            0%, 100% { background-color: white; transform: scale(1); }
+            50% { background-color: #FFD700; transform: scale(1.15); box-shadow: 0 0 15px #FFD700; }
+        }
+        .flash-target {
+            animation: flash 0.5s ease-out;
+        }
+    </style>
+</head>
+<body class="bg-blue-100 flex items-center justify-center min-h-screen p-4">
+
+    <div id="game-container" class="game-container relative overflow-hidden rounded-lg flex items-center justify-center">
+        
+        <!-- Start Screen -->
+        <div id="start-screen" class="text-center text-white bg-black bg-opacity-50 p-10 rounded-lg z-20">
+            <h1 class="text-4xl font-bold mb-4">Game: Bắn Bong Bóng (Siêu Thử Thách)</h1>
+            <p class="mb-2 text-lg">Bắn đúng bong bóng. Né bom 💣 và lấy thêm giờ ⏰!</p>
+            <p class="mb-6 text-lg">Tốc độ sẽ tăng dần!</p>
+            <button id="start-game-btn" class="bg-green-500 text-white font-bold py-3 px-8 rounded-full text-xl hover:bg-green-600 transition-transform transform hover:scale-105">Bắt đầu!</button>
+        </div>
+
+        <!-- Game Screen -->
+        <div id="game-screen" class="absolute top-0 left-0 w-full h-full hidden">
+            <div id="ui-bar" class="absolute top-0 left-0 w-full p-4 flex justify-between items-center text-white text-2xl font-bold bg-black bg-opacity-25 z-10">
+                <div>Điểm: <span id="score">0</span></div>
+                <div id="target-sound-display" class="bg-white text-blue-600 px-4 py-2 rounded-lg transition-transform">Mục tiêu: <span id="target-sound"></span></div>
+                <div id="timer">Thời gian: <span id="time-left">60</span></div>
+            </div>
+        </div>
+
+        <!-- Game Over Screen -->
+        <div id="game-over-screen" class="text-center text-white bg-black bg-opacity-50 p-10 rounded-lg hidden z-20">
+            <h2 class="text-4xl font-bold mb-2">Trò chơi kết thúc!</h2>
+            <p class="text-2xl mb-6">Điểm cuối cùng: <span id="final-score">0</span></p>
+            <button id="restart-game-btn" class="bg-blue-500 text-white font-bold py-3 px-8 rounded-full text-xl hover:bg-blue-600 transition-transform transform hover:scale-105">Chơi lại</button>
+        </div>
+
+    </div>
+
+    <script>
+        const startScreen = document.getElementById('start-screen');
+        const gameScreen = document.getElementById('game-screen');
+        const gameOverScreen = document.getElementById('game-over-screen');
+        const startGameBtn = document.getElementById('start-game-btn');
+        const restartGameBtn = document.getElementById('restart-game-btn');
+        const scoreDisplay = document.getElementById('score');
+        const finalScoreDisplay = document.getElementById('final-score');
+        const timerDisplay = document.getElementById('time-left');
+        const targetSoundDisplaySpan = document.getElementById('target-sound');
+        const targetSoundDisplayDiv = document.getElementById('target-sound-display');
+        const gameContainer = document.getElementById('game-container');
+
+        let score, timeLeft, gameInterval, balloonInterval, currentTargetSound, animationDuration, correctPopCounter;
+        const words = {
+            b: ['barbecue', 'boring', 'book', 'black', 'building', 'baby', 'bear', 'boots'],
+            p: ['party', 'prepare', 'patient', 'sporty', 'peach', 'pig', 'purple', 'pencil']
+        };
+        const balloonColors = ['#FF6347', '#4682B4', '#32CD32', '#FFD700', '#9370DB'];
+
+        startGameBtn.addEventListener('click', startGame);
+        restartGameBtn.addEventListener('click', startGame);
+
+        function startGame() {
+            score = 0;
+            timeLeft = 60;
+            animationDuration = 7; // Start faster
+            correctPopCounter = 0;
+            scoreDisplay.textContent = score;
+            timerDisplay.textContent = timeLeft;
+
+            startScreen.classList.add('hidden');
+            gameOverScreen.classList.add('hidden');
+            gameScreen.classList.remove('hidden');
+
+            gameInterval = setInterval(updateTimer, 1000);
+            balloonInterval = setInterval(createBalloon, 1000); // More balloons
+            
+            changeTargetSound();
+        }
+
+        function updateTimer() {
+            timeLeft--;
+            timerDisplay.textContent = timeLeft;
+            
+            // Increase difficulty faster
+            if (timeLeft === 45) {
+                animationDuration = 5.5;
+            } else if (timeLeft === 30) {
+                animationDuration = 4;
+            } else if (timeLeft === 15) {
+                animationDuration = 3;
+            }
+
+            if (timeLeft <= 0) {
+                endGame("Hết giờ!");
+            }
+        }
+
+        function changeTargetSound() {
+            currentTargetSound = Math.random() < 0.5 ? 'b' : 'p';
+            targetSoundDisplaySpan.textContent = `/${currentTargetSound}/`;
+            // Visual cue for target change
+            targetSoundDisplayDiv.classList.add('flash-target');
+            setTimeout(() => {
+                targetSoundDisplayDiv.classList.remove('flash-target');
+            }, 500);
+        }
+
+        function createBalloon() {
+            const balloon = document.createElement('div');
+            balloon.classList.add('balloon');
+            balloon.style.animationDuration = `${animationDuration}s`;
+            
+            const randomType = Math.random();
+
+            if (randomType < 0.12) { // 12% chance for a bomb
+                balloon.classList.add('bomb-balloon');
+                balloon.textContent = '💣';
+                balloon.dataset.type = 'bomb';
+            } else if (randomType < 0.24) { // 12% chance for a time bonus
+                balloon.classList.add('time-balloon');
+                balloon.textContent = '⏰';
+                balloon.dataset.type = 'time';
+            } else { // 76% chance for a word balloon
+                const soundType = Math.random() < 0.5 ? 'b' : 'p';
+                const wordList = words[soundType];
+                const word = wordList[Math.floor(Math.random() * wordList.length)];
+                balloon.textContent = word;
+                balloon.dataset.sound = soundType;
+                balloon.dataset.type = 'word';
+            }
+
+            balloon.style.left = `${Math.random() * (gameContainer.clientWidth - 100)}px`;
+            const color = balloonColors[Math.floor(Math.random() * balloonColors.length)];
+            if(balloon.dataset.type !== 'bomb') {
+                balloon.style.backgroundColor = color;
+                balloon.style.borderColor = color;
+            }
+            
+            balloon.addEventListener('click', popBalloon);
+
+            gameScreen.appendChild(balloon);
+            setTimeout(() => {
+                if (!balloon.classList.contains('popped')) {
+                    balloon.remove();
+                }
+            }, (animationDuration * 1000) - 100);
+        }
+
+        function popBalloon(event) {
+            const balloon = event.currentTarget;
+            if (balloon.classList.contains('popped')) return;
+
+            balloon.classList.add('popped');
+            
+            const type = balloon.dataset.type;
+            if (type === 'word') {
+                if (balloon.dataset.sound === currentTargetSound) {
+                    score += 10;
+                    correctPopCounter++;
+                    if (correctPopCounter > 0 && correctPopCounter % 4 === 0) {
+                        changeTargetSound();
+                    }
+                } else {
+                    score -= 5;
+                    correctPopCounter = 0; // Reset counter on mistake
+                }
+            } else if (type === 'bomb') {
+                endGame("Bạn đã bắn trúng bom!");
+                return;
+            } else if (type === 'time') {
+                timeLeft += 5;
+                timerDisplay.textContent = timeLeft;
+                score += 5;
+            }
+            
+            scoreDisplay.textContent = score;
+            setTimeout(() => balloon.remove(), 300);
+        }
+
+        function endGame(reason) {
+            clearInterval(gameInterval);
+            clearInterval(balloonInterval);
+
+            document.querySelectorAll('.balloon').forEach(b => b.remove());
+            
+            finalScoreDisplay.textContent = score;
+            gameOverScreen.querySelector('h2').textContent = reason;
+            gameScreen.classList.add('hidden');
+            gameOverScreen.classList.remove('hidden');
+        }
+    </script>
+</body>
+</html>
+```eof

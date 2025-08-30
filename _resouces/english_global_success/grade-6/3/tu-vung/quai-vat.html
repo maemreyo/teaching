@@ -1,0 +1,361 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Game Từ vựng: Dựng Hình Quái Vật (Chuyên Gia)</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Montserrat', sans-serif;
+        }
+        #monster-canvas {
+            background-color: #f0f8ff;
+            border-radius: 20px;
+            border: 4px dashed #4a5568;
+            position: relative;
+            overflow: hidden;
+            background-image: radial-gradient(#d1e9fa 10%, transparent 10%);
+            background-size: 30px 30px;
+        }
+        .body-part-item {
+            cursor: grab;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        .body-part-item:hover {
+            transform: scale(1.08);
+            box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+        }
+        .placed-part {
+            position: absolute;
+            width: 80px; /* Default size, can be overridden */
+            height: auto;
+            pointer-events: none; /* Make them non-interactive once placed */
+        }
+        #request-box {
+            background: rgba(255, 255, 255, 0.8);
+            backdrop-filter: blur(5px);
+        }
+        .modal {
+            display: none; /* Hidden by default */
+        }
+        .modal.flex {
+            display: flex;
+        }
+    </style>
+</head>
+<body class="bg-gray-200 flex items-center justify-center min-h-screen p-4">
+
+    <div id="game-wrapper" class="w-full max-w-4xl bg-white rounded-2xl shadow-2xl p-6 relative">
+        <h1 class="text-3xl font-bold text-center text-gray-800 mb-4">Trò chơi: Dựng Hình Quái Vật 👾</h1>
+        
+        <div class="flex flex-col md:flex-row gap-6">
+            <!-- Monster Building Area -->
+            <div class="w-full md:w-2/3">
+                <div id="monster-canvas" class="w-full h-[32rem] flex items-center justify-center">
+                    <!-- Base monster body -->
+                    <svg id="monster-body" width="200" height="250" viewBox="0 0 200 250" fill="#81E6D9" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M100 0C44.7715 0 0 55.9644 0 125C0 194.036 44.7715 250 100 250C155.228 250 200 194.036 200 125C200 55.9644 155.228 0 100 0Z"/>
+                    </svg>
+                </div>
+                <div id="request-box" class="mt-4 p-4 text-center rounded-lg border-2 border-yellow-400">
+                    <p class="text-gray-600">Yêu cầu:</p>
+                    <p id="request-text" class="text-xl font-bold text-indigo-600 h-14 flex items-center justify-center">Bắt đầu nào!</p>
+                </div>
+            </div>
+
+            <!-- Body Parts Selection -->
+            <div class="w-full md:w-1/3 bg-gray-100 p-4 rounded-lg overflow-y-auto h-[36rem]">
+                <h2 class="text-xl font-semibold mb-3 text-center">Chọn bộ phận</h2>
+                <div id="parts-container" class="grid grid-cols-2 gap-3">
+                    <!-- Parts will be injected by JS -->
+                </div>
+            </div>
+        </div>
+        
+        <!-- Progress and Reset -->
+        <div class="mt-4 flex justify-between items-center">
+             <div class="text-2xl font-bold text-red-500">
+                Thời gian: <span id="timer">240</span>
+            </div>
+            <div>
+                <span class="font-semibold">Tiến độ:</span>
+                <span id="progress-text">0 / 28</span>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Modal Screens -->
+    <div id="modal-container" class="fixed inset-0 bg-black bg-opacity-60 items-center justify-center modal flex">
+        <!-- Start Screen -->
+        <div id="start-screen" class="bg-white p-8 rounded-2xl shadow-lg text-center transform scale-100 transition-transform">
+            <h2 class="text-3xl font-bold text-blue-600 mb-4">Luật chơi (Chuyên Gia)</h2>
+            <p class="text-lg mb-2">Hoàn thành quái vật trong <strong class="text-red-500">4 phút (240 giây)</strong>!</p>
+            <p class="text-lg mb-2">Giải mã <strong class="text-purple-500">từ bị xáo trộn</strong> để tìm đúng bộ phận.</p>
+            <p class="text-lg mb-6">Mỗi lần sai sẽ bị <strong class="text-yellow-500">-5 giây!</strong></p>
+            <button id="start-game-button" class="bg-green-500 text-white font-bold py-3 px-8 rounded-full text-xl hover:bg-green-600">Bắt đầu thử thách!</button>
+        </div>
+        <!-- Win Screen -->
+        <div id="win-screen" class="bg-white p-8 rounded-2xl shadow-lg text-center transform scale-95 transition-transform hidden">
+            <h2 class="text-4xl font-bold text-green-500 mb-4">Thắng rồi!</h2>
+            <p class="text-lg mb-6">Bạn đúng là một chuyên gia từ vựng!</p>
+            <button class="play-again-button bg-blue-500 text-white font-bold py-3 px-8 rounded-full text-xl hover:bg-blue-600">Chơi lại</button>
+        </div>
+        <!-- Game Over Screen -->
+         <div id="game-over-screen" class="bg-white p-8 rounded-2xl shadow-lg text-center transform scale-95 transition-transform hidden">
+            <h2 class="text-4xl font-bold text-red-500 mb-4">Hết giờ!</h2>
+            <p class="text-lg mb-6">Thử lại để chinh phục quái vật nhé!</p>
+            <button class="play-again-button bg-blue-500 text-white font-bold py-3 px-8 rounded-full text-xl hover:bg-blue-600">Thử lại</button>
+        </div>
+    </div>
+
+    <script>
+        // --- DOM ELEMENTS ---
+        const partsContainer = document.getElementById('parts-container');
+        const monsterCanvas = document.getElementById('monster-canvas');
+        const requestText = document.getElementById('request-text');
+        const progressText = document.getElementById('progress-text');
+        const timerDisplay = document.getElementById('timer');
+        
+        const modalContainer = document.getElementById('modal-container');
+        const startScreen = document.getElementById('start-screen');
+        const winScreen = document.getElementById('win-screen');
+        const gameOverScreen = document.getElementById('game-over-screen');
+        const startGameButton = document.getElementById('start-game-button');
+        const playAgainButtons = document.querySelectorAll('.play-again-button');
+
+        // --- DATA ---
+        const bodyPartsData = [
+            { id: 'hair', name: 'Tóc', count: 1, svg: `<svg viewBox="0 0 100 50" fill="#F6E05E"><path d="M0 50 L10 10 L20 40 L30 5 L40 50 L50 15 L60 50 L70 10 L80 40 L90 5 L100 50 Z"/></svg>`},
+            { id: 'eye', name: 'Mắt', count: 2, svg: `<svg viewBox="0 0 100 100" fill="white"><circle cx="50" cy="50" r="45"/><circle cx="50" cy="50" r="20" fill="black"/></svg>`},
+            { id: 'cheek', name: 'Má', count: 2, svg: `<svg viewBox="0 0 100 100"><circle cx="50" cy="50" r="40" fill="#FFC0CB" /></svg>`},
+            { id: 'mouth', name: 'Miệng', count: 1, svg: `<svg viewBox="0 0 100 30" fill="none"><path d="M5 5C20 25, 80 25, 95 5" stroke="black" stroke-width="8" stroke-linecap="round"/></svg>` },
+            { id: 'neck', name: 'Cổ', count: 1, svg: `<svg viewBox="0 0 60 40" fill="#FBD38D"><rect width="60" height="40" rx="10" /></svg>`},
+            { id: 'shoulder', name: 'Vai', count: 2, svg: `<svg viewBox="0 0 80 40" fill="#A0AEC0"><rect width="80" height="40" rx="20" /></svg>`},
+            { id: 'arm', name: 'Cánh tay', count: 2, svg: `<svg viewBox="0 0 40 100" fill="#A0AEC0"><rect x="10" width="20" height="100" rx="10"/></svg>` },
+            { id: 'elbow', name: 'Khuỷu tay', count: 2, svg: `<svg viewBox="0 0 100 100"><circle cx="50" cy="50" r="20" fill="#D1D5DB" /></svg>`},
+            { id: 'hand', name: 'Bàn tay', count: 2, svg: `<svg viewBox="0 0 60 60" fill="#FBD38D"><circle cx="30" cy="30" r="30"/></svg>`},
+            { id: 'finger', name: 'Ngón tay', count: 2, svg: `<svg viewBox="0 0 20 60" fill="#FBD38D"><rect width="20" height="60" rx="10" /></svg>`},
+            { id: 'leg', name: 'Chân', count: 2, svg: `<svg viewBox="0 0 40 120" fill="#A0AEC0"><rect width="40" height="120" rx="20" /></svg>` },
+            { id: 'knee', name: 'Đầu gối', count: 2, svg: `<svg viewBox="0 0 100 100"><circle cx="50" cy="50" r="25" fill="#D1D5DB" /></svg>`},
+            { id: 'foot', name: 'Bàn chân', count: 2, svg: `<svg viewBox="0 0 80 40" fill="#4A5568"><path d="M0 20 C0 0, 40 0, 60 10 L 80 40 L 0 40 Z" /></svg>`},
+            { id: 'teeth', name: 'Răng', count: 1, svg: `<svg viewBox="0 0 100 20" fill="white" stroke="black" stroke-width="2"><path d="M 5 2 H 95 V 18 H 5 Z M 25 2 V 18 M 45 2 V 18 M 65 2 V 18 M 85 2 V 18"/></svg>`},
+            { id: 'ear', name: 'Tai', count: 2, svg: `<svg viewBox="0 0 50 70" fill="#EDF2F7"><path d="M0 35 C0 10, 50 10, 50 35 C50 60, 0 60, 0 35 Z"/></svg>`},
+            { id: 'nose', name: 'Mũi', count: 1, svg: `<svg viewBox="0 0 50 50" fill="#FBD38D"><path d="M25 0 C40 0, 50 50, 25 50 C0 50, 10 0, 25 0 Z"/></svg>`},
+        ];
+        const distractorParts = [ { id: 'tail' }, { id: 'wing' } ];
+
+        // --- GAME STATE ---
+        let requests = [];
+        let currentRequestIndex = 0;
+        let timerInterval;
+        let timeLeft = 240;
+        let isPausedForFeedback = false;
+
+        // --- FUNCTIONS ---
+        function shuffle(str) {
+            let a = str.split(""), n = a.length;
+            for(let i = n - 1; i > 0; i--) {
+                let j = Math.floor(Math.random() * (i + 1));
+                [a[i], a[j]] = [a[j], a[i]];
+            }
+            return a.join("");
+        }
+        
+        function initGame() {
+            createRequests();
+            setupPartsSelection();
+            progressText.textContent = `0 / ${requests.length}`;
+            requestText.textContent = 'Hãy sẵn sàng...';
+        }
+        
+        function startGame() {
+            modalContainer.classList.remove('flex');
+            startScreen.classList.add('hidden');
+            resetGame();
+            timerInterval = setInterval(updateTimer, 1000);
+            updateRequest();
+        }
+
+        function createRequests() {
+            requests = [];
+            bodyPartsData.forEach(part => {
+                for(let i = 0; i < part.count; i++) {
+                    let req = { 
+                        id: part.id, 
+                        name: part.name, 
+                        svg: part.svg,
+                        scrambled: shuffle(part.id)
+                    };
+                    requests.push(req);
+                }
+            });
+            requests.sort(() => Math.random() - 0.5);
+        }
+        
+        function setupPartsSelection() {
+            partsContainer.innerHTML = '';
+            const allPartsForSelection = [
+                ...bodyPartsData.map(p => ({id: p.id, text: p.id})), 
+                ...distractorParts.map(p => ({id: p.id, text: p.id}))
+            ].sort(() => Math.random() - 0.5);
+            
+            allPartsForSelection.forEach(part => {
+                const partDiv = document.createElement('div');
+                partDiv.className = 'body-part-item bg-white p-2 rounded-lg text-center shadow font-semibold text-sm';
+                partDiv.draggable = true;
+                if(part.text){
+                    partDiv.textContent = part.text.charAt(0).toUpperCase() + part.text.slice(1);
+                }
+                
+                partDiv.addEventListener('dragstart', (e) => {
+                    e.dataTransfer.setData('text/plain', part.id);
+                    partDiv.style.cursor = 'grabbing';
+                });
+                partDiv.addEventListener('dragend', () => { partDiv.style.cursor = 'grab'; });
+                partsContainer.appendChild(partDiv);
+            });
+        }
+        
+        function updateRequest() {
+            isPausedForFeedback = false;
+            if (currentRequestIndex < requests.length) {
+                const request = requests[currentRequestIndex];
+                requestText.innerHTML = `Giải mã: <strong class="text-2xl text-purple-600">${request.scrambled.toUpperCase()}</strong>`;
+                progressText.textContent = `${currentRequestIndex} / ${requests.length}`;
+            } else {
+                endGame(true); // Win
+            }
+        }
+
+        function updateTimer() {
+            if (isPausedForFeedback) return;
+            timeLeft--;
+            timerDisplay.textContent = timeLeft;
+            if (timeLeft <= 0) {
+                endGame(false); // Lose
+            }
+        }
+        
+        function placePart(part) {
+            const placedPartEl = document.createElement('div');
+            placedPartEl.className = 'placed-part';
+            placedPartEl.innerHTML = part.svg;
+            
+            const bodyRect = document.getElementById('monster-body').getBoundingClientRect();
+            const canvasRect = monsterCanvas.getBoundingClientRect();
+            const offsetX = bodyRect.left - canvasRect.left;
+            const offsetY = bodyRect.top - canvasRect.top;
+
+             switch (part.id) {
+                case 'hair': placedPartEl.style.cssText = `width:120px; top:${offsetY - 20}px; left:${offsetX + 40}px;`; break;
+                case 'eye':
+                    const eyeCount = document.querySelectorAll('.placed-part[data-id="eye"]').length;
+                    placedPartEl.style.cssText = `width:50px; top:${offsetY + 70}px; left:${eyeCount === 0 ? offsetX + 50 : offsetX + 100}px;`; break;
+                case 'cheek':
+                    const cheekCount = document.querySelectorAll('.placed-part[data-id="cheek"]').length;
+                    placedPartEl.style.cssText = `width:40px; top:${offsetY + 130}px; left:${cheekCount === 0 ? offsetX + 55 : offsetX + 105}px; opacity: 0.7;`; break;
+                case 'mouth': placedPartEl.style.cssText = `width:90px; top:${offsetY + 160}px; left:${offsetX + 55}px;`; break;
+                case 'teeth': placedPartEl.style.cssText = `width:70px; top:${offsetY + 165}px; left:${offsetX + 65}px; z-index: 1;`; break;
+                case 'nose': placedPartEl.style.cssText = `width:40px; top:${offsetY + 120}px; left:${offsetX + 80}px;`; break;
+                case 'neck': placedPartEl.style.cssText = `width:60px; height: 40px; top:${offsetY + 230}px; left:${offsetX + 70}px;`; break;
+                case 'shoulder':
+                    const shoulderCount = document.querySelectorAll('.placed-part[data-id="shoulder"]').length;
+                    placedPartEl.style.cssText = `width:70px; height: 35px; top:${offsetY + 90}px; left:${shoulderCount === 0 ? offsetX - 20 : offsetX + 150}px;`; break;
+                case 'ear':
+                    const earCount = document.querySelectorAll('.placed-part[data-id="ear"]').length;
+                    placedPartEl.style.cssText = `width:40px; top:${offsetY + 80}px; left:${earCount === 0 ? offsetX - 15 : offsetX + 175}px;`; break;
+                case 'arm':
+                    const armCount = document.querySelectorAll('.placed-part[data-id="arm"]').length;
+                    placedPartEl.style.cssText = `width:35px; height:90px; top:${offsetY + 110}px; left:${armCount === 0 ? offsetX - 35 : offsetX + 200}px; transform:rotate(${armCount === 0 ? -20 : 20}deg);`; break;
+                case 'elbow':
+                    const elbowCount = document.querySelectorAll('.placed-part[data-id="elbow"]').length;
+                    placedPartEl.style.cssText = `width:25px; top:${offsetY + 145}px; left:${elbowCount === 0 ? offsetX - 20 : offsetX + 195}px;`; break;
+                case 'hand':
+                    const handCount = document.querySelectorAll('.placed-part[data-id="hand"]').length;
+                    placedPartEl.style.cssText = `width:30px; top:${offsetY + 185}px; left:${handCount === 0 ? offsetX - 45 : offsetX + 215}px;`; break;
+                case 'finger':
+                    const fingerCount = document.querySelectorAll('.placed-part[data-id="finger"]').length;
+                    placedPartEl.style.cssText = `width:12px; height: 25px; top:${offsetY + 210}px; left:${fingerCount === 0 ? offsetX - 40 : offsetX + 228}px;`; break;
+                case 'leg':
+                     const legCount = document.querySelectorAll('.placed-part[data-id="leg"]').length;
+                    placedPartEl.style.cssText = `width:40px; height: 100px; top:${offsetY + 240}px; left:${legCount === 0 ? offsetX + 50 : offsetX + 110}px;`; break;
+                case 'knee':
+                    const kneeCount = document.querySelectorAll('.placed-part[data-id="knee"]').length;
+                    placedPartEl.style.cssText = `width:30px; top:${offsetY + 280}px; left:${kneeCount === 0 ? offsetX + 55 : offsetX + 115}px;`; break;
+                case 'foot':
+                    const footCount = document.querySelectorAll('.placed-part[data-id="foot"]').length;
+                    placedPartEl.style.cssText = `width:60px; top:${offsetY + 330}px; left:${footCount === 0 ? offsetX + 30 : offsetX + 110}px;`; break;
+                default: placedPartEl.style.cssText = `top:${Math.random() * (monsterCanvas.clientHeight - 50)}px; left:${Math.random() * (monsterCanvas.clientWidth - 50)}px;`;
+            }
+            placedPartEl.dataset.id = part.id;
+            monsterCanvas.appendChild(placedPartEl);
+        }
+        
+        function endGame(isWin) {
+            clearInterval(timerInterval);
+            modalContainer.classList.add('flex');
+            if (isWin) {
+                winScreen.classList.remove('hidden');
+            } else {
+                gameOverScreen.classList.remove('hidden');
+            }
+        }
+
+        function resetGame() {
+            monsterCanvas.querySelectorAll('.placed-part').forEach(part => part.remove());
+            currentRequestIndex = 0;
+            timeLeft = 240; // Reset time to 240
+            timerDisplay.textContent = timeLeft;
+            clearInterval(timerInterval);
+
+            winScreen.classList.add('hidden');
+            gameOverScreen.classList.add('hidden');
+            
+            initGame();
+        }
+
+        // --- EVENT LISTENERS ---
+        monsterCanvas.addEventListener('dragover', (e) => { e.preventDefault(); });
+
+        monsterCanvas.addEventListener('drop', (e) => {
+            e.preventDefault();
+            if (timeLeft <= 0 || currentRequestIndex >= requests.length || isPausedForFeedback) return;
+            const droppedPartId = e.dataTransfer.getData('text/plain');
+            const currentRequest = requests[currentRequestIndex];
+            
+            if (droppedPartId === currentRequest.id) {
+                isPausedForFeedback = true;
+                placePart(currentRequest);
+                requestText.innerHTML = `Chính xác! <strong class="text-green-500">${currentRequest.id.toUpperCase()}</strong> (${currentRequest.name})`;
+                
+                setTimeout(() => {
+                    currentRequestIndex++;
+                    updateRequest();
+                }, 1500);
+
+            } else {
+                timeLeft -= 5;
+                if(timeLeft < 0) timeLeft = 0;
+                timerDisplay.textContent = timeLeft;
+                requestText.classList.add('animate-bounce', 'text-red-500');
+                setTimeout(() => { requestText.classList.remove('animate-bounce', 'text-red-500'); }, 500);
+            }
+        });
+        
+        startGameButton.addEventListener('click', startGame);
+        playAgainButtons.forEach(btn => btn.addEventListener('click', () => {
+             modalContainer.classList.remove('flex');
+             winScreen.classList.add('hidden');
+             gameOverScreen.classList.add('hidden');
+             setTimeout(startGame, 200);
+        }));
+
+        // --- INITIALIZATION ---
+        initGame();
+    </script>
+</body>
+</html>
+
+
