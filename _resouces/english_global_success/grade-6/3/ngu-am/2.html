@@ -1,0 +1,539 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Game: Mật Thất Tình Bạn (Nhiều Cấp Độ)</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Montserrat:wght@400;600&display=swap" rel="stylesheet">
+    <style>
+        body { font-family: 'Montserrat', sans-serif; }
+        h1, h2, h3 { font-family: 'Playfair Display', serif; }
+        .room-bg {
+            background-color: #d2b48c;
+            background-image: url('https://www.transparenttextures.com/patterns/wood-pattern.png');
+            border: 10px solid #855d33;
+        }
+        .interactive-object {
+            cursor: pointer;
+            transition: transform 0.2s, filter 0.2s;
+            user-select: none;
+        }
+        .interactive-object:hover {
+            transform: scale(1.05);
+            filter: drop-shadow(0 0 10px rgba(255, 255, 0, 0.7));
+        }
+        .puzzle-modal {
+            background-color: rgba(0, 0, 0, 0.7);
+            backdrop-filter: blur(5px);
+        }
+        .inventory-slot {
+            background-color: rgba(0,0,0,0.3);
+            border: 2px dashed rgba(255,255,255,0.4);
+            transition: all 0.3s;
+        }
+        .inventory-slot.filled {
+             background-color: rgba(72, 187, 120, 0.5);
+             border-style: solid;
+        }
+        .item-selected {
+            filter: drop-shadow(0 0 15px #0ff) !important;
+            transform: scale(1.1);
+        }
+        #clock-face { position: relative; width: 80px; height: 80px; }
+        .clock-hand {
+            position: absolute;
+            bottom: 50%;
+            left: 50%;
+            transform-origin: bottom;
+            background: black;
+        }
+        #hour-hand { width: 4px; height: 25px; transform: translateX(-50%) rotate(0deg); }
+        #minute-hand { width: 2px; height: 35px; transform: translateX(-50%) rotate(0deg); }
+        .book {
+            width: 30px; height: 90%; background-color: #a0522d; color: white;
+            display: flex; align-items: center; justify-content: center; font-size: 1.5rem;
+            border: 2px solid #5c2d0e;
+        }
+        .level-btn {
+            background-color: #855d33;
+            color: white;
+            padding: 20px 40px;
+            border-radius: 10px;
+            font-size: 1.5rem;
+            font-family: 'Playfair Display', serif;
+            transition: all 0.3s;
+        }
+        .level-btn:hover {
+            background-color: #a0522d;
+            transform: scale(1.05);
+        }
+    </style>
+</head>
+<body class="bg-gray-800 flex items-center justify-center min-h-screen p-4">
+
+    <div id="level-selection-screen" class="text-center">
+        <h1 class="text-5xl font-bold text-white mb-8">Chọn Cấp Độ</h1>
+        <div class="flex gap-8">
+            <button id="level-1-btn" class="level-btn">Cấp Độ 1</button>
+            <button id="level-2-btn" class="level-btn">Cấp Độ 2</button>
+            <button id="level-3-btn" class="level-btn">Cấp Độ 3</button>
+        </div>
+    </div>
+
+    <div id="game-container" class="w-full max-w-6xl bg-gray-200 p-6 rounded-lg shadow-2xl hidden">
+        <h1 id="game-title" class="text-4xl font-bold text-center text-gray-800 mb-4"></h1>
+        
+        <div class="room-bg w-full h-[600px] rounded-lg relative p-8">
+            <div id="picture-frame" class="interactive-object absolute top-8 left-1/4 w-48 h-32 bg-gray-300 border-8 border-yellow-800 flex items-center justify-center text-center p-2">
+                <span id="picture-text" class="text-gray-500"></span>
+            </div>
+            <div id="window" class="interactive-object absolute top-8 right-1/4 w-32 h-40 bg-blue-200 border-8 border-white flex items-center justify-center text-4xl"></div>
+            
+            <div id="door" class="interactive-object absolute bottom-8 left-8 w-32 h-64 bg-red-800 rounded-t-lg border-4 border-black"></div>
+            <div id="desk" class="absolute bottom-8 right-8 w-56 h-32 bg-yellow-900 rounded-md">
+                <div id="watering-can" class="interactive-object absolute -top-8 left-4 text-5xl"></div>
+                <div id="desk-drawer" class="interactive-object absolute top-4 left-1/2 -translate-x-1/2 w-24 h-16 bg-gray-600 border-4 border-black rounded flex items-center justify-center text-yellow-300 text-2xl"></div>
+            </div>
+            <div id="shelf" class="absolute bottom-8 right-1/2 translate-x-1/4 w-72 h-80 bg-yellow-900 rounded-md p-2 flex flex-col justify-between">
+                <div id="book-shelf" class="h-1/3 flex justify-around items-center p-2 gap-1"></div>
+                <div class="h-1/3 flex justify-around items-center">
+                     <div id="clock" class="interactive-object w-24 h-24 bg-white rounded-full flex items-center justify-center border-4 border-gray-500">
+                        <div id="clock-face">
+                            <div id="hour-hand" class="clock-hand"></div>
+                            <div id="minute-hand" class="clock-hand"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="h-1/3 flex justify-around items-center"></div>
+            </div>
+            <div id="plant" class="interactive-object absolute bottom-2 left-1/2 -translate-x-1/2 text-6xl"></div>
+            <div id="hidden-note" class="hidden absolute top-12 left-1/4 p-2 bg-yellow-200 w-48 text-center"></div>
+        </div>
+        
+        <div id="status-bar" class="mt-4 bg-gray-900 text-white p-3 rounded-lg text-center h-12 flex items-center justify-center"></div>
+
+        <div class="mt-4 bg-gray-700 p-3 rounded-lg">
+            <h2 class="text-white font-bold text-center mb-2">Từ Khóa Tìm Được</h2>
+            <div class="flex justify-center gap-4">
+                <div id="inv-slot-1" class="inventory-slot w-32 h-16 rounded-md flex items-center justify-center text-white font-bold">#1</div>
+                <div id="inv-slot-2" class="inventory-slot w-32 h-16 rounded-md flex items-center justify-center text-white font-bold">#2</div>
+                <div id="inv-slot-3" class="inventory-slot w-32 h-16 rounded-md flex items-center justify-center text-white font-bold">#3</div>
+            </div>
+        </div>
+    </div>
+    
+    <div id="modal-container" class="fixed inset-0 puzzle-modal items-center justify-center hidden">
+        <div id="door-puzzle" class="bg-gray-800 text-white p-8 rounded-lg shadow-xl text-center w-full max-w-md hidden">
+            <h3 class="text-2xl font-bold mb-4">Ổ Khóa Cửa</h3>
+            <p class="mb-4">Mật mã là số lượng chữ cái của 3 từ khóa bạn đã tìm được.</p>
+            <input id="door-code-input" type="text" class="w-full p-2 border-2 border-gray-400 rounded mb-4 text-black text-center text-2xl tracking-[.5em]" maxlength="3" placeholder="_ _ _">
+            <button id="submit-door-code" class="bg-green-600 text-white font-bold py-2 px-6 rounded hover:bg-green-700">Mở khóa</button>
+        </div>
+         <div id="drawer-puzzle" class="bg-yellow-100 p-8 rounded-lg shadow-xl text-center w-full max-w-md hidden">
+            <h3 class="text-2xl font-bold mb-4">Ngăn Kéo Bị Khóa</h3>
+            <p id="drawer-riddle" class="text-lg mb-4"></p>
+            <input id="drawer-input" type="text" class="w-full p-2 border-2 border-gray-400 rounded mb-4" placeholder="Nhập mật mã">
+            <button id="submit-drawer" class="bg-blue-600 text-white font-bold py-2 px-6 rounded hover:bg-blue-700">Mở</button>
+        </div>
+        <div id="win-modal" class="bg-white p-12 rounded-lg shadow-xl text-center hidden">
+             <h2 class="text-5xl font-bold text-yellow-500 mb-4">BẤT NGỜ!</h2>
+             <p class="text-xl mb-6">Bạn đã giải được mật mã! Tình bạn của chúng ta thật vững chắc!</p>
+             <button onclick="location.reload()" class="bg-blue-600 text-white font-bold py-3 px-8 rounded hover:bg-blue-700">Chơi Lại</button>
+        </div>
+    </div>
+
+    <script>
+        const dom = {
+            levelSelectionScreen: document.getElementById('level-selection-screen'),
+            gameContainer: document.getElementById('game-container'),
+            gameTitle: document.getElementById('game-title'),
+            pictureFrame: document.getElementById('picture-frame'),
+            pictureText: document.getElementById('picture-text'),
+            hiddenNote: document.getElementById('hidden-note'),
+            clock: document.getElementById('clock'),
+            hourHand: document.getElementById('hour-hand'),
+            minuteHand: document.getElementById('minute-hand'),
+            plant: document.getElementById('plant'),
+            wateringCan: document.getElementById('watering-can'),
+            window: document.getElementById('window'),
+            bookShelf: document.getElementById('book-shelf'),
+            deskDrawer: document.getElementById('desk-drawer'),
+            door: document.getElementById('door'),
+            shelf: document.getElementById('shelf'),
+            desk: document.getElementById('desk'),
+            statusBar: document.getElementById('status-bar'),
+            modalContainer: document.getElementById('modal-container'),
+            doorPuzzle: document.getElementById('door-puzzle'),
+            drawerPuzzle: document.getElementById('drawer-puzzle'),
+            winModal: document.getElementById('win-modal'),
+            inventorySlots: [document.getElementById('inv-slot-1'), document.getElementById('inv-slot-2'), document.getElementById('inv-slot-3')],
+        };
+
+        const levels = [
+            { 
+                title: "Mật Thất Tình Bạn (Cấp 1)",
+                keywords: { clock: 'creative', plant: 'helpful', books: 'clever' },
+                bookLetters: ['L', 'E', 'C', 'R', 'V', 'E'],
+                pictureFrameText: 'Bức tranh một con tàu trên biển. Phía dưới có khắc: <br><b class="text-black">3-1-5-2-6-4</b>',
+                hiddenNoteText: 'Kim đồng hồ chỉ trời và đất',
+                initialStatus: 'Căn phòng này có gì đặc biệt nhỉ?',
+                elements: ['picture-frame', 'window', 'door', 'desk', 'watering-can', 'shelf', 'book-shelf', 'clock', 'plant', 'hidden-note']
+            },
+            { 
+                title: "Mật Thất Tình Bạn (Cấp 2)",
+                keywords: { drawer: 'honest', window: 'curious', books: 'brave' },
+                bookLetters: ['R', 'A', 'V', 'B', 'E'],
+                pictureFrameText: 'Một bức chân dung. Dường như không có gì đặc biệt.',
+                drawerRiddle: 'Mật mã là số lượng sách trên giá.',
+                initialStatus: 'Một thử thách mới đang chờ đợi.',
+                elements: ['picture-frame', 'window', 'door', 'desk', 'desk-drawer', 'shelf', 'book-shelf']
+            },
+            { 
+                title: "Mật Thất Tình Bạn (Cấp 3)",
+                keywords: { picture: 'loyal', clock: 'patient', plant: 'kind' },
+                bookLetters: [],
+                pictureFrameText: 'Một bức tranh trừu tượng với các mảng màu: Đỏ, Vàng, Xanh lá.',
+                hiddenNoteText: 'Thứ tự đúng là: thực vật, thời gian, và lòng trung thành.',
+                initialStatus: 'Cấp độ khó nhất! Bạn đã sẵn sàng?',
+                sequence: ['plant', 'clock', 'picture'],
+                elements: ['picture-frame', 'door', 'desk', 'shelf', 'clock', 'plant', 'hidden-note']
+            }
+        ];
+
+        let state = {};
+        let currentLevel;
+
+        function kebabToCamel(s) {
+            return s.replace(/-(\w)/g, (_, c) => c.toUpperCase());
+        }
+
+        function init() {
+            document.getElementById('level-1-btn').addEventListener('click', () => startGame(0));
+            document.getElementById('level-2-btn').addEventListener('click', () => startGame(1));
+            document.getElementById('level-3-btn').addEventListener('click', () => startGame(2));
+            addUniversalListeners();
+        }
+
+        function startGame(levelIndex) {
+            currentLevel = levels[levelIndex];
+            dom.levelSelectionScreen.classList.add('hidden');
+            dom.gameContainer.classList.remove('hidden');
+            setupGame();
+        }
+
+        function setupGame() {
+            dom.inventorySlots.forEach((slot, index) => {
+                slot.textContent = `#${index + 1}`;
+                slot.classList.remove('filled');
+            });
+
+            const allElements = ['picture-frame', 'window', 'door', 'desk', 'watering-can', 'shelf', 'book-shelf', 'clock', 'plant', 'hidden-note', 'desk-drawer'];
+            allElements.forEach(id => {
+                const el = document.getElementById(id);
+                if (el) el.style.display = 'none';
+            });
+
+            currentLevel.elements.forEach(id => {
+                const el = document.getElementById(id);
+                if (el) el.style.display = '';
+            });
+
+            dom.gameTitle.textContent = currentLevel.title;
+            dom.pictureText.innerHTML = currentLevel.pictureFrameText || '';
+            dom.hiddenNote.textContent = currentLevel.hiddenNoteText || '';
+            dom.window.textContent = '🌧️';
+            dom.wateringCan.textContent = '🚰';
+            dom.plant.textContent = '🪴';
+            dom.deskDrawer.textContent = '🔒';
+
+            state = {
+                clues: [null, null, null],
+                noteFound: false,
+                selectedItem: null,
+                clockHour: 3, clockMinute: 9, clockSolved: false,
+                wateringCanFilled: false, plantWatered: false, plantSolved: false,
+                books: [...(currentLevel.bookLetters || [])], booksSolved: false,
+                drawerSolved: false, windowClicks: 0, windowSolved: false,
+                sequence: [], sequenceSolved: false,
+            };
+
+            if (currentLevel.bookLetters.length > 0) renderBooks();
+            if (currentLevel.elements.includes('clock')) updateClock();
+            updateStatus(currentLevel.initialStatus);
+        }
+
+        function updateStatus(message, isTemporary = false) {
+            dom.statusBar.textContent = message;
+            if (isTemporary) {
+                setTimeout(() => dom.statusBar.textContent = "...", 3000);
+            }
+        }
+        
+        function showModal(element) {
+            dom.modalContainer.querySelectorAll('.bg-gray-800, .bg-white, .bg-yellow-100').forEach(el => el.classList.add('hidden'));
+            dom.modalContainer.classList.add('flex');
+            dom.modalContainer.classList.remove('hidden');
+            element.classList.remove('hidden');
+        }
+
+        function hideModals() {
+            dom.modalContainer.classList.add('hidden');
+            dom.modalContainer.classList.remove('flex');
+        }
+
+        function checkSolution() {
+            if (state.clues.every(c => c !== null)) {
+                updateStatus("Bạn đã tìm đủ 3 từ khóa! Hãy thử mở cửa.");
+            }
+        }
+
+        function updateClock() {
+            dom.hourHand.style.transform = `translateX(-50%) rotate(${state.clockHour * 30}deg)`;
+            dom.minuteHand.style.transform = `translateX(-50%) rotate(${state.clockMinute * 30}deg)`;
+        }
+
+        function renderBooks() {
+            dom.bookShelf.innerHTML = '';
+            state.books.forEach((letter, index) => {
+                const bookEl = document.createElement('div');
+                bookEl.className = 'book interactive-object';
+                bookEl.textContent = letter;
+                bookEl.dataset.index = index;
+                bookEl.draggable = true;
+                dom.bookShelf.appendChild(bookEl);
+            });
+        }
+
+        function addUniversalListeners() {
+            dom.door.addEventListener('click', () => {
+                if (state.clues.every(c => c !== null)) {
+                    showModal(dom.doorPuzzle);
+                } else {
+                    updateStatus("Cánh cửa bị khóa. Bạn cần tìm đủ 3 từ khóa.", true);
+                }
+            });
+
+            document.getElementById('submit-door-code').addEventListener('click', () => {
+                const input = document.getElementById('door-code-input').value;
+                const correctCode = `${state.clues[0].length}${state.clues[1].length}${state.clues[2].length}`;
+                if (input === correctCode) {
+                    hideModals();
+                    setTimeout(() => showModal(dom.winModal), 500);
+                } else {
+                    updateStatus('Mật mã không đúng!', true);
+                    document.getElementById('door-code-input').value = '';
+                }
+            });
+
+            dom.modalContainer.addEventListener('click', (e) => {
+                if (e.target === dom.modalContainer) hideModals();
+            });
+
+            dom.pictureFrame.addEventListener('click', handlePictureFrameClick);
+            dom.clock.addEventListener('click', handleClockClick);
+            dom.plant.addEventListener('click', handlePlantClick);
+            dom.wateringCan.addEventListener('click', handleWateringCanClick);
+            dom.window.addEventListener('click', handleWindowClick);
+            dom.deskDrawer.addEventListener('click', handleDeskDrawerClick);
+            document.getElementById('submit-drawer').addEventListener('click', handleSubmitDrawer);
+            
+            let draggedIndex = null;
+            dom.bookShelf.addEventListener('dragstart', (e) => {
+                if (state.booksSolved) return;
+                draggedIndex = parseInt(e.target.dataset.index);
+            });
+            dom.bookShelf.addEventListener('dragover', (e) => e.preventDefault());
+            dom.bookShelf.addEventListener('drop', (e) => {
+                if (state.booksSolved || !currentLevel.keywords.books) return;
+                e.preventDefault();
+                const targetIndex = parseInt(e.target.dataset.index);
+                if (draggedIndex !== null && targetIndex !== undefined) {
+                    const temp = state.books[draggedIndex];
+                    state.books[draggedIndex] = state.books[targetIndex];
+                    state.books[targetIndex] = temp;
+                    renderBooks();
+                    
+                    const correctWord = currentLevel.keywords.books.toUpperCase();
+                    if (state.books.join('') === correctWord) {
+                        state.booksSolved = true;
+                        const clueIndex = Object.keys(currentLevel.keywords).indexOf('books');
+                        state.clues[clueIndex] = currentLevel.keywords.books;
+                        dom.inventorySlots[clueIndex].textContent = state.clues[clueIndex].toUpperCase();
+                        dom.inventorySlots[clueIndex].classList.add('filled');
+                        dom.bookShelf.style.border = '4px solid gold';
+                        updateStatus(`Các cuốn sách đã tạo thành từ: "${currentLevel.keywords.books}"!`);
+                        checkSolution();
+                    }
+                }
+            });
+        }
+
+        function handlePictureFrameClick() {
+            const levelIndex = levels.indexOf(currentLevel);
+            if (levelIndex === 0 || levelIndex === 2) {
+                if (state.noteFound) {
+                    updateStatus(levelIndex === 0 ? "Dãy số khắc trên khung tranh: 3-1-5-2-6-4." : "Gợi ý: thực vật, thời gian, và lòng trung thành.", true);
+                    return;
+                }
+                dom.hiddenNote.classList.remove('hidden');
+                state.noteFound = true;
+                updateStatus("Bạn tìm thấy một mảnh giấy ghi chú sau bức tranh!");
+                setTimeout(() => dom.hiddenNote.classList.add('hidden'), 3000);
+            }
+            if (levelIndex === 2) { 
+                 if(state.sequenceSolved) return;
+                 state.sequence.push('picture');
+                 updateStatus('Bạn chạm vào bức tranh... có cảm giác gì đó.');
+                 checkSequence();
+            }
+        }
+
+        function handleClockClick() {
+            const levelIndex = levels.indexOf(currentLevel);
+            if (levelIndex === 0) {
+                if (state.clockSolved) return;
+                if (!state.noteFound) {
+                    updateStatus("Một chiếc đồng hồ cũ. Nó đã ngừng chạy.", true);
+                    return;
+                }
+                state.clockHour = (state.clockHour % 12) + 1;
+                if (state.clockHour === 6) state.clockMinute = 0;
+                else state.clockMinute = Math.floor(Math.random() * 12);
+                updateClock();
+
+                if (state.clockHour === 6 && state.clockMinute === 0) {
+                    state.clockSolved = true;
+                    state.clues[0] = currentLevel.keywords.clock;
+                    dom.inventorySlots[0].textContent = state.clues[0].toUpperCase();
+                    dom.inventorySlots[0].classList.add('filled');
+                    updateStatus(`Đồng hồ mở ra, để lộ từ khóa: "${currentLevel.keywords.clock}"!`);
+                    checkSolution();
+                }
+            } else if (levelIndex === 2) {
+                 if(state.sequenceSolved) return;
+                 state.sequence.push('clock');
+                 updateStatus('Bạn chạm vào đồng hồ... có cảm giác gì đó.');
+                 checkSequence();
+            }
+        }
+        
+        function handlePlantClick() {
+             const levelIndex = levels.indexOf(currentLevel);
+             if(levelIndex === 0) {
+                if (state.plantSolved) return;
+                if (state.selectedItem === 'watering-can' && state.wateringCanFilled) {
+                    state.plantSolved = true;
+                    dom.plant.textContent = '🌷';
+                    state.clues[1] = currentLevel.keywords.plant;
+                    dom.inventorySlots[1].textContent = state.clues[1].toUpperCase();
+                    dom.inventorySlots[1].classList.add('filled');
+                    updateStatus(`Cây nở hoa! Trên bông hoa có ghi từ: "${currentLevel.keywords.plant}"!`);
+                    checkSolution();
+                } else {
+                    updateStatus("Cây trông có vẻ héo úa và khát nước.", true);
+                }
+                state.selectedItem = null;
+                if(dom.wateringCan) dom.wateringCan.classList.remove('item-selected');
+             } else if (levelIndex === 2) {
+                 if(state.sequenceSolved) return;
+                 state.sequence.push('plant');
+                 updateStatus('Bạn chạm vào cái cây... có cảm giác gì đó.');
+                 checkSequence();
+             }
+        }
+
+        function handleWateringCanClick() {
+            if (state.wateringCanFilled) {
+                updateStatus("Bình đã đầy nước mưa.", true);
+                return;
+            }
+            state.selectedItem = 'watering-can';
+            dom.wateringCan.classList.add('item-selected');
+            updateStatus("Bạn đã chọn bình tưới. Nó trống rỗng.");
+        }
+
+        function handleWindowClick() {
+            const levelIndex = levels.indexOf(currentLevel);
+            if (levelIndex === 0) {
+                if (state.selectedItem === 'watering-can' && !state.wateringCanFilled) {
+                    state.wateringCanFilled = true;
+                    dom.wateringCan.textContent = '💧';
+                    updateStatus("Bạn đã hứng đầy nước mưa vào bình!");
+                } else {
+                    updateStatus("Ngoài trời đang mưa.", true);
+                }
+                state.selectedItem = null;
+                if(dom.wateringCan) dom.wateringCan.classList.remove('item-selected');
+            } else if (levelIndex === 1) {
+                if(state.windowSolved) return;
+                state.windowClicks++;
+                if(state.windowClicks > 5) {
+                    state.windowSolved = true;
+                    state.clues[1] = currentLevel.keywords.window;
+                    dom.inventorySlots[1].textContent = state.clues[1].toUpperCase();
+                    dom.inventorySlots[1].classList.add('filled');
+                    updateStatus(`Khi bạn lau cửa sổ, một từ hiện ra: "${currentLevel.keywords.window}"!`);
+                    checkSolution();
+                } else {
+                    updateStatus("Cửa sổ hơi mờ, bạn lau nó...", true);
+                }
+            }
+        }
+
+        function handleDeskDrawerClick() {
+            if(state.drawerSolved) {
+                updateStatus("Ngăn kéo đã mở.", true);
+                return;
+            }
+            document.getElementById('drawer-riddle').textContent = currentLevel.drawerRiddle;
+            showModal(dom.drawerPuzzle);
+        }
+
+        function handleSubmitDrawer() {
+            const input = document.getElementById('drawer-input').value;
+            const correctCode = String(currentLevel.bookLetters.length);
+            if(input === correctCode) {
+                state.drawerSolved = true;
+                state.clues[0] = currentLevel.keywords.drawer;
+                dom.inventorySlots[0].textContent = state.clues[0].toUpperCase();
+                dom.inventorySlots[0].classList.add('filled');
+                dom.deskDrawer.textContent = '🔓';
+                updateStatus(`Bạn đã mở ngăn kéo! Bên trong là từ: "${currentLevel.keywords.drawer}"!`);
+                checkSolution();
+                hideModals();
+            } else {
+                updateStatus("Mật mã ngăn kéo không đúng!", true);
+            }
+        }
+        
+        function checkSequence() {
+            const levelIndex = levels.indexOf(currentLevel);
+            if(levelIndex !== 2) return;
+            
+            const correctSequence = currentLevel.sequence;
+            if(state.sequence.length === correctSequence.length) {
+                if(JSON.stringify(state.sequence) === JSON.stringify(correctSequence)) {
+                    state.sequenceSolved = true;
+                    state.clues[0] = currentLevel.keywords.picture;
+                    state.clues[1] = currentLevel.keywords.clock;
+                    state.clues[2] = currentLevel.keywords.plant;
+                    dom.inventorySlots[0].textContent = state.clues[0].toUpperCase();
+                    dom.inventorySlots[1].textContent = state.clues[1].toUpperCase();
+                    dom.inventorySlots[2].textContent = state.clues[2].toUpperCase();
+                    dom.inventorySlots[0].classList.add('filled');
+                    dom.inventorySlots[1].classList.add('filled');
+                    dom.inventorySlots[2].classList.add('filled');
+                    updateStatus("Một ánh sáng lóe lên! Bạn đã tìm ra cả 3 từ khóa cùng lúc!");
+                    checkSolution();
+                } else {
+                    updateStatus("Không có gì xảy ra... Sai thứ tự rồi.", true);
+                    state.sequence = [];
+                }
+            }
+        }
+
+        init();
+    </script>
+</body>
+</html>

@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reading Skills Game - My Friends</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+        .card {
+            background-color: rgba(255, 255, 255, 0.05);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+        .btn-action {
+            transition: all 0.3s ease;
+        }
+        .btn-action:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+        }
+        /* Animation for feedback */
+        @keyframes correct-pulse {
+            0% { transform: scale(1); }
+            50% { transform: scale(1.1); }
+            100% { transform: scale(1); }
+        }
+        .correct-animation {
+            animation: correct-pulse 0.5s ease-in-out;
+        }
+        @keyframes incorrect-shake {
+            0%, 100% { transform: translateX(0); }
+            25% { transform: translateX(-5px); }
+            75% { transform: translateX(5px); }
+        }
+        .incorrect-animation {
+            animation: incorrect-shake 0.3s ease-in-out;
+        }
+    </style>
+</head>
+<body class="bg-gradient-to-br from-slate-900 to-slate-800 text-white flex items-center justify-center min-h-screen p-4">
+
+    <div id="game-container" class="w-full max-w-3xl mx-auto">
+        
+        <!-- Start Screen -->
+        <div id="start-screen" class="card rounded-2xl p-8 text-center shadow-2xl">
+            <h1 class="text-4xl font-bold mb-2 text-indigo-400">Game Kỹ Năng Đọc</h1>
+            <p class="text-xl mb-6 text-slate-300">Chủ đề: My Friends</p>
+            <p class="mb-8 text-slate-400">Hãy đọc kỹ đoạn văn sau đây và trả lời các câu hỏi để kiểm tra khả năng đọc hiểu của bạn. Sẵn sàng chưa nào?</p>
+            <button id="start-btn" class="btn-action bg-indigo-600 hover:bg-indigo-500 text-white font-bold py-3 px-8 rounded-lg text-lg">
+                Bắt đầu
+            </button>
+        </div>
+
+        <!-- Reading Screen -->
+        <div id="reading-screen" class="hidden card rounded-2xl p-8 shadow-2xl">
+            <h2 class="text-3xl font-bold mb-4 text-indigo-400">Đọc đoạn văn</h2>
+            <div id="passage-container" class="text-left text-slate-300 bg-slate-800/50 p-6 rounded-lg max-h-80 overflow-y-auto">
+                <!-- Passage will be inserted here by JS -->
+            </div>
+            <button id="finished-reading-btn" class="mt-8 btn-action bg-green-600 hover:bg-green-500 text-white font-bold py-3 px-8 rounded-lg text-lg w-full">
+                Tôi đã đọc xong!
+            </button>
+        </div>
+
+        <!-- Game Screen -->
+        <div id="game-screen" class="hidden card rounded-2xl p-8 shadow-2xl">
+            <div id="game-passage-display" class="text-left text-sm text-slate-400 bg-slate-800/50 p-4 rounded-lg max-h-32 overflow-y-auto mb-4">
+                 <!-- Current passage for reference will be inserted here -->
+            </div>
+            <div class="flex justify-between items-center mb-6">
+                <div id="question-counter" class="text-lg font-semibold text-slate-400">Câu 1 / 6</div>
+                <div id="score-display" class="text-lg font-bold text-green-400">Điểm: 0</div>
+            </div>
+            <div class="bg-slate-800/50 rounded-lg p-6 min-h-[120px] flex items-center justify-center mb-6">
+                <canvas id="game-canvas" class="w-full h-full"></canvas>
+            </div>
+            <div id="answer-buttons" class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                <button data-answer="true" class="answer-btn btn-action bg-blue-600 hover:bg-blue-500 text-white font-bold py-4 px-6 rounded-lg text-xl">
+                    Đúng
+                </button>
+                <button data-answer="false" class="answer-btn btn-action bg-red-600 hover:bg-red-500 text-white font-bold py-4 px-6 rounded-lg text-xl">
+                    Sai
+                </button>
+            </div>
+        </div>
+
+        <!-- End Screen -->
+        <div id="end-screen" class="hidden card rounded-2xl p-8 text-center shadow-2xl">
+            <h2 class="text-4xl font-bold mb-4 text-indigo-400">Hoàn thành!</h2>
+            <p class="text-2xl mb-2 text-slate-300">Điểm số cuối cùng của bạn:</p>
+            <p id="final-score" class="text-6xl font-bold my-6 text-green-400">0 / 6</p>
+            <p id="feedback-message" class="text-lg mb-8 text-slate-400">Làm tốt lắm!</p>
+            <button id="restart-btn" class="btn-action bg-indigo-600 hover:bg-indigo-500 text-white font-bold py-3 px-8 rounded-lg text-lg">
+                Chơi lại
+            </button>
+        </div>
+    </div>
+
+    <script>
+        // DOM Elements
+        const startScreen = document.getElementById('start-screen');
+        const readingScreen = document.getElementById('reading-screen');
+        const gameScreen = document.getElementById('game-screen');
+        const endScreen = document.getElementById('end-screen');
+        const passageContainer = document.getElementById('passage-container');
+        const gamePassageDisplay = document.getElementById('game-passage-display');
+
+        const startBtn = document.getElementById('start-btn');
+        const finishedReadingBtn = document.getElementById('finished-reading-btn');
+        const restartBtn = document.getElementById('restart-btn');
+        const answerButtons = document.querySelectorAll('.answer-btn');
+
+        const questionCounter = document.getElementById('question-counter');
+        const scoreDisplay = document.getElementById('score-display');
+        const finalScore = document.getElementById('final-score');
+        const feedbackMessage = document.getElementById('feedback-message');
+        
+        const canvas = document.getElementById('game-canvas');
+        const ctx = canvas.getContext('2d');
+
+        // Game Data: Passages and Questions
+        const gameData = [
+            {
+                passageHTML: `
+                    <p>Hi, I'm Julie and my best friend is Hanna, we are always together. We are both thirteen years old and we are in the same class. When we have a break in school, we sometimes play skipping and sometimes we just sit and chat. Hanna lives on the same street as me, so we always walk home together and talk about our homework. When I am doing my homework and I don't understand a question, I often call Hanna for help and we do it together. After we finish our homework, we always chat on the computer before we go to bed.</p>
+                    <br>
+                    <p>At the weekends, we usually go to the mall, Hanna always wants to go shopping but I often like to do other things, like skating or going to the cinema. She often sleeps at my house on Saturdays. We watch a film together and we usually eat popcorn or sometimes we have a pizza. I don't have any brothers or sisters so Hanna is like my sister.</p>
+                `,
+                questions: [
+                    { statement: "Hanna và Julie là chị em họ.", answer: false },
+                    { statement: "Họ đi bộ từ trường về nhà.", answer: true },
+                    { statement: "Họ luôn nói chuyện trên điện thoại trước khi đi ngủ.", answer: false },
+                    { statement: "Hanna thích đi mua sắm nhưng Julie thì không.", answer: true },
+                    { statement: "Julie thường ngủ ở nhà Hanna vào thứ Bảy hàng tuần.", answer: false },
+                    { statement: "Julie là con một trong gia đình.", answer: true }
+                ]
+            },
+            {
+                passageHTML: `
+                    <p>My best friend Marion is twelve. She's from England but her father is Portuguese. They live in Liverpool, in the North-West of England. The weather there is foggy and wet most of the time.</p>
+                    <br>
+                    <p>Marion starts school at 9:00 am every day and finishes it at 4 o'clock. After school she plays volleyball and tennis. Marion loves sports. She spends her holidays in Portugal at her grandparents' house, which is opposite my house, and she loves swimming. So we always go swimming when the weather is hot and sunny. At home she doesn't mind making her bed in the morning, nor cooking the meals, but she doesn't like washing the dishes and neither do I. I love my best friend!</p>
+                `,
+                questions: [
+                    { statement: "Cha của Marion đến từ Bồ Đào Nha.", answer: true },
+                    { statement: "Thời tiết ở quê Marion chủ yếu là nóng và khô.", answer: false },
+                    { statement: "Marion đi bơi khi cô ấy đi nghỉ ở Bồ Đào Nha.", answer: true },
+                    { statement: "Tác giả và Marion là bạn cùng lớp.", answer: false },
+                    { statement: "Ở nhà, Marion không thích nấu ăn.", answer: false }
+                ]
+            },
+            {
+                passageHTML: `
+                    <p>My friends and I are planning a surprise party for our friend, Linh. Her birthday is next Saturday. Tuan is in charge of buying the cake. He is a very reliable person, so we know he will get a great one. Mai is very creative, so she is making the decorations. I am responsible for the music and games.</p>
+                    <br>
+                    <p>We are all meeting at my house on Saturday afternoon to prepare everything before Linh arrives at 6 PM. We are all very excited and hope she will be happy.</p>
+                `,
+                questions: [
+                    { statement: "Bữa tiệc sinh nhật của Linh là vào Chủ Nhật.", answer: false },
+                    { statement: "Mai chịu trách nhiệm mua bánh kem.", answer: false },
+                    { statement: "Mai là một người rất sáng tạo.", answer: true },
+                    { statement: "Họ sẽ chuẩn bị bữa tiệc ở nhà của Linh.", answer: false },
+                    { statement: "Linh sẽ đến bữa tiệc vào lúc 6 giờ tối.", answer: true }
+                ]
+            }
+        ];
+
+        // Game State
+        let currentQuestionIndex = 0;
+        let score = 0;
+        let answerCooldown = false;
+        let currentQuestions = [];
+        let currentPassageHTML = '';
+
+        // Canvas setup
+        function resizeCanvas() {
+            const container = canvas.parentElement;
+            canvas.width = container.clientWidth;
+            canvas.height = container.clientHeight;
+            if(gameScreen.style.display !== 'none' && currentQuestionIndex < currentQuestions.length) {
+                drawQuestion();
+            }
+        }
+        
+        window.addEventListener('resize', resizeCanvas);
+
+        // Function to wrap text on canvas
+        function wrapText(context, text, x, y, maxWidth, lineHeight) {
+            let words = text.split(' ');
+            let line = '';
+            const lines = [];
+
+            for (let n = 0; n < words.length; n++) {
+                let testLine = line + words[n] + ' ';
+                let metrics = context.measureText(testLine);
+                if (metrics.width > maxWidth && n > 0) {
+                    lines.push(line);
+                    line = words[n] + ' ';
+                } else {
+                    line = testLine;
+                }
+            }
+            lines.push(line);
+            
+            const totalHeight = lines.length * lineHeight;
+            let startY = y - totalHeight / 2 + lineHeight / 2;
+
+            lines.forEach((line, index) => {
+                 context.fillText(line.trim(), x, startY + index * lineHeight);
+            });
+        }
+
+        // Game Flow
+        function showScreen(screen) {
+            startScreen.classList.add('hidden');
+            readingScreen.classList.add('hidden');
+            gameScreen.classList.add('hidden');
+            endScreen.classList.add('hidden');
+            screen.classList.remove('hidden');
+        }
+
+        function startGame() {
+            currentQuestionIndex = 0;
+            score = 0;
+
+            // Randomly select a passage and its questions
+            const randomIndex = Math.floor(Math.random() * gameData.length);
+            const selectedGame = gameData[randomIndex];
+            currentQuestions = selectedGame.questions;
+            currentPassageHTML = selectedGame.passageHTML;
+
+            // Display the passage
+            passageContainer.innerHTML = currentPassageHTML;
+            gamePassageDisplay.innerHTML = currentPassageHTML;
+            
+            showScreen(readingScreen);
+        }
+
+        function startQuiz() {
+            showScreen(gameScreen);
+            updateHUD();
+            // Timeout to ensure canvas is visible before drawing
+            setTimeout(() => {
+                resizeCanvas();
+            }, 10);
+        }
+
+        function drawQuestion() {
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+            ctx.fillStyle = '#cbd5e1'; // slate-300
+            ctx.font = 'bold 20px Inter';
+            ctx.textAlign = 'center';
+            ctx.textBaseline = 'middle';
+            wrapText(ctx, currentQuestions[currentQuestionIndex].statement, canvas.width / 2, canvas.height / 2, canvas.width - 20, 28);
+        }
+
+        function drawFeedback(isCorrect) {
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+            ctx.font = 'bold 80px Inter';
+            ctx.textAlign = 'center';
+            ctx.textBaseline = 'middle';
+
+            if (isCorrect) {
+                ctx.fillStyle = '#4ade80'; // green-400
+                ctx.fillText('✔', canvas.width / 2, canvas.height / 2);
+                document.getElementById('game-screen').classList.add('correct-animation');
+            } else {
+                ctx.fillStyle = '#f87171'; // red-400
+                ctx.fillText('✖', canvas.width / 2, canvas.height / 2);
+                document.getElementById('game-screen').classList.add('incorrect-animation');
+            }
+            
+            setTimeout(() => {
+                document.getElementById('game-screen').classList.remove('correct-animation', 'incorrect-animation');
+            }, 500);
+        }
+
+        function handleAnswer(e) {
+            if (answerCooldown) return;
+
+            const selectedAnswer = e.target.dataset.answer === 'true';
+            const correctAnswer = currentQuestions[currentQuestionIndex].answer;
+
+            if (selectedAnswer === correctAnswer) {
+                score++;
+                drawFeedback(true);
+            } else {
+                drawFeedback(false);
+            }
+            
+            answerCooldown = true;
+
+            setTimeout(() => {
+                currentQuestionIndex++;
+                if (currentQuestionIndex < currentQuestions.length) {
+                    updateHUD();
+                    drawQuestion();
+                    answerCooldown = false;
+                } else {
+                    endGame();
+                }
+            }, 1200); // Wait 1.2 second before next question
+        }
+
+        function updateHUD() {
+            scoreDisplay.textContent = `Điểm: ${score}`;
+            questionCounter.textContent = `Câu ${currentQuestionIndex + 1} / ${currentQuestions.length}`;
+        }
+
+        function endGame() {
+            showScreen(endScreen);
+            finalScore.textContent = `${score} / ${currentQuestions.length}`;
+            
+            let percentage = (score / currentQuestions.length) * 100;
+            if (percentage === 100) {
+                feedbackMessage.textContent = "Tuyệt vời! Bạn đã trả lời đúng tất cả các câu hỏi!";
+            } else if (percentage >= 75) {
+                feedbackMessage.textContent = "Rất tốt! Bạn có kỹ năng đọc hiểu ấn tượng.";
+            } else if (percentage >= 50) {
+                feedbackMessage.textContent = "Khá lắm! Hãy cố gắng thêm một chút nữa nhé.";
+            } else {
+                feedbackMessage.textContent = "Đừng nản lòng! Hãy đọc lại và thử một lần nữa để cải thiện điểm số.";
+            }
+        }
+
+        // Event Listeners
+        startBtn.addEventListener('click', startGame);
+        finishedReadingBtn.addEventListener('click', startQuiz);
+        restartBtn.addEventListener('click', startGame);
+        answerButtons.forEach(button => {
+            button.addEventListener('click', handleAnswer);
+        });
+
+        // Initial state
+        showScreen(startScreen);
+    </script>
+</body>
+</html>
+
