@@ -1,0 +1,518 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Game: Vocabulary Asteroids - The Campaign</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Orbitron', sans-serif;
+            background-color: #000;
+            overflow: hidden;
+        }
+        #game-canvas {
+            background-color: #000;
+            background-image: 
+                radial-gradient(white, rgba(255,255,255,.2) 2px, transparent 40px),
+                radial-gradient(white, rgba(255,255,255,.15) 1px, transparent 30px);
+            background-size: 550px 550px, 350px 350px;
+            background-position: 0 0, 40px 60px;
+        }
+        .hud-element {
+            text-shadow: 0 0 5px #0ff, 0 0 10px #0ff;
+        }
+        @keyframes shake {
+            0%, 100% { transform: translate(0, 0); }
+            25% { transform: translate(5px, 5px); }
+            50% { transform: translate(-5px, -5px); }
+            75% { transform: translate(-5px, 5px); }
+        }
+        .shake {
+            animation: shake 0.2s linear;
+        }
+        .modal {
+            background-color: rgba(0, 20, 30, 0.85);
+            backdrop-filter: blur(5px);
+            border: 2px solid #0ff;
+        }
+    </style>
+</head>
+<body class="flex items-center justify-center min-h-screen">
+
+    <div id="game-container" class="relative w-full h-screen">
+        <canvas id="game-canvas"></canvas>
+
+        <div id="start-screen" class="absolute inset-0 bg-black bg-opacity-70 flex flex-col items-center justify-center text-center p-4 z-20">
+            <h1 class="text-6xl font-bold text-cyan-300 hud-element mb-4">ASTEROIDS CAMPAIGN</h1>
+            <p class="text-white text-lg mb-8 max-w-2xl">Chinh phục các cấp độ bằng cách phá hủy thiên thạch. Độ khó sẽ tăng dần. Bạn sẵn sàng chưa?</p>
+            <button id="start-btn" class="bg-cyan-400 text-black py-3 px-12 rounded-sm shadow-lg text-2xl font-bold border-2 border-cyan-200 hover:bg-white hover:text-cyan-500 transition-all duration-300">BẮT ĐẦU CHIẾN DỊCH</button>
+        </div>
+        
+        <div id="game-hud" class="absolute top-0 left-0 right-0 p-4 text-cyan-300 hidden z-10">
+            <div class="flex justify-between items-center max-w-7xl mx-auto text-2xl">
+                <div>ĐIỂM: <span id="score">0</span></div>
+                <div>CẤP: <span id="level">1</span></div>
+                <div>MỤC TIÊU: <span id="targets-left">10</span></div>
+                <div>MẠNG: <span id="lives">❤️❤️❤️</span></div>
+            </div>
+            <div id="boss-health-bar-container" class="max-w-md mx-auto mt-4 h-6 border-2 border-red-500 rounded-sm p-1 hidden">
+                 <div id="boss-health-bar" class="h-full bg-red-500 transition-all duration-300"></div>
+            </div>
+        </div>
+
+        <div id="gameplay-ui" class="absolute bottom-0 left-0 right-0 p-4 text-center hidden z-10">
+             <div class="max-w-3xl mx-auto">
+                 <div id="definition-box" class="bg-black bg-opacity-50 border-2 border-cyan-400 p-4 rounded-md mb-4">
+                    <p id="definition-text" class="text-white text-xl min-h-[56px] flex items-center justify-center"></p>
+                </div>
+                <input type="text" id="answer-input" class="w-full bg-gray-900 border-2 border-cyan-400 text-cyan-300 text-2xl text-center p-3 rounded-sm focus:outline-none focus:bg-gray-800 focus:border-white tracking-widest" placeholder="GÕ ĐÁP ÁN..." autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false">
+             </div>
+        </div>
+        
+        <div id="level-complete-screen" class="modal absolute inset-0 flex-col items-center justify-center text-center p-4 hidden z-20">
+            <h2 class="text-5xl font-bold text-green-400 hud-element mb-4" style="text-shadow: 0 0 5px #0f0, 0 0 10px #0f0;">HOÀN THÀNH CẤP ĐỘ</h2>
+            <p class="text-white text-2xl mb-8">Điểm thưởng: <span id="level-bonus">0</span></p>
+            <button id="next-level-btn" class="bg-green-500 text-black py-3 px-12 rounded-sm shadow-lg text-2xl font-bold border-2 border-green-200 hover:bg-white hover:text-green-500 transition-all duration-300">CẤP TIẾP THEO</button>
+        </div>
+        
+        <div id="end-screen" class="modal absolute inset-0 flex-col items-center justify-center text-center p-4 hidden z-20">
+            <h2 class="text-5xl font-bold text-red-500 hud-element mb-4" style="text-shadow: 0 0 5px #f00, 0 0 10px #f00;">GAME OVER</h2>
+            <p class="text-white text-2xl mb-2">ĐIỂM CUỐI CÙNG</p>
+            <p id="final-score" class="text-7xl font-bold text-cyan-300 hud-element mb-8">0</p>
+            <button id="restart-btn" class="bg-cyan-400 text-black py-3 px-12 rounded-sm shadow-lg text-2xl font-bold border-2 border-cyan-200 hover:bg-white hover:text-cyan-500 transition-all duration-300">CHƠI LẠI</button>
+        </div>
+        
+        <div id="pause-screen" class="modal absolute inset-0 flex-col items-center justify-center text-center p-4 hidden z-20">
+            <h2 class="text-5xl font-bold text-yellow-400 hud-element mb-4" style="text-shadow: 0 0 5px #ff0, 0 0 10px #ff0;">TẠM DỪNG</h2>
+            <p class="text-white text-xl mb-8">Nhấn ESC để tiếp tục</p>
+            <p class="text-cyan-300 text-lg">Phím tắt: ESC = Tạm dừng/Tiếp tục</p>
+        </div>
+    </div>
+
+    <script>
+        // --- GAME CONFIG ---
+        const vocabulary = [ { word: "art gallery", definition: "phòng trưng bày các tác phẩm nghệ thuật" }, { word: "backyard", definition: "sân phía sau nhà" }, { word: "cathedral", definition: "nhà thờ lớn, thánh đường" }, { word: "convenient", definition: "thuận tiện, tiện lợi" }, { word: "crowded", definition: "đông đúc" }, { word: "dislike", definition: "không thích, không ưa, ghét" }, { word: "exciting", definition: "thú vị, lí thú, hứng thú" }, { word: "fantastic", definition: "tuyệt vời" }, { word: "historic", definition: "cổ, cổ kính" }, { word: "inconvenient", definition: "bất tiện, phiền phức" }, { word: "incredibly", definition: "đáng kinh ngạc" }, { word: "memorial", definition: "đài tưởng niệm" }, { word: "modern", definition: "hiện đại" }, { word: "pagoda", definition: "ngôi chùa" }, { word: "palace", definition: "cung điện, dinh, phủ" }, { word: "peaceful", definition: "yên tĩnh, bình lặng" }, { word: "polluted", definition: "ô nhiễm" }, { word: "quiet", definition: "yên lặng, yên tĩnh" }, { word: "railway station", definition: "ga tàu hỏa" }, { word: "square", definition: "quảng trường" }, { word: "statue", definition: "bức tượng" }, { word: "suburb", definition: "khu vực ngoại ô" }, { word: "temple", definition: "đền, điện, miếu" }, { word: "terrible", definition: "tồi tệ" }, { word: "workshop", definition: "phân xưởng" }];
+        
+        const levelConfig = [
+            { level: 1, targets: 5, speedMin: 0.2, speedMax: 0.4, maxOnScreen: 4 }, // Cấp 1
+            { level: 2, targets: 5, speedMin: 0.3, speedMax: 0.5, maxOnScreen: 5 }, // Cấp 2
+            { level: 3, targets: 8, speedMin: 0.4, speedMax: 0.7, maxOnScreen: 6 }, // Cấp 3
+            { level: 4, targets: 8, speedMin: 0.5, speedMax: 0.8, maxOnScreen: 7 }, // Cấp 4
+            { level: 5, targets: 1, speedMin: 0.3, speedMax: 0.3, maxOnScreen: 1, isBossLevel: true, bossWords: 3 }, // Trùm Cấp 5
+        ];
+
+        // --- GAME ELEMENTS ---
+        const canvas = document.getElementById('game-canvas'); const ctx = canvas.getContext('2d');
+        const startScreen = document.getElementById('start-screen'), endScreen = document.getElementById('end-screen'), levelCompleteScreen = document.getElementById('level-complete-screen'), gameHud = document.getElementById('game-hud'), gameplayUi = document.getElementById('gameplay-ui'), pauseScreen = document.getElementById('pause-screen');
+        const startBtn = document.getElementById('start-btn'), restartBtn = document.getElementById('restart-btn'), nextLevelBtn = document.getElementById('next-level-btn');
+        const scoreEl = document.getElementById('score'), livesEl = document.getElementById('lives'), levelEl = document.getElementById('level'), targetsLeftEl = document.getElementById('targets-left'), finalScoreEl = document.getElementById('final-score'), levelBonusEl = document.getElementById('level-bonus');
+        const definitionText = document.getElementById('definition-text'), answerInput = document.getElementById('answer-input');
+        const bossHealthContainer = document.getElementById('boss-health-bar-container'), bossHealthBar = document.getElementById('boss-health-bar');
+        
+        // --- GAME STATE ---
+        let player, asteroids, lasers, particles, boss;
+        let score, lives, currentLevel, targetsLeft, gameIsOver, isPaused;
+        let currentTargetWord;
+
+        function resizeCanvas() { canvas.width = window.innerWidth; canvas.height = window.innerHeight; }
+        window.addEventListener('resize', resizeCanvas);
+
+        // --- CLASSES ---
+        class Player { /* ... (Giống phiên bản trước) */ 
+             constructor() { this.x = canvas.width / 2; this.y = canvas.height - 150; this.size = 20; }
+            draw() { ctx.beginPath(); ctx.moveTo(this.x, this.y - this.size); ctx.lineTo(this.x - this.size, this.y + this.size); ctx.lineTo(this.x + this.size, this.y + this.size); ctx.closePath(); ctx.strokeStyle = '#0ff'; ctx.fillStyle = '#051818'; ctx.lineWidth = 2; ctx.fill(); ctx.stroke(); }
+        }
+        class Asteroid { /* ... (Thêm tham số tốc độ và nhiều hướng) */
+            constructor(word, speedMin, speedMax) { 
+                this.word = word; 
+                this.radius = Math.max(25, 15 + word.length * 4); // Tăng kích thước tối thiểu và hệ số
+                this.speed = Math.random() * (speedMax - speedMin) + speedMin; 
+                this.isTarget = false;
+                this.spawnTime = Date.now();
+                
+                // Sinh từ 4 hướng khác nhau
+                const side = Math.floor(Math.random() * 4);
+                switch(side) {
+                    case 0: // Từ trái
+                        this.x = 0 - this.radius;
+                        this.y = Math.random() * canvas.height;
+                        this.angle = Math.atan2(canvas.height / 2 - this.y, canvas.width / 2 - this.x);
+                        break;
+                    case 1: // Từ phải
+                        this.x = canvas.width + this.radius;
+                        this.y = Math.random() * canvas.height;
+                        this.angle = Math.atan2(canvas.height / 2 - this.y, canvas.width / 2 - this.x);
+                        break;
+                    case 2: // Từ trên
+                        this.x = Math.random() * canvas.width;
+                        this.y = 0 - this.radius;
+                        this.angle = Math.atan2(canvas.height / 2 - this.y, canvas.width / 2 - this.x);
+                        break;
+                    case 3: // Từ dưới
+                        this.x = Math.random() * canvas.width;
+                        this.y = canvas.height + this.radius;
+                        this.angle = Math.atan2(canvas.height / 2 - this.y, canvas.width / 2 - this.x);
+                        break;
+                }
+            }
+            
+            update() { 
+                this.x += Math.cos(this.angle) * this.speed; 
+                this.y += Math.sin(this.angle) * this.speed; 
+            }
+            
+            // Tính khoảng cách còn lại đến điểm đích (trung tâm màn hình)
+            getDistanceToCenter() {
+                const centerX = canvas.width / 2;
+                const centerY = canvas.height / 2;
+                return Math.hypot(this.x - centerX, this.y - centerY);
+            }
+            
+            // Tính thời gian còn lại để đến trung tâm (giây)
+            getTimeToCenter() {
+                const distance = this.getDistanceToCenter();
+                const pixelsPerSecond = this.speed * 60; // Assuming 60 FPS
+                return distance / pixelsPerSecond;
+            }
+            
+            // Kiểm tra xem có đủ thời gian để làm target không (tối thiểu 3 giây)
+            hasEnoughTimeToBeTarget() {
+                return this.getTimeToCenter() >= 3.0;
+            }
+            
+            // Kiểm tra va chạm với player
+            collidesWithPlayer(player) {
+                const distance = Math.hypot(this.x - player.x, this.y - player.y);
+                return distance < (this.radius + player.size);
+            }
+            
+            draw() { 
+                ctx.beginPath(); 
+                ctx.arc(this.x, this.y, this.radius, 0, Math.PI * 2); 
+                ctx.strokeStyle = this.isTarget ? '#ff0' : '#0ff'; 
+                ctx.lineWidth = 2; 
+                ctx.stroke(); 
+                ctx.fillStyle = this.isTarget ? '#ff0' : '#0ff'; 
+                ctx.font = '16px Orbitron'; 
+                ctx.textAlign = 'center'; 
+                ctx.textBaseline = 'middle'; 
+                ctx.fillText(this.word, this.x, this.y); 
+            }
+        }
+        class Boss extends Asteroid {
+            constructor(wordCount) {
+                super("BOSS", 1, 1);
+                this.radius = 100;
+                this.x = canvas.width / 2;
+                this.y = -this.radius;
+                this.angle = Math.PI / 2;
+                this.wordsToDefeat = [];
+                this.maxHealth = wordCount;
+                this.currentHealth = wordCount;
+                this.isTarget = true;
+
+                const shuffled = vocabulary.sort(() => 0.5 - Math.random());
+                for(let i=0; i<wordCount; i++) { this.wordsToDefeat.push(shuffled[i]); }
+            }
+            update() {
+                if (this.y < 150) {
+                     this.y += Math.sin(this.angle) * this.speed;
+                }
+            }
+             draw() { ctx.beginPath(); ctx.arc(this.x, this.y, this.radius, 0, Math.PI * 2); ctx.strokeStyle = '#f00'; ctx.lineWidth = 4; ctx.stroke(); ctx.fillStyle = '#f00'; ctx.font = '30px Orbitron'; ctx.textAlign = 'center'; ctx.textBaseline = 'middle'; ctx.fillText("TRÙM", this.x, this.y); }
+        }
+        class Laser { /* ... (Giống phiên bản trước) */
+             constructor(target) { this.x = player.x; this.y = player.y; this.target = target; this.speed = 15; this.angle = Math.atan2(target.y - this.y, target.x - this.x); }
+             update() { this.x += Math.cos(this.angle) * this.speed; this.y += Math.sin(this.angle) * this.speed; }
+             draw() { ctx.beginPath(); ctx.moveTo(this.x, this.y); ctx.lineTo(this.x + Math.cos(this.angle) * 20, this.y + Math.sin(this.angle) * 20); ctx.strokeStyle = '#f00'; ctx.lineWidth = 3; ctx.stroke(); }
+        }
+        class Particle { /* ... (Giống phiên bản trước) */
+            constructor(x, y, color) { this.x = x; this.y = y; this.color = color; this.radius = Math.random() * 2 + 1; this.velocity = { x: (Math.random() - 0.5) * 5, y: (Math.random() - 0.5) * 5 }; this.alpha = 1; this.friction = 0.98; }
+            update() { this.x += this.velocity.x; this.y += this.velocity.y; this.velocity.x *= this.friction; this.velocity.y *= this.friction; this.alpha -= 0.02; }
+            draw() { ctx.save(); ctx.globalAlpha = this.alpha; ctx.beginPath(); ctx.arc(this.x, this.y, this.radius, 0, Math.PI * 2); ctx.fillStyle = this.color; ctx.fill(); ctx.restore(); }
+        }
+
+        // --- GAME LOGIC ---
+        function startGame() {
+            score = 0; lives = 3; currentLevel = 0;
+            startScreen.classList.add('hidden');
+            loadLevel();
+        }
+
+        function loadLevel() {
+            const config = levelConfig[currentLevel];
+            gameIsOver = false; isPaused = false;
+            player = new Player(); asteroids = []; lasers = []; particles = []; boss = null;
+            currentTargetWord = null;
+            targetsLeft = config.targets;
+            
+            levelEl.textContent = config.level;
+            scoreEl.textContent = score;
+            livesEl.innerHTML = '❤️'.repeat(lives);
+            targetsLeftEl.textContent = targetsLeft;
+            bossHealthContainer.classList.add('hidden');
+
+            levelCompleteScreen.classList.add('hidden');
+            endScreen.classList.add('hidden');
+            gameHud.classList.remove('hidden');
+            gameplayUi.classList.remove('hidden');
+            answerInput.value = '';
+            answerInput.focus();
+            
+            if (config.isBossLevel) {
+                boss = new Boss(config.bossWords);
+                bossHealthContainer.classList.remove('hidden');
+                updateBossHealth();
+                selectNextTarget();
+            } else {
+                spawnAsteroids();
+                selectNextTarget();
+            }
+            
+            animate();
+        }
+
+        function spawnAsteroids() {
+            const config = levelConfig[currentLevel];
+            if (asteroids.length >= config.maxOnScreen) return;
+
+            const availableWords = vocabulary.filter(v => !asteroids.some(a => a.word === v.word) && v.word !== currentTargetWord?.word);
+            const word = availableWords[Math.floor(Math.random() * availableWords.length)];
+            if(word) {
+                asteroids.push(new Asteroid(word.word, config.speedMin, config.speedMax));
+            }
+        }
+
+        function selectNextTarget() {
+            if (boss) {
+                if (boss.wordsToDefeat.length > 0) {
+                    currentTargetWord = boss.wordsToDefeat[0];
+                    definitionText.textContent = currentTargetWord.definition;
+                } else {
+                    // Boss defeated logic handled in hit detection
+                }
+                return;
+            }
+            
+            // Chỉ chọn những asteroid chưa là target và có đủ thời gian
+            const eligibleAsteroids = asteroids.filter(a => !a.isTarget && a.hasEnoughTimeToBeTarget());
+            
+            if (eligibleAsteroids.length === 0) { 
+                // Nếu không có asteroid nào đủ điều kiện, spawn thêm
+                spawnAsteroids(); 
+                return; 
+            }
+
+            const newTarget = eligibleAsteroids[Math.floor(Math.random() * eligibleAsteroids.length)];
+            newTarget.isTarget = true;
+            currentTargetWord = vocabulary.find(v => v.word === newTarget.word);
+            definitionText.textContent = currentTargetWord.definition;
+        }
+        
+        function handleHit(target) {
+            createExplosion(target);
+            if (boss) {
+                boss.currentHealth--;
+                boss.wordsToDefeat.shift();
+                updateBossHealth();
+                if (boss.currentHealth <= 0) {
+                    targetsLeft = 0; // Boss defeated
+                }
+            } else {
+                const asteroidIndex = asteroids.indexOf(target);
+                asteroids.splice(asteroidIndex, 1);
+                targetsLeft--;
+            }
+            
+            score += 100;
+            scoreEl.textContent = score;
+            targetsLeftEl.textContent = targetsLeft;
+            
+            if (targetsLeft <= 0) {
+                levelComplete();
+            } else {
+                selectNextTarget();
+            }
+        }
+        
+        function updateBossHealth() {
+            const healthPercent = (boss.currentHealth / boss.maxHealth) * 100;
+            bossHealthBar.style.width = `${healthPercent}%`;
+        }
+
+        function handleAnswerSubmit(e) {
+            if (e.key === 'Enter' && !isPaused && !gameIsOver) {
+                const userAnswer = answerInput.value.trim().toLowerCase();
+                const targetObject = boss || asteroids.find(a => a.isTarget);
+                
+                if (targetObject && userAnswer === currentTargetWord.word.toLowerCase()) {
+                    lasers.push(new Laser(targetObject));
+                    answerInput.value = '';
+                } else {
+                    answerInput.classList.add('shake');
+                    setTimeout(() => {
+                        answerInput.classList.remove('shake');
+                        answerInput.value = '';
+                    }, 200);
+                }
+            }
+        }
+        
+        function togglePause() {
+            if (gameIsOver || startScreen.classList.contains('hidden') === false) return;
+            
+            isPaused = !isPaused;
+            if (isPaused) {
+                pauseScreen.classList.remove('hidden');
+                gameHud.classList.add('hidden');
+                gameplayUi.classList.add('hidden');
+            } else {
+                pauseScreen.classList.add('hidden');
+                gameHud.classList.remove('hidden');
+                gameplayUi.classList.remove('hidden');
+                answerInput.focus();
+            }
+        }
+        
+        function handleKeyPress(e) {
+            if (e.code === 'Escape') {
+                e.preventDefault();
+                togglePause();
+            }
+        }
+
+        function levelComplete() {
+            isPaused = true;
+            const bonus = lives * 50;
+            score += bonus;
+            scoreEl.textContent = score;
+            levelBonusEl.textContent = bonus;
+            gameHud.classList.add('hidden');
+            gameplayUi.classList.add('hidden');
+
+            if (currentLevel >= levelConfig.length - 1) {
+                // Game Won
+                finalScoreEl.textContent = score;
+                endScreen.querySelector('h2').textContent = "CHIẾN THẮNG!";
+                endScreen.querySelector('h2').style.color = '#4ade80'; // green-400
+                endScreen.classList.remove('hidden');
+            } else {
+                levelCompleteScreen.classList.remove('hidden');
+            }
+        }
+
+        function animate() {
+            if (gameIsOver) return;
+            requestAnimationFrame(animate);
+            if (isPaused) return;
+
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+            player.draw();
+            if (boss) { boss.update(); boss.draw(); }
+
+            // Particles, Lasers, Asteroids updates (Logic mostly same as before, with checks for boss)
+            particles.forEach((p, i) => { if (p.alpha <= 0) particles.splice(i, 1); else { p.update(); p.draw(); } });
+            
+            lasers.forEach((laser, i) => {
+                laser.update(); laser.draw();
+                const dist = Math.hypot(laser.x - laser.target.x, laser.y - laser.target.y);
+                if (dist < laser.target.radius) {
+                    handleHit(laser.target);
+                    lasers.splice(i, 1);
+                } else if (laser.x < 0 || laser.x > canvas.width || laser.y < 0 || laser.y > canvas.height) {
+                    lasers.splice(i, 1);
+                }
+            });
+
+            asteroids.forEach((asteroid, i) => {
+                asteroid.update(); asteroid.draw();
+                
+                // Kiểm tra va chạm với player
+                if (asteroid.collidesWithPlayer(player)) {
+                    lives--; 
+                    livesEl.innerHTML = '❤️'.repeat(Math.max(0, lives));
+                    document.getElementById('game-container').classList.add('shake');
+                    setTimeout(() => document.getElementById('game-container').classList.remove('shake'), 200);
+                    
+                    // Tạo hiệu ứng nổ
+                    createExplosion(asteroid);
+                    asteroids.splice(i, 1);
+                    
+                    if (lives <= 0) { 
+                        gameOver(); 
+                    } else if (asteroid.isTarget) {
+                        selectNextTarget(); 
+                    }
+                    return;
+                }
+                
+                // Kiểm tra nếu asteroid đã ra khỏi màn hình
+                if (asteroid.x + asteroid.radius < 0 || asteroid.x - asteroid.radius > canvas.width || 
+                    asteroid.y + asteroid.radius < 0 || asteroid.y - asteroid.radius > canvas.height) {
+                    
+                    if (asteroid.isTarget) {
+                        // Mất mạng nếu target thoát khỏi màn hình mà chưa bắn
+                        lives--; 
+                        livesEl.innerHTML = '❤️'.repeat(Math.max(0, lives));
+                        document.getElementById('game-container').classList.add('shake');
+                        setTimeout(() => document.getElementById('game-container').classList.remove('shake'), 200);
+                        if (lives <= 0) { 
+                            gameOver(); 
+                        } else { 
+                            asteroids.splice(i, 1); 
+                            selectNextTarget(); 
+                        }
+                    } else {
+                        // Chỉ xóa asteroid thường
+                        asteroids.splice(i, 1);
+                    }
+                }
+                // Kiểm tra nếu asteroid không còn đủ thời gian để làm target và đang là target
+                else if (asteroid.isTarget && !asteroid.hasEnoughTimeToBeTarget()) {
+                    // Chuyển target sang asteroid khác có đủ thời gian
+                    asteroid.isTarget = false;
+                    selectNextTarget();
+                }
+                // Tự động loại bỏ asteroid thường nếu quá gần trung tâm (tránh tắc nghẽn)
+                else if (!asteroid.isTarget && asteroid.getDistanceToCenter() < 80) {
+                    asteroids.splice(i, 1);
+                }
+            });
+
+            // Spawn new asteroids if needed (not on boss level)
+            if (!boss && Math.random() < 0.02) {
+                spawnAsteroids();
+            }
+        }
+        
+        function gameOver() {
+            // If level was just completed, don't trigger game over.
+            if (isPaused) return;
+
+            gameIsOver = true;
+            gameHud.classList.add('hidden');
+            gameplayUi.classList.add('hidden');
+            finalScoreEl.textContent = score;
+            endScreen.querySelector('h2').textContent = "GAME OVER";
+            endScreen.querySelector('h2').style.color = '#ef4444'; // red-500
+            endScreen.classList.remove('hidden');
+        }
+
+        // --- EVENT LISTENERS ---
+        startBtn.addEventListener('click', startGame);
+        restartBtn.addEventListener('click', startGame);
+        nextLevelBtn.addEventListener('click', () => {
+            currentLevel++;
+            loadLevel();
+        });
+        answerInput.addEventListener('keydown', handleAnswerSubmit);
+        document.addEventListener('keydown', handleKeyPress);
+
+        // --- INITIALIZATION ---
+        resizeCanvas();
+        function createExplosion(obj) { for (let i = 0; i < 30; i++) { particles.push(new Particle(obj.x, obj.y, obj.isTarget ? (boss ? '#f00' : '#ff0') : '#0ff')); } }
+    </script>
+</body>
+</html>
