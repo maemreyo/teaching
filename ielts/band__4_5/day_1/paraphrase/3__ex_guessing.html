@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thực Hành Đoán Nghĩa Từ Mới (Scalable)</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Be Vietnam Pro', sans-serif;
+        }
+        .highlight-base {
+            text-decoration: underline;
+            text-decoration-thickness: 2px;
+            text-underline-offset: 4px;
+            font-weight: 700;
+        }
+        .highlight-word {
+            color: #1e3a8a; /* blue-900 */
+            text-decoration-color: #ef4444; /* red-500 */
+        }
+        .clue {
+            transition: background-color 0.3s ease-in-out;
+            padding: 0 2px;
+            border-radius: 3px;
+        }
+        .highlight-topic {
+            background-color: #dbeafe; /* blue-100 */
+            color: #1e40af; /* blue-800 */
+        }
+        .highlight-context {
+            background-color: #d1fae5; /* green-100 */
+            color: #065f46; /* green-800 */
+        }
+        .step {
+            opacity: 0;
+            transform: translateY(10px);
+            transition: opacity 0.5s ease, transform 0.5s ease;
+            display: none;
+        }
+        .step.visible {
+            opacity: 1;
+            transform: translateY(0);
+            display: block;
+        }
+        .btn {
+            padding: 0.5rem 1rem;
+            border-radius: 0.375rem;
+            font-weight: 600;
+            transition: all 0.2s;
+            border: 1px solid transparent;
+        }
+        .btn-blue { background-color: #3b82f6; color: white; }
+        .btn-blue:hover:not(:disabled) { background-color: #2563eb; }
+        .btn-green { background-color: #10b981; color: white; }
+        .btn-green:hover:not(:disabled) { background-color: #059669; }
+        .btn-indigo { background-color: #6366f1; color: white; }
+        .btn-indigo:hover:not(:disabled) { background-color: #4f46e5; }
+        .btn-gray { background-color: #6b7280; color: white; }
+        .btn-gray:hover:not(:disabled) { background-color: #4b5563; }
+        .btn:disabled { background-color: #d1d5db; cursor: not-allowed; }
+    </style>
+</head>
+<body class="bg-slate-50 text-slate-800">
+
+    <div class="container mx-auto p-4 sm:p-6 lg:p-12">
+        <header class="text-center mb-12">
+            <h1 class="text-3xl md:text-5xl font-bold text-slate-900 mb-2">Đừng Sợ Từ Mới - Hãy Tìm Manh Mối!</h1>
+            <p class="text-lg md:text-xl text-slate-600">Thực hành theo từng bước để khám phá ý nghĩa của từ</p>
+        </header>
+
+        <!-- Card container will be populated by JavaScript -->
+        <main id="card-container"></main>
+
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // =================================================================
+            // DATA SOURCE
+            // To add more cards, just add a new object to this array.
+            // =================================================================
+            const cardData = [
+                {
+                    id: 1,
+                    word: 'negotiated',
+                    paragraph: `Many sociologists argue that young people today face unprecedented challenges. From economic instability to the pressures of social media, the path to adulthood seems more complex than ever. The <span class="clue clue-topic">world</span> into which they are <span class="clue clue-context">entering</span> is more <span class="clue clue-topic">testing and uncertain</span> than the one their <span class="clue clue-topic">parents</span> <span class="highlight-base highlight-word">negotiated</span> at the <span class="clue clue-context">same age</span>, forcing them to adapt in ways previous generations never had to.`,
+                    analysis: {
+                        topic: `Đoạn văn mở đầu bằng việc đề cập đến những "thách thức chưa từng có" (unprecedented challenges), "bất ổn kinh tế" (economic instability) và "áp lực mạng xã hội" (pressures of social media). Sau đó, câu cụ thể so sánh "thế giới" (world) "đầy thử thách và bất ổn" (testing and uncertain) của con cái với thế giới của "cha mẹ" (parents). => <span class="font-bold">Chủ đề là về những khó khăn phức tạp mà thế hệ trẻ phải đối mặt, lớn hơn nhiều so với thế hệ trước.</span>`,
+                        context: `Trong bối cảnh phức tạp đó, câu văn so sánh hành động "bước vào" (entering) thế giới của con cái với một hành động tương ứng của cha mẹ ở "cùng độ tuổi" (same age). Từ cần đoán được đặt ở vị trí tương đương với "entering", ám chỉ một hành động phải thực hiện để tồn tại trong "thế giới" đó. => <span class="font-bold">Ngữ cảnh là so sánh cách một người phải xoay sở, đối mặt với hoàn cảnh sống của mình.</span>`,
+                        guess: `Trải qua, xoay sở, sống trong.`
+                    }
+                },
+                {
+                    id: 2,
+                    word: 'versatile',
+                    paragraph: `In today's fast-paced digital world, the smartphone has become an essential part of daily life. It's no longer just a communication device. The modern smartphone is an incredibly <span class="highlight-base highlight-word">versatile</span> tool: you can use it to <span class="clue clue-context">make calls</span>, <span class="clue clue-context">browse the web</span>, <span class="clue clue-context">take professional-quality photos</span>, <span class="clue clue-context">navigate with GPS</span>, and even manage your finances. This <span class="clue clue-topic">multifunctionality</span> is what makes it indispensable for both <span class="clue clue-topic">work and personal life</span>.`,
+                    analysis: {
+                        topic: `Đoạn văn nói về điện thoại thông minh (smartphone) trong thế giới số. Các từ khóa "đa chức năng" (multifunctionality) và việc nó không thể thiếu cho cả "công việc và đời sống cá nhân" (work and personal life) cho thấy chủ đề đang tập trung vào sự hữu ích và đa dạng trong công dụng của chiếc điện thoại. => <span class="font-bold">Chủ đề là các chức năng và vai trò đa dạng của một chiếc điện thoại thông minh.</span>`,
+                        context: `Ngay sau từ <span class="italic">"versatile"</span> là dấu hai chấm (:) và một danh sách liệt kê hàng loạt các hành động khác nhau: "gọi điện" (make calls), "lướt web" (browse the web), "chụp ảnh" (take photos), "dẫn đường" (navigate). => <span class="font-bold">Ngữ cảnh là một chuỗi liệt kê các ví dụ cụ thể để minh họa cho tính chất được nhắc đến ngay trước đó.</span>`,
+                        guess: `Đa năng, linh hoạt, có nhiều công dụng.`
+                    }
+                },
+                {
+                    id: 3,
+                    word: 'commence',
+                    paragraph: `After months of rigorous safety checks and securing all necessary permits, the project manager gave the final approval. The chief engineer stood before the crew and announced, "We have a green light. The construction of the new bridge will finally <span class="highlight-base highlight-word">commence</span> <span class="clue clue-context">next week</span>." A cheer erupted from the workers, who were <span class="clue clue-topic">eager to begin</span> after a long period of <span class="clue clue-topic">planning</span>.`,
+                    analysis: {
+                        topic: `Đoạn văn nói về một dự án xây dựng cây cầu, với các chi tiết như "kiểm tra an toàn" (safety checks), "giấy phép" (permits) và một quá trình "lên kế hoạch" (planning) dài. Các công nhân thì "háo hức bắt đầu" (eager to begin). => <span class="font-bold">Chủ đề là sự chuẩn bị và khởi động một dự án xây dựng quan trọng.</span>`,
+                        context: `Từ cần đoán đứng ngay sau cụm "will finally" (sẽ cuối cùng cũng) và được ấn định thời gian là "tuần tới" (next week). Điều này cho thấy một hành động sắp diễn ra, là kết quả của quá trình chuẩn bị đã được nhắc đến. => <span class="font-bold">Ngữ cảnh là một thông báo về thời điểm một hoạt động sẽ được tiến hành.</span>`,
+                        guess: `Bắt đầu, khởi công, tiến hành.`
+                    }
+                },
+                {
+                    id: 4,
+                    word: 'ubiquitous',
+                    paragraph: `The logo of the giant tech corporation is <span class="highlight-base highlight-word">ubiquitous</span>; you see it on <span class="clue clue-context">phones</span>, <span class="clue clue-context">laptops</span>, <span class="clue clue-context">billboards</span>, and even <span class="clue clue-context">T-shirts</span>. This <span class="clue clue-topic">brand presence</span> is a key part of their <span class="clue clue-topic">marketing strategy</span> to be seen everywhere.`,
+                    analysis: {
+                        topic: `Đoạn văn thảo luận về "logo của tập đoàn công nghệ," "sự hiện diện thương hiệu" (brand presence) và "chiến lược tiếp thị" (marketing strategy), tập trung vào việc thương hiệu được nhìn thấy rộng rãi như thế nào. => <span class="font-bold">Chủ đề là sự hiện diện rộng khắp của một logo thương hiệu.</span>`,
+                        context: `Ngay sau từ cần đoán là một danh sách các địa điểm đa dạng mà bạn có thể thấy logo: "điện thoại," "máy tính xách tay," "biển quảng cáo," và "áo phông." Danh sách này minh họa trực tiếp cho ý nghĩa của từ. => <span class="font-bold">Ngữ cảnh là một chuỗi liệt kê các ví dụ về nơi một vật xuất hiện.</span>`,
+                        guess: `Phổ biến, có mặt ở khắp mọi nơi.`
+                    }
+                },
+                {
+                    id: 5,
+                    word: 'alleviate',
+                    paragraph: `The government has introduced new economic policies aimed to <span class="highlight-base highlight-word">alleviate</span> the <span class="clue clue-topic">financial burden on low-income families</span>. These measures, such as <span class="clue clue-context">tax cuts and subsidies</span>, are intended to <span class="clue clue-context">make life easier</span> for those who are <span class="clue clue-topic">struggling</span>.`,
+                    analysis: {
+                        topic: `Chủ đề xoay quanh "gánh nặng tài chính" (financial burden), "gia đình thu nhập thấp," và những người đang "gặp khó khăn" (struggling). => <span class="font-bold">Chủ đề là về khó khăn kinh tế và các nỗ lực để giúp đỡ.</span>`,
+                        context: `Các hành động được thực hiện để đạt được mục tiêu được liệt kê: "cắt giảm thuế và trợ cấp" (tax cuts and subsidies). Kết quả mong muốn là "làm cho cuộc sống dễ dàng hơn" (make life easier). => <span class="font-bold">Ngữ cảnh mô tả một hành động nhằm giảm bớt khó khăn thông qua các biện pháp cụ thể.</span>`,
+                        guess: `Làm giảm bớt, làm dịu đi, xoa dịu.`
+                    }
+                },
+                {
+                    id: 6,
+                    word: 'meticulous',
+                    paragraph: `The watchmaker was known for his <span class="highlight-base highlight-word">meticulous</span> approach. <span class="clue clue-context">Every tiny gear was polished by hand</span>, and he would spend hours <span class="clue clue-context">ensuring each component was perfectly aligned</span> before assembling the timepiece. This <span class="clue clue-topic">attention to detail</span> was what made his watches so <span class="clue clue-topic">valuable</span>.`,
+                    analysis: {
+                        topic: `Đoạn văn nói về một người thợ đồng hồ và tay nghề của ông, nhấn mạnh "sự chú ý đến từng chi tiết" (attention to detail) và tại sao đồng hồ của ông lại "có giá trị" (valuable). => <span class="font-bold">Chủ đề là về tay nghề thủ công chất lượng cao.</span>`,
+                        context: `Các câu theo sau từ này cung cấp các ví dụ cụ thể về sự cẩn thận của ông: "Mỗi bánh răng nhỏ đều được đánh bóng bằng tay" và dành hàng giờ "đảm bảo mỗi bộ phận được căn chỉnh hoàn hảo." => <span class="font-bold">Ngữ cảnh là những hành động thể hiện sự chăm chút và chính xác tột độ.</span>`,
+                        guess: `Tỉ mỉ, cẩn thận, kỹ lưỡng.`
+                    }
+                },
+                {
+                    id: 7,
+                    word: 'resilient',
+                    paragraph: `Despite facing numerous setbacks in her career, including a failed business and harsh criticism, Sarah remained <span class="highlight-base highlight-word">resilient</span>. She <span class="clue clue-context">always managed to bounce back</span> from <span class="clue clue-topic">adversity</span>, <span class="clue clue-context">learning from her mistakes</span> and starting anew with even more determination. Her ability to <span class="clue clue-topic">overcome challenges</span> was inspiring.`,
+                    analysis: {
+                        topic: `Chủ đề là sự nghiệp của Sarah, được đánh dấu bằng "nghịch cảnh" (adversity), "thất bại," và khả năng "vượt qua thử thách" (overcome challenges). => <span class="font-bold">Chủ đề là việc đối mặt và vượt qua khó khăn.</span>`,
+                        context: `Văn bản giải thích cách cô ấy đối phó với nghịch cảnh: cô ấy "luôn vực dậy được" (always managed to bounce back) và bắt đầu lại sau khi "học hỏi từ sai lầm của mình." => <span class="font-bold">Ngữ cảnh mô tả phẩm chất phục hồi sau khi gặp khó khăn.</span>`,
+                        guess: `Kiên cường, có khả năng phục hồi.`
+                    }
+                },
+                {
+                    id: 8,
+                    word: 'superficial',
+                    paragraph: `The investigation was criticized for being <span class="highlight-base highlight-word">superficial</span>. The detectives only <span class="clue clue-context">looked at the most obvious clues</span> on the surface and <span class="clue clue-context">failed to dig deeper</span> into the suspect's complex motives. Because of this <span class="clue clue-topic">lack of thorough analysis</span>, the <span class="clue clue-topic">real truth</span> remained hidden.`,
+                    analysis: {
+                        topic: `Đoạn văn thảo luận về một "cuộc điều tra" bị "thiếu phân tích kỹ lưỡng," dẫn đến "sự thật" bị che giấu. => <span class="font-bold">Chủ đề là về chiều sâu và chất lượng của một cuộc điều tra.</span>`,
+                        context: `Từ này được giải thích bằng hành động của các thám tử: họ chỉ "nhìn vào những manh mối rõ ràng nhất" và "không đào sâu hơn." Sự tương phản giữa công việc ở bề mặt và phân tích sâu đã định nghĩa từ này. => <span class="font-bold">Ngữ cảnh là sự thiếu sót trong việc xem xét vấn đề một cách toàn diện.</span>`,
+                        guess: `Hời hợt, nông cạn.`
+                    }
+                },
+                {
+                    id: 9,
+                    word: 'ambiguous',
+                    paragraph: `The politician's statement about the new policy was deliberately <span class="highlight-base highlight-word">ambiguous</span>. <span class="clue clue-context">Voters on the left thought he was supporting them</span>, while <span class="clue clue-context">those on the right believed he was on their side</span>. His <span class="clue clue-topic">unclear wording</span> allowed him to avoid taking a <span class="clue clue-topic">clear stance</span> on the controversial issue.`,
+                    analysis: {
+                        topic: `Chủ đề là "phát biểu của một chính trị gia" về một "vấn đề gây tranh cãi," với các ý chính là "cách diễn đạt không rõ ràng" (unclear wording) và việc tránh một "quan điểm rõ ràng" (clear stance). => <span class="font-bold">Chủ đề là sự thiếu rõ ràng trong giao tiếp.</span>`,
+                        context: `Kết quả của phát biểu là hai nhóm khác nhau ("cử tri cánh tả" và "cánh hữu") đã diễn giải nó theo những cách hoàn toàn trái ngược nhau. => <span class="font-bold">Ngữ cảnh cho thấy một phát biểu có nhiều hơn một cách hiểu.</span>`,
+                        guess: `Mơ hồ, không rõ ràng, có nhiều nghĩa.`
+                    }
+                },
+                {
+                    id: 10,
+                    word: 'leverage',
+                    paragraph: `The small startup was able to <span class="highlight-base highlight-word">leverage</span> its <span class="clue clue-context">strong social media presence</span> to compete with larger companies. By <span class="clue clue-topic">using this key advantage effectively</span>, they reached a massive audience without spending millions on traditional advertising. This clever strategy was crucial for their <span class="clue clue-topic">success</span>.`,
+                    analysis: {
+                        topic: `Đoạn văn nói về một "công ty khởi nghiệp nhỏ" cạnh tranh với "các công ty lớn hơn." Chủ đề cốt lõi là cách họ đạt được "thành công" bằng cách "sử dụng lợi thế chính một cách hiệu quả." => <span class="font-bold">Chủ đề là chiến lược để thành công trong kinh doanh.</span>`,
+                        context: `Từ này mô tả cách công ty khởi nghiệp đã sử dụng "sự hiện diện mạnh mẽ trên mạng xã hội" của mình. Nó được dùng như một công cụ hoặc lợi thế để đạt được mục tiêu cụ thể (tiếp cận khán giả lớn mà không tốn nhiều chi phí). => <span class="font-bold">Ngữ cảnh mô tả việc sử dụng một nguồn lực sẵn có để đạt được lợi ích.</span>`,
+                        guess: `Tận dụng (để đạt lợi thế).`
+                    }
+                }
+            ];
+
+            // =================================================================
+            // SCALABLE LOGIC
+            // This code works for any number of cards.
+            // =================================================================
+            const cardContainer = document.getElementById('card-container');
+
+            // 1. Generate HTML for each card from data
+            cardData.forEach(data => {
+                const cardHTML = `
+                    <div class="interactive-card bg-white p-6 rounded-lg shadow-lg border border-slate-200 mb-8" data-card-id="${data.id}">
+                        <h3 class="text-2xl font-bold mb-4">Ví dụ ${data.id}: <span class="highlight-base highlight-word">${data.word}</span></h3>
+                        <p class="text-lg italic text-slate-700 mb-6 leading-relaxed">${data.paragraph}</p>
+                        
+                        <div class="space-y-6">
+                            <div class="step step-topic">
+                                <h4 class="font-bold text-lg mb-2">Bước 1: Các từ khóa về Chủ đề đã được tô sáng.</h4>
+                                <div class="bg-blue-50 p-4 rounded-md border border-blue-200">
+                                    <p class="font-semibold">Suy ra Chủ đề:</p>
+                                    <p>${data.analysis.topic}</p>
+                                </div>
+                            </div>
+                            <div class="step step-context">
+                                <h4 class="font-bold text-lg mb-2">Bước 2: Các từ khóa về Ngữ cảnh đã được tô sáng.</h4>
+                                <div class="bg-green-50 p-4 rounded-md border border-green-200">
+                                    <p class="font-semibold">Suy ra Ngữ cảnh:</p>
+                                    <p>${data.analysis.context}</p>
+                                </div>
+                            </div>
+                            <div class="step step-guess">
+                                <div class="bg-indigo-50 p-4 rounded-md border border-indigo-200">
+                                    <p class="text-lg font-semibold text-indigo-700"><span class="font-bold text-2xl mr-2">→</span> Kết hợp Chủ đề và Ngữ cảnh, ta có thể Suy đoán:</p>
+                                    <p class="text-xl font-bold text-indigo-900 mt-2">Nghĩa của <span class="italic">"${data.word}"</span> là: <span class="italic">${data.analysis.guess}</span></p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="mt-8 pt-4 border-t flex items-center space-x-3">
+                            <button class="btn btn-blue btn-topic">1. Xác định Chủ đề</button>
+                            <button class="btn btn-green btn-context" disabled>2. Xác định Ngữ cảnh</button>
+                            <button class="btn btn-indigo btn-guess" disabled>3. Suy đoán nghĩa</button>
+                            <button class="btn btn-gray btn-reset ml-auto">Làm lại</button>
+                        </div>
+                    </div>
+                `;
+                cardContainer.innerHTML += cardHTML;
+            });
+
+            // 2. Setup event listeners for all cards
+            const allCards = document.querySelectorAll('.interactive-card');
+            allCards.forEach(card => {
+                const topicBtn = card.querySelector('.btn-topic');
+                const contextBtn = card.querySelector('.btn-context');
+                const guessBtn = card.querySelector('.btn-guess');
+                const resetBtn = card.querySelector('.btn-reset');
+
+                const topicClues = card.querySelectorAll('.clue-topic');
+                const contextClues = card.querySelectorAll('.clue-context');
+
+                const stepTopic = card.querySelector('.step-topic');
+                const stepContext = card.querySelector('.step-context');
+                const stepGuess = card.querySelector('.step-guess');
+                
+                function resetCard() {
+                    topicClues.forEach(el => el.classList.remove('highlight-topic'));
+                    contextClues.forEach(el => el.classList.remove('highlight-context'));
+
+                    stepTopic.classList.remove('visible');
+                    stepContext.classList.remove('visible');
+                    stepGuess.classList.remove('visible');
+
+                    topicBtn.disabled = false;
+                    contextBtn.disabled = true;
+                    guessBtn.disabled = true;
+                }
+
+                topicBtn.addEventListener('click', function() {
+                    topicClues.forEach(el => el.classList.add('highlight-topic'));
+                    stepTopic.classList.add('visible');
+                    this.disabled = true;
+                    contextBtn.disabled = false;
+                });
+
+                contextBtn.addEventListener('click', function() {
+                    contextClues.forEach(el => el.classList.add('highlight-context'));
+                    stepContext.classList.add('visible');
+                    this.disabled = true;
+                    guessBtn.disabled = false;
+                });
+
+                guessBtn.addEventListener('click', function() {
+                    stepGuess.classList.add('visible');
+                    this.disabled = true;
+                });
+                
+                resetBtn.addEventListener('click', resetCard);
+
+                // Initialize card state on load
+                resetCard();
+            });
+        });
+    </script>
+</body>
+</html>
+
