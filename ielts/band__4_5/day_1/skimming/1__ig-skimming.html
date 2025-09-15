@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Infographic: Kỹ Năng Đọc Lướt (Skimming)</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;900&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #f8f9fa;
+        }
+        .chart-container {
+            position: relative;
+            width: 100%;
+            max-width: 400px;
+            margin-left: auto;
+            margin-right: auto;
+            height: 300px;
+            max-height: 350px;
+        }
+        @media (min-width: 768px) {
+            .chart-container {
+                height: 350px;
+            }
+        }
+        .flowchart-step {
+            border-color: #1976D2;
+            transition: all 0.3s ease-in-out;
+        }
+        .flowchart-step:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+        }
+        .flowchart-arrow {
+            color: #1976D2;
+        }
+    </style>
+</head>
+<body class="text-gray-800">
+
+    <div class="container mx-auto p-4 md:p-8">
+        
+        <header class="text-center mb-12">
+            <h1 class="text-4xl md:text-6xl font-black text-[#0D47A1] mb-2">Chinh Phục Bài Đọc Với Kỹ Năng SKIMMING</h1>
+            <p class="text-lg text-gray-600 max-w-3xl mx-auto">Bí quyết đọc lướt để nắm bắt ý chính siêu tốc và tiết kiệm thời gian hiệu quả.</p>
+        </header>
+
+        <main>
+            <section id="what-is-skimming" class="mb-16">
+                <h2 class="text-3xl font-bold text-center mb-8">Skimming Là Gì?</h2>
+                <div class="grid grid-cols-1 md:grid-cols-3 gap-8 items-center">
+                    <div class="md:col-span-1 bg-white p-6 rounded-lg shadow-md border-l-4 border-[#FFC107]">
+                        <h3 class="text-xl font-bold mb-2 text-[#D32F2F]">🧐 ĐỊNH NGHĨA</h3>
+                        <p><strong>Skimming</strong> là kỹ năng đọc nhanh để nắm bắt **ý chính** hoặc nội dung tổng quát của văn bản mà không cần đi sâu vào chi tiết.</p>
+                    </div>
+                    <div class="md:col-span-2 grid grid-cols-1 sm:grid-cols-2 gap-6">
+                        <div class="bg-white p-6 rounded-lg shadow-md">
+                            <h3 class="text-lg font-semibold mb-2 flex items-center"><span class="text-3xl mr-3">📖</span> Vấn Đề: Bài Đọc Dài</h3>
+                            <p>Skimming giúp bạn tiết kiệm thời gian tối đa khi đối mặt với những văn bản dài.</p>
+                        </div>
+                        <div class="bg-white p-6 rounded-lg shadow-md">
+                            <h3 class="text-lg font-semibold mb-2 flex items-center"><span class="text-3xl mr-3">🤯</span> Vấn Đề: Nhiều Từ Mới</h3>
+                            <p>Giúp bạn tập trung vào ý chính và bỏ qua những từ vựng không cần thiết để hiểu nội dung.</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="why-skim" class="mb-16">
+                <h2 class="text-3xl font-bold text-center mb-8">Tại Sao Nên Skimming?</h2>
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+                    <div class="bg-white p-6 rounded-lg shadow-md">
+                        <h3 class="text-xl font-bold text-center mb-4">📊 Trực Quan Hóa Lợi Ích</h3>
+                        <p class="text-center text-gray-600 mb-4">Skimming không chỉ giúp bạn đọc nhanh hơn mà còn giảm đáng kể áp lực khi học và làm bài thi.</p>
+                        <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 text-center">
+                            <div>
+                                <div class="chart-container">
+                                    <canvas id="timeChart"></canvas>
+                                </div>
+                                <h4 class="font-semibold mt-2">Tiết Kiệm Thời Gian</h4>
+                            </div>
+                            <div>
+                                <div class="chart-container">
+                                    <canvas id="stressChart"></canvas>
+                                </div>
+                                <h4 class="font-semibold mt-2">Giảm Áp Lực</h4>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="bg-white p-6 rounded-lg shadow-md">
+                        <h3 class="text-xl font-bold text-center mb-4">✍️ Ứng Dụng Trong Bài Thi</h3>
+                        <div class="space-y-6 mt-6">
+                            <div class="p-4 bg-blue-50 rounded-lg">
+                                <h4 class="font-bold text-lg flex items-center"><span class="text-2xl mr-3">❓</span>Trả Lời Câu Hỏi Tổng Quát</h4>
+                                <p class="mt-1 text-gray-700">Dễ dàng tìm được nội dung chính của đoạn để trả lời các câu hỏi như "Đâu là tiêu đề phù hợp nhất?".</p>
+                            </div>
+                            <div class="p-4 bg-green-50 rounded-lg">
+                                <h4 class="font-bold text-lg flex items-center"><span class="text-2xl mr-3">🔍</span>Khoanh Vùng Thông Tin</h4>
+                                <p class="mt-1 text-gray-700">Xác định nhanh vị trí của thông tin chi tiết, giúp bạn quay lại đọc kỹ (scan) hiệu quả hơn.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="how-to-skim" class="mb-16">
+                <h2 class="text-3xl font-bold text-center mb-8">Cách Thực Hiện Skimming</h2>
+                <div class="flex flex-col md:flex-row items-center justify-center gap-8 md:gap-4">
+                    <div class="bg-white p-8 rounded-lg shadow-md w-full md:w-2/5 border-t-4 border-[#1976D2] flowchart-step">
+                        <h3 class="text-2xl font-bold text-center mb-2">BƯỚC 1 📍</h3>
+                        <h4 class="text-lg font-semibold text-center text-[#1976D2] mb-4">Đọc "Biển Chỉ Dẫn" Quan Trọng Nhất</h4>
+                        <p>Tập trung vào **Câu chủ đề (thường là câu đầu tiên)** và **Câu kết luận (thường là câu cuối cùng)** của mỗi đoạn văn. Đây là hai vị trí chứa đựng ý chính cốt lõi.</p>
+                    </div>
+                    
+                    <div class="text-5xl font-bold flowchart-arrow transform rotate-90 md:rotate-0">→</div>
+
+                    <div class="bg-white p-8 rounded-lg shadow-md w-full md:w-2/5 border-t-4 border-[#42A5F5] flowchart-step">
+                         <h3 class="text-2xl font-bold text-center mb-2">BƯỚC 2 🚦</h3>
+                        <h4 class="text-lg font-semibold text-center text-[#42A5F5] mb-4">Chú Ý "Biển Báo Giao Thông"</h4>
+                        <p>Để ý các **Từ nối (Linking Words)**. Chúng giúp bạn nhận ra mối quan hệ và mạch ý tưởng trong đoạn văn, ví dụ như liệt kê, tương phản, hay nguyên nhân-kết quả.</p>
+                    </div>
+                </div>
+            </section>
+            
+            <section id="linking-words">
+                <h2 class="text-3xl font-bold text-center mb-8">Bộ Công Cụ: Các "Từ Nối" Thường Gặp</h2>
+                <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+                    <div class="bg-white p-6 rounded-lg shadow-md hover:shadow-xl transition-shadow">
+                        <h3 class="font-bold text-lg mb-2 text-[#0D47A1]">1. LIỆT KÊ</h3>
+                        <p class="text-sm text-gray-600 mb-3">Chức năng: Thêm thông tin, ý tưởng.</p>
+                        <div class="flex flex-wrap gap-2">
+                            <span class="bg-[#E3F2FD] text-[#0D47A1] text-sm font-medium px-2.5 py-0.5 rounded">firstly</span>
+                            <span class="bg-[#E3F2FD] text-[#0D47A1] text-sm font-medium px-2.5 py-0.5 rounded">secondly</span>
+                            <span class="bg-[#E3F2FD] text-[#0D47A1] text-sm font-medium px-2.5 py-0.5 rounded">in addition</span>
+                        </div>
+                    </div>
+                    <div class="bg-white p-6 rounded-lg shadow-md hover:shadow-xl transition-shadow">
+                        <h3 class="font-bold text-lg mb-2 text-[#2E7D32]">2. VÍ DỤ</h3>
+                        <p class="text-sm text-gray-600 mb-3">Chức năng: Minh họa cho ý vừa nêu.</p>
+                         <div class="flex flex-wrap gap-2">
+                            <span class="bg-[#E8F5E9] text-[#2E7D32] text-sm font-medium px-2.5 py-0.5 rounded">for example</span>
+                            <span class="bg-[#E8F5E9] text-[#2E7D32] text-sm font-medium px-2.5 py-0.5 rounded">such as</span>
+                            <span class="bg-[#E8F5E9] text-[#2E7D32] text-sm font-medium px-2.5 py-0.5 rounded">like</span>
+                        </div>
+                    </div>
+                    <div class="bg-white p-6 rounded-lg shadow-md hover:shadow-xl transition-shadow">
+                        <h3 class="font-bold text-lg mb-2 text-[#D32F2F]">3. TƯƠNG PHẢN</h3>
+                        <p class="text-sm text-gray-600 mb-3">Chức năng: Giới thiệu một ý đối lập.</p>
+                         <div class="flex flex-wrap gap-2">
+                            <span class="bg-[#FFEBEE] text-[#D32F2F] text-sm font-medium px-2.5 py-0.5 rounded">but</span>
+                            <span class="bg-[#FFEBEE] text-[#D32F2F] text-sm font-medium px-2.5 py-0.5 rounded">however</span>
+                            <span class="bg-[#FFEBEE] text-[#D32F2F] text-sm font-medium px-2.5 py-0.5 rounded">although</span>
+                        </div>
+                    </div>
+                    <div class="bg-white p-6 rounded-lg shadow-md hover:shadow-xl transition-shadow">
+                        <h3 class="font-bold text-lg mb-2 text-[#FF6F00]">4. NGUYÊN NHÂN - KẾT QUẢ</h3>
+                        <p class="text-sm text-gray-600 mb-3">Chức năng: Chỉ mối quan hệ nhân quả.</p>
+                         <div class="flex flex-wrap gap-2">
+                            <span class="bg-[#FFF8E1] text-[#FF6F00] text-sm font-medium px-2.5 py-0.5 rounded">because</span>
+                            <span class="bg-[#FFF8E1] text-[#FF6F00] text-sm font-medium px-2.5 py-0.5 rounded">so</span>
+                            <span class="bg-[#FFF8E1] text-[#FF6F00] text-sm font-medium px-2.5 py-0.5 rounded">therefore</span>
+                        </div>
+                    </div>
+                    <div class="bg-white p-6 rounded-lg shadow-md hover:shadow-xl transition-shadow">
+                        <h3 class="font-bold text-lg mb-2 text-[#1976D2]">5. SO SÁNH</h3>
+                        <p class="text-sm text-gray-600 mb-3">Chức năng: Chỉ ra sự tương đồng.</p>
+                         <div class="flex flex-wrap gap-2">
+                            <span class="bg-[#E3F2FD] text-[#1976D2] text-sm font-medium px-2.5 py-0.5 rounded">similarly</span>
+                            <span class="bg-[#E3F2FD] text-[#1976D2] text-sm font-medium px-2.5 py-0.5 rounded">likewise</span>
+                            <span class="bg-[#E3F2FD] text-[#1976D2] text-sm font-medium px-2.5 py-0.5 rounded">just as</span>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+
+        <footer class="text-center mt-16 pt-8 border-t border-gray-200">
+            <p class="text-gray-500">Chúc bạn học tốt và áp dụng thành công kỹ năng Skimming!</p>
+        </footer>
+    </div>
+    
+    <script>
+        const chartTooltipOptions = {
+            plugins: {
+                tooltip: {
+                    callbacks: {
+                        title: function(tooltipItems) {
+                            const item = tooltipItems[0];
+                            let label = item.chart.data.labels[item.dataIndex];
+                            if (Array.isArray(label)) {
+                              return label.join(' ');
+                            } else {
+                              return label;
+                            }
+                        }
+                    }
+                },
+                legend: {
+                    position: 'bottom',
+                }
+            }
+        };
+
+        const timeCtx = document.getElementById('timeChart').getContext('2d');
+        new Chart(timeCtx, {
+            type: 'doughnut',
+            data: {
+                labels: ['Đọc Lướt (Skim)', 'Đọc Truyền Thống'],
+                datasets: [{
+                    label: 'Thời Gian Đọc',
+                    data: [30, 70],
+                    backgroundColor: ['#2E7D32', '#FFC107'],
+                    borderColor: ['#ffffff'],
+                    borderWidth: 2
+                }]
+            },
+            options: {
+                ...chartTooltipOptions,
+                responsive: true,
+                maintainAspectRatio: false,
+                cutout: '60%',
+            }
+        });
+
+        const stressCtx = document.getElementById('stressChart').getContext('2d');
+        new Chart(stressCtx, {
+            type: 'doughnut',
+            data: {
+                labels: ['Sử Dụng Skimming', 'Không Skimming'],
+                datasets: [{
+                    label: 'Mức Độ Áp Lực',
+                    data: [25, 75],
+                    backgroundColor: ['#1976D2', '#D32F2F'],
+                    borderColor: ['#ffffff'],
+                    borderWidth: 2
+                }]
+            },
+            options: {
+                ...chartTooltipOptions,
+                responsive: true,
+                maintainAspectRatio: false,
+                cutout: '60%',
+            }
+        });
+    </script>
+</body>
+</html>
+
