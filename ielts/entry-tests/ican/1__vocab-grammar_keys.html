@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chữa Bài tập Tiếng Anh</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+        .explanation {
+            display: none;
+            border-left: 3px solid #10B981; /* Emerald-500 */
+            background-color: #F0FDF4; /* Emerald-50 */
+        }
+        .correct-answer {
+            color: #059669; /* Emerald-600 */
+        }
+    </style>
+</head>
+<body class="bg-gray-100 text-gray-800">
+
+    <div class="container mx-auto p-4 md:p-8">
+        <header class="text-center mb-8">
+            <h1 class="text-3xl md:text-4xl font-bold text-gray-900">Chữa Bài Tập Trắc Nghiệm Tiếng Anh</h1>
+            <p class="text-md text-gray-600 mt-2">Phân tích chi tiết từng câu để bạn hiểu rõ hơn.</p>
+        </header>
+
+        <main id="exercise-container" class="space-y-6">
+            <!-- Các câu hỏi sẽ được chèn vào đây bằng JavaScript -->
+        </main>
+
+        <footer class="text-center mt-12 text-gray-500">
+            <p>Tạo bởi Gemini - AI của Google</p>
+        </footer>
+    </div>
+
+    <script>
+        const exercises = [
+            {
+                id: 1,
+                question: "On Sunday mornings, we .......... for the school sports day.",
+                options: ["practise", "practise", "practisse", "pracctise"],
+                answer: "A",
+                explanation: "<strong>Phân biệt 'practise' và 'practice':</strong> Trong Anh-Anh, 'practise' là động từ (luyện tập), còn 'practice' là danh từ (sự luyện tập). Trong câu này, chúng ta cần một động từ đứng sau chủ ngữ 'we'. Do đó, 'practise' là đáp án đúng."
+            },
+            {
+                id: 2,
+                question: "Leon never .......... about it, but he is a good doctor.",
+                options: ["talks", "talking", "is talking", "talk"],
+                answer: "A",
+                explanation: "<strong>Thì hiện tại đơn:</strong> Chúng ta sử dụng thì hiện tại đơn để diễn tả một thói quen, sự thật hiển nhiên. Trạng từ tần suất 'never' là một dấu hiệu của thì này. Với chủ ngữ ngôi thứ ba số ít ('Leon'), động từ phải thêm '-s'. Vì vậy, 'talks' là đáp án chính xác."
+            },
+            {
+                id: 3,
+                question: "My classmate wants me to .......... him a favour and check his homework.",
+                options: ["go", "do", "make", "take"],
+                answer: "B",
+                explanation: "<strong>Cụm từ cố định (Collocation):</strong> Cụm từ 'do someone a favour' có nghĩa là 'giúp đỡ ai đó'. Đây là một collocation phổ biến trong tiếng Anh."
+            },
+            {
+                id: 4,
+                question: "Lisa and her friend wore .......... dress at the party yesterday.",
+                options: ["wooden", "high", "comfortable", "difficult"],
+                answer: "C",
+                explanation: "<strong>Từ vựng:</strong> Chúng ta cần một tính từ phù hợp để mô tả 'dress' (váy). Trong các lựa chọn, 'comfortable' (thoải mái) là hợp lý nhất về mặt ngữ nghĩa."
+            },
+            {
+                id: 5,
+                question: "The owner got some money by selling one of his .......... old pictures.",
+                options: ["useful", "usual", "valuable", "helpful"],
+                answer: "C",
+                explanation: "<strong>Từ vựng:</strong> Ngữ cảnh của câu là bán tranh để có tiền ('got some money by selling'). Do đó, bức tranh phải có giá trị. 'Valuable' (quý giá, có giá trị) là đáp án phù hợp."
+            },
+            {
+                id: 6,
+                question: "They really hope .......... in the park when it's sunny.",
+                options: ["running", "run", "ran", "to run"],
+                answer: "D",
+                explanation: "<strong>Cấu trúc động từ:</strong> Động từ 'hope' (hy vọng) được theo sau bởi một động từ nguyên mẫu có 'to' (to-infinitive). Cấu trúc: S + hope + to V."
+            },
+            {
+                id: 7,
+                question: "If people don't eat properly, they .......... all the things they need to stay healthy.",
+                options: ["wouldn't gain", "won't gain", "would gain", "will gain"],
+                answer: "B",
+                explanation: "<strong>Câu điều kiện loại 1:</strong> Dùng để diễn tả một sự việc có thật, có thể xảy ra ở hiện tại hoặc tương lai. <strong>Cấu trúc:</strong> If + S + V(hiện tại đơn), S + will/won't + V(nguyên mẫu). Mệnh đề 'if' dùng 'don't eat', nên mệnh đề chính phải là 'won't gain'."
+            },
+            {
+                id: 8,
+                question: ".................. in New York since you .......... to the States?",
+                options: ["Have you been - have flown", "Were you - have flown", "Were you - flew", "Have you been - flew"],
+                answer: "D",
+                explanation: "<strong>Kết hợp thì:</strong> Mệnh đề chính với 'since' hỏi về một khoảng thời gian kéo dài từ quá khứ đến hiện tại, nên dùng thì Hiện tại hoàn thành ('Have you been'). Mệnh đề phụ sau 'since' chỉ một mốc thời gian cụ thể trong quá khứ, nên dùng thì Quá khứ đơn ('flew')."
+            },
+            {
+                id: 9,
+                question: "If I'd known you were coming, I .......... a cake.",
+                options: ["would have baked", "would bake", "will bake", "baked"],
+                answer: "A",
+                explanation: "<strong>Câu điều kiện loại 3:</strong> Dùng để diễn tả một giả định trái với sự thật trong quá khứ. 'I'd known' là viết tắt của 'I had known'. <strong>Cấu trúc:</strong> If + S + had + P.P, S + would have + P.P."
+            },
+            {
+                id: 10,
+                question: "You might create something that's wonderful, but remember that it's impossible to achieve .......... .",
+                options: ["perfection", "perfectionist", "perfect", "perfectly"],
+                answer: "A",
+                explanation: "<strong>Từ loại:</strong> Sau động từ 'achieve' (đạt được), chúng ta cần một danh từ làm tân ngữ. 'Perfection' (sự hoàn hảo) là danh từ. Các từ khác: perfectionist (danh từ chỉ người), perfect (tính từ), perfectly (trạng từ)."
+            },
+            {
+                id: 11,
+                question: "All compositions .......... be handed in to me by Friday at the latest.",
+                options: ["have", "need", "must", "ought"],
+                answer: "C",
+                explanation: "<strong>Động từ khuyết thiếu:</strong> 'Must' được dùng để diễn tả một mệnh lệnh, sự bắt buộc hoặc quy định. Trong ngữ cảnh này, đây là yêu cầu bắt buộc phải nộp bài."
+            },
+            {
+                id: 12,
+                question: "Don't drop the sweet wrapper on the floor, ..........?",
+                options: ["do you", "aren't you", "will you", "won't you"],
+                answer: "C",
+                explanation: "<strong>Câu hỏi đuôi (Tag Question):</strong> Với câu mệnh lệnh (imperative), chúng ta dùng 'will you?' cho câu hỏi đuôi. Ví dụ: 'Open the door, will you?', 'Don't be late, will you?'."
+            },
+            {
+                id: 13,
+                question: "The boss was so .......... with the mess I made that she fired me immediately!",
+                options: ["frustrating", "frustratingly", "frustrate", "frustrated"],
+                answer: "D",
+                explanation: "<strong>Tính từ chỉ cảm xúc:</strong> Dùng tính từ đuôi '-ed' ('frustrated' - bực bội) để miêu tả cảm xúc của một người. Dùng tính từ đuôi '-ing' ('frustrating') để miêu tả bản chất của sự vật/sự việc gây ra cảm xúc đó."
+            },
+            {
+                id: 14,
+                question: "The police presence on the streets has increased significantly over the past year, as a result of .......... there is now less visible crime.",
+                options: ["which", "who", "whose", "whom"],
+                answer: "A",
+                explanation: "<strong>Mệnh đề quan hệ:</strong> Đại từ 'which' ở đây được dùng để thay thế cho toàn bộ ý tưởng của mệnh đề đứng trước ('Sự hiện diện của cảnh sát đã tăng lên...'), mang nghĩa là 'điều này/việc này'."
+            },
+            {
+                id: 15,
+                question: "You should have your house .......... for earthquake damage by a professional.",
+                options: ["checking", "check", "checked", "is checked"],
+                answer: "C",
+                explanation: "<strong>Thể truyền khiến (Causative Form):</strong> Chúng ta sử dụng cấu trúc 'have something done' (have + vật + P.P) để diễn tả việc nhờ ai đó làm gì cho mình. Do đó, 'checked' là đáp án đúng."
+            },
+            {
+                id: 16,
+                question: "His plan is .......... practical of all.",
+                options: ["more", "most", "far more", "the most"],
+                answer: "D",
+                explanation: "<strong>So sánh nhất:</strong> Cụm từ 'of all' (trong tất cả) là dấu hiệu của so sánh nhất. 'Practical' là tính từ dài, vì vậy dạng so sánh nhất là 'the most practical'."
+            },
+            {
+                id: 17,
+                question: ".................. a scholarship, I entered an amazing world of international education.",
+                options: ["Having awarded", "Having been awarded", "I awarded", "Awarding"],
+                answer: "B",
+                explanation: "<strong>Rút gọn mệnh đề:</strong> Hành động 'được trao học bổng' xảy ra trước hành động 'bước vào thế giới giáo dục'. Vì chủ ngữ 'I' là người nhận hành động (bị động), chúng ta dùng dạng Phân từ hoàn thành bị động: 'Having been + P.P'."
+            },
+            {
+                id: 18,
+                question: "Complete the second sentence so that it has a similar meaning... James would only speak to the head of department alone. → James .......................... to the head of department alone. (ON)",
+                options: ["take on speaking", "decide on speaking", "build on speaking", "insisted on speaking"],
+                answer: "D",
+                explanation: "<strong>Cấu trúc viết lại câu:</strong> Cụm động từ 'insist on + V-ing' có nghĩa là 'khăng khăng, nằng nặc đòi làm gì', mang ý nghĩa tương đồng với 'would only speak' (sẽ chỉ nói chuyện) trong câu gốc."
+            },
+            {
+                id: 19,
+                question: "Indicate the word CLOSEST in meaning to the underlined word: 'Jordan is reassured when she finally breaks into such a long-term agreement in the manufacturing business.'",
+                options: ["bites into", "rushes into", "crashes into", "keys into"],
+                answer: "B",
+                explanation: "<strong>Từ đồng nghĩa:</strong> 'To break into' a market or a business means to successfully enter or become involved in it. Among the options, 'rushes into' (tham gia vào, lao vào) carries the meaning of entering, making it the closest choice in this context."
+            },
+            {
+                id: 20,
+                question: "Indicate the word OPPOSITE in meaning to the underlined word: 'Going down white-water rapids in a canoe must be extremely exhilarating.'",
+                options: ["trivial", "thrilling", "mundane", ""],
+                answer: "C",
+                explanation: "<strong>Từ trái nghĩa:</strong> 'Exhilarating' có nghĩa là 'rất vui, phấn chấn, ly kỳ'. Từ trái nghĩa với nó là 'mundane', có nghĩa là 'nhàm chán, tẻ nhạt'."
+            }
+        ];
+
+        const container = document.getElementById('exercise-container');
+
+        exercises.forEach(exercise => {
+            const card = document.createElement('div');
+            card.className = 'bg-white rounded-lg shadow-md p-6';
+            
+            // Generate HTML for each question
+            let optionsHTML = exercise.options.map((option, index) => {
+                if (option) { // Check if option is not an empty string
+                    return `
+                        <div class="bg-gray-50 p-3 rounded-md border border-gray-200">
+                            <span class="font-semibold mr-2">${String.fromCharCode(65 + index)}.</span> ${option}
+                        </div>
+                    `;
+                }
+                return '';
+            }).join('');
+
+            card.innerHTML = `
+                <div class="flex items-start">
+                    <div class="flex-shrink-0 bg-emerald-500 text-white rounded-full h-8 w-8 flex items-center justify-center font-bold mr-4">${exercise.id}</div>
+                    <div class="flex-grow">
+                        <p class="text-lg font-medium mb-4">${exercise.question}</p>
+                        <div class="grid grid-cols-1 md:grid-cols-2 gap-3">
+                            ${optionsHTML}
+                        </div>
+                        <button onclick="toggleAnswer(${exercise.id})" class="mt-4 bg-gray-200 text-gray-700 hover:bg-gray-300 font-semibold py-2 px-4 rounded-lg transition duration-200">
+                            Xem đáp án
+                        </button>
+                        <div id="explanation-${exercise.id}" class="explanation mt-4 p-4 rounded-md">
+                            <p class="font-semibold mb-2">Đáp án đúng: <span class="correct-answer">${exercise.answer}</span></p>
+                            <div class="text-gray-700">${exercise.explanation}</div>
+                        </div>
+                    </div>
+                </div>
+            `;
+            
+            container.appendChild(card);
+        });
+
+        function toggleAnswer(id) {
+            const explanationDiv = document.getElementById(`explanation-${id}`);
+            if (explanationDiv.style.display === 'block') {
+                explanationDiv.style.display = 'none';
+            } else {
+                explanationDiv.style.display = 'block';
+            }
+        }
+    </script>
+</body>
+</html>
+
