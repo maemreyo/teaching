@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Chinh Phục Câu Hỏi Trắc Nghiệm IELTS Reading</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;900&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      body {
+        font-family: "Inter", sans-serif;
+        background-color: #d4f1f4;
+        color: #05445e;
+      }
+      .chart-container {
+        position: relative;
+        width: 100%;
+        max-width: 450px;
+        margin-left: auto;
+        margin-right: auto;
+        height: 300px;
+        max-height: 350px;
+      }
+      @media (min-width: 640px) {
+        .chart-container {
+          height: 350px;
+          max-height: 400px;
+        }
+      }
+      .flow-arrow {
+        font-size: 2.5rem;
+        line-height: 1;
+        color: #189ab4;
+        font-weight: 900;
+      }
+      .card {
+        background-color: white;
+        border-radius: 0.75rem;
+        box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1),
+          0 2px 4px -2px rgb(0 0 0 / 0.1);
+        padding: 1.5rem;
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+      }
+      .card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1),
+          0 4px 6px -2px rgb(0 0 0 / 0.1);
+      }
+    </style>
+  </head>
+  <body class="antialiased">
+    <div class="container mx-auto p-4 md:p-8 max-w-7xl">
+      <header class="text-center mb-12">
+        <h1 class="text-4xl md:text-6xl font-black text-[#05445E] mb-2">
+          Chinh Phục Trắc Nghiệm IELTS Reading
+        </h1>
+        <p class="text-lg md:text-xl text-[#189AB4] max-w-3xl mx-auto">
+          Nắm vững chiến lược 3 bước để tối đa hóa điểm số của bạn một cách hiệu
+          quả.
+        </p>
+      </header>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-center mb-8">
+          Hiểu Rõ "Luật Chơi" Của Dạng Bài MCQ
+        </h2>
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-8 text-center">
+          <div class="card">
+            <h3 class="text-xl font-bold mb-3 text-[#189AB4]">
+              Chỉ 1 Đáp Án Đúng
+            </h3>
+            <p class="mb-4">
+              Trong 3-4 lựa chọn, chỉ có duy nhất một đáp án hoàn toàn chính
+              xác. Các đáp án còn lại là "bẫy" hoặc chỉ đúng một phần.
+            </p>
+            <div class="chart-container h-48 sm:h-56">
+              <canvas id="correctAnswerChart"></canvas>
+            </div>
+          </div>
+          <div class="card flex flex-col justify-center">
+            <h3 class="text-xl font-bold mb-3 text-[#189AB4]">
+              Thứ Tự Tuyến Tính
+            </h3>
+            <p class="mb-4">
+              Thứ tự các câu hỏi luôn tuân theo trình tự thông tin trong bài
+              đọc, giúp bạn khoanh vùng dễ dàng hơn.
+            </p>
+            <div class="space-y-2">
+              <div class="bg-gray-100 p-3 rounded-lg text-left">
+                <strong>Câu hỏi 27</strong> ➞
+                <span class="font-semibold text-[#05445E]">Nằm ở Đoạn B</span>
+              </div>
+              <div class="flow-arrow text-center">↓</div>
+              <div class="bg-gray-100 p-3 rounded-lg text-left">
+                <strong>Câu hỏi 28</strong> ➞
+                <span class="font-semibold text-[#05445E]"
+                  >Nằm ở Đoạn C (hoặc sau đó)</span
+                >
+              </div>
+            </div>
+          </div>
+          <div class="card">
+            <h3 class="text-xl font-bold mb-3 text-[#189AB4]">
+              Nghệ Thuật Paraphrasing
+            </h3>
+            <p class="mb-4">
+              Từ ngữ trong câu hỏi và đáp án thường được diễn đạt lại
+              (paraphrased) thay vì chép nguyên văn từ bài đọc.
+            </p>
+            <div class="space-y-3 text-left">
+              <div class="bg-gray-100 p-3 rounded-lg">
+                <p class="font-semibold text-gray-500 text-sm">
+                  Trong bài đọc:
+                </p>
+                <p>"...don't arrive on time, you can expect punishment."</p>
+              </div>
+              <div class="bg-[#75E6DA] bg-opacity-30 p-3 rounded-lg">
+                <p class="font-semibold text-[#05445E] text-sm">
+                  Trong đáp án:
+                </p>
+                <p>"...are punished if they get to school late."</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-center mb-10">
+          Phương Pháp Giải Quyết Trong 3 Bước Vàng
+        </h2>
+        <div
+          class="flex flex-col md:flex-row items-center justify-center gap-6 md:gap-0"
+        >
+          <div class="card text-center w-full md:w-1/4">
+            <div class="text-6xl mb-2">🔍</div>
+            <div
+              class="bg-[#05445E] text-white rounded-full w-12 h-12 flex items-center justify-center mx-auto mb-4 text-2xl font-bold"
+            >
+              1
+            </div>
+            <h3 class="text-xl font-bold text-[#189AB4] mb-2">
+              Đọc & Tìm Từ Khóa
+            </h3>
+            <p>
+              Đọc kỹ câu hỏi và các lựa chọn. Gạch chân những từ khóa quan trọng
+              (danh từ, động từ) để hiểu rõ yêu cầu.
+            </p>
+          </div>
+          <div class="flow-arrow mx-6 hidden md:block">→</div>
+          <div class="flow-arrow my-4 md:hidden">↓</div>
+          <div class="card text-center w-full md:w-1/4">
+            <div class="text-6xl mb-2">🗺️</div>
+            <div
+              class="bg-[#05445E] text-white rounded-full w-12 h-12 flex items-center justify-center mx-auto mb-4 text-2xl font-bold"
+            >
+              2
+            </div>
+            <h3 class="text-xl font-bold text-[#189AB4] mb-2">
+              Đọc Lướt & Khoanh Vùng
+            </h3>
+            <p>
+              Đọc lướt (skim) bài đọc để xác định đoạn văn nào chứa thông tin
+              liên quan đến từ khóa của bạn.
+            </p>
+          </div>
+          <div class="flow-arrow mx-6 hidden md:block">→</div>
+          <div class="flow-arrow my-4 md:hidden">↓</div>
+          <div class="card text-center w-full md:w-1/4">
+            <div class="text-6xl mb-2">✔️/❌</div>
+            <div
+              class="bg-[#05445E] text-white rounded-full w-12 h-12 flex items-center justify-center mx-auto mb-4 text-2xl font-bold"
+            >
+              3
+            </div>
+            <h3 class="text-xl font-bold text-[#189AB4] mb-2">
+              Đọc Kỹ & Loại Trừ
+            </h3>
+            <p>
+              Đọc kỹ vùng thông tin đã khoanh vùng. Đối chiếu và loại bỏ các đáp
+              án sai để tìm ra câu trả lời chính xác nhất.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <section>
+        <h2 class="text-3xl font-bold text-center mb-8">
+          Cẩn Thận Với Các Loại "Bẫy" Phổ Biến
+        </h2>
+        <div class="grid grid-cols-1 lg:grid-cols-5 gap-8 items-center">
+          <div class="lg:col-span-2 card">
+            <p class="mb-4">
+              Trong quá trình loại trừ, bạn sẽ gặp phải nhiều loại đáp án gây
+              nhiễu. Hiểu rõ chúng là chìa khóa để tránh mất điểm đáng tiếc.
+              Trong đó, đáp án "Chỉ Đúng Một Phần" là loại bẫy nguy hiểm và phổ
+              biến nhất.
+            </p>
+            <ul class="space-y-3">
+              <li class="flex items-start">
+                <span class="text-red-500 font-bold mr-2 text-xl">❌</span>
+                <div>
+                  <strong>Sai Hoàn Toàn:</strong> Chứa thông tin trái ngược với
+                  nội dung bài đọc.
+                </div>
+              </li>
+              <li class="flex items-start">
+                <span class="text-yellow-500 font-bold mr-2 text-xl">❓</span>
+                <div>
+                  <strong>Không Được Đề Cập:</strong> Thông tin trong đáp án
+                  không hề xuất hiện trong bài.
+                </div>
+              </li>
+              <li class="flex items-start">
+                <span class="text-orange-500 font-bold mr-2 text-xl">⚠️</span>
+                <div>
+                  <strong>Chỉ Đúng Một Phần:</strong> Đáp án có chứa một vài từ
+                  khóa nhưng ý nghĩa tổng thể lại sai hoặc không đầy đủ.
+                </div>
+              </li>
+            </ul>
+          </div>
+          <div class="lg:col-span-3">
+            <div class="card">
+              <h3 class="text-xl font-bold text-center mb-4 text-[#189AB4]">
+                Mức Độ Nguy Hiểm Của Các Loại Bẫy
+              </h3>
+              <div class="chart-container h-64 sm:h-80">
+                <canvas id="trapsChart"></canvas>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+
+    <footer class="text-center p-6 mt-8">
+      <p class="text-sm text-[#05445E]">
+        Chúc bạn luyện tập thật tốt và áp dụng thành công phương pháp này vào
+        bài thi của mình nhé!
+      </p>
+    </footer>
+
+    <script>
+      function wrapLabel(label) {
+        const maxLength = 16;
+        if (typeof label !== "string" || label.length <= maxLength) {
+          return label;
+        }
+        const words = label.split(" ");
+        const lines = [];
+        let currentLine = "";
+        for (const word of words) {
+          if ((currentLine + " " + word).trim().length > maxLength) {
+            lines.push(currentLine.trim());
+            currentLine = word;
+          } else {
+            currentLine = (currentLine + " " + word).trim();
+          }
+        }
+        if (currentLine) {
+          lines.push(currentLine.trim());
+        }
+        return lines;
+      }
+
+      const tooltipTitleCallback = {
+        plugins: {
+          tooltip: {
+            callbacks: {
+              title: function (tooltipItems) {
+                const item = tooltipItems[0];
+                let label = item.chart.data.labels[item.dataIndex];
+                if (Array.isArray(label)) {
+                  return label.join(" ");
+                }
+                return label;
+              },
+            },
+          },
+          legend: {
+            position: "bottom",
+          },
+        },
+      };
+
+      const correctAnswerCtx = document
+        .getElementById("correctAnswerChart")
+        .getContext("2d");
+      new Chart(correctAnswerCtx, {
+        type: "doughnut",
+        data: {
+          labels: ["Đáp Án Đúng", "Đáp Án Bẫy"],
+          datasets: [
+            {
+              label: "Tỷ Lệ",
+              data: [1, 3],
+              backgroundColor: ["#189AB4", "#D4F1F4"],
+              borderColor: ["#05445E"],
+              borderWidth: 2,
+              hoverOffset: 4,
+            },
+          ],
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          ...tooltipTitleCallback,
+        },
+      });
+
+      const trapsCtx = document.getElementById("trapsChart").getContext("2d");
+      new Chart(trapsCtx, {
+        type: "bar",
+        data: {
+          labels: ["Sai Hoàn Toàn", "Không Đề Cập", "Chỉ Đúng Một Phần"].map(
+            wrapLabel
+          ),
+          datasets: [
+            {
+              label: "Mức Độ Nguy Hiểm",
+              data: [30, 50, 90],
+              backgroundColor: ["#75E6DA", "#189AB4", "#05445E"],
+              borderColor: "#05445E",
+              borderWidth: 1,
+              borderRadius: 5,
+            },
+          ],
+        },
+        options: {
+          indexAxis: "y",
+          responsive: true,
+          maintainAspectRatio: false,
+          scales: {
+            x: {
+              beginAtZero: true,
+              max: 100,
+              grid: {
+                display: false,
+              },
+            },
+            y: {
+              grid: {
+                display: false,
+              },
+            },
+          },
+          ...tooltipTitleCallback,
+          plugins: {
+            ...tooltipTitleCallback.plugins,
+            legend: {
+              display: false,
+            },
+          },
+        },
+      });
+    </script>
+  </body>
+</html>
