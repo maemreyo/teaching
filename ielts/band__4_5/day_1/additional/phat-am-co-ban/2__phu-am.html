@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Infographic Toàn Tập: Phụ Âm Tiếng Anh</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #f0f4f8;
+        }
+        .ipa {
+            font-family: 'Times New Roman', Times, serif;
+            font-size: 1.75rem;
+            color: #ef5675;
+        }
+        .chart-container {
+            position: relative;
+            width: 100%;
+            max-width: 600px;
+            margin-left: auto;
+            margin-right: auto;
+            height: 300px;
+            max-height: 400px;
+        }
+        @media (min-width: 768px) {
+            .chart-container {
+                height: 350px;
+            }
+        }
+        .consonant-table th, .consonant-table td {
+            border: 1px solid #cbd5e1;
+            padding: 0.5rem;
+            text-align: center;
+            font-size: 0.875rem;
+        }
+        .consonant-table th {
+            background-color: #e2e8f0;
+            font-weight: 600;
+        }
+        .voiceless { color: #003f5c; }
+        .voiced { color: #bc5090; }
+    </style>
+</head>
+<body class="text-gray-800">
+
+    <div class="container mx-auto p-4 md:p-8">
+
+        <header class="text-center mb-12">
+            <h1 class="text-4xl md:text-5xl font-bold text-[#003f5c] mb-2">Làm Chủ 24 Phụ Âm Tiếng Anh</h1>
+            <p class="text-lg text-gray-600 max-w-3xl mx-auto">Khám phá hệ thống phụ âm qua cách phân loại khoa học: độ rung, vị trí và phương thức cấu âm.</p>
+        </header>
+
+        <section class="bg-white rounded-lg shadow-lg p-6 md:p-8 mb-12">
+            <h2 class="text-2xl font-bold text-center text-[#003f5c] mb-4">Phân Loại Phụ Âm Theo Độ Rung</h2>
+            <p class="text-center text-gray-600 mb-8 max-w-2xl mx-auto">Phụ âm được chia thành hai loại chính dựa trên việc dây thanh quản có rung khi phát âm hay không: Vô thanh (Voiceless - không rung) và Hữu thanh (Voiced - có rung).</p>
+            <div class="chart-container">
+                <canvas id="consonantVoicingChart"></canvas>
+            </div>
+        </section>
+
+        <section class="bg-white rounded-lg shadow-lg p-6 md:p-8 mb-12">
+            <h2 class="text-2xl font-bold text-center text-[#003f5c] mb-4">Bảng Phân Loại Phụ Âm Chi Tiết</h2>
+            <p class="text-center text-gray-600 mb-8 max-w-3xl mx-auto">Bảng dưới đây hệ thống hóa toàn bộ 24 phụ âm dựa trên Vị Trí Cấu Âm (luồng hơi bị chặn ở đâu) và Phương Thức Cấu Âm (luồng hơi bị chặn như thế nào). Trong mỗi ô, phụ âm bên trái là <span class="font-bold voiceless">Vô thanh</span>, bên phải là <span class="font-bold voiced">Hữu thanh</span>.</p>
+            <div class="overflow-x-auto">
+                <table class="w-full min-w-max border-collapse consonant-table">
+                    <thead>
+                        <tr>
+                            <th>↓ Phương Thức / Vị Trí →</th>
+                            <th>Môi-Môi (Bilabial)</th>
+                            <th>Môi-Răng (Labiodental)</th>
+                            <th>Răng (Dental)</th>
+                            <th>Lợi (Alveolar)</th>
+                            <th>Sau Lợi (Palato-alveolar)</th>
+                            <th>Ngạc Cứng (Palatal)</th>
+                            <th>Ngạc Mềm (Velar)</th>
+                            <th>Thanh Môn (Glottal)</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <th>Âm Nổ (Plosive)</th>
+                            <td><span class="voiceless">/p/</span> <span class="voiced">/b/</span></td>
+                            <td></td>
+                            <td></td>
+                            <td><span class="voiceless">/t/</span> <span class="voiced">/d/</span></td>
+                            <td></td>
+                            <td></td>
+                            <td><span class="voiceless">/k/</span> <span class="voiced">/g/</span></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <th>Âm Xát (Fricative)</th>
+                            <td></td>
+                            <td><span class="voiceless">/f/</span> <span class="voiced">/v/</span></td>
+                            <td><span class="voiceless">/θ/</span> <span class="voiced">/ð/</span></td>
+                            <td><span class="voiceless">/s/</span> <span class="voiced">/z/</span></td>
+                            <td><span class="voiceless">/ʃ/</span> <span class="voiced">/ʒ/</span></td>
+                            <td></td>
+                            <td></td>
+                            <td><span class="voiceless">/h/</span></td>
+                        </tr>
+                        <tr>
+                            <th>Âm Tắc Xát (Affricate)</th>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td><span class="voiceless">/tʃ/</span> <span class="voiced">/dʒ/</span></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <th>Âm Mũi (Nasal)</th>
+                            <td><span class="voiced">/m/</span></td>
+                            <td></td>
+                            <td></td>
+                            <td><span class="voiced">/n/</span></td>
+                            <td></td>
+                            <td></td>
+                            <td><span class="voiced">/ŋ/</span></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <th>Âm Tiếp Cận (Approximant)</th>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td><span class="voiced">/r/</span> <span class="voiced">/l/</span></td>
+                            <td></td>
+                            <td><span class="voiced">/j/</span></td>
+                            <td><span class="voiced">/w/</span></td>
+                            <td></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </section>
+
+        <section id="consonant-groups" class="mb-12">
+            <div class="text-center mb-10">
+                 <h2 class="text-3xl font-bold text-[#003f5c]">Khám Phá Các Nhóm Phụ Âm</h2>
+                 <p class="text-gray-600 mt-2 max-w-3xl mx-auto">Cùng đi sâu vào từng nhóm phụ âm theo phương thức cấu âm để hiểu rõ cách tạo ra từng âm thanh.</p>
+            </div>
+            
+            <div class="space-y-12">
+                <div>
+                    <h3 class="text-2xl font-semibold text-[#374c80] mb-6 text-center">Âm Nổ (Plosives) - 6 Âm</h3>
+                    <p class="text-center text-gray-600 -mt-4 mb-6 max-w-xl mx-auto">Luồng hơi bị chặn lại hoàn toàn trong khoang miệng rồi đột ngột bật ra.</p>
+                    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                        <div class="bg-white rounded-lg shadow-md p-5 text-center"><p class="ipa">/p/</p><p class="mt-2 font-semibold">Ví dụ: <span class="font-normal text-[#bc5090]"><b class="font-bold">p</b>en, co<b class="font-bold">p</b>y, la<b class="font-bold">p</b></span></p></div>
+                        <div class="bg-white rounded-lg shadow-md p-5 text-center"><p class="ipa">/b/</p><p class="mt-2 font-semibold">Ví dụ: <span class="font-normal text-[#bc5090]"><b class="font-bold">b</b>ack, jo<b class="font-bold">b</b>, ru<b class="font-bold">b</b></span></p></div>
+                        <div class="bg-white rounded-lg shadow-md p-5 text-center"><p class="ipa">/t/</p><p class="mt-2 font-semibold">Ví dụ: <span class="font-normal text-[#bc5090]"><b class="font-bold">t</b>ea, bu<b class="font-bold">tt</b>on, ha<b class="font-bold">t</b></span></p></div>
+                        <div class="bg-white rounded-lg shadow-md p-5 text-center"><p class="ipa">/d/</p><p class="mt-2 font-semibold">Ví dụ: <span class="font-normal text-[#bc5090]"><b class="font-bold">d</b>ay, la<b class="font-bold">dd</b>er, ba<b class="font-bold">d</b></span></p></div>
+                        <div class="bg-white rounded-lg shadow-md p-5 text-center"><p class="ipa">/k/</p><p class="mt-2 font-semibold">Ví dụ: <span class="font-normal text-[#bc5090]"><b class="font-bold">k</b>ey, <b class="font-bold">c</b>at, ba<b class="font-bold">ck</b></span></p></div>
+                        <div class="bg-white rounded-lg shadow-md p-5 text-center"><p class="ipa">/g/</p><p class="mt-2 font-semibold">Ví dụ: <span class="font-normal text-[#bc5090]"><b class="font-bold">g</b>o, bi<b class="font-bold">gg</b>er, ba<b class="font-bold">g</b></span></p></div>
+                    </div>
+                </div>
+
+                <div>
+                    <h3 class="text-2xl font-semibold text-[#374c80] mb-6 text-center">Âm Xát (Fricatives) - 9 Âm</h3>
+                    <p class="text-center text-gray-600 -mt-4 mb-6 max-w-xl mx-auto">Luồng hơi đi qua một khe rất hẹp giữa các cơ quan cấu âm, tạo ra tiếng ma sát/tiếng gió rít.</p>
+                    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                        <div class="bg-white rounded-lg shadow-md p-5 text-center"><p class="ipa">/f/</p><p class="mt-2 font-semibold">Ví dụ: <span class="font-normal text-[#ff764a]"><b class="font-bold">f</b>at, co<b class="font-bold">ff</b>ee, lea<b class="font-bold">f</b></span></p></div>
+                        <div class="bg-white rounded-lg shadow-md p-5 text-center"><p class="ipa">/v/</p><p class="mt-2 font-semibold">Ví dụ: <span class="font-normal text-[#ff764a]"><b class="font-bold">v</b>iew, ha<b class="font-bold">v</b>e, mo<b class="font-bold">v</b>e</span></p></div>
+                        <div class="bg-white rounded-lg shadow-md p-5 text-center"><p class="ipa">/θ/</p><p class="mt-2 font-semibold">Ví dụ: <span class="font-normal text-[#ff764a]"><b class="font-bold">th</b>ink, bo<b class="font-bold">th</b>, pa<b class="font-bold">th</b></span></p></div>
+                        <div class="bg-white rounded-lg shadow-md p-5 text-center"><p class="ipa">/ð/</p><p class="mt-2 font-semibold">Ví dụ: <span class="font-normal text-[#ff764a]"><b class="font-bold">th</b>is, o<b class="font-bold">th</b>er, smoo<b class="font-bold">th</b></span></p></div>
+                        <div class="bg-white rounded-lg shadow-md p-5 text-center"><p class="ipa">/s/</p><p class="mt-2 font-semibold">Ví dụ: <span class="font-normal text-[#ff764a]"><b class="font-bold">s</b>oon, pa<b class="font-bold">ss</b>, <b class="font-bold">c</b>ity</span></p></div>
+                        <div class="bg-white rounded-lg shadow-md p-5 text-center"><p class="ipa">/z/</p><p class="mt-2 font-semibold">Ví dụ: <span class="font-normal text-[#ff764a]"><b class="font-bold">z</b>oo, la<b class="font-bold">z</b>y, i<b class="font-bold">s</b></span></p></div>
+                        <div class="bg-white rounded-lg shadow-md p-5 text-center"><p class="ipa">/ʃ/</p><p class="mt-2 font-semibold">Ví dụ: <span class="font-normal text-[#ff764a]"><b class="font-bold">sh</b>e, su<b class="font-bold">re</b>, wa<b class="font-bold">sh</b></span></p></div>
+                        <div class="bg-white rounded-lg shadow-md p-5 text-center"><p class="ipa">/ʒ/</p><p class="mt-2 font-semibold">Ví dụ: <span class="font-normal text-[#ff764a]">plea<b class="font-bold">s</b>ure, vi<b class="font-bold">s</b>ion</span></p></div>
+                        <div class="bg-white rounded-lg shadow-md p-5 text-center"><p class="ipa">/h/</p><p class="mt-2 font-semibold">Ví dụ: <span class="font-normal text-[#ff764a]"><b class="font-bold">h</b>ot, a<b class="font-bold">h</b>ead</span></p></div>
+                    </div>
+                </div>
+
+                <div>
+                    <h3 class="text-2xl font-semibold text-[#374c80] mb-6 text-center">Các Nhóm Âm Khác</h3>
+                    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                        <div class="space-y-4">
+                            <h4 class="font-bold text-center text-lg text-[#7a5195]">Âm Tắc Xát (Affricates)</h4>
+                            <p class="text-center text-xs text-gray-500 px-4">Bắt đầu bằng một âm nổ, sau đó giải phóng thành một âm xát.</p>
+                            <div class="bg-white rounded-lg shadow-md p-5 text-center"><p class="ipa">/tʃ/</p><p class="mt-2 font-semibold">Ví dụ: <span class="font-normal"><b class="font-bold">ch</b>ur<b class="font-bold">ch</b>, wa<b class="font-bold">tch</b></span></p></div>
+                            <div class="bg-white rounded-lg shadow-md p-5 text-center"><p class="ipa">/dʒ/</p><p class="mt-2 font-semibold">Ví dụ: <span class="font-normal"><b class="font-bold">j</b>u<b class="font-bold">dge</b>, a<b class="font-bold">ge</b></span></p></div>
+                        </div>
+                        <div class="space-y-4">
+                            <h4 class="font-bold text-center text-lg text-[#7a5195]">Âm Mũi (Nasals)</h4>
+                            <p class="text-center text-xs text-gray-500 px-4">Luồng hơi thoát ra hoàn toàn qua đường mũi thay vì đường miệng.</p>
+                            <div class="bg-white rounded-lg shadow-md p-5 text-center"><p class="ipa">/m/</p><p class="mt-2 font-semibold">Ví dụ: <span class="font-normal"><b class="font-bold">m</b>ore, ha<b class="font-bold">mm</b>er</span></p></div>
+                            <div class="bg-white rounded-lg shadow-md p-5 text-center"><p class="ipa">/n/</p><p class="mt-2 font-semibold">Ví dụ: <span class="font-normal"><b class="font-bold">n</b>ice, su<b class="font-bold">nn</b>y</span></p></div>
+                            <div class="bg-white rounded-lg shadow-md p-5 text-center"><p class="ipa">/ŋ/</p><p class="mt-2 font-semibold">Ví dụ: <span class="font-normal">si<b class="font-bold">ng</b>, fi<b class="font-bold">n</b>ger</span></p></div>
+                        </div>
+                        <div class="space-y-4">
+                             <h4 class="font-bold text-center text-lg text-[#7a5195]">Âm Tiếp Cận (Approximants)</h4>
+                             <p class="text-center text-xs text-gray-500 px-4">Các cơ quan cấu âm tiến lại gần nhau nhưng không tạo ra ma sát rõ rệt.</p>
+                             <div class="bg-white rounded-lg shadow-md p-5 text-center"><p class="ipa">/l/</p><p class="mt-2 font-semibold">Ví dụ: <span class="font-normal"><b class="font-bold">l</b>ight, mi<b class="font-bold">ll</b>ion</span></p></div>
+                             <div class="bg-white rounded-lg shadow-md p-5 text-center"><p class="ipa">/r/</p><p class="mt-2 font-semibold">Ví dụ: <span class="font-normal"><b class="font-bold">r</b>ight, so<b class="font-bold">rr</b>y</span></p></div>
+                             <div class="bg-white rounded-lg shadow-md p-5 text-center"><p class="ipa">/w/</p><p class="mt-2 font-semibold">Ví dụ: <span class="font-normal"><b class="font-bold">w</b>et, <b class="font-bold">o</b>ne</span></p></div>
+                             <div class="bg-white rounded-lg shadow-md p-5 text-center"><p class="ipa">/j/</p><p class="mt-2 font-semibold">Ví dụ: <span class="font-normal"><b class="font-bold">y</b>es, <b class="font-bold">u</b>se</span></p></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <footer class="text-center mt-12 py-6 border-t">
+            <p class="text-gray-600">Hãy luyện tập thường xuyên để thành thạo các phụ âm này!</p>
+        </footer>
+    </div>
+
+    <script>
+        const tooltipCallback = {
+            plugins: {
+                tooltip: {
+                    callbacks: {
+                        title: function(tooltipItems) {
+                            const item = tooltipItems[0];
+                            let label = item.chart.data.labels[item.dataIndex];
+                            if (Array.isArray(label)) {
+                              return label.join(' ');
+                            }
+                            return label;
+                        }
+                    }
+                }
+            }
+        };
+
+        const consonantVoicingCtx = document.getElementById('consonantVoicingChart').getContext('2d');
+        new Chart(consonantVoicingCtx, {
+            type: 'bar',
+            data: {
+                labels: ['Phụ Âm Vô Thanh (Voiceless)', 'Phụ Âm Hữu Thanh (Voiced)'],
+                datasets: [{
+                    label: 'Số Lượng Âm',
+                    data: [9, 15],
+                    backgroundColor: ['#003f5c', '#bc5090'],
+                    borderColor: ['#003f5c', '#bc5090'],
+                    borderWidth: 1,
+                    borderRadius: 5
+                }]
+            },
+            options: {
+                indexAxis: 'y',
+                responsive: true,
+                maintainAspectRatio: false,
+                scales: {
+                    x: {
+                        beginAtZero: true,
+                        ticks: {
+                           stepSize: 3
+                        }
+                    }
+                },
+                plugins: {
+                    ...tooltipCallback.plugins,
+                    legend: {
+                       display: false
+                    },
+                }
+            }
+        });
+    </script>
+</body>
+</html>
+

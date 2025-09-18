@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Infographic Toàn Tập: Nguyên Âm Tiếng Anh</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #f0f4f8;
+        }
+        .ipa {
+            font-family: 'Times New Roman', Times, serif;
+            font-size: 1.75rem;
+            color: #ef5675;
+        }
+        .chart-container {
+            position: relative;
+            width: 100%;
+            max-width: 450px;
+            margin-left: auto;
+            margin-right: auto;
+            height: 300px;
+            max-height: 400px;
+        }
+        @media (min-width: 768px) {
+            .chart-container {
+                height: 350px;
+            }
+        }
+        .flow-arrow {
+            position: relative;
+            margin: 0 1rem;
+            color: #7a5195;
+            font-size: 2rem;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body class="text-gray-800">
+
+    <div class="container mx-auto p-4 md:p-8">
+
+        <header class="text-center mb-12">
+            <h1 class="text-4xl md:text-5xl font-bold text-[#003f5c] mb-2">Làm Chủ 20 Nguyên Âm Tiếng Anh</h1>
+            <p class="text-lg text-gray-600 max-w-3xl mx-auto">Một hướng dẫn trực quan hóa toàn bộ hệ thống nguyên âm theo chuẩn Anh-Anh, giúp bạn phát âm chuẩn xác hơn.</p>
+        </header>
+
+        <section class="bg-white rounded-lg shadow-lg p-6 md:p-8 mb-12">
+            <h2 class="text-2xl font-bold text-center text-[#003f5c] mb-4">Bức Tranh Toàn Cảnh Về Nguyên Âm</h2>
+            <p class="text-center text-gray-600 mb-8 max-w-2xl mx-auto">Hệ thống phiên âm tiếng Anh có tổng cộng 20 nguyên âm, được chia thành hai nhóm chính: nguyên âm đơn (Monophthongs) và nguyên âm đôi (Diphthongs). Biểu đồ dưới đây thể hiện sự phân bổ của chúng.</p>
+            <div class="chart-container">
+                <canvas id="vowelDistributionChart"></canvas>
+            </div>
+        </section>
+
+        <section id="monophthongs" class="mb-12">
+            <div class="text-center mb-8">
+                 <h2 class="text-3xl font-bold text-[#003f5c]">Phần 1: Nguyên Âm Đơn (Monophthongs) - 12 Âm</h2>
+                 <p class="text-gray-600 mt-2 max-w-3xl mx-auto">Đây là những âm cơ bản nhất, vị trí của lưỡi và môi không thay đổi trong suốt quá trình phát âm. Chúng được chia thành 2 nhóm nhỏ hơn: nguyên âm ngắn và nguyên âm dài.</p>
+            </div>
+
+            <div class="mb-10">
+                <h3 class="text-2xl font-semibold text-[#374c80] mb-6 text-center">1.1. Nguyên Âm Ngắn (Short Vowels) - 7 Âm</h3>
+                <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+                    <div class="bg-white rounded-lg shadow-md p-6 flex flex-col items-center text-center transition-transform transform hover:scale-105">
+                        <p class="ipa">/ɪ/</p>
+                        <p class="font-semibold mt-2">Giống 'i' (nhanh, gọn)</p>
+                        <p class="text-gray-500 text-sm mt-1">Môi hơi mở, lưỡi đưa cao về phía trước.</p>
+                        <p class="mt-4 font-semibold">Ví dụ: <span class="font-normal text-[#bc5090]">s<b class="font-bold">i</b>t, sh<b class="font-bold">i</b>p, k<b class="font-bold">i</b>d</span></p>
+                    </div>
+                    <div class="bg-white rounded-lg shadow-md p-6 flex flex-col items-center text-center transition-transform transform hover:scale-105">
+                        <p class="ipa">/e/</p>
+                        <p class="font-semibold mt-2">Giống 'e'</p>
+                        <p class="text-gray-500 text-sm mt-1">Miệng mở rộng hơn /ɪ/, lưỡi hạ thấp hơn.</p>
+                        <p class="mt-4 font-semibold">Ví dụ: <span class="font-normal text-[#bc5090]">b<b class="font-bold">e</b>d, h<b class="font-bold">ea</b>d, m<b class="font-bold">e</b>n</span></p>
+                    </div>
+                     <div class="bg-white rounded-lg shadow-md p-6 flex flex-col items-center text-center transition-transform transform hover:scale-105">
+                        <p class="ipa">/æ/</p>
+                        <p class="font-semibold mt-2">Lai giữa 'a' và 'e'</p>
+                        <p class="text-gray-500 text-sm mt-1">Miệng mở rộng, lưỡi hạ thấp, hơi bè.</p>
+                        <p class="mt-4 font-semibold">Ví dụ: <span class="font-normal text-[#bc5090]">c<b class="font-bold">a</b>t, b<b class="font-bold">a</b>d, m<b class="font-bold">a</b>n</span></p>
+                    </div>
+                    <div class="bg-white rounded-lg shadow-md p-6 flex flex-col items-center text-center transition-transform transform hover:scale-105">
+                        <p class="ipa">/ɒ/</p>
+                        <p class="font-semibold mt-2">Giống 'o' (tròn môi)</p>
+                        <p class="text-gray-500 text-sm mt-1">Môi tròn, hàm hạ thấp, lưỡi lùi về sau.</p>
+                        <p class="mt-4 font-semibold">Ví dụ: <span class="font-normal text-[#bc5090]">h<b class="font-bold">o</b>t, b<b class="font-bold">o</b>x, n<b class="font-bold">o</b>t</span></p>
+                    </div>
+                    <div class="bg-white rounded-lg shadow-md p-6 flex flex-col items-center text-center transition-transform transform hover:scale-105">
+                        <p class="ipa">/ʌ/</p>
+                        <p class="font-semibold mt-2">Giống 'ă'</p>
+                        <p class="text-gray-500 text-sm mt-1">Miệng thả lỏng tự nhiên, lưỡi nâng nhẹ.</p>
+                        <p class="mt-4 font-semibold">Ví dụ: <span class="font-normal text-[#bc5090]">c<b class="font-bold">u</b>t, s<b class="font-bold">u</b>n, m<b class="font-bold">o</b>ney</span></p>
+                    </div>
+                    <div class="bg-white rounded-lg shadow-md p-6 flex flex-col items-center text-center transition-transform transform hover:scale-105">
+                        <p class="ipa">/ʊ/</p>
+                        <p class="font-semibold mt-2">Giống 'u' (ngắn)</p>
+                        <p class="text-gray-500 text-sm mt-1">Môi tròn, lưỡi lùi về sau và nâng lên.</p>
+                        <p class="mt-4 font-semibold">Ví dụ: <span class="font-normal text-[#bc5090]">p<b class="font-bold">u</b>t, b<b class="font-bold">oo</b>k, c<b class="font-bold">oul</b>d</span></p>
+                    </div>
+                    <div class="bg-white rounded-lg shadow-md p-6 flex flex-col items-center text-center transition-transform transform hover:scale-105">
+                        <p class="ipa">/ə/</p>
+                        <p class="font-semibold mt-2">Âm schwa /ơ/ (nhẹ)</p>
+                        <p class="text-gray-500 text-sm mt-1">Miệng thả lỏng nhất có thể, âm lướt.</p>
+                        <p class="mt-4 font-semibold">Ví dụ: <span class="font-normal text-[#bc5090]"><b class="font-bold">a</b>bout, teach<b class="font-bold">er</b></span></p>
+                    </div>
+                </div>
+            </div>
+            
+            <div>
+                <h3 class="text-2xl font-semibold text-[#374c80] mb-6 text-center">1.2. Nguyên Âm Dài (Long Vowels) - 5 Âm</h3>
+                <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5 gap-6">
+                    <div class="bg-white rounded-lg shadow-md p-6 flex flex-col items-center text-center transition-transform transform hover:scale-105">
+                        <p class="ipa">/i:/</p>
+                        <p class="font-semibold mt-2">Giống 'i' (kéo dài)</p>
+                        <p class="text-gray-500 text-sm mt-1">Miệng cười, lưỡi nâng cao về phía trước.</p>
+                        <p class="mt-4 font-semibold">Ví dụ: <span class="font-normal text-[#ff764a]">s<b class="font-bold">ee</b>, sh<b class="font-bold">ee</b>p, m<b class="font-bold">ea</b>t</span></p>
+                    </div>
+                    <div class="bg-white rounded-lg shadow-md p-6 flex flex-col items-center text-center transition-transform transform hover:scale-105">
+                        <p class="ipa">/ɑ:/</p>
+                        <p class="font-semibold mt-2">Giống 'a' (kéo dài)</p>
+                        <p class="text-gray-500 text-sm mt-1">Miệng mở to, lưỡi hạ thấp và lùi về sau.</p>
+                        <p class="mt-4 font-semibold">Ví dụ: <span class="font-normal text-[#ff764a]">f<b class="font-bold">a</b>ther, c<b class="font-bold">ar</b>, h<b class="font-bold">ear</b>t</span></p>
+                    </div>
+                    <div class="bg-white rounded-lg shadow-md p-6 flex flex-col items-center text-center transition-transform transform hover:scale-105">
+                        <p class="ipa">/ɔ:/</p>
+                        <p class="font-semibold mt-2">Giống 'o' (kéo dài)</p>
+                        <p class="text-gray-500 text-sm mt-1">Môi tròn, lưỡi lùi về sau.</p>
+                        <p class="mt-4 font-semibold">Ví dụ: <span class="font-normal text-[#ff764a]">d<b class="font-bold">oor</b>, w<b class="font-bold">a</b>lk, s<b class="font-bold">aw</b></span></p>
+                    </div>
+                    <div class="bg-white rounded-lg shadow-md p-6 flex flex-col items-center text-center transition-transform transform hover:scale-105">
+                        <p class="ipa">/u:/</p>
+                        <p class="font-semibold mt-2">Giống 'u' (kéo dài)</p>
+                        <p class="text-gray-500 text-sm mt-1">Môi tròn, chu ra trước, lưỡi nâng cao.</p>
+                        <p class="mt-4 font-semibold">Ví dụ: <span class="font-normal text-[#ff764a]">bl<b class="font-bold">ue</b>, f<b class="font-bold">oo</b>d, sh<b class="font-bold">oe</b></span></p>
+                    </div>
+                    <div class="bg-white rounded-lg shadow-md p-6 flex flex-col items-center text-center transition-transform transform hover:scale-105">
+                        <p class="ipa">/ɜ:/</p>
+                        <p class="font-semibold mt-2">Giống 'ơ' (cong lưỡi)</p>
+                        <p class="text-gray-500 text-sm mt-1">Miệng thả lỏng, lưỡi ở vị trí trung tâm.</p>
+                        <p class="mt-4 font-semibold">Ví dụ: <span class="font-normal text-[#ff764a]">b<b class="font-bold">ir</b>d, f<b class="font-bold">ur</b>, l<b class="font-bold">ear</b>n</span></p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="diphthongs" class="mb-12">
+            <div class="text-center mb-8">
+                <h2 class="text-3xl font-bold text-[#003f5c]">Phần 2: Nguyên Âm Đôi (Diphthongs) - 8 Âm</h2>
+                <p class="text-gray-600 mt-2 max-w-3xl mx-auto">Đây là sự kết hợp của hai nguyên âm đơn, tạo ra một âm lướt từ vị trí khẩu hình của âm đầu tiên sang âm thứ hai. Hãy chú ý đến sự di chuyển của miệng.</p>
+            </div>
+
+            <div class="space-y-10">
+                <div class="bg-white p-6 rounded-lg shadow-md">
+                    <h3 class="text-xl font-semibold text-[#7a5195] mb-4 text-center">Nhóm kết thúc bằng /ɪ/</h3>
+                    <div class="grid grid-cols-1 md:grid-cols-3 gap-6 text-center">
+                         <div class="p-4 rounded-lg bg-indigo-50">
+                            <div class="flex items-center justify-center"><span class="ipa">/e/</span><span class="flow-arrow">→</span><span class="ipa">/ɪ/</span></div>
+                            <p class="text-2xl font-bold text-[#ef5675] my-2">/eɪ/</p>
+                            <p>Ví dụ: s<b class="font-bold">ay</b>, m<b class="font-bold">a</b>ke, r<b class="font-bold">ai</b>n</p>
+                        </div>
+                        <div class="p-4 rounded-lg bg-indigo-50">
+                            <div class="flex items-center justify-center"><span class="ipa">/a/</span><span class="flow-arrow">→</span><span class="ipa">/ɪ/</span></div>
+                            <p class="text-2xl font-bold text-[#ef5675] my-2">/aɪ/</p>
+                            <p>Ví dụ: m<b class="font-bold">y</b>, b<b class="font-bold">uy</b>, <b class="font-bold">eye</b></p>
+                        </div>
+                        <div class="p-4 rounded-lg bg-indigo-50">
+                            <div class="flex items-center justify-center"><span class="ipa">/ɔ/</span><span class="flow-arrow">→</span><span class="ipa">/ɪ/</span></div>
+                            <p class="text-2xl font-bold text-[#ef5675] my-2">/ɔɪ/</p>
+                            <p>Ví dụ: b<b class="font-bold">oy</b>, t<b class="font-bold">oy</b>, c<b class="font-bold">oi</b>n</p>
+                        </div>
+                    </div>
+                </div>
+                 <div class="bg-white p-6 rounded-lg shadow-md">
+                    <h3 class="text-xl font-semibold text-[#7a5195] mb-4 text-center">Nhóm kết thúc bằng /ʊ/</h3>
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-6 text-center">
+                         <div class="p-4 rounded-lg bg-pink-50">
+                            <div class="flex items-center justify-center"><span class="ipa">/ə/</span><span class="flow-arrow">→</span><span class="ipa">/ʊ/</span></div>
+                            <p class="text-2xl font-bold text-[#ef5675] my-2">/əʊ/</p>
+                            <p>Ví dụ: g<b class="font-bold">o</b>, sh<b class="font-bold">ow</b>, c<b class="font-bold">oa</b>t</p>
+                        </div>
+                        <div class="p-4 rounded-lg bg-pink-50">
+                            <div class="flex items-center justify-center"><span class="ipa">/a/</span><span class="flow-arrow">→</span><span class="ipa">/ʊ/</span></div>
+                            <p class="text-2xl font-bold text-[#ef5675] my-2">/aʊ/</p>
+                            <p>Ví dụ: n<b class="font-bold">ow</b>, h<b class="font-bold">ou</b>se, c<b class="font-bold">ow</b></p>
+                        </div>
+                    </div>
+                </div>
+                 <div class="bg-white p-6 rounded-lg shadow-md">
+                    <h3 class="text-xl font-semibold text-[#7a5195] mb-4 text-center">Nhóm kết thúc bằng /ə/</h3>
+                    <div class="grid grid-cols-1 md:grid-cols-3 gap-6 text-center">
+                         <div class="p-4 rounded-lg bg-orange-50">
+                            <div class="flex items-center justify-center"><span class="ipa">/ɪ/</span><span class="flow-arrow">→</span><span class="ipa">/ə/</span></div>
+                            <p class="text-2xl font-bold text-[#ef5675] my-2">/ɪə/</p>
+                            <p>Ví dụ: h<b class="font-bold">ere</b>, n<b class="font-bold">ear</b>, b<b class="font-bold">eer</b></p>
+                        </div>
+                        <div class="p-4 rounded-lg bg-orange-50">
+                            <div class="flex items-center justify-center"><span class="ipa">/e/</span><span class="flow-arrow">→</span><span class="ipa">/ə/</span></div>
+                            <p class="text-2xl font-bold text-[#ef5675] my-2">/eə/</p>
+                            <p>Ví dụ: h<b class="font-bold">air</b>, c<b class="font-bold">are</b>, th<b class="font-bold">ere</b></p>
+                        </div>
+                        <div class="p-4 rounded-lg bg-orange-50">
+                            <div class="flex items-center justify-center"><span class="ipa">/ʊ/</span><span class="flow-arrow">→</span><span class="ipa">/ə/</span></div>
+                            <p class="text-2xl font-bold text-[#ef5675] my-2">/ʊə/</p>
+                            <p>Ví dụ: t<b class="font-bold">our</b>ist, p<b class="font-bold">oor</b></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+        <section class="bg-white rounded-lg shadow-lg p-6 md:p-8 mb-12">
+            <h2 class="text-2xl font-bold text-center text-[#003f5c] mb-4">So Sánh Vị Trí Lưỡi</h2>
+            <p class="text-center text-gray-600 mb-8 max-w-2xl mx-auto">Biểu đồ radar dưới đây mô phỏng vị trí của lưỡi khi phát âm một số nguyên âm đơn đặc trưng. Các trục thể hiện độ cao của lưỡi (Cao-Thấp) và vị trí trong miệng (Trước-Sau). Điều này giúp bạn hình dung sự khác biệt trong khẩu hình.</p>
+            <div class="chart-container">
+                <canvas id="vowelPositionChart"></canvas>
+            </div>
+        </section>
+
+        <footer class="text-center mt-12 py-6 border-t">
+            <p class="text-gray-600">Chúc bạn học tốt và sớm làm chủ phát âm tiếng Anh!</p>
+        </footer>
+    </div>
+
+    <script>
+        const tooltipCallback = {
+            plugins: {
+                tooltip: {
+                    callbacks: {
+                        title: function(tooltipItems) {
+                            const item = tooltipItems[0];
+                            let label = item.chart.data.labels[item.dataIndex];
+                            if (Array.isArray(label)) {
+                              return label.join(' ');
+                            }
+                            return label;
+                        }
+                    }
+                }
+            }
+        };
+
+        function wrapLabels(label, maxLength = 16) {
+            const words = label.split(' ');
+            if (words.length === 1 && label.length > maxLength) {
+                return label;
+            }
+            const lines = [];
+            let currentLine = '';
+            for (const word of words) {
+                if ((currentLine + word).length > maxLength) {
+                    lines.push(currentLine.trim());
+                    currentLine = '';
+                }
+                currentLine += word + ' ';
+            }
+            lines.push(currentLine.trim());
+            return lines.filter(line => line);
+        }
+
+        const vowelDistributionCtx = document.getElementById('vowelDistributionChart').getContext('2d');
+        new Chart(vowelDistributionCtx, {
+            type: 'doughnut',
+            data: {
+                labels: ['Nguyên Âm Đơn (12)', 'Nguyên Âm Đôi (8)'],
+                datasets: [{
+                    label: 'Phân Bố Nguyên Âm',
+                    data: [12, 8],
+                    backgroundColor: ['#7a5195', '#ff764a'],
+                    borderColor: ['#ffffff'],
+                    borderWidth: 4,
+                    hoverOffset: 8
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    ...tooltipCallback.plugins,
+                    legend: {
+                        position: 'bottom',
+                        labels: {
+                            font: {
+                                size: 14
+                            }
+                        }
+                    },
+                }
+            }
+        });
+
+        const vowelPositionCtx = document.getElementById('vowelPositionChart').getContext('2d');
+        new Chart(vowelPositionCtx, {
+            type: 'radar',
+            data: {
+                labels: ['Lưỡi đưa ra Trước', 'Lưỡi Nâng Cao', 'Lưỡi lùi về Sau', 'Lưỡi Hạ Thấp'],
+                datasets: [
+                    {
+                        label: '/i:/ (see)',
+                        data: [5, 5, 1, 1],
+                        fill: true,
+                        backgroundColor: 'rgba(239, 86, 117, 0.2)',
+                        borderColor: '#ef5675',
+                        pointBackgroundColor: '#ef5675',
+                        pointBorderColor: '#fff',
+                    },
+                    {
+                        label: '/u:/ (blue)',
+                        data: [1, 5, 5, 1],
+                        fill: true,
+                        backgroundColor: 'rgba(0, 63, 92, 0.2)',
+                        borderColor: '#003f5c',
+                        pointBackgroundColor: '#003f5c',
+                        pointBorderColor: '#fff',
+                    },
+                    {
+                        label: '/æ/ (cat)',
+                        data: [4, 1, 1, 5],
+                        fill: true,
+                        backgroundColor: 'rgba(255, 166, 0, 0.2)',
+                        borderColor: '#ffa600',
+                        pointBackgroundColor: '#ffa600',
+                        pointBorderColor: '#fff',
+                    },
+                     {
+                        label: '/ɑ:/ (car)',
+                        data: [1, 1, 4, 5],
+                        fill: true,
+                        backgroundColor: 'rgba(122, 81, 149, 0.2)',
+                        borderColor: '#7a5195',
+                        pointBackgroundColor: '#7a5195',
+                        pointBorderColor: '#fff',
+                    }
+                ]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                scales: {
+                    r: {
+                        angleLines: { display: true },
+                        suggestedMin: 0,
+                        suggestedMax: 5,
+                        pointLabels: {
+                            font: {
+                                size: 12
+                            }
+                        },
+                         ticks: {
+                            display: false,
+                            stepSize: 1
+                        }
+                    }
+                },
+                 plugins: {
+                    ...tooltipCallback.plugins,
+                    legend: {
+                        position: 'bottom',
+                    },
+                }
+            }
+        });
+    </script>
+</body>
+</html>
