@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chinh Phục Dạng Bài True/False/Not Given IELTS Reading</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;900&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #D4F1F4;
+            color: #05445E;
+        }
+        .card {
+            background-color: white;
+            border-radius: 0.75rem;
+            box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+            padding: 1.5rem;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            height: 100%;
+        }
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -2px rgb(0 0 0 / 0.1);
+        }
+        .step-card {
+            display: flex;
+            align-items: flex-start;
+            gap: 1rem;
+        }
+        .step-number {
+            flex-shrink: 0;
+            background-color: #05445E;
+            color: white;
+            border-radius: 9999px;
+            width: 3rem;
+            height: 3rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.5rem;
+            font-weight: bold;
+        }
+        .comparison-grid {
+            display: grid;
+            grid-template-columns: 1fr auto 1fr;
+            align-items: center;
+            gap: 1rem;
+        }
+        .divider-line {
+            width: 2px;
+            height: 100%;
+            background-color: #75E6DA;
+        }
+    </style>
+</head>
+<body class="antialiased">
+
+    <div class="container mx-auto p-4 md:p-8 max-w-7xl">
+
+        <header class="text-center mb-12">
+            <h1 class="text-4xl md:text-6xl font-black text-[#05445E] mb-2">Chinh Phục Dạng Bài True / False / Not Given</h1>
+            <p class="text-lg md:text-xl text-[#189AB4] max-w-3xl mx-auto">Hiểu rõ bản chất, phân biệt sự khác biệt và áp dụng chiến lược hiệu quả.</p>
+        </header>
+
+        <section class="mb-16">
+            <h2 class="text-3xl font-bold text-center mb-8">Sự Khác Biệt Cốt Lõi: Facts vs. Opinions</h2>
+            <div class="comparison-grid max-w-4xl mx-auto">
+                <div class="card text-center">
+                    <h3 class="text-2xl font-bold mb-3 text-[#189AB4]">TRUE / FALSE / NOT GIVEN</h3>
+                    <p class="text-6xl mb-4">📰</p>
+                    <p>Dùng để kiểm tra khả năng nhận biết và đối chiếu các **thông tin thực tế (Facts)** trong bài đọc.</p>
+                </div>
+                <div class="divider-line"></div>
+                <div class="card text-center">
+                    <h3 class="text-2xl font-bold mb-3 text-[#189AB4]">YES / NO / NOT GIVEN</h3>
+                    <p class="text-6xl mb-4">🤔</p>
+                    <p>Dùng để kiểm tra khả năng nhận định **quan điểm, ý kiến (Opinions)** của tác giả.</p>
+                </div>
+            </div>
+             <p class="text-center mt-6 bg-yellow-200 text-yellow-800 p-3 rounded-lg max-w-4xl mx-auto"><strong>Lưu ý quan trọng:</strong> Dù bản chất giống nhau, bạn PHẢI viết đúng dạng đáp án mà đề bài yêu cầu (viết "True", không viết "Yes" và ngược lại).</p>
+        </section>
+
+        <section class="mb-16">
+            <h2 class="text-3xl font-bold text-center mb-10">"Giải mã" Từng Loại Đáp Án</h2>
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+                <div class="card">
+                    <div class="text-center mb-4"><span class="text-5xl">✅</span></div>
+                    <h3 class="text-xl font-bold text-green-600 text-center mb-3">TRUE / YES</h3>
+                    <p class="mb-4 text-center font-semibold">Phát biểu hoàn toàn trùng khớp với thông tin/quan điểm trong bài.</p>
+                    <div class="bg-gray-50 p-3 rounded-lg text-sm">
+                        <p class="font-bold">Bài đọc:</p>
+                        <p>"Coffee arrived in Europe <span class="bg-green-200">during</span> the 17th century."</p>
+                        <hr class="my-2">
+                        <p class="font-bold">Câu hỏi:</p>
+                        <p>"Coffee was introduced to Europe in the 17th century."</p>
+                    </div>
+                </div>
+                 <div class="card">
+                    <div class="text-center mb-4"><span class="text-5xl">❌</span></div>
+                    <h3 class="text-xl font-bold text-red-600 text-center mb-3">FALSE / NO</h3>
+                    <p class="mb-4 text-center font-semibold">Phát biểu trái ngược, mâu thuẫn trực tiếp với thông tin/quan điểm trong bài.</p>
+                    <div class="bg-gray-50 p-3 rounded-lg text-sm">
+                        <p class="font-bold">Bài đọc:</p>
+                        <p>"Coffee arrived in Europe <span class="bg-green-200">during</span> the 17th century."</p>
+                        <hr class="my-2">
+                        <p class="font-bold">Câu hỏi:</p>
+                        <p>"Coffee arrived in Europe <span class="bg-red-200">after</span> the 17th century."</p>
+                    </div>
+                </div>
+                 <div class="card">
+                    <div class="text-center mb-4"><span class="text-5xl">❓</span></div>
+                    <h3 class="text-xl font-bold text-gray-600 text-center mb-3">NOT GIVEN</h3>
+                    <p class="mb-4 text-center font-semibold">Bài đọc không hề đề cập đến thông tin này, không đủ cơ sở để kết luận đúng hay sai.</p>
+                    <div class="bg-gray-50 p-3 rounded-lg text-sm">
+                        <p class="font-bold">Bài đọc:</p>
+                        <p>"Coffee arrived in Europe during the 17th century."</p>
+                        <hr class="my-2">
+                        <p class="font-bold">Câu hỏi:</p>
+                        <p>"<span class="bg-yellow-200">Tea was more popular than coffee</span> in 17th century Europe."</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <h2 class="text-3xl font-bold text-center mb-10">Chiến Lược Làm Bài Hiệu Quả</h2>
+            <div class="max-w-3xl mx-auto space-y-6">
+                <div class="card step-card">
+                    <div class="step-number">1</div>
+                    <div>
+                        <h3 class="font-bold text-lg text-[#189AB4]">Đọc Kỹ Câu Hỏi</h3>
+                        <p>Xác định từ khóa và hiểu rõ ý nghĩa của cả câu, đặc biệt là các từ chỉ mức độ (all, some, only...) hoặc tần suất (always, often...).</p>
+                    </div>
+                </div>
+                 <div class="card step-card">
+                    <div class="step-number">2</div>
+                    <div>
+                        <h3 class="font-bold text-lg text-[#189AB4]">Định Vị Thông Tin</h3>
+                        <p>Dùng từ khóa để tìm nhanh đoạn văn chứa thông tin liên quan. Nhớ rằng thứ tự câu hỏi sẽ tuần tự theo bài đọc.</p>
+                    </div>
+                </div>
+                 <div class="card step-card">
+                    <div class="step-number">3</div>
+                    <div>
+                        <h3 class="font-bold text-lg text-[#189AB4]">So Sánh & Đối Chiếu</h3>
+                        <p>Đọc kỹ câu trong bài đọc và câu hỏi. So sánh từng chi tiết để tìm ra sự trùng khớp (True/Yes), mâu thuẫn (False/No), hoặc không có thông tin (Not Given).</p>
+                    </div>
+                </div>
+                 <div class="card step-card">
+                    <div class="step-number">4</div>
+                    <div>
+                        <h3 class="font-bold text-lg text-[#189AB4]">Đưa Ra Quyết Định</h3>
+                        <p>Nếu mọi chi tiết đều khớp -> True/Yes. Nếu một chi tiết mâu thuẫn -> False/No. Nếu không tìm thấy thông tin để xác nhận -> Not Given.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    </div>
+
+    <footer class="text-center p-6 mt-8">
+        <p class="text-sm text-[#05445E]">Chúc bạn luyện tập thật tốt và áp dụng thành công các phương pháp này vào bài thi của mình nhé!</p>
+    </footer>
+
+</body>
+</html>
