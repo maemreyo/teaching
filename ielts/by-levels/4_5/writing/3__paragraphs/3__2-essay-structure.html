@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Infographic - Viết Mở Bài & Kết Bài Hiệu Quả</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;700;900&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      body {
+        font-family: "Be Vietnam Pro", sans-serif;
+        background-color: #f8f9fe;
+      }
+      .card {
+        background-color: white;
+        border-radius: 1.25rem;
+        box-shadow: 0 8px 30px rgba(0, 0, 0, 0.06);
+        border: 1px solid #edf2f7;
+      }
+      .title-highlight {
+        position: relative;
+        display: inline-block;
+      }
+      .title-highlight::after {
+        content: "";
+        position: absolute;
+        bottom: 5px;
+        left: 0;
+        width: 100%;
+        height: 12px;
+        background-color: #fecdd3;
+        z-index: -1;
+        transform: skew(-12deg);
+      }
+      .section-header {
+        display: flex;
+        align-items: center;
+        padding: 0.75rem 1.5rem;
+        border-radius: 9999px;
+        font-size: 1.5rem;
+        font-weight: 700;
+        color: white;
+        box-shadow: 0 4px 14px 0 rgba(0, 0, 0, 0.1);
+      }
+      .intro-header {
+        background: linear-gradient(135deg, #f9a8d4, #ec4899);
+      }
+      .conclusion-header {
+        background: linear-gradient(135deg, #a5b4fc, #6366f1);
+      }
+
+      .formula-box {
+        background-color: #f1f5f9;
+        border-radius: 0.5rem;
+        padding: 0.75rem 1rem;
+        font-family: monospace;
+        color: #1e40af;
+        border: 1px solid #e2e8f0;
+      }
+      .tip-box {
+        background-color: #fffbeb;
+        border-left: 4px solid #f59e0b;
+        padding: 1rem;
+        border-radius: 0.5rem;
+      }
+    </style>
+  </head>
+  <body class="text-slate-800">
+    <div class="container mx-auto p-4 md:p-8 max-w-5xl">
+      <!-- Header -->
+      <header class="text-center mb-12">
+        <h1
+          class="text-4xl md:text-5xl font-black leading-tight text-slate-900"
+        >
+          Làm Chủ <span class="title-highlight">Mở Bài & Kết Bài</span>
+        </h1>
+        <p class="mt-4 text-lg text-slate-600">
+          Công thức và ví dụ chi tiết để bắt đầu và kết thúc bài luận một cách
+          ấn tượng.
+        </p>
+      </header>
+
+      <main class="space-y-12">
+        <!-- Introduction Section -->
+        <section>
+          <div class="section-header intro-header mb-6 inline-block">
+            Mở Bài (Introduction) - 2 Câu Hoàn Hảo
+          </div>
+          <div class="card p-8">
+            <h3 class="text-2xl font-bold mb-6">
+              Cấu trúc 2 câu của phần Mở bài:
+            </h3>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+              <!-- General Statement -->
+              <div class="space-y-4">
+                <h4 class="text-xl font-semibold text-pink-700">
+                  Câu 1: General Statement (Câu dẫn dắt)
+                </h4>
+                <p>
+                  Diễn đạt lại (paraphrase) đề bài bằng cách đi từ
+                  <span class="font-semibold">khái quát đến chi tiết</span>.
+                </p>
+                <div>
+                  <p class="font-medium mb-2">
+                    Cách 1: Nêu xu hướng/thực trạng
+                  </p>
+                  <div class="formula-box">
+                    In today's world, there is a trend that...
+                  </div>
+                </div>
+                <div>
+                  <p class="font-medium mb-2">
+                    Cách 2: Nêu một niềm tin phổ biến
+                  </p>
+                  <div class="formula-box">It is widely believed that...</div>
+                </div>
+              </div>
+              <!-- Thesis Statement -->
+              <div class="space-y-4">
+                <h4 class="text-xl font-semibold text-pink-700">
+                  Câu 2: Thesis Statement (Câu luận đề)
+                </h4>
+                <p>Trả lời trực tiếp câu hỏi của đề bài.</p>
+                <div>
+                  <p class="font-medium mb-2">Nếu đề bài CÓ hỏi ý kiến:</p>
+                  <ul class="list-disc list-inside text-sm space-y-1">
+                    <li>In my opinion,...</li>
+                    <li>From my perspective,...</li>
+                    <li>I (firmly) believe that...</li>
+                  </ul>
+                </div>
+                <div>
+                  <p class="font-medium mb-2">Nếu đề bài KHÔNG hỏi ý kiến:</p>
+                  <ul class="list-disc list-inside text-sm space-y-1">
+                    <li>This essay will discuss A and B.</li>
+                    <li>In this essay, both A and B will be examined.</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- Conclusion Section -->
+        <section>
+          <div class="section-header conclusion-header mb-6 inline-block">
+            Kết Bài (Conclusion) - Tóm Lược Súc Tích
+          </div>
+          <div class="card p-8">
+            <h3 class="text-2xl font-bold mb-6">
+              Kết bài nên có 2-3 thành phần, luôn bắt đầu bằng
+              <span class="font-semibold text-indigo-600"
+                >"In conclusion,"</span
+              >
+            </h3>
+            <div class="space-y-6">
+              <!-- Restatement -->
+              <div>
+                <h4 class="text-xl font-semibold text-indigo-700">
+                  1 & 2. Tái khẳng định ý chính & Quan điểm
+                </h4>
+                <p class="mt-2 text-slate-600">
+                  Đây là phần tóm tắt lại các luận điểm đã trình bày ở thân bài
+                  và nhắc lại quan điểm cá nhân (nếu có). Bạn có thể gộp 2 phần
+                  này vào một câu phức để tăng hiệu quả.
+                </p>
+                <p class="font-medium mt-4 mb-2">Mẫu câu gợi ý:</p>
+                <div class="space-y-2">
+                  <div class="formula-box">
+                    While/Although [Ý phụ], [Ý chính].
+                  </div>
+                  <p class="p-4 bg-slate-50 rounded-lg text-sm">
+                    <strong>Ví dụ:</strong>
+                    <span class="font-semibold">While</span> learning to take
+                    care of the environment should be part of education,
+                    <span class="font-semibold"
+                      >I still believe it is not as important as reading and
+                      writing training because they are necessary skills that
+                      young students need in the future.</span
+                    >
+                  </p>
+                </div>
+              </div>
+
+              <!-- Recommendation -->
+              <div>
+                <h4 class="text-xl font-semibold text-indigo-700">
+                  3. Recommendation (Đề xuất - Tùy chọn)
+                </h4>
+                <p class="mt-2 text-slate-600">
+                  Đưa ra một hành động hoặc dự đoán cho tương lai dựa trên các
+                  phân tích của bài viết.
+                </p>
+                <p class="font-medium mt-4 mb-2">Mẫu câu gợi ý:</p>
+                <div class="space-y-2">
+                  <div class="formula-box">
+                    In order to [Mục đích], [Hành động].
+                  </div>
+                  <p class="p-4 bg-slate-50 rounded-lg text-sm">
+                    <strong>Ví dụ:</strong>
+                    <span class="font-semibold"
+                      >In order to be well-prepared for the future,</span
+                    >
+                    <span class="font-semibold"
+                      >young students should focus on learning to read or write
+                      at school.</span
+                    >
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+      </main>
+
+      <!-- Footer -->
+      <footer class="text-center mt-12 py-6 border-t border-slate-200">
+        <p class="text-sm text-slate-400 mt-2">
+          Mở bài thu hút và kết bài súc tích là chìa khóa cho một bài luận ấn
+          tượng!
+        </p>
+      </footer>
+    </div>
+  </body>
+</html>

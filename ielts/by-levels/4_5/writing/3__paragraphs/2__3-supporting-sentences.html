@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Infographic - Nghệ Thuật Viết Câu Giải Thích</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;700;900&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      body {
+        font-family: "Be Vietnam Pro", sans-serif;
+        background-color: #fdfdff;
+      }
+      .card {
+        background-color: white;
+        border-radius: 1rem;
+        box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
+        border: 1px solid #f0f0f0;
+      }
+      .icon-bg {
+        width: 56px;
+        height: 56px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 9999px;
+      }
+      .title-highlight {
+        background-image: linear-gradient(to top, #c7d2fe 50%, transparent 50%);
+        background-size: 100% 100%;
+        display: inline;
+        padding: 0 0.25rem;
+      }
+      .step-box {
+        background-color: #f5f3ff;
+        border-radius: 0.75rem;
+        padding: 1.5rem;
+        border: 2px dashed #ddd6fe;
+      }
+      .logic-box {
+        padding: 0.75rem 1rem;
+        background-color: #f1f5f9;
+        border-radius: 0.5rem;
+        text-align: center;
+        border: 1px solid #e2e8f0;
+      }
+      .arrow {
+        font-size: 2rem;
+        color: #94a3b8;
+      }
+      .broken-arrow {
+        font-size: 2rem;
+        color: #ef4444;
+        position: relative;
+      }
+      .broken-arrow::after {
+        content: "⚡️";
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        font-size: 1rem;
+      }
+    </style>
+  </head>
+  <body class="text-gray-800">
+    <div class="container mx-auto p-4 md:p-8 max-w-5xl">
+      <!-- Header -->
+      <header class="text-center mb-12">
+        <h1 class="text-4xl md:text-5xl font-black leading-tight">
+          Nghệ Thuật Giải Thích: Viết
+          <span class="title-highlight">Supporting Details</span> Hiệu Quả
+        </h1>
+        <p class="mt-4 text-lg text-gray-600">
+          Học cách làm rõ luận điểm, tránh lỗi sai và tăng tính thuyết phục cho
+          bài viết.
+        </p>
+      </header>
+
+      <main class="space-y-12">
+        <!-- Section 1: Common Mistakes -->
+        <section class="card p-8">
+          <h2 class="text-3xl font-bold mb-8 text-center">
+            2 Lỗi Sai Phổ Biến Khi Viết Câu Giải Thích
+          </h2>
+          <div class="grid md:grid-cols-2 gap-8">
+            <!-- Jump to Conclusion -->
+            <div class="p-6 bg-red-50/50 rounded-xl border border-red-200">
+              <div class="flex items-center mb-4">
+                <div class="icon-bg bg-red-100 text-red-600 mr-4">
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    class="h-7 w-7"
+                    fill="none"
+                    viewBox="0 0 24 24"
+                    stroke="currentColor"
+                    stroke-width="2"
+                  >
+                    <path
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                      d="M13 10V3L4 14h7v7l9-11h-7z"
+                    />
+                  </svg>
+                </div>
+                <h3 class="text-2xl font-bold text-red-800">
+                  "Nhảy Cóc" (Jump to Conclusion)
+                </h3>
+              </div>
+              <p class="text-gray-600 mb-4">
+                <strong>Mô tả:</strong> Nhảy thẳng đến kết luận mà không có các
+                bước lập luận trung gian để kết nối các ý. Tạo ra một "lỗ hổng"
+                logic.
+              </p>
+              <h4 class="font-semibold mb-2">Ví dụ:</h4>
+              <div class="flex items-center justify-center space-x-2">
+                <div class="logic-box">Có nhiều game hay</div>
+                <div class="arrow broken-arrow">→</div>
+                <div class="logic-box">Ít thời gian học</div>
+              </div>
+              <p class="mt-2 text-sm text-center text-red-600 italic">
+                Lỗi: Thiếu bước giải thích "vì có nhiều game nên học sinh dành
+                nhiều thời gian chơi".
+              </p>
+            </div>
+
+            <!-- Merry-go-round -->
+            <div
+              class="p-6 bg-yellow-50/50 rounded-xl border border-yellow-200"
+            >
+              <div class="flex items-center mb-4">
+                <div class="icon-bg bg-yellow-100 text-yellow-600 mr-4">
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    class="h-7 w-7"
+                    fill="none"
+                    viewBox="0 0 24 24"
+                    stroke="currentColor"
+                    stroke-width="2"
+                  >
+                    <path
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                      d="M4 4v5h5M20 20v-5h-5M4 20h5v-5M20 4h-5v5"
+                    />
+                  </svg>
+                </div>
+                <h3 class="text-2xl font-bold text-yellow-800">
+                  "Đu Quay" (Merry-go-round)
+                </h3>
+              </div>
+              <p class="text-gray-600 mb-4">
+                <strong>Mô tả:</strong> Diễn đạt lại (paraphrase) ý tưởng đã nêu
+                ở câu trước thay vì phát triển nó. Khiến đoạn văn bị luẩn quẩn,
+                không tiến triển.
+              </p>
+              <h4 class="font-semibold mb-2">Ví dụ:</h4>
+              <p class="text-sm text-gray-700">
+                <strong>Ý cần giải thích:</strong> "Dân số đông gây ô nhiễm
+                không khí."
+              </p>
+              <p class="mt-2 p-3 bg-white border-l-4 border-gray-400 rounded">
+                "Để giải thích, nhiều người hơn ở thành phố nghĩa là nhu cầu nhà
+                ở cao hơn. Xây những ngôi nhà này có khả năng tạo ra nhiều bụi,
+                <span class="text-red-600 font-semibold"
+                  >gây ra ô nhiễm không khí.</span
+                >"
+              </p>
+              <p class="mt-2 text-sm text-center text-red-600 italic">
+                Lỗi: Phần cuối chỉ lặp lại ý ban đầu, không giải thích MỐI LIÊN
+                KẾT giữa bụi và ô nhiễm.
+              </p>
+            </div>
+          </div>
+        </section>
+
+        <!-- Section 2: How to Write Better Explanations -->
+        <section class="card p-8">
+          <h2 class="text-3xl font-bold mb-8 text-center">
+            Công Thức 3 Bước Viết Câu Giải Thích Hiệu Quả
+          </h2>
+          <div class="space-y-6">
+            <!-- Step 1 -->
+            <div class="step-box">
+              <p class="text-indigo-600 font-bold mb-2">
+                BƯỚC 1: PHÂN TÍCH TỪ KHÓA
+              </p>
+              <p>
+                Gạch chân các từ/cụm từ khóa trong câu Supporting Idea để xác
+                định rõ những gì bạn cần giải thích.
+              </p>
+              <p class="mt-3 p-3 bg-white rounded-lg shadow-inner">
+                V.D: "<span class="underline font-medium">Students</span> who
+                are
+                <span class="underline font-medium"
+                  >addicted to using smartphones</span
+                >
+                often
+                <span class="underline font-medium"
+                  >not pay attention to their study</span
+                >."
+              </p>
+            </div>
+            <!-- Step 2 -->
+            <div class="step-box">
+              <p class="text-indigo-600 font-bold mb-2">
+                BƯỚC 2: ĐẶT CÂU HỎI TƯƠNG ỨNG
+              </p>
+              <p>
+                Với mỗi từ khóa đã gạch chân, hãy đặt các câu hỏi liên quan
+                (thường là 6W) để định hướng cho phần giải thích.
+              </p>
+              <ul class="mt-3 list-disc list-inside space-y-1 text-gray-700">
+                <li>
+                  <strong>Students</strong> → Họ là ai? (VD: học sinh cấp 2, 3)
+                </li>
+                <li>
+                  <strong>Addicted to using smartphones</strong> → Họ làm gì
+                  trên điện thoại? (VD: lướt mạng xã hội, chơi game)
+                </li>
+                <li>
+                  <strong>Not pay attention to their study</strong> → Hành động
+                  trên dẫn đến hậu quả này như thế nào?
+                </li>
+              </ul>
+            </div>
+            <!-- Step 3 -->
+            <div class="step-box">
+              <p class="text-indigo-600 font-bold mb-2">
+                BƯỚC 3: SẮP XẾP CÂU TRẢ LỜI LOGIC
+              </p>
+              <p>
+                Sắp xếp các câu trả lời từ Bước 2 theo một trật tự hợp lý
+                (thường là nguyên nhân -> kết quả) để tạo thành một chuỗi giải
+                thích hoàn chỉnh.
+              </p>
+              <p
+                class="mt-3 p-3 bg-white rounded-lg shadow-inner text-green-800"
+              >
+                <strong>Kết quả:</strong> "It is not uncommon to see many
+                students spend most of their leisure time either socializing
+                online or playing games, which means they would have little to
+                no time left for self-study."
+              </p>
+            </div>
+          </div>
+        </section>
+      </main>
+
+      <!-- Footer -->
+      <footer class="text-center mt-12 py-6 border-t border-gray-200">
+        <p class="text-sm text-gray-400 mt-2">
+          Giải thích tốt là xây dựng một cây cầu vững chắc giữa các luận điểm!
+        </p>
+      </footer>
+    </div>
+  </body>
+</html>

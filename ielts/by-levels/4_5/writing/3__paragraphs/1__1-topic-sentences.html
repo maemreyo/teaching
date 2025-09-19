@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Infographic - Giải Mã Câu Chủ Đề (Topic Sentence)</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;700;900&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      body {
+        font-family: "Be Vietnam Pro", sans-serif;
+        background-color: #f0f4f8;
+      }
+      .gradient-bg {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      }
+      .card {
+        background-color: white;
+        border-radius: 1rem;
+        box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
+          0 4px 6px -2px rgba(0, 0, 0, 0.05);
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+      }
+      .card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1),
+          0 10px 10px -5px rgba(0, 0, 0, 0.04);
+      }
+      .tag {
+        display: inline-block;
+        padding: 0.25rem 0.75rem;
+        border-radius: 9999px;
+        font-weight: 600;
+        font-size: 0.875rem;
+      }
+      .topic-tag {
+        background-color: #e0f2fe;
+        color: #0c4a6e;
+      }
+      .controlling-idea-tag {
+        background-color: #ffedd5;
+        color: #9a3412;
+      }
+      .icon-bg {
+        width: 64px;
+        height: 64px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 50%;
+      }
+      .title-highlight {
+        background-image: linear-gradient(to top, #fde68a 50%, transparent 50%);
+        background-size: 100% 100%;
+        display: inline;
+        padding: 0 0.25rem;
+      }
+    </style>
+  </head>
+  <body class="text-gray-800">
+    <div class="container mx-auto p-4 md:p-8 max-w-5xl">
+      <!-- Header -->
+      <header class="text-center mb-12">
+        <h1 class="text-4xl md:text-6xl font-black text-gray-900 leading-tight">
+          <span class="title-highlight">Giải Mã</span> Câu Chủ Đề
+        </h1>
+        <p class="mt-4 text-lg text-gray-600">
+          Bí quyết xây dựng đoạn văn mạch lạc từ video của PREP.VN
+        </p>
+      </header>
+
+      <main class="space-y-10">
+        <!-- Section 1: Definition -->
+        <section class="card p-8">
+          <div class="flex flex-col md:flex-row items-center gap-8">
+            <div class="icon-bg bg-blue-100 text-blue-600 flex-shrink-0">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                class="h-8 w-8"
+                fill="none"
+                viewBox="0 0 24 24"
+                stroke="currentColor"
+              >
+                <path
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
+                />
+              </svg>
+            </div>
+            <div>
+              <h2 class="text-3xl font-bold mb-4">Câu Chủ Đề là gì?</h2>
+              <p class="text-lg text-gray-600">
+                Đây là câu
+                <strong class="text-indigo-600">quan trọng nhất</strong>, đóng
+                vai trò "xương sống" cho cả đoạn văn. Nhiệm vụ chính của nó là:
+              </p>
+              <ul class="mt-4 space-y-3 list-inside">
+                <li class="flex items-start">
+                  <span class="text-green-500 mr-3">✔</span>
+                  <strong>Tóm tắt ý chính:</strong> Nêu bật nội dung cốt lõi sẽ
+                  được trình bày.
+                </li>
+                <li class="flex items-start">
+                  <span class="text-green-500 mr-3">✔</span>
+                  <strong>Định hướng người đọc:</strong> Giống như một tấm bản
+                  đồ, cho biết đoạn văn sẽ đi về đâu.
+                </li>
+                <li class="flex items-start">
+                  <span class="text-green-500 mr-3">✔</span>
+                  <strong>Thông báo, không giải thích:</strong> Chỉ giới thiệu
+                  chủ đề, chưa đi vào phân tích sâu.
+                </li>
+              </ul>
+            </div>
+          </div>
+        </section>
+
+        <!-- Section 2: The Golden Formula -->
+        <section class="gradient-bg text-white rounded-2xl p-8 text-center">
+          <h2 class="text-3xl font-bold mb-6">Công Thức Vàng</h2>
+          <div
+            class="flex flex-col md:flex-row items-center justify-center gap-4 md:gap-8 bg-white/20 p-6 rounded-xl"
+          >
+            <div class="p-4 bg-white text-gray-800 rounded-lg shadow-lg">
+              <p class="text-xl md:text-2xl font-bold">Topic</p>
+              <p class="text-sm">(Chủ đề lớn)</p>
+            </div>
+            <div class="text-4xl font-bold">+</div>
+            <div class="p-4 bg-white text-gray-800 rounded-lg shadow-lg">
+              <p class="text-xl md:text-2xl font-bold">Controlling Idea</p>
+              <p class="text-sm">(Ý tưởng kiểm soát)</p>
+            </div>
+          </div>
+          <p class="mt-6 text-lg italic">
+            Một câu chủ đề tốt luôn có đủ 2 thành phần này!
+          </p>
+        </section>
+
+        <!-- Section 3: Analysis -->
+        <section class="card p-8">
+          <h2 class="text-3xl font-bold mb-6 text-center">Phân Tích Ví Dụ</h2>
+          <div class="space-y-8">
+            <!-- Example 1 -->
+            <div>
+              <p
+                class="text-lg p-4 bg-gray-50 rounded-lg border border-gray-200"
+              >
+                "There are
+                <span class="controlling-idea-tag">several reasons why</span>
+                someone chooses to
+                <span class="topic-tag">play a musical instrument</span>."
+              </p>
+              <div class="mt-4 grid md:grid-cols-2 gap-4">
+                <div class="border-l-4 border-sky-500 pl-4">
+                  <h4 class="font-bold">Topic (Chủ đề):</h4>
+                  <p class="text-gray-600">
+                    play a musical instrument (việc chơi nhạc cụ)
+                  </p>
+                </div>
+                <div class="border-l-4 border-amber-500 pl-4">
+                  <h4 class="font-bold">
+                    Controlling Idea (Ý tưởng kiểm soát):
+                  </h4>
+                  <p class="text-gray-600">
+                    several reasons why (một vài lý do tại sao)
+                  </p>
+                </div>
+              </div>
+              <p class="mt-4 text-sm text-center italic text-gray-500">
+                🎯 Định hướng: Đoạn văn sẽ chỉ tập trung giải thích các
+                <strong class="text-amber-700">lý do</strong>, không bàn về lợi
+                ích hay khó khăn.
+              </p>
+            </div>
+            <!-- Example 2 -->
+            <div>
+              <p
+                class="text-lg p-4 bg-gray-50 rounded-lg border border-gray-200"
+              >
+                "<span class="topic-tag">Computers</span> have
+                <span class="controlling-idea-tag"
+                  >changed significantly in the past 20 years</span
+                >."
+              </p>
+              <div class="mt-4 grid md:grid-cols-2 gap-4">
+                <div class="border-l-4 border-sky-500 pl-4">
+                  <h4 class="font-bold">Topic (Chủ đề):</h4>
+                  <p class="text-gray-600">Computers (máy tính)</p>
+                </div>
+                <div class="border-l-4 border-amber-500 pl-4">
+                  <h4 class="font-bold">
+                    Controlling Idea (Ý tưởng kiểm soát):
+                  </h4>
+                  <p class="text-gray-600">
+                    changed significantly in the past 20 years (đã thay đổi đáng
+                    kể trong 20 năm qua)
+                  </p>
+                </div>
+              </div>
+              <p class="mt-4 text-sm text-center italic text-gray-500">
+                🎯 Định hướng: Đoạn văn sẽ chỉ tập trung vào
+                <strong class="text-amber-700">sự thay đổi</strong> của máy
+                tính, không phải cách sử dụng hay lịch sử.
+              </p>
+            </div>
+          </div>
+        </section>
+
+        <!-- Section 4: Position -->
+        <section class="card p-8">
+          <div class="flex flex-col md:flex-row items-center gap-8">
+            <div class="icon-bg bg-green-100 text-green-600 flex-shrink-0">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                class="h-8 w-8"
+                fill="none"
+                viewBox="0 0 24 24"
+                stroke="currentColor"
+              >
+                <path
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"
+                />
+                <path
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"
+                />
+              </svg>
+            </div>
+            <div>
+              <h2 class="text-3xl font-bold mb-4">Đặt Câu Chủ Đề Ở Đâu?</h2>
+              <div class="space-y-4">
+                <div
+                  class="p-4 border-2 border-indigo-500 rounded-lg bg-indigo-50"
+                >
+                  <h3 class="font-bold text-indigo-700">
+                    ⭐ Vị trí đầu đoạn (Diễn dịch) - KHUYÊN DÙNG
+                  </h3>
+                  <p class="text-gray-600">
+                    Đây là cách viết phổ biến và hiệu quả nhất trong văn viết
+                    học thuật. Nó giúp đoạn văn rõ ràng, mạch lạc và đi thẳng
+                    vào vấn đề.
+                  </p>
+                </div>
+                <div class="p-4 border border-gray-200 rounded-lg">
+                  <h3 class="font-bold">Các vị trí khác</h3>
+                  <p class="text-gray-600">
+                    Câu chủ đề cũng có thể đặt ở
+                    <strong class="text-gray-700">cuối đoạn (Quy nạp)</strong>
+                    để tạo hiệu ứng tóm tắt, hoặc ở cả
+                    <strong class="text-gray-700"
+                      >đầu và cuối (Tổng-Phân-Hợp)</strong
+                    >
+                    để nhấn mạnh.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+      </main>
+
+      <!-- Footer -->
+      <footer class="text-center mt-12 py-6 border-t border-gray-200">
+        <p class="text-sm text-gray-400 mt-2">
+          Chúc bạn học tốt và viết ngày càng tiến bộ!
+        </p>
+      </footer>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Infographic - Cấu Trúc Bài Luận Hoàn Chỉnh</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;700;900&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      body {
+        font-family: "Be Vietnam Pro", sans-serif;
+        background-color: #f7f8fc;
+      }
+      .card {
+        background-color: white;
+        border-radius: 1.25rem;
+        box-shadow: 0 10px 40px rgba(0, 0, 0, 0.07);
+        border: 1px solid #eef0f5;
+      }
+      .title-highlight {
+        position: relative;
+        display: inline-block;
+      }
+      .title-highlight::after {
+        content: "";
+        position: absolute;
+        bottom: 5px;
+        left: 0;
+        width: 100%;
+        height: 12px;
+        background-color: #d1fae5;
+        z-index: -1;
+        transform: skew(-12deg);
+      }
+      .section-header {
+        display: flex;
+        align-items: center;
+        padding: 0.75rem 1.5rem;
+        border-radius: 9999px;
+        font-size: 1.5rem;
+        font-weight: 700;
+        color: white;
+      }
+      .intro-header {
+        background: linear-gradient(135deg, #fb923c, #f97316);
+      }
+      .body-header {
+        background: linear-gradient(135deg, #60a5fa, #3b82f6);
+      }
+      .conclusion-header {
+        background: linear-gradient(135deg, #818cf8, #6366f1);
+      }
+
+      .structure-box {
+        background-color: #f8fafc;
+        border: 2px dashed #e2e8f0;
+        border-radius: 0.75rem;
+        padding: 1.5rem;
+      }
+      .structure-box h4 {
+        font-weight: 700;
+        color: #1e293b;
+      }
+    </style>
+  </head>
+  <body class="text-slate-800">
+    <div class="container mx-auto p-4 md:p-8 max-w-6xl">
+      <!-- Header -->
+      <header class="text-center mb-12">
+        <h1
+          class="text-4xl md:text-5xl font-black leading-tight text-slate-900"
+        >
+          Giải Mã <span class="title-highlight">Cấu Trúc Bài Luận</span> Hoàn
+          Chỉnh
+        </h1>
+        <p class="mt-4 text-lg text-slate-600">
+          Nắm vững "bộ xương" của một bài viết học thuật để triển khai ý tưởng
+          logic và hiệu quả.
+        </p>
+      </header>
+
+      <main class="space-y-12">
+        <!-- Overall Structure -->
+        <section class="card p-8">
+          <h2 class="text-3xl font-bold mb-6 text-center text-slate-900">
+            Cấu Trúc 3 Phần Kinh Điển
+          </h2>
+          <div class="grid grid-cols-1 md:grid-cols-3 gap-6 text-center">
+            <div class="p-6 bg-orange-50 rounded-lg">
+              <h3 class="text-2xl font-bold text-orange-600">
+                1. Introduction
+              </h3>
+              <p class="text-slate-600 mt-2">
+                Mở bài: Giới thiệu chủ đề và định hướng cho toàn bộ bài viết.
+              </p>
+            </div>
+            <div class="p-6 bg-blue-50 rounded-lg">
+              <h3 class="text-2xl font-bold text-blue-600">2. Body</h3>
+              <p class="text-slate-600 mt-2">
+                Thân bài: Phát triển các ý tưởng, luận điểm chính để trả lời câu
+                hỏi đề bài.
+              </p>
+            </div>
+            <div class="p-6 bg-indigo-50 rounded-lg">
+              <h3 class="text-2xl font-bold text-indigo-600">3. Conclusion</h3>
+              <p class="text-slate-600 mt-2">
+                Kết bài: Tóm tắt lại các nội dung đã viết và đưa ra điểm kết
+                thúc cho bài.
+              </p>
+            </div>
+          </div>
+        </section>
+
+        <!-- Introduction Details -->
+        <section>
+          <div class="section-header intro-header mb-6">
+            Mở Bài (Introduction)
+          </div>
+          <div class="card p-8 grid md:grid-cols-2 gap-8 items-center">
+            <div class="space-y-4">
+              <div>
+                <h4 class="font-bold text-lg">
+                  Câu 1: General Statement (Diễn đạt lại đề bài)
+                </h4>
+                <p class="text-slate-600">
+                  Dùng kỹ thuật
+                  <span class="font-semibold text-orange-600"
+                    >Paraphrasing</span
+                  >
+                  để viết lại câu hỏi của đề bài bằng ngôn từ của chính bạn.
+                </p>
+              </div>
+              <div>
+                <h4 class="font-bold text-lg">
+                  Câu 2: Thesis Statement (Câu luận đề)
+                </h4>
+                <p class="text-slate-600">
+                  Nêu rõ mục tiêu của bài viết hoặc đưa ra ý kiến cá nhân nếu đề
+                  bài yêu cầu.
+                </p>
+              </div>
+            </div>
+            <div></div>
+          </div>
+        </section>
+
+        <!-- Body Details -->
+        <section>
+          <div class="section-header body-header mb-6">
+            Thân Bài (Body Paragraphs)
+          </div>
+          <div class="card p-8 space-y-8">
+            <p class="text-center text-lg text-slate-600">
+              Luôn viết <strong>2 đoạn thân bài</strong>. Tùy vào số lượng ý
+              tưởng, bạn có thể chọn 1 trong 3 cấu trúc sau:
+            </p>
+            <div class="grid grid-cols-1 lg:grid-cols-3 gap-6">
+              <!-- I-E-E-E -->
+              <div class="structure-box">
+                <h4 class="text-xl mb-2">I-E-E-E (1 ý lớn)</h4>
+                <ul class="list-disc list-inside text-slate-600 space-y-1">
+                  <li><strong>I</strong>dea: Câu chủ đề giới thiệu ý tưởng.</li>
+                  <li><strong>E</strong>xplanation: Giải thích ý tưởng.</li>
+                  <li><strong>E</strong>xample: Đưa ra ví dụ minh họa.</li>
+                  <li><strong>E</strong>laborate: Diễn giải thêm về ví dụ.</li>
+                </ul>
+              </div>
+              <!-- F-S-F -->
+              <div class="structure-box">
+                <h4 class="text-xl mb-2">F-S-F (3 ý nhỏ)</h4>
+                <ul class="list-disc list-inside text-slate-600 space-y-1">
+                  <li><strong>F</strong>irstly: Nêu ý thứ nhất.</li>
+                  <li><strong>S</strong>econdly: Nêu ý thứ hai.</li>
+                  <li><strong>F</strong>inally: Nêu ý thứ ba.</li>
+                  <li class="text-red-500 italic">
+                    Lưu ý: Cấu trúc này khó cân bằng và dễ lan man.
+                  </li>
+                </ul>
+              </div>
+              <!-- Adapted FSF -->
+              <div class="structure-box border-blue-500 bg-blue-50">
+                <h4 class="text-xl mb-2 text-blue-800">
+                  Adapted FSF (2 ý) - ⭐ Cân bằng nhất
+                </h4>
+                <ul class="list-disc list-inside text-slate-600 space-y-1">
+                  <li>Câu giới thiệu chung.</li>
+                  <li><strong>First Idea</strong> + Supporting Detail.</li>
+                  <li><strong>Second Idea</strong> + Supporting Detail.</li>
+                  <li class="text-green-700 font-semibold">
+                    → Cấu trúc này đảm bảo các ý được phát triển đồng đều, giúp
+                    đoạn văn cân bằng và chặt chẽ.
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- Conclusion Details -->
+        <section>
+          <div class="section-header conclusion-header mb-6">
+            Kết Bài (Conclusion)
+          </div>
+          <div class="card p-8">
+            <h2 class="text-2xl font-bold mb-4">
+              Kết bài thường bao gồm 2-3 thành phần:
+            </h2>
+            <ul class="space-y-4">
+              <li class="p-4 bg-slate-50 rounded-lg">
+                <p>
+                  <strong class="text-indigo-600"
+                    >1. Restatement of key points:</strong
+                  >
+                  Tái khẳng định các ý chính đã nêu ở thân bài (dùng
+                  paraphrasing).
+                </p>
+              </li>
+              <li class="p-4 bg-slate-50 rounded-lg">
+                <p>
+                  <strong class="text-indigo-600"
+                    >2. Restatement of opinion:</strong
+                  >
+                  Tái khẳng định lại quan điểm cá nhân (nếu có).
+                </p>
+              </li>
+              <li class="p-4 bg-slate-50 rounded-lg">
+                <p>
+                  <strong class="text-indigo-600"
+                    >3. Recommendation (Tùy chọn):</strong
+                  >
+                  Đưa ra một đề xuất hoặc dự đoán cho tương lai liên quan đến
+                  chủ đề.
+                </p>
+              </li>
+            </ul>
+          </div>
+        </section>
+      </main>
+
+      <!-- Footer -->
+      <footer class="text-center mt-12 py-6 border-t border-slate-200">
+        <p class="text-sm text-slate-400 mt-2">
+          Nắm vững cấu trúc là bước đầu tiên để chinh phục mọi bài luận!
+        </p>
+      </footer>
+    </div>
+  </body>
+</html>
