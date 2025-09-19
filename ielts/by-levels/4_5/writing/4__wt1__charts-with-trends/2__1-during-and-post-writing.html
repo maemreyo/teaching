@@ -1,0 +1,472 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Infographic: Nâng Tầm Miêu Tả Biểu Đồ IELTS Task 1</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      body {
+        font-family: "Inter", sans-serif;
+        background-color: #f7fafc;
+      }
+      .chart-container {
+        position: relative;
+        width: 100%;
+        max-width: 500px;
+        margin-left: auto;
+        margin-right: auto;
+        height: 250px;
+        max-height: 350px;
+      }
+      @media (min-width: 768px) {
+        .chart-container {
+          height: 300px;
+        }
+      }
+      .card {
+        background-color: white;
+        border-radius: 0.75rem;
+        box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1),
+          0 2px 4px -1px rgba(0, 0, 0, 0.06);
+        padding: 1.5rem;
+        margin-bottom: 2rem;
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+      }
+      .card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
+          0 4px 6px -2px rgba(0, 0, 0, 0.05);
+      }
+      .vocab-list li {
+        background-color: #f8f9fa;
+        padding: 0.5rem 0.75rem;
+        border-radius: 0.375rem;
+        color: #073b4c;
+      }
+    </style>
+  </head>
+  <body style="background-color: #edf2f7">
+    <main class="container mx-auto max-w-4xl p-4 sm:p-6 md:p-8">
+      <header class="text-center mb-12">
+        <h1
+          class="text-4xl md:text-5xl font-extrabold mb-2"
+          style="color: #073b4c"
+        >
+          Nâng Tầm Miêu Tả Biểu Đồ
+        </h1>
+        <p class="text-xl md:text-2xl font-semibold" style="color: #118ab2">
+          Ngữ Pháp & Từ Vựng "Ăn Điểm" cho Thân Bài IELTS Task 1
+        </p>
+      </header>
+
+      <section id="grammar-tenses" class="card">
+        <h2 class="text-2xl font-bold mb-4" style="color: #073b4c">
+          🔑 Chìa Khóa Ngữ Pháp: Sử Dụng Thì Chính Xác
+        </h2>
+        <p class="mb-6 text-gray-700">
+          Việc chọn đúng thì cho động từ là yếu tố then chốt, phụ thuộc hoàn
+          toàn vào mốc thời gian được cung cấp trong biểu đồ.
+        </p>
+        <div class="grid md:grid-cols-2 gap-8 items-center">
+          <div class="chart-container h-64">
+            <canvas id="tenseUsageChart"></canvas>
+          </div>
+          <div>
+            <div
+              class="p-4 rounded-lg mb-4"
+              style="border-left: 4px solid #ff6b6b"
+            >
+              <h3 class="font-bold text-lg" style="color: #ff6b6b">
+                Thì Quá Khứ Đơn
+              </h3>
+              <p class="text-gray-700">
+                Sử dụng khi toàn bộ mốc thời gian của biểu đồ đã diễn ra trong
+                quá khứ (ví dụ: from 1990 to 2010). Đây là trường hợp phổ biến
+                nhất!
+              </p>
+            </div>
+            <div
+              class="p-4 rounded-lg mb-4"
+              style="border-left: 4px solid #ffd166"
+            >
+              <h3 class="font-bold text-lg" style="color: #ffd166">
+                Thì Hiện Tại Đơn
+              </h3>
+              <p class="text-gray-700">
+                Sử dụng khi biểu đồ không có mốc thời gian cụ thể, thể hiện một
+                sự thật hoặc quy trình chung.
+              </p>
+            </div>
+            <div class="p-4 rounded-lg" style="border-left: 4px solid #06d6a0">
+              <h3 class="font-bold text-lg" style="color: #06d6a0">
+                Thì Tương Lai Đơn
+              </h3>
+              <p class="text-gray-700">
+                Sử dụng khi biểu đồ chứa các số liệu dự đoán cho tương lai (ví
+                dụ: projections until 2040).
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section id="vocab-trends" class="card">
+        <h2 class="text-2xl font-bold mb-4" style="color: #073b4c">
+          📚 "Vũ Khí" Từ Vựng: Miêu Tả Xu Hướng
+        </h2>
+        <p class="mb-6 text-gray-700">
+          Sử dụng đa dạng động từ (Verb) và danh từ (Noun) để miêu tả các xu
+          hướng một cách sinh động và chính xác.
+        </p>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+          <div class="p-4 border rounded-lg">
+            <h3
+              class="font-bold text-lg mb-2 flex items-center"
+              style="color: #06d6a0"
+            >
+              📈 Xu Hướng TĂNG
+            </h3>
+            <div class="grid grid-cols-2 gap-4">
+              <div>
+                <p class="font-semibold text-gray-800">Verbs</p>
+                <ul class="space-y-1 text-sm vocab-list">
+                  <li>rise</li>
+                  <li>increase</li>
+                  <li>grow</li>
+                  <li>climb</li>
+                </ul>
+              </div>
+              <div>
+                <p class="font-semibold text-gray-800">Nouns</p>
+                <ul class="space-y-1 text-sm vocab-list">
+                  <li>a rise</li>
+                  <li>an increase</li>
+                  <li>a growth</li>
+                  <li>a climb</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="p-4 border rounded-lg">
+            <h3
+              class="font-bold text-lg mb-2 flex items-center"
+              style="color: #ff6b6b"
+            >
+              📉 Xu Hướng GIẢM
+            </h3>
+            <div class="grid grid-cols-2 gap-4">
+              <div>
+                <p class="font-semibold text-gray-800">Verbs</p>
+                <ul class="space-y-1 text-sm vocab-list">
+                  <li>fall</li>
+                  <li>decrease</li>
+                  <li>drop</li>
+                  <li>decline</li>
+                </ul>
+              </div>
+              <div>
+                <p class="font-semibold text-gray-800">Nouns</p>
+                <ul class="space-y-1 text-sm vocab-list">
+                  <li>a fall</li>
+                  <li>a decrease</li>
+                  <li>a drop</li>
+                  <li>a decline</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="p-4 border rounded-lg">
+            <h3
+              class="font-bold text-lg mb-2 flex items-center"
+              style="color: #ffd166"
+            >
+              📊 Dao Động & Ổn Định
+            </h3>
+            <div class="grid grid-cols-2 gap-4">
+              <div>
+                <p class="font-semibold text-gray-800">Verbs</p>
+                <ul class="space-y-1 text-sm vocab-list">
+                  <li>fluctuate</li>
+                  <li>vary</li>
+                  <li>remain stable</li>
+                  <li>level off</li>
+                </ul>
+              </div>
+              <div>
+                <p class="font-semibold text-gray-800">Nouns</p>
+                <ul class="space-y-1 text-sm vocab-list">
+                  <li>a fluctuation</li>
+                  <li>a variation</li>
+                  <li>a plateau</li>
+                  <li>a period of stability</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="p-4 border rounded-lg">
+            <h3
+              class="font-bold text-lg mb-2 flex items-center"
+              style="color: #118ab2"
+            >
+              🔺🔻 Đỉnh & Đáy
+            </h3>
+            <div class="grid grid-cols-2 gap-4">
+              <div>
+                <p class="font-semibold text-gray-800">Verbs</p>
+                <ul class="space-y-1 text-sm vocab-list">
+                  <li>peak at</li>
+                  <li>reach a peak</li>
+                  <li>hit a low</li>
+                  <li>reach the lowest point</li>
+                </ul>
+              </div>
+              <div>
+                <p class="font-semibold text-gray-800">Nouns</p>
+                <ul class="space-y-1 text-sm vocab-list">
+                  <li>a peak of</li>
+                  <li>the highest point</li>
+                  <li>a low of</li>
+                  <li>the lowest point</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section id="vocab-speed" class="card">
+        <h2 class="text-2xl font-bold mb-4" style="color: #073b4c">
+          ⚡️ Gia Vị Cảm Xúc: Miêu Tả Tốc Độ Thay Đổi
+        </h2>
+        <p class="mb-6 text-gray-700">
+          Đừng chỉ nói "tăng" hay "giảm", hãy cho giám khảo thấy mức độ thay đổi
+          bằng cách kết hợp với tính từ (Adjective) và trạng từ (Adverb).
+        </p>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+          <div>
+            <h3
+              class="font-bold text-xl text-center mb-2"
+              style="color: #ff6b6b"
+            >
+              Thay đổi LỚN & Nhanh
+            </h3>
+            <div class="chart-container h-48">
+              <canvas id="dramaticChangeChart"></canvas>
+            </div>
+            <div class="grid grid-cols-2 gap-4 mt-4">
+              <div>
+                <p class="font-semibold text-gray-800">Adjectives</p>
+                <ul class="space-y-1 text-sm vocab-list">
+                  <li>dramatic</li>
+                  <li>sharp</li>
+                  <li>significant</li>
+                  <li>rapid</li>
+                </ul>
+              </div>
+              <div>
+                <p class="font-semibold text-gray-800">Adverbs</p>
+                <ul class="space-y-1 text-sm vocab-list">
+                  <li>dramatically</li>
+                  <li>sharply</li>
+                  <li>significantly</li>
+                  <li>rapidly</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div>
+            <h3
+              class="font-bold text-xl text-center mb-2"
+              style="color: #06d6a0"
+            >
+              Thay đổi NHỎ & Chậm
+            </h3>
+            <div class="chart-container h-48">
+              <canvas id="gradualChangeChart"></canvas>
+            </div>
+            <div class="grid grid-cols-2 gap-4 mt-4">
+              <div>
+                <p class="font-semibold text-gray-800">Adjectives</p>
+                <ul class="space-y-1 text-sm vocab-list">
+                  <li>slight</li>
+                  <li>slow</li>
+                  <li>gradual</li>
+                  <li>steady</li>
+                </ul>
+              </div>
+              <div>
+                <p class="font-semibold text-gray-800">Adverbs</p>
+                <ul class="space-y-1 text-sm vocab-list">
+                  <li>slightly</li>
+                  <li>slowly</li>
+                  <li>gradually</li>
+                  <li>steadily</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="mt-8 p-4 rounded-lg" style="background-color: #e0f7fa">
+          <h3 class="font-bold text-lg mb-2" style="color: #118ab2">
+            📌 Mẹo Ngữ Pháp Quan Trọng
+          </h3>
+          <p class="text-gray-800">
+            <b class="font-semibold">Tính từ (Adjective) + Danh từ (Noun):</b>
+            <br />e.g., There was a
+            <span style="color: #06d6a0">significant</span>
+            <b style="color: #073b4c">rise</b> in sales.
+          </p>
+          <p class="text-gray-800 mt-2">
+            <b class="font-semibold">Động từ (Verb) + Trạng từ (Adverb):</b>
+            <br />e.g., Sales <b style="color: #073b4c">rose</b>
+            <span style="color: #06d6a0">significantly</span>.
+          </p>
+        </div>
+      </section>
+
+      <footer class="text-center mt-8">
+        <p class="text-gray-600">
+          Với bộ công cụ này, bạn đã sẵn sàng để miêu tả mọi biểu đồ một cách
+          chuyên nghiệp. Chúc bạn thành công!
+        </p>
+      </footer>
+    </main>
+
+    <script>
+      const wrapLabels = (label, maxLength) => {
+        if (typeof label !== "string" || label.length <= maxLength) {
+          return label;
+        }
+        const words = label.split(" ");
+        const lines = [];
+        let currentLine = "";
+        words.forEach((word) => {
+          if ((currentLine + word).length > maxLength) {
+            lines.push(currentLine.trim());
+            currentLine = "";
+          }
+          currentLine += word + " ";
+        });
+        lines.push(currentLine.trim());
+        return lines;
+      };
+
+      const tooltipTitleCallback = (tooltipItems) => {
+        const item = tooltipItems[0];
+        let label = item.chart.data.labels[item.dataIndex];
+        if (Array.isArray(label)) {
+          return label.join(" ");
+        } else {
+          return label;
+        }
+      };
+
+      const commonChartOptions = {
+        maintainAspectRatio: false,
+        responsive: true,
+        plugins: {
+          legend: {
+            display: false,
+          },
+          tooltip: {
+            callbacks: {
+              title: tooltipTitleCallback,
+            },
+          },
+        },
+        scales: {
+          y: { beginAtZero: true, grid: { color: "rgba(0, 0, 0, 0.05)" } },
+          x: { grid: { display: false } },
+        },
+      };
+
+      const tenseUsageCtx = document
+        .getElementById("tenseUsageChart")
+        .getContext("2d");
+      new Chart(tenseUsageCtx, {
+        type: "doughnut",
+        data: {
+          labels: ["Thì Quá Khứ", "Thì Hiện Tại", "Thì Tương Lai"],
+          datasets: [
+            {
+              label: "Mức Độ Phổ Biến",
+              data: [80, 15, 5],
+              backgroundColor: ["#FF6B6B", "#FFD166", "#06D6A0"],
+              borderColor: "#ffffff",
+              borderWidth: 4,
+            },
+          ],
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          plugins: {
+            legend: { position: "bottom" },
+            tooltip: { callbacks: { title: tooltipTitleCallback } },
+          },
+        },
+      });
+
+      const lineChartOptions = {
+        ...commonChartOptions,
+        elements: { point: { radius: 0 } },
+        scales: {
+          y: { display: false },
+          x: { display: false },
+        },
+      };
+
+      const dramaticChangeCtx = document
+        .getElementById("dramaticChangeChart")
+        .getContext("2d");
+      new Chart(dramaticChangeCtx, {
+        type: "line",
+        data: {
+          labels: ["1", "2", "3", "4"],
+          datasets: [
+            {
+              label: "Thay đổi lớn",
+              data: [10, 20, 60, 80],
+              borderColor: "#FF6B6B",
+              borderWidth: 3,
+              tension: 0.1,
+              fill: true,
+              backgroundColor: "rgba(255, 107, 107, 0.1)",
+            },
+          ],
+        },
+        options: lineChartOptions,
+      });
+
+      const gradualChangeCtx = document
+        .getElementById("gradualChangeChart")
+        .getContext("2d");
+      new Chart(gradualChangeCtx, {
+        type: "line",
+        data: {
+          labels: ["1", "2", "3", "4"],
+          datasets: [
+            {
+              label: "Thay đổi nhỏ",
+              data: [10, 12, 15, 18],
+              borderColor: "#06D6A0",
+              borderWidth: 3,
+              tension: 0.4,
+              fill: true,
+              backgroundColor: "rgba(6, 214, 160, 0.1)",
+            },
+          ],
+        },
+        options: lineChartOptions,
+      });
+    </script>
+  </body>
+</html>

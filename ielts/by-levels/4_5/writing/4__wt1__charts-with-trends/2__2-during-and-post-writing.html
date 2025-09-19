@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Infographic: Chiến Lược Phân Tích Thân Bài IELTS Task 1</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      body {
+        font-family: "Inter", sans-serif;
+        background-color: #f4f4f4;
+      }
+      .chart-container {
+        position: relative;
+        width: 100%;
+        max-width: 600px;
+        margin-left: auto;
+        margin-right: auto;
+        height: 300px;
+        max-height: 400px;
+      }
+      @media (min-width: 768px) {
+        .chart-container {
+          height: 350px;
+        }
+      }
+      .card {
+        background-color: white;
+        border-radius: 0.75rem;
+        box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1),
+          0 2px 4px -1px rgba(0, 0, 0, 0.06);
+        padding: 1.5rem;
+        margin-bottom: 2rem;
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+      }
+      .card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
+          0 4px 6px -2px rgba(0, 0, 0, 0.05);
+      }
+      .step-box {
+        background-color: #f8fafc;
+        border-left: 4px solid #3e92cc;
+        padding: 1rem;
+        border-radius: 0.5rem;
+      }
+    </style>
+  </head>
+  <body style="background-color: #f4f4f4">
+    <main class="container mx-auto max-w-4xl p-4 sm:p-6 md:p-8">
+      <header class="text-center mb-12">
+        <h1
+          class="text-4xl md:text-5xl font-extrabold mb-2"
+          style="color: #0a2463"
+        >
+          Chiến Lược Phân Tích Thân Bài
+        </h1>
+        <p class="text-xl md:text-2xl font-semibold" style="color: #3e92cc">
+          Lập Dàn Ý Chi Tiết Cho IELTS Task 1
+        </p>
+      </header>
+
+      <section id="analysis-framework" class="card">
+        <h2 class="text-2xl font-bold mb-6" style="color: #0a2463">
+          ⚙️ 3 Bước Nền Tảng Để Phân Tích Biểu Đồ
+        </h2>
+        <div class="space-y-4">
+          <div class="step-box">
+            <h3 class="font-bold text-lg" style="color: #0a2463">
+              Bước 1: Xác định 3W (What - Where - When)
+            </h3>
+            <p class="text-gray-600">
+              Trả lời câu hỏi: Biểu đồ nói về
+              <b class="text-gray-800">cái gì</b>, ở
+              <b class="text-gray-800">đâu</b> và
+              <b class="text-gray-800">khi nào</b>? Điều này giúp xác định ngữ
+              cảnh và thì của động từ sẽ sử dụng (chủ yếu là thì quá khứ).
+            </p>
+          </div>
+          <div class="step-box">
+            <h3 class="font-bold text-lg" style="color: #0a2463">
+              Bước 2: Xác định Đối Tượng & Đơn Vị
+            </h3>
+            <p class="text-gray-600">
+              Liệt kê các đối tượng được so sánh (Subjects of comparison) và đơn
+              vị tính (Unit) được sử dụng (ví dụ: %, millions, tonnes).
+            </p>
+          </div>
+          <div class="step-box">
+            <h3 class="font-bold text-lg" style="color: #0a2463">
+              Bước 3: Nhóm Thông Tin & Tìm Đặc Điểm Chính
+            </h3>
+            <p class="text-gray-600">
+              Đây là bước quan trọng nhất để lập dàn ý cho 2 đoạn thân bài. Tìm
+              ra cách nhóm các đối tượng và các số liệu nổi bật nhất.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <section id="grouping-strategy" class="card">
+        <h2 class="text-2xl font-bold mb-4" style="color: #0a2463">
+          🧠 Chiến Lược Nhóm Thông Tin Thông Minh
+        </h2>
+        <p class="mb-6 text-gray-700">
+          Để bài viết mạch lạc (coherent), bạn không nên miêu tả từng đối tượng
+          riêng lẻ. Thay vào đó, hãy nhóm chúng lại. Cách hiệu quả nhất là nhóm
+          theo xu hướng.
+        </p>
+
+        <div class="p-6 rounded-lg" style="background-color: #f0f8ff">
+          <h3 class="font-bold text-xl mb-3 text-center" style="color: #0a2463">
+            Nhóm Theo Xu Hướng Tương Đồng & Tương Phản
+          </h3>
+          <p class="text-center mb-4 text-gray-700">
+            Tìm các đối tượng có xu hướng giống nhau (cùng tăng/giảm) và nhóm
+            vào một đoạn. Các đối tượng có xu hướng ngược lại hoặc khác biệt sẽ
+            được nhóm vào đoạn còn lại.
+          </p>
+          <div class="chart-container">
+            <canvas id="groupingChart"></canvas>
+          </div>
+          <div class="mt-4 text-center p-4 bg-white rounded-lg shadow-inner">
+            <p class="font-semibold text-gray-800"><b>Cấu trúc gợi ý:</b></p>
+            <p class="text-gray-700">
+              <b style="color: #d8315b">Body 1:</b> Phân tích nhóm có xu hướng
+              giảm (Italy & Portugal).
+            </p>
+            <p class="text-gray-700">
+              <b style="color: #3e92cc">Body 2:</b> Phân tích nhóm có xu hướng
+              tăng/khác biệt (UK & USA).
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <section id="main-features" class="card">
+        <h2 class="text-2xl font-bold mb-4" style="color: #0a2463">
+          🎯 Chọn Lọc "Vàng": Viết Gì Trong Thân Bài?
+        </h2>
+        <p class="mb-6 text-gray-700">
+          Sau khi đã nhóm, hãy chọn lọc và báo cáo những đặc điểm chính (main
+          features) của từng nhóm. Đừng miêu tả tất cả mọi con số!
+        </p>
+
+        <div class="p-6 rounded-lg" style="background-color: #fffaf0">
+          <h3 class="font-bold text-xl mb-4 text-center" style="color: #0a2463">
+            Các Đặc Điểm Chính Cần Báo Cáo
+          </h3>
+          <ul class="list-disc list-inside space-y-2 text-gray-700">
+            <li>
+              <b>Điểm Bắt Đầu và Kết Thúc:</b> Nêu số liệu ở năm đầu tiên và năm
+              cuối cùng của giai đoạn.
+            </li>
+            <li>
+              <b>Điểm Cao Nhất (Peak) và Thấp Nhất (Lowest Point):</b> Chỉ ra
+              các giá trị đỉnh và đáy trong suốt quá trình.
+            </li>
+            <li>
+              <b>So Sánh Tại Các Mốc Thời Gian:</b> So sánh số liệu giữa các đối
+              tượng trong cùng một nhóm tại một thời điểm cụ thể.
+            </li>
+            <li>
+              <b>Điểm Giao Nhau (nếu có):</b> Đề cập đến thời điểm các đường xu
+              hướng cắt nhau.
+            </li>
+          </ul>
+        </div>
+      </section>
+
+      <footer class="text-center mt-8">
+        <p class="text-gray-600">
+          Phân tích kỹ lưỡng và lập dàn ý rõ ràng là bước đệm vững chắc để bạn
+          viết một bài Task 1 xuất sắc.
+        </p>
+      </footer>
+    </main>
+
+    <script>
+      const wrapLabels = (label, maxLength) => {
+        if (typeof label !== "string" || label.length <= maxLength) {
+          return label;
+        }
+        const words = label.split(" ");
+        const lines = [];
+        let currentLine = "";
+        words.forEach((word) => {
+          if ((currentLine + word).length > maxLength) {
+            lines.push(currentLine.trim());
+            currentLine = "";
+          }
+          currentLine += word + " ";
+        });
+        lines.push(currentLine.trim());
+        return lines;
+      };
+
+      const tooltipTitleCallback = (tooltipItems) => {
+        const item = tooltipItems[0];
+        let label = item.chart.data.labels[item.dataIndex];
+        if (Array.isArray(label)) {
+          return label.join(" ");
+        } else {
+          return label;
+        }
+      };
+
+      const commonChartOptions = {
+        maintainAspectRatio: false,
+        responsive: true,
+        plugins: {
+          tooltip: {
+            callbacks: {
+              title: tooltipTitleCallback,
+            },
+          },
+        },
+        scales: {
+          y: {
+            beginAtZero: true,
+            grid: { color: "rgba(0, 0, 0, 0.05)" },
+            title: { display: true, text: "Percentage (%)" },
+          },
+          x: { grid: { display: false } },
+        },
+      };
+
+      const groupingChartCtx = document
+        .getElementById("groupingChart")
+        .getContext("2d");
+      new Chart(groupingChartCtx, {
+        type: "bar",
+        data: {
+          labels: ["1990", "1995", "2000", "2005"],
+          datasets: [
+            {
+              label: "Italy (Xu hướng giảm)",
+              data: [22, 25, 20, 18],
+              backgroundColor: "#FFB6C1",
+              borderColor: "#D8315B",
+              borderWidth: 2,
+            },
+            {
+              label: "Portugal (Xu hướng giảm)",
+              data: [27, 26, 22, 20],
+              backgroundColor: "rgba(216, 49, 91, 0.5)",
+              borderColor: "#D8315B",
+              borderWidth: 2,
+            },
+            {
+              label: "UK (Xu hướng tăng nhẹ)",
+              data: [9, 11, 12, 13],
+              backgroundColor: "rgba(62, 146, 204, 0.5)",
+              borderColor: "#3E92CC",
+              borderWidth: 2,
+            },
+            {
+              label: "USA (Xu hướng tăng)",
+              data: [10, 12, 15, 18],
+              backgroundColor: "#A2D2FF",
+              borderColor: "#3E92CC",
+              borderWidth: 2,
+            },
+          ],
+        },
+        options: {
+          ...commonChartOptions,
+          plugins: {
+            ...commonChartOptions.plugins,
+            legend: { position: "bottom" },
+          },
+        },
+      });
+    </script>
+  </body>
+</html>

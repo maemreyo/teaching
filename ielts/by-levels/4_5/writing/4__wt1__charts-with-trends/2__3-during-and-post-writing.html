@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Infographic: Tránh Lỗi Sai Kinh Điển Trong IELTS Task 1</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      body {
+        font-family: "Inter", sans-serif;
+        background-color: #f7f9fc;
+      }
+      .chart-container {
+        position: relative;
+        width: 100%;
+        max-width: 400px;
+        margin-left: auto;
+        margin-right: auto;
+        height: 250px;
+        max-height: 300px;
+      }
+      @media (min-width: 768px) {
+        .chart-container {
+          height: 280px;
+        }
+      }
+      .card {
+        background-color: white;
+        border-radius: 0.75rem;
+        box-shadow: 0 4px_6px_-1px_rgba (0, 0, 0, 0.1),
+          _0_2px_4px_-2px_rgba(0, 0, 0, 0.1);
+        padding: 1.5rem;
+        margin-bottom: 2rem;
+      }
+      .error-card {
+        background-color: #fff0f0;
+        border-left: 4px solid #d9534f;
+      }
+      .solution-card {
+        background-color: #f0fff0;
+        border-left: 4px solid #5cb85c;
+      }
+      .example-box {
+        padding: 1rem;
+        border-radius: 0.5rem;
+        margin-top: 0.5rem;
+      }
+    </style>
+  </head>
+  <body style="background-color: #f7f9fc">
+    <main class="container mx-auto max-w-4xl p-4 sm:p-6 md:p-8">
+      <header class="text-center mb-12">
+        <h1
+          class="text-4xl md:text-5xl font-extrabold mb-2"
+          style="color: #2c3e50"
+        >
+          "Bẫy" Từ Vựng & Ngữ Pháp Trong Task 1
+        </h1>
+        <p class="text-xl md:text-2xl font-semibold" style="color: #3498db">
+          Bí Kíp Tránh Lỗi Sai Để Tối Đa Hóa Điểm Số
+        </p>
+      </header>
+
+      <section id="common-errors" class="card">
+        <h2 class="text-2xl font-bold mb-6 text-center" style="color: #2c3e50">
+          4 Lỗi Sai Phổ Biến Nhất
+        </h2>
+        <div class="grid md:grid-cols-2 gap-8 items-center">
+          <div class="chart-container">
+            <canvas id="errorDistributionChart"></canvas>
+          </div>
+          <div class="space-y-4">
+            <div
+              class="p-4 rounded-lg bg-gray-50 border-l-4"
+              style="border-color: #e74c3c"
+            >
+              <h3 class="font-bold text-lg" style="color: #e74c3c">
+                Word Form (Dạng từ)
+              </h3>
+              <p class="text-gray-600">
+                Sử dụng nhầm lẫn giữa tính từ, trạng từ, danh từ và động từ.
+              </p>
+            </div>
+            <div
+              class="p-4 rounded-lg bg-gray-50 border-l-4"
+              style="border-color: #f1c40f"
+            >
+              <h3 class="font-bold text-lg" style="color: #f1c40f">
+                Word Choice (Lựa chọn từ)
+              </h3>
+              <p class="text-gray-600">
+                Dùng từ không phù hợp với ngữ cảnh, ví dụ `number` cho danh từ
+                không đếm được.
+              </p>
+            </div>
+            <div
+              class="p-4 rounded-lg bg-gray-50 border-l-4"
+              style="border-color: #3498db"
+            >
+              <h3 class="font-bold text-lg" style="color: #3498db">
+                Prepositions (Giới từ)
+              </h3>
+              <p class="text-gray-600">
+                Dùng sai giới từ đi kèm với động từ hoặc danh từ (ví dụ: spend
+                on).
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section id="error-deep-dive" class="card">
+        <h2 class="text-2xl font-bold mb-6 text-center" style="color: #2c3e50">
+          "Mổ Xẻ" Các Lỗi Sai Điển Hình
+        </h2>
+        <div class="space-y-6">
+          <div>
+            <h3 class="font-semibold text-xl mb-2">
+              1. Number of vs. Amount of
+            </h3>
+            <div class="grid md:grid-cols-2 gap-4">
+              <div class="example-box error-card">
+                <p class="font-bold">
+                  SAI:
+                  <span class="font-normal"
+                    >The <b class="text-red-600">number of money</b> was
+                    spent...</span
+                  >
+                </p>
+              </div>
+              <div class="example-box solution-card">
+                <p class="font-bold">
+                  ĐÚNG:
+                  <span class="font-normal"
+                    >The <b class="text-green-600">amount of money</b> was
+                    spent...</span
+                  >
+                </p>
+              </div>
+            </div>
+            <p class="mt-2 text-gray-600">
+              <b>Quy tắc:</b> Dùng `the amount of` với danh từ không đếm được
+              (money, water, information) và `the number of` với danh từ đếm
+              được số nhiều (countries, people, cars).
+            </p>
+          </div>
+
+          <div>
+            <h3 class="font-semibold text-xl mb-2">
+              2. Percent vs. Percentage
+            </h3>
+            <div class="grid md:grid-cols-2 gap-4">
+              <div class="example-box error-card">
+                <p class="font-bold">
+                  SAI:
+                  <span class="font-normal"
+                    >...whose <b class="text-red-600">percent</b> was 11%.</span
+                  >
+                </p>
+              </div>
+              <div class="example-box solution-card">
+                <p class="font-bold">
+                  ĐÚNG:
+                  <span class="font-normal"
+                    >...whose <b class="text-green-600">percentage</b> was
+                    11%.</span
+                  >
+                </p>
+              </div>
+            </div>
+            <p class="mt-2 text-gray-600">
+              <b>Quy tắc:</b> Dùng `percent` (%) sau một con số cụ thể (e.g., 25
+              percent). Dùng `percentage` như một danh từ độc lập (e.g., The
+              percentage increased).
+            </p>
+          </div>
+
+          <div>
+            <h3 class="font-semibold text-xl mb-2">
+              3. Adjective vs. Adverb (Tính từ vs. Trạng từ)
+            </h3>
+            <div class="grid md:grid-cols-2 gap-4">
+              <div class="example-box error-card">
+                <p class="font-bold">
+                  SAI:
+                  <span class="font-normal"
+                    >...a general declining trend
+                    <b class="text-red-600">similar</b> showed...</span
+                  >
+                </p>
+              </div>
+              <div class="example-box solution-card">
+                <p class="font-bold">
+                  ĐÚNG:
+                  <span class="font-normal"
+                    >...a <b class="text-green-600">similar</b> declining trend
+                    was shown.</span
+                  >
+                </p>
+              </div>
+            </div>
+            <p class="mt-2 text-gray-600">
+              <b>Quy tắc:</b> Tính từ (`comparable`, `similar`) bổ nghĩa cho
+              danh từ. Trạng từ (`comparably`, `similarly`) bổ nghĩa cho động
+              từ, tính từ hoặc một trạng từ khác.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <section id="practice" class="card">
+        <h2 class="text-2xl font-bold mb-4 text-center" style="color: #2c3e50">
+          Luyện Tập Củng Cố
+        </h2>
+        <p class="text-center mb-6 text-gray-700">
+          Hãy thử điền vào chỗ trống với các từ trong hộp. Đây là bài tập được
+          trích từ video để bạn kiểm tra lại kiến thức của mình.
+        </p>
+
+        <div class="mb-6 p-4 border-2 border-dashed rounded-lg">
+          <p class="text-center font-bold text-lg mb-4">Practice Exercise</p>
+          <div
+            class="flex flex-wrap justify-center gap-2 mb-4 p-2 bg-gray-100 rounded"
+          >
+            <span
+              class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-sm"
+              >amount</span
+            >
+            <span
+              class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-sm"
+              >number</span
+            >
+            <span
+              class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-sm"
+              >production</span
+            >
+            <span
+              class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-sm"
+              >before</span
+            >
+            <span
+              class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-sm"
+              >on</span
+            >
+            <span
+              class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-sm"
+              >at</span
+            >
+            <span
+              class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-sm"
+              >to</span
+            >
+            <span
+              class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-sm"
+              >produce</span
+            >
+            <span
+              class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-sm"
+              >dramatically</span
+            >
+          </div>
+          <p class="text-gray-700 leading-relaxed">
+            The chart illustrates how much oil was produced between 2000 and
+            2004. Overall, there was an increase in the daily (1)____ of oil
+            produced in Nigeria, Chad and Somalia, while a gradual decline in
+            oil (2)____ was seen in Congo. In addition, Congo produced the most
+            oil among the 4 countries, but Nigeria becomes higher in the last
+            year of the period. Oil production in Congo started at 275,000
+            barrels per day (bpd), then it fell to 203,000 in 2004. However, the
+            figures for Somalia increased (3)____ from only 5,000 bpd in 2000 to
+            21,000 bpd in 2003, (4)____ reaching a peak at 50,000 bpd (5)____
+            the end of the period. 205,000 barrels of oil were produced in
+            Nigeria in 2000, with fluctuations and a growth from 190,000 bpd in
+            2002 (6)____ 213,000 bpd in 2004. Meanwhile, Chad did not (7)____
+            any oil until 2002, but its oil production in 2003 was 8000 bpd,
+            then a substantial rise to 50,000 bpd a year later.
+          </p>
+        </div>
+
+        <div class="solution-card p-4 rounded-lg">
+          <h3 class="font-bold text-lg mb-2 text-green-700">Đáp Án Gợi Ý</h3>
+          <ol class="list-decimal list-inside text-gray-800">
+            <li><b>amount</b></li>
+            <li><b>production</b></li>
+            <li><b>dramatically</b></li>
+            <li><b>before</b></li>
+            <li><b>at</b></li>
+            <li><b>to</b></li>
+            <li><b>produce</b></li>
+          </ol>
+        </div>
+      </section>
+    </main>
+
+    <script>
+      const wrapLabels = (label, maxLength) => {
+        if (typeof label !== "string" || label.length <= maxLength) {
+          return label;
+        }
+        const words = label.split(" ");
+        const lines = [];
+        let currentLine = "";
+        words.forEach((word) => {
+          if ((currentLine + word).length > maxLength) {
+            lines.push(currentLine.trim());
+            currentLine = "";
+          }
+          currentLine += word + " ";
+        });
+        lines.push(currentLine.trim());
+        return lines;
+      };
+
+      const tooltipTitleCallback = (tooltipItems) => {
+        const item = tooltipItems[0];
+        let label = item.chart.data.labels[item.dataIndex];
+        if (Array.isArray(label)) {
+          return label.join(" ");
+        } else {
+          return label;
+        }
+      };
+
+      const errorDistributionCtx = document
+        .getElementById("errorDistributionChart")
+        .getContext("2d");
+      new Chart(errorDistributionCtx, {
+        type: "doughnut",
+        data: {
+          labels: ["Word Form", "Word Choice", "Prepositions", "Spelling"],
+          datasets: [
+            {
+              label: "Phân Bố Lỗi Sai",
+              data: [40, 30, 20, 10],
+              backgroundColor: ["#E74C3C", "#F1C40F", "#3498DB", "#95A5A6"],
+              borderColor: "#ffffff",
+              borderWidth: 4,
+            },
+          ],
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          plugins: {
+            legend: { display: false },
+            tooltip: { callbacks: { title: tooltipTitleCallback } },
+          },
+        },
+      });
+    </script>
+  </body>
+</html>
