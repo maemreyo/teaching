@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nâng Cấp Văn Phong: Từ Đời Thường đến Học Thuật</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;700;900&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Be Vietnam Pro', sans-serif;
+            background-color: #f3f4f6;
+        }
+        .gradient-text {
+            background: linear-gradient(to right, #4f46e5, #14b8a6);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        .comparison-card {
+            @apply bg-white p-6 rounded-xl shadow-lg border-t-8;
+        }
+        .everyday { @apply border-amber-400; }
+        .academic { @apply border-indigo-600; }
+        .pro-tip {
+            @apply bg-teal-50 border-l-4 border-teal-500 text-teal-800 p-4 rounded-r-lg;
+        }
+    </style>
+</head>
+<body class="text-gray-800">
+
+    <div class="container mx-auto p-4 md:p-8">
+
+        <header class="text-center mb-12">
+            <h1 class="text-4xl md:text-6xl font-black gradient-text mb-2">🎓 NÂNG CẤP VĂN PHONG 🎓</h1>
+            <p class="text-lg md:text-xl text-gray-600">Từ Giao Tiếp Hàng Ngày đến Ngôn Ngữ Học Thuật</p>
+        </header>
+
+        <main class="space-y-16">
+            
+            <section id="comparison">
+                <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">1. Đời thường vs. Học thuật: Khác biệt ở đâu?</h2>
+                <div class="grid md:grid-cols-2 gap-8">
+                    <!-- Everyday Language -->
+                    <div class="comparison-card everyday">
+                        <div class="text-center mb-4">
+                            <span class="text-5xl">💬</span>
+                            <h3 class="text-2xl font-bold text-amber-600 mt-2">Văn Phong Đời Thường</h3>
+                        </div>
+                        <ul class="space-y-3 text-lg">
+                            <li><strong>Thân mật, suồng sã:</strong> Dùng từ ngữ đơn giản, cảm tính.</li>
+                            <li class="italic p-3 bg-amber-50 rounded-md">"Throw away trashy stuff."</li>
+                            <li><strong>Ưu tiên Phrasal Verbs:</strong> Sử dụng các cụm động từ phổ biến.</li>
+                            <li class="italic p-3 bg-amber-50 rounded-md">"Get off the bus."</li>
+                        </ul>
+                    </div>
+                    <!-- Academic Language -->
+                    <div class="comparison-card academic">
+                        <div class="text-center mb-4">
+                            <span class="text-5xl">🏛️</span>
+                            <h3 class="text-2xl font-bold text-indigo-700 mt-2">Văn Phong Học Thuật</h3>
+                        </div>
+                        <ul class="space-y-3 text-lg">
+                            <li><strong>Trang trọng, trung lập:</strong> Dùng từ ngữ chính xác, khách quan.</li>
+                            <li class="italic p-3 bg-indigo-50 rounded-md">"<strong class="text-indigo-600">Disposal</strong> of <strong class="text-indigo-600">unwanted items</strong>."</li>
+                            <li><strong>Ưu tiên Động từ đơn:</strong> Sử dụng các động từ có nghĩa tương đương.</li>
+                            <li class="italic p-3 bg-indigo-50 rounded-md">"<strong class="text-indigo-600">Alight from</strong> the bus."</li>
+                        </ul>
+                    </div>
+                </div>
+            </section>
+
+            <section id="collocations" class="bg-white rounded-2xl shadow-lg p-6 md:p-8">
+                <h2 class="text-3xl font-bold text-center mb-6 text-gray-800">2. Vũ Khí Bí Mật: Collocations</h2>
+                <p class="text-center text-lg max-w-3xl mx-auto mb-8">Collocations là những cụm từ "sinh ra là để dành cho nhau". Dùng đúng Collocations giúp câu văn của bạn tự nhiên và chính xác như người bản xứ!</p>
+                
+                <div class="overflow-x-auto">
+                    <table class="w-full text-left border-collapse">
+                        <thead class="bg-gray-100">
+                            <tr>
+                                <th class="p-4 font-bold uppercase text-gray-600 border border-gray-200">Loại Collocation</th>
+                                <th class="p-4 font-bold uppercase text-gray-600 border border-gray-200">Ví dụ</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr class="hover:bg-gray-50">
+                                <td class="p-4 border border-gray-200 font-semibold">Tính từ + Danh từ</td>
+                                <td class="p-4 border border-gray-200 italic">Some things taste better in <strong class="text-indigo-600">bright color</strong>.</td>
+                            </tr>
+                            <tr class="hover:bg-gray-50">
+                                <td class="p-4 border border-gray-200 font-semibold">Động từ + Danh từ</td>
+                                <td class="p-4 border border-gray-200 italic">The company <strong class="text-indigo-600">launched the product</strong> in 2012.</td>
+                            </tr>
+                            <tr class="hover:bg-gray-50">
+                                <td class="p-4 border border-gray-200 font-semibold">Danh từ + Danh từ</td>
+                                <td class="p-4 border border-gray-200 italic">Every parent feels a <strong class="text-indigo-600">sense of pride</strong>.</td>
+                            </tr>
+                            <tr class="hover:bg-gray-50">
+                                <td class="p-4 border border-gray-200 font-semibold">Trạng từ + Tính từ</td>
+                                <td class="p-4 border border-gray-200 italic">They are <strong class="text-indigo-600">happily married</strong>.</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+
+                <div class="mt-8 pro-tip">
+                    <p><strong class="font-bold">Mẹo hay:</strong> Dùng từ điển online (như Cambridge Dictionary) để tra cứu. Các ví dụ trong từ điển chính là kho tàng collocations vô giá!</p>
+                </div>
+            </section>
+            
+            <section id="practice-finding" class="bg-white rounded-2xl shadow-lg p-6 md:p-8">
+                <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">3. Thử tài tra cứu! 🕵️‍♀️</h2>
+                <p class="text-center text-lg mb-6">Hãy dùng từ điển và tìm các collocations với danh từ "learning" nhé:</p>
+                <div class="grid md:grid-cols-3 gap-6 text-center">
+                    <div class="bg-gray-50 p-6 rounded-lg">
+                        <p class="font-bold text-xl mb-2">Trải nghiệm học</p>
+                        <p class="text-2xl font-semibold text-teal-600 p-3 bg-teal-100 rounded-md">Learning Experience</p>
+                    </div>
+                    <div class="bg-gray-50 p-6 rounded-lg">
+                        <p class="font-bold text-xl mb-2">Môi trường học tập</p>
+                        <p class="text-2xl font-semibold text-teal-600 p-3 bg-teal-100 rounded-md">Learning Environment</p>
+                    </div>
+                    <div class="bg-gray-50 p-6 rounded-lg">
+                        <p class="font-bold text-xl mb-2">Mục tiêu học tập</p>
+                        <p class="text-2xl font-semibold text-teal-600 p-3 bg-teal-100 rounded-md">Learning Objective</p>
+                    </div>
+                </div>
+            </section>
+
+        </main>
+
+        <footer class="text-center mt-16 py-6 border-t">
+            <p class="text-gray-600">Nâng cấp văn phong là cả một quá trình. Hãy kiên trì luyện tập mỗi ngày nhé! 💪</p>
+        </footer>
+    </div>
+</body>
+</html>

@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Bí Kíp Chinh Phục Câu Phức (Complex Sentence)</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;700;900&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      body {
+        font-family: "Be Vietnam Pro", sans-serif;
+        background-color: #f0f4f8;
+      }
+      .gradient-text {
+        background: linear-gradient(to right, #118ab2, #06d6a0);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+      }
+      .chart-container {
+        position: relative;
+        width: 100%;
+        max-width: 800px;
+        margin-left: auto;
+        margin-right: auto;
+        height: 300px;
+        max-height: 400px;
+      }
+      @media (min-width: 768px) {
+        .chart-container {
+          height: 400px;
+        }
+      }
+    </style>
+  </head>
+  <body class="text-gray-800">
+    <div class="container mx-auto p-4 md:p-8">
+      <header class="text-center mb-12">
+        <h1 class="text-4xl md:text-6xl font-black gradient-text mb-2">
+          🚀 BÍ KÍP CHINH PHỤC CÂU PHỨC 🚀
+        </h1>
+        <p class="text-lg md:text-xl text-gray-600">(Complex Sentence)</p>
+      </header>
+
+      <main class="space-y-12">
+        <section
+          id="definition"
+          class="bg-white rounded-2xl shadow-lg p-6 md:p-8 transform hover:scale-105 transition-transform duration-300"
+        >
+          <h2 class="text-3xl font-bold text-center mb-6 text-[#073B4C]">
+            1. CÂU PHỨC LÀ GÌ? 🤔
+          </h2>
+          <p class="text-center text-lg mb-8">
+            Hãy tưởng tượng câu phức như một cặp đôi siêu anh hùng hoàn hảo
+            trong thế giới ngữ pháp:
+          </p>
+          <div class="grid md:grid-cols-2 gap-8 text-center">
+            <div
+              class="bg-blue-100 p-6 rounded-xl border-2 border-dashed border-[#118AB2]"
+            >
+              <p class="text-6xl mb-4">🦸</p>
+              <h3 class="text-2xl font-bold text-[#118AB2]">Mệnh Đề Độc Lập</h3>
+              <p class="mt-2">(Independent Clause)</p>
+              <p class="mt-2 text-gray-700">
+                Là "nhân vật chính", có thể đứng một mình và vẫn đầy đủ ý nghĩa.
+              </p>
+            </div>
+            <div
+              class="bg-green-100 p-6 rounded-xl border-2 border-dashed border-[#06D6A0]"
+            >
+              <p class="text-6xl mb-4">🧑‍🤝‍🧑</p>
+              <h3 class="text-2xl font-bold text-[#06D6A0]">
+                Mệnh Đề Phụ Thuộc
+              </h3>
+              <p class="mt-2">(Dependent Clause)</p>
+              <p class="mt-2 text-gray-700">
+                Là "người bạn đồng hành", luôn cần đi theo "nhân vật chính" để
+                làm rõ nghĩa cho câu.
+              </p>
+            </div>
+          </div>
+          <div
+            class="mt-8 bg-[#FFD166] text-[#073B4C] text-2xl font-bold text-center p-4 rounded-lg shadow-inner"
+          >
+            ➡️ Câu phức = 1 Nhân vật chính + ít nhất 1 Người bạn đồng hành
+          </div>
+        </section>
+
+        <section
+          id="formulas"
+          class="bg-white rounded-2xl shadow-lg p-6 md:p-8"
+        >
+          <h2 class="text-3xl font-bold text-center mb-8 text-[#073B4C]">
+            2. CÔNG THỨC VÀNG CẦN NHỚ ✍️
+          </h2>
+          <p class="text-center text-lg mb-8">
+            Có 2 cách kết hợp cặp đôi này, chỉ cần nhớ quy tắc về dấu phẩy!
+          </p>
+          <div class="grid md:grid-cols-2 gap-8">
+            <div class="bg-gray-50 p-6 rounded-xl border-l-8 border-[#06D6A0]">
+              <h3 class="text-2xl font-bold text-[#06D6A0] mb-4">
+                ✅ CÔNG THỨC 1: Xuôi dòng
+              </h3>
+              <p class="text-lg font-semibold mb-4 bg-gray-200 p-3 rounded-md">
+                Mệnh đề ĐỘC LẬP + Mệnh đề PHỤ THUỘC.
+              </p>
+              <p class="text-gray-600 mb-4">(Không cần dấu phẩy)</p>
+              <p class="italic p-3 bg-green-50 rounded-md">
+                I heated my coffee in the microwave
+                <strong class="text-[#06D6A0]">because it was too cold.</strong>
+              </p>
+            </div>
+            <div class="bg-gray-50 p-6 rounded-xl border-l-8 border-[#FF6B6B]">
+              <h3 class="text-2xl font-bold text-[#FF6B6B] mb-4">
+                ✅ CÔNG THỨC 2: Ngược dòng
+              </h3>
+              <p class="text-lg font-semibold mb-4 bg-gray-200 p-3 rounded-md">
+                Mệnh đề PHỤ THUỘC, + Mệnh đề ĐỘC LẬP.
+              </p>
+              <p class="text-red-500 font-bold mb-4">(Bắt buộc có dấu phẩy!)</p>
+              <p class="italic p-3 bg-red-50 rounded-md">
+                <strong class="text-[#FF6B6B]">Although he was wealthy,</strong>
+                he was still unhappy.
+              </p>
+            </div>
+          </div>
+        </section>
+
+        <section id="power" class="bg-white rounded-2xl shadow-lg p-6 md:p-8">
+          <h2 class="text-3xl font-bold text-center mb-8 text-[#073B4C]">
+            3. SỨC MẠNH CỦA CÂU PHỨC 💪
+          </h2>
+          <p class="text-center text-lg mb-8">
+            Tại sao phải dùng câu phức? Để nâng cấp câu văn của bạn từ "đơn
+            giản" lên "tinh tế"!
+          </p>
+          <div
+            class="flex flex-col md:flex-row items-center justify-center gap-8"
+          >
+            <div class="w-full md:w-2/5 p-4 bg-red-100 rounded-lg text-center">
+              <h4 class="font-bold text-xl mb-2 text-red-700">
+                TRƯỚC KHI NÂNG CẤP
+              </h4>
+              <p class="italic">I heated my coffee. It was too cold.</p>
+              <p class="text-sm text-red-600 mt-2">(Hai câu đơn, rời rạc)</p>
+            </div>
+            <div class="text-4xl font-bold text-gray-400">➡️</div>
+            <div
+              class="w-full md:w-2/5 p-4 bg-green-100 rounded-lg text-center"
+            >
+              <h4 class="font-bold text-xl mb-2 text-green-700">
+                SAU KHI NÂNG CẤP
+              </h4>
+              <p class="italic">
+                I heated my coffee
+                <strong class="text-green-800">because</strong> it was too cold.
+              </p>
+              <p class="text-sm text-green-600 mt-2">
+                (Một câu phức, logic và chặt chẽ)
+              </p>
+            </div>
+          </div>
+          <p class="text-center text-lg mt-8 bg-yellow-100 p-4 rounded-lg">
+            Câu phức giúp bạn thể hiện rõ mối quan hệ giữa các ý (nguyên
+            nhân-kết quả, tương phản, điều kiện...).
+          </p>
+        </section>
+
+        <section id="types" class="bg-white rounded-2xl shadow-lg p-6 md:p-8">
+          <h2 class="text-3xl font-bold text-center mb-2 text-[#073B4C]">
+            4. GẶP GỠ CÁC "TRỢ THỦ" ĐẮC LỰC 🌟
+          </h2>
+          <p class="text-center text-lg mb-8">
+            Đây là những loại mệnh đề phụ thuộc phổ biến nhất. Biểu đồ dưới đây
+            thể hiện mức độ thường gặp của chúng trong giao tiếp và văn viết.
+          </p>
+          <div class="chart-container">
+            <canvas id="clauseTypesChart"></canvas>
+          </div>
+          <div class="mt-8 grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+            <div class="p-4 bg-gray-50 rounded-lg border-t-4 border-[#FF6B6B]">
+              <h4 class="font-bold text-lg">⏰ THỜI GIAN</h4>
+              <p class="text-sm text-gray-600">when, while, after, before...</p>
+            </div>
+            <div class="p-4 bg-gray-50 rounded-lg border-t-4 border-[#FFD166]">
+              <h4 class="font-bold text-lg">📍 NƠI CHỐN</h4>
+              <p class="text-sm text-gray-600">where, wherever...</p>
+            </div>
+            <div class="p-4 bg-gray-50 rounded-lg border-t-4 border-[#06D6A0]">
+              <h4 class="font-bold text-lg">❓ NGUYÊN NHÂN</h4>
+              <p class="text-sm text-gray-600">because, since, as...</p>
+            </div>
+            <div class="p-4 bg-gray-50 rounded-lg border-t-4 border-[#118AB2]">
+              <h4 class="font-bold text-lg">💡 ĐIỀU KIỆN</h4>
+              <p class="text-sm text-gray-600">if, unless...</p>
+            </div>
+            <div
+              class="p-4 bg-gray-50 rounded-lg border-t-4 border-[#073B4C] md:col-span-2 lg:col-span-1"
+            >
+              <h4 class="font-bold text-lg">⚖️ TƯƠNG PHẢN</h4>
+              <p class="text-sm text-gray-600">although, though, while...</p>
+            </div>
+          </div>
+        </section>
+
+        <section id="tips" class="bg-white rounded-2xl shadow-lg p-6 md:p-8">
+          <h2 class="text-3xl font-bold text-center mb-6 text-[#073B4C]">
+            ✨ LỜI KHUYÊN VÀNG ✨
+          </h2>
+          <ul class="space-y-4 text-lg max-w-3xl mx-auto">
+            <li class="flex items-start">
+              <span class="mr-3 text-2xl">💡</span
+              ><span
+                >Bắt đầu với công thức
+                <code class="bg-yellow-200 text-yellow-800 p-1 rounded"
+                  >1 Mệnh đề độc lập + 1 Mệnh đề phụ thuộc</code
+                >
+                để làm quen.</span
+              >
+            </li>
+            <li class="flex items-start">
+              <span class="mr-3 text-2xl">🎯</span
+              ><span
+                >Hãy chú ý đến
+                <strong class="text-red-500 mx-1">dấu phẩy</strong> khi mệnh đề
+                phụ thuộc đứng đầu câu! Đây là lỗi rất phổ biến.</span
+              >
+            </li>
+            <li class="flex items-start">
+              <span class="mr-3 text-2xl">🎨</span
+              ><span
+                >Sử dụng đa dạng các loại mệnh đề phụ thuộc để bài viết thêm
+                phong phú và chuyên nghiệp hơn.</span
+              >
+            </li>
+          </ul>
+        </section>
+      </main>
+
+      <footer class="text-center mt-12 py-6 border-t">
+        <p class="text-gray-600">
+          Chúc bạn học tốt và sớm làm chủ câu phức! 😉
+        </p>
+      </footer>
+    </div>
+
+    <script>
+      const ctx = document.getElementById("clauseTypesChart").getContext("2d");
+      const clauseTypesChart = new Chart(ctx, {
+        type: "bar",
+        data: {
+          labels: [
+            "Nguyên nhân",
+            "Thời gian",
+            "Điều kiện",
+            "Tương phản",
+            "Nơi chốn",
+          ],
+          datasets: [
+            {
+              label: "Mức độ phổ biến",
+              data: [95, 90, 85, 80, 65],
+              backgroundColor: [
+                "#06D6A0",
+                "#FF6B6B",
+                "#118AB2",
+                "#073B4C",
+                "#FFD166",
+              ],
+              borderColor: [
+                "#049D75",
+                "#D64F4F",
+                "#0B6E8A",
+                "#021B24",
+                "#D9A73D",
+              ],
+              borderWidth: 2,
+              borderRadius: 8,
+            },
+          ],
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          indexAxis: "y",
+          scales: {
+            x: {
+              beginAtZero: true,
+              grid: {
+                display: false,
+              },
+            },
+            y: {
+              ticks: {
+                font: {
+                  size: 14,
+                  weight: "bold",
+                },
+              },
+            },
+          },
+          plugins: {
+            legend: {
+              display: false,
+            },
+            title: {
+              display: true,
+              text: "Mức độ Phổ biến của các Loại Mệnh đề Phụ thuộc",
+              font: {
+                size: 18,
+                weight: "bold",
+              },
+              padding: {
+                bottom: 20,
+              },
+            },
+            tooltip: {
+              callbacks: {
+                title: function (tooltipItems) {
+                  const item = tooltipItems[0];
+                  let label = item.chart.data.labels[item.dataIndex];
+                  if (Array.isArray(label)) {
+                    return label.join(" ");
+                  } else {
+                    return label;
+                  }
+                },
+              },
+            },
+          },
+        },
+      });
+    </script>
+  </body>
+</html>
