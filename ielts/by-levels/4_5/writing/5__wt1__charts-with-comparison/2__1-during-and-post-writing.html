@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Infographic: Ngôn Ngữ So Sánh Cho IELTS Task 1</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      body {
+        font-family: "Inter", sans-serif;
+        background-color: #fdfdff; /* A slightly off-white for a softer feel */
+      }
+      .chart-container {
+        position: relative;
+        width: 100%;
+        max-width: 500px;
+        margin-left: auto;
+        margin-right: auto;
+        height: 250px;
+        max-height: 350px;
+      }
+      @media (min-width: 768px) {
+        .chart-container {
+          height: 300px;
+        }
+      }
+      .card {
+        background-color: white;
+        border-radius: 0.75rem;
+        border: 1px solid #e2e8f0;
+        padding: 1.5rem 2rem;
+        margin-bottom: 2rem;
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+      }
+      .card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.07),
+          0 4px 6px -2px rgba(0, 0, 0, 0.04);
+      }
+      .rule-card {
+        background: linear-gradient(135deg, #f55668 0%, #a345a1 100%);
+        color: white;
+        padding: 2rem;
+      }
+      .grammar-card {
+        background-color: #f8fafc;
+        border: 1px solid #e2e8f0;
+      }
+    </style>
+  </head>
+  <body style="background-color: #fdfdff">
+    <main class="container mx-auto max-w-4xl p-4 sm:p-6 md:p-8">
+      <header class="text-center mb-12">
+        <h1
+          class="text-4xl md:text-5xl font-extrabold mb-2"
+          style="color: #1e293b"
+        >
+          Làm Chủ Ngôn Ngữ So Sánh
+        </h1>
+        <p class="text-xl md:text-2xl font-semibold" style="color: #64748b">
+          Nâng Band Điểm Task 1 Với Cấu Trúc & Từ Vựng Chuẩn
+        </p>
+      </header>
+
+      <section id="golden-rule" class="card rule-card">
+        <h2 class="text-2xl font-bold mb-4 text-center">
+          🛑 QUY TẮC VÀNG: SO SÁNH, KHÔNG PHẢI XU HƯỚNG!
+        </h2>
+        <p class="text-center text-lg">
+          Với biểu đồ so sánh (không có mốc thời gian), tuyệt đối
+          <b class="font-bold">KHÔNG</b> dùng các từ mô tả xu hướng như
+          `increase` hay `decrease`. Thay vào đó, hãy tập trung vào việc so sánh
+          các đối tượng khác nhau tại cùng một thời điểm bằng các cấu trúc so
+          sánh.
+        </p>
+      </section>
+
+      <section id="grammar-toolkit" class="card">
+        <h2 class="text-2xl font-bold mb-6 text-center" style="color: #1e293b">
+          🛠️ Bộ Công Cụ Ngữ Pháp So Sánh
+        </h2>
+        <div class="space-y-8">
+          <div>
+            <h3 class="font-semibold text-xl mb-3" style="color: #4a5568">
+              So Sánh Bằng: Khi các số liệu tương đương
+            </h3>
+            <div
+              class="grid md:grid-cols-2 gap-6 items-center grammar-card p-4 rounded-lg"
+            >
+              <div>
+                <ul class="list-disc list-inside space-y-2 text-gray-700">
+                  <li><code>A + V + as + adj/adv + as + B</code></li>
+                  <li><code>A + be + the same as + B</code></li>
+                  <li><code>A and B are similar</code></li>
+                </ul>
+                <p class="mt-4 bg-white p-3 rounded-md shadow-sm">
+                  <b>Ví dụ:</b> "The number of boys was
+                  <b style="color: #4a90e2">the same as</b> the number of girls,
+                  at 1000."
+                </p>
+              </div>
+              <div class="chart-container" style="height: 200px">
+                <canvas id="equalChart"></canvas>
+              </div>
+            </div>
+          </div>
+
+          <div>
+            <h3 class="font-semibold text-xl mb-3" style="color: #4a5568">
+              So Sánh Hơn: Khi các số liệu khác biệt
+            </h3>
+            <div
+              class="grid md:grid-cols-2 gap-6 items-center grammar-card p-4 rounded-lg"
+            >
+              <div>
+                <ul class="list-disc list-inside space-y-2 text-gray-700">
+                  <li>Ngắn: <code>adj/adv-er + than</code></li>
+                  <li>Dài: <code>more/less + adj/adv + than</code></li>
+                </ul>
+                <p class="mt-4 bg-white p-3 rounded-md shadow-sm">
+                  <b>Ví dụ:</b> "The number of boys, at 1200, was
+                  <b style="color: #4a90e2">significantly higher than</b> the
+                  number of girls, at 800."
+                </p>
+              </div>
+              <div class="chart-container" style="height: 200px">
+                <canvas id="comparativeChart"></canvas>
+              </div>
+            </div>
+          </div>
+
+          <div>
+            <h3 class="font-semibold text-xl mb-3" style="color: #4a5568">
+              So Sánh Nhất: Khi một số liệu vượt trội
+            </h3>
+            <div
+              class="grid md:grid-cols-2 gap-6 items-center grammar-card p-4 rounded-lg"
+            >
+              <div>
+                <ul class="list-disc list-inside space-y-2 text-gray-700">
+                  <li>Ngắn: <code>the + adj/adv-est</code></li>
+                  <li>Dài: <code>the most/least + adj/adv</code></li>
+                </ul>
+                <p class="mt-4 bg-white p-3 rounded-md shadow-sm">
+                  <b>Ví dụ:</b> "USA had
+                  <b style="color: #4a90e2">the highest number</b> of viewers
+                  for Golf."
+                </p>
+              </div>
+              <div class="chart-container" style="height: 200px">
+                <canvas id="superlativeChart"></canvas>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section id="vocabulary" class="card">
+        <h2 class="text-2xl font-bold mb-6 text-center" style="color: #1e293b">
+          🚀 Từ Vựng "Ăn Điểm" Cho Bài So Sánh
+        </h2>
+        <div class="grid md:grid-cols-2 gap-6">
+          <div class="p-4 bg-gray-50 rounded-lg">
+            <h3 class="font-bold text-lg mb-2">Để chỉ sự tương đồng</h3>
+            <ul class="list-disc list-inside text-gray-700">
+              <li>A is similar to B</li>
+              <li>A and B are similar</li>
+              <li>Likewise, / Similarly,</li>
+            </ul>
+          </div>
+          <div class="p-4 bg-gray-50 rounded-lg">
+            <h3 class="font-bold text-lg mb-2">Để chỉ sự tương phản</h3>
+            <ul class="list-disc list-inside text-gray-700">
+              <li>In contrast, / By contrast,</li>
+              <li>while / whereas</li>
+              <li>However,</li>
+            </ul>
+          </div>
+        </div>
+      </section>
+
+      <footer class="text-center mt-8">
+        <p class="text-gray-600">
+          Sử dụng đa dạng các cấu trúc so sánh là chìa khóa để đạt điểm cao
+          trong tiêu chí Ngữ pháp (Grammatical Range and Accuracy).
+        </p>
+      </footer>
+    </main>
+
+    <script>
+      const tooltipTitleCallback = (tooltipItems) => {
+        const item = tooltipItems[0];
+        let label = item.chart.data.labels[item.dataIndex];
+        if (Array.isArray(label)) {
+          return label.join(" ");
+        }
+        return label;
+      };
+
+      const commonChartOptions = {
+        maintainAspectRatio: false,
+        responsive: true,
+        plugins: {
+          legend: { display: false },
+          tooltip: { callbacks: { title: tooltipTitleCallback } },
+        },
+        scales: {
+          y: {
+            beginAtZero: true,
+            grid: { color: "rgba(0, 0, 0, 0.05)" },
+            ticks: { stepSize: 500 },
+          },
+          x: { grid: { display: false } },
+        },
+      };
+
+      new Chart(document.getElementById("equalChart").getContext("2d"), {
+        type: "bar",
+        data: {
+          labels: ["Boys", "Girls"],
+          datasets: [
+            {
+              data: [1000, 1000],
+              backgroundColor: ["#a2d2ff", "#ffbfa0"],
+            },
+          ],
+        },
+        options: commonChartOptions,
+      });
+
+      new Chart(document.getElementById("comparativeChart").getContext("2d"), {
+        type: "bar",
+        data: {
+          labels: ["Boys", "Girls"],
+          datasets: [
+            {
+              data: [1200, 800],
+              backgroundColor: ["#a2d2ff", "#ffbfa0"],
+            },
+          ],
+        },
+        options: commonChartOptions,
+      });
+
+      new Chart(document.getElementById("superlativeChart").getContext("2d"), {
+        type: "bar",
+        data: {
+          labels: ["Australia", "UK", "USA", "Canada"],
+          datasets: [
+            {
+              data: [4.5, 2.8, 11.2, 3.4],
+              backgroundColor: ["#BDD9BF", "#FFBFA0", "#A2D2FF", "#FFE0AC"],
+            },
+          ],
+        },
+        options: {
+          ...commonChartOptions,
+          scales: { y: { beginAtZero: true, ticks: { stepSize: 2 } } },
+        },
+      });
+    </script>
+  </body>
+</html>

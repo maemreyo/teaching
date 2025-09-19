@@ -1,0 +1,344 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Infographic: Phân Tích Biểu Đồ So Sánh IELTS Task 1</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      body {
+        font-family: "Inter", sans-serif;
+        background-color: #f8f9fa;
+      }
+      .chart-container {
+        position: relative;
+        width: 100%;
+        max-width: 600px;
+        margin-left: auto;
+        margin-right: auto;
+        height: 350px;
+        max-height: 450px;
+      }
+      .pie-chart-container {
+        position: relative;
+        width: 100%;
+        max-width: 300px;
+        margin-left: auto;
+        margin-right: auto;
+        height: 300px;
+      }
+      @media (min-width: 768px) {
+        .chart-container {
+          height: 400px;
+        }
+      }
+      .card {
+        background-color: white;
+        border-radius: 0.75rem;
+        box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1),
+          0 2px 4px -1px rgba(0, 0, 0, 0.06);
+        padding: 1.5rem;
+        margin-bottom: 2rem;
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+      }
+      .card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
+          0 4px 6px -2px rgba(0, 0, 0, 0.05);
+      }
+      .step-box {
+        background-color: #f8fafc;
+        border-left: 4px solid #4a90e2;
+        padding: 1rem;
+        border-radius: 0.5rem;
+      }
+    </style>
+  </head>
+  <body style="background-color: #f8f9fa">
+    <main class="container mx-auto max-w-5xl p-4 sm:p-6 md:p-8">
+      <header class="text-center mb-12">
+        <h1
+          class="text-4xl md:text-5xl font-extrabold mb-2"
+          style="color: #2c3e50"
+        >
+          Bậc Thầy Phân Tích Biểu Đồ So Sánh
+        </h1>
+        <p class="text-xl md:text-2xl font-semibold" style="color: #4a90e2">
+          Khám Phá Chiến Lược Lập Dàn Ý & Nhóm Thông Tin Hiệu Quả
+        </p>
+      </header>
+
+      <section id="intro-comparison" class="card">
+        <h2 class="text-2xl font-bold mb-4" style="color: #2c3e50">
+          Charts of Comparison là gì?
+        </h2>
+        <p class="text-gray-700">
+          Đây là dạng biểu đồ (bảng, cột, tròn...)
+          <b class="text-gray-900">không có yếu tố thời gian</b>. Mục đích chính
+          là để so sánh các số liệu của nhiều đối tượng khác nhau tại
+          <b class="text-gray-900">cùng một thời điểm</b>. Điểm khác biệt lớn
+          nhất so với "Charts with Trends" là bạn sẽ không miêu tả xu hướng
+          tăng/giảm theo thời gian.
+        </p>
+      </section>
+
+      <section id="analysis-framework" class="card">
+        <h2 class="text-2xl font-bold mb-6 text-center" style="color: #2c3e50">
+          Khung Phân Tích 3 Bước "Bất Bại"
+        </h2>
+        <div class="grid md:grid-cols-3 gap-6">
+          <div class="step-box text-center">
+            <div class="text-4xl mb-2">1️⃣</div>
+            <h3 class="font-bold text-lg" style="color: #2c3e50">
+              Xác định 3W
+            </h3>
+            <p class="text-gray-600 text-sm">
+              <b>What:</b> Dữ liệu về gì? <br /><b>Where:</b> Ở đâu? <br /><b
+                >When:</b
+              >
+              Khi nào? (Thường là không có)
+            </p>
+          </div>
+          <div class="step-box text-center">
+            <div class="text-4xl mb-2">2️⃣</div>
+            <h3 class="font-bold text-lg" style="color: #2c3e50">
+              Xác định Đối Tượng
+            </h3>
+            <p class="text-gray-600 text-sm">
+              Các nhóm đối tượng so sánh (subjects of comparison) và đơn vị
+              (unit) là gì?
+            </p>
+          </div>
+          <div class="step-box text-center">
+            <div class="text-4xl mb-2">3️⃣</div>
+            <h3 class="font-bold text-lg" style="color: #2c3e50">
+              Nhóm & Tìm Điểm Chính
+            </h3>
+            <p class="text-gray-600 text-sm">
+              Tìm ra các đặc điểm nổi bật nhất (cao nhất, thấp nhất, tương đồng)
+              để nhóm thông tin.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <section id="grouping-strategy" class="card">
+        <h2 class="text-2xl font-bold mb-4 text-center" style="color: #2c3e50">
+          Chìa Khóa "Ăn Điểm": Nhóm Thông Tin Logic
+        </h2>
+        <p class="text-center mb-6 text-gray-700">
+          Với biểu đồ so sánh, bạn có thể nhóm thông tin theo các đối tượng so
+          sánh. Hãy tìm ra sự tương đồng hoặc tương phản để chia thành 2 đoạn
+          thân bài một cách hợp lý.
+        </p>
+
+        <div class="p-6 rounded-lg" style="background-color: #f1f5f9">
+          <h3 class="font-bold text-xl mb-4 text-center" style="color: #2c3e50">
+            Ví Dụ: Lượng Khán Giả Xem Thể Thao (Triệu người)
+          </h3>
+          <div class="chart-container mb-4">
+            <canvas id="sportsViewersChart"></canvas>
+          </div>
+          <div class="grid md:grid-cols-2 gap-4 text-center">
+            <div class="bg-white p-4 rounded-lg shadow">
+              <h4 class="font-bold text-lg" style="color: #4a90e2">
+                Cách Nhóm 1: Theo Mức Độ Phổ Biến
+              </h4>
+              <p class="text-gray-600">
+                <b>Body 1:</b> Nhóm các môn phổ biến nhất (Tennis & Golf).
+              </p>
+              <p class="text-gray-600">
+                <b>Body 2:</b> Nhóm các môn ít phổ biến hơn (Motor Racing &
+                Athletics).
+              </p>
+            </div>
+            <div class="bg-white p-4 rounded-lg shadow">
+              <h4 class="font-bold text-lg" style="color: #4a90e2">
+                Đặc Điểm Chính Cần Nêu
+              </h4>
+              <ul class="text-left list-disc list-inside text-gray-600 text-sm">
+                <li>
+                  <b>Tổng thể:</b> USA có nhiều người xem nhất, Tennis là môn
+                  phổ biến nhất.
+                </li>
+                <li>
+                  <b>So sánh:</b> Golf ở USA vượt trội, Motor Racing ít phổ biến
+                  ở UK/Canada.
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section id="practice" class="card">
+        <h2 class="text-2xl font-bold mb-4 text-center" style="color: #2c3e50">
+          Thực Hành: Nhóm Thông Tin
+        </h2>
+        <p class="text-center mb-6 text-gray-700">
+          Với 2 biểu đồ tròn dưới đây về cách tiếp cận tin tức ở Canada và Úc,
+          bạn sẽ nhóm thông tin cho 2 đoạn thân bài như thế nào?
+        </p>
+        <div class="grid md:grid-cols-2 gap-8">
+          <div>
+            <h3 class="text-center font-bold text-lg mb-2">Canada</h3>
+            <div class="pie-chart-container">
+              <canvas id="canadaChart"></canvas>
+            </div>
+          </div>
+          <div>
+            <h3 class="text-center font-bold text-lg mb-2">Australia</h3>
+            <div class="pie-chart-container">
+              <canvas id="australiaChart"></canvas>
+            </div>
+          </div>
+        </div>
+        <div class="mt-8 p-4 bg-gray-100 rounded-lg">
+          <h3 class="font-bold text-lg mb-2 text-center">
+            Các Cách Nhóm Khả Thi
+          </h3>
+          <div class="grid md:grid-cols-2 gap-4 mt-4">
+            <div class="p-4 bg-red-100 border-l-4 border-red-500 rounded-r-lg">
+              <h4 class="font-bold">Cách 1: Theo Kênh Tin Tức (Phức tạp)</h4>
+              <p class="text-sm">
+                Body 1 so sánh TV, Radio. Body 2 so sánh các kênh còn lại. Cách
+                này làm bài viết bị phân mảnh, khó theo dõi.
+              </p>
+            </div>
+            <div
+              class="p-4 bg-green-100 border-l-4 border-green-500 rounded-r-lg"
+            >
+              <h4 class="font-bold">Cách 2: Theo Quốc Gia (Hiệu quả)</h4>
+              <p class="text-sm">
+                <b>Body 1:</b> Phân tích tất cả các kênh ở Canada.
+                <b>Body 2:</b> Phân tích và so sánh với Úc. Cách này giúp bài
+                viết rõ ràng, mạch lạc và dễ so sánh hơn nhiều.
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <script>
+      const tooltipTitleCallback = (tooltipItems) => {
+        const item = tooltipItems[0];
+        let label = item.chart.data.labels[item.dataIndex];
+        if (Array.isArray(label)) {
+          return label.join(" ");
+        }
+        return label;
+      };
+
+      const commonChartOptions = {
+        maintainAspectRatio: false,
+        responsive: true,
+        plugins: {
+          tooltip: { callbacks: { title: tooltipTitleCallback } },
+          legend: { position: "bottom" },
+        },
+      };
+
+      const sportsViewersCtx = document
+        .getElementById("sportsViewersChart")
+        .getContext("2d");
+      new Chart(sportsViewersCtx, {
+        type: "bar",
+        data: {
+          labels: ["Tennis", "Golf", "Motor Racing", "Athletics"],
+          datasets: [
+            {
+              label: "Australia",
+              data: [6.2, 4.5, 3.7, 3],
+              backgroundColor: "#BDD9BF",
+            },
+            {
+              label: "UK",
+              data: [6.6, 2.8, 6.4, 4.5],
+              backgroundColor: "#FFBFA0",
+            },
+            {
+              label: "USA",
+              data: [7, 11.2, 1.5, 5.5],
+              backgroundColor: "#A2D2FF",
+            },
+            {
+              label: "Canada",
+              data: [6.1, 3.4, 1.1, 3.9],
+              backgroundColor: "#FFE0AC",
+            },
+          ],
+        },
+        options: {
+          ...commonChartOptions,
+          scales: {
+            y: {
+              beginAtZero: true,
+              title: { display: true, text: "Viewers (in millions)" },
+            },
+          },
+        },
+      });
+
+      const pieChartOptions = {
+        responsive: true,
+        maintainAspectRatio: false,
+        plugins: {
+          legend: { position: "bottom" },
+          tooltip: { callbacks: { title: tooltipTitleCallback } },
+        },
+      };
+
+      const canadaCtx = document.getElementById("canadaChart").getContext("2d");
+      new Chart(canadaCtx, {
+        type: "pie",
+        data: {
+          labels: ["TV", "Radio", "Print", "Online", "Not specified"],
+          datasets: [
+            {
+              data: [40, 7, 14, 36, 3],
+              backgroundColor: [
+                "#4A90E2",
+                "#50E3C2",
+                "#F5A623",
+                "#F8E71C",
+                "#BD10E0",
+              ],
+            },
+          ],
+        },
+        options: pieChartOptions,
+      });
+
+      const australiaCtx = document
+        .getElementById("australiaChart")
+        .getContext("2d");
+      new Chart(australiaCtx, {
+        type: "pie",
+        data: {
+          labels: ["TV", "Radio", "Print", "Online", "Not specified"],
+          datasets: [
+            {
+              data: [37, 2, 7, 52, 2],
+              backgroundColor: [
+                "#4A90E2",
+                "#50E3C2",
+                "#F5A623",
+                "#F8E71C",
+                "#BD10E0",
+              ],
+            },
+          ],
+        },
+        options: pieChartOptions,
+      });
+    </script>
+  </body>
+</html>
