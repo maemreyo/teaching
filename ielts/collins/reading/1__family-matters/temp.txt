@@ -1,0 +1,90 @@
+Hệ Thống Phân Loại Cấu Trúc Đoạn Văn
+1. Cấu Trúc Vấn Đề – Giải Pháp (Problem – Solution)
+
+Mục đích cốt lõi: Trình bày một khó khăn, thách thức hoặc một câu hỏi, sau đó đề xuất một hoặc nhiều phương hướng để giải quyết nó.
+
+Dấu hiệu nhận biết:
+
+Tín hiệu cho Vấn đề (Nouns): problem, issue, challenge, difficulty, dilemma, obstacle, drawback, complication, crisis, shortcoming, flaw.
+
+Tín hiệu cho Vấn đề (Verbs): suffer from, face, struggle with, is hampered by, is hindered by, grapple with.
+
+Tín hiệu cho Giải pháp (Nouns): solution, answer, remedy, approach, measure, strategy, proposal, way forward, resolution, response, countermeasure.
+
+Tín hiệu cho Giải pháp (Verbs): solve, address, tackle, overcome, mitigate, combat, propose, suggest, recommend, resolve, counteract.
+
+Từ nối và cụm từ chuyển tiếp: To solve this..., One way to address this is..., In response..., The proposed solution involves..., A strategy to overcome this would be....
+
+2. Cấu Trúc Nguyên Nhân – Kết Quả (Cause – Effect)
+
+Mục đích cốt lõi: Giải thích lý do tại sao một sự việc/hiện tượng xảy ra (Nguyên nhân) và/hoặc phân tích những hệ quả, tác động của nó (Kết quả).
+
+Dấu hiệu nhận biết:
+
+Tín hiệu chỉ Nguyên nhân: because (of), due to, since, as, owing to, the reason for, stems from, is caused by, is attributed to, is a result of, originates from.
+
+Tín hiệu chỉ Kết quả: as a result, consequently, therefore, hence, thus, for this reason, so, accordingly.
+
+Động từ chỉ quan hệ: leads to, results in, brings about, gives rise to, triggers, sparks, contributes to, causes, produces, fosters, induces.
+
+Danh từ: cause, reason, factor, origin, catalyst, trigger, effect, impact, outcome, consequence, ramification, repercussion.
+
+3. Cấu Trúc So Sánh – Tương Phản (Compare – Contrast)
+
+Mục đích cốt lõi: Chỉ ra những điểm tương đồng (So sánh) và/hoặc điểm khác biệt (Tương phản) giữa hai hay nhiều đối tượng, lý thuyết, phương pháp.
+
+Dấu hiệu nhận biết:
+
+Tín hiệu So sánh (Điểm tương đồng): similarly, likewise, in the same way, just as, equally, both... and..., also, too, share characteristics with, resembles, mirrors, parallels.
+
+Tín hiệu Tương phản (Điểm khác biệt): however, in contrast, on the other hand, whereas, while, unlike, conversely, despite, in spite of, alternatively, by contrast, differs from, on the contrary.
+
+Danh từ: comparison, contrast, difference, similarity, distinction, analogy, parallel.
+
+Cấu trúc ngữ pháp: Sử dụng các cấu trúc so sánh hơn (more/-er than, less than) hoặc so sánh bằng (as...as, not as...as).
+
+4. Cấu Trúc Trình Tự Thời Gian / Tuần Tự (Chronological / Sequential)
+
+Mục đích cốt lõi: Trình bày các sự kiện, giai đoạn hoặc các bước trong một quy trình theo thứ tự chúng xảy ra.
+
+Dấu hiệu nhận biết:
+
+Từ chỉ trình tự: initially, originally, first(ly), second(ly), then, next, afterwards, subsequently, before, after, finally, at last, ultimately.
+
+Mốc thời gian: Các năm, thế kỷ, thập kỷ cụ thể (in 1990, by 2005, during the 19th century).
+
+Cụm từ chỉ giai đoạn: in the beginning, at the outset, prior to, following this, the first step is..., the next stage involves..., in the final phase..., not long after, over the following decade.
+
+5. Cấu Trúc Phân Loại – Định Nghĩa (Classification – Definition)
+
+Mục đích cốt lõi: Nhóm các đối tượng vào các loại khác nhau dựa trên đặc điểm chung (Phân loại) hoặc giải thích ý nghĩa của một thuật ngữ, khái niệm quan trọng (Định nghĩa).
+
+Dấu hiệu nhận biết:
+
+Tín hiệu Phân loại: can be divided/categorized into, consists of, comprises, is composed of, includes. Danh từ: categories, types, kinds, groups, classes, sorts, forms, varieties. Từ liệt kê: one type is..., another kind is..., the first category includes....
+
+Tín hiệu Định nghĩa: is defined as, refers to, means, can be described as, is known as. Thường sử dụng dấu ngoặc kép, in nghiêng, hoặc gạch chân cho thuật ngữ được định nghĩa.
+
+6. Cấu Trúc Lập Luận – Phản Biện (Argument – Counterargument)
+
+Mục đích cốt lõi: Trình bày một quan điểm/lập luận, sau đó thừa nhận một quan điểm trái ngược (phản biện), và cuối cùng có thể bác bỏ nó để củng cố lập luận ban đầu.
+
+Dấu hiệu nhận biết:
+
+Giới thiệu quan điểm đối lập/phổ biến: It is often argued that..., Some people believe/claim..., A common misconception is..., Traditionally, it was thought that..., On the surface, it seems....
+
+Giới thiệu phản biện/quan điểm của tác giả: However, In reality, Nevertheless, But, Yet, This view is questionable, A closer look reveals..., Contrary to popular belief....
+
+Thừa nhận một phần (Concession): Although, While it is true that..., Admittedly, Of course, Despite the fact that....
+
+7. Cấu Trúc Tổng Quát – Cụ Thể (General – Specific / Exemplification)
+
+Mục đích cốt lõi: Đưa ra một phát biểu chung (luận điểm), thường là câu chủ đề, sau đó làm rõ và hỗ trợ nó bằng các chi tiết, ví dụ, dữ liệu cụ thể.
+
+Dấu hiệu nhận biết:
+
+Câu chủ đề: Thường là một câu mang tính khái quát, trừu tượng ở đầu đoạn.
+
+Tín hiệu giới thiệu chi tiết/ví dụ: For example, For instance, To illustrate, Specifically, In particular, such as, namely, A case in point is....
+
+Nội dung: Phần còn lại của đoạn văn sẽ chứa các bằng chứng cụ thể như tên riêng, địa danh, số liệu thống kê, kết quả nghiên cứu, mô tả chi tiết, các sự kiện cụ thể.
