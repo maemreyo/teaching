@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Hệ Thống Phân Loại Cấu Trúc Đoạn Văn</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700;900&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      body {
+        font-family: "Be Vietnam Pro", sans-serif;
+      }
+      .gradient-text {
+        background: linear-gradient(to right, #4a00e0, #8e2de2);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+      }
+      .table-cell-keywords .keyword {
+        font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo,
+          monospace;
+        font-size: 0.8rem;
+        font-weight: 600;
+        padding: 0.25rem 0.5rem;
+        border-radius: 9999px;
+        display: inline-block;
+        margin: 0.125rem;
+      }
+    </style>
+  </head>
+  <body class="bg-slate-50 text-slate-800">
+    <div class="container mx-auto p-4 md:p-8">
+      <header class="text-center mb-12">
+        <h1
+          class="text-4xl md:text-5xl font-black gradient-text tracking-tight"
+        >
+          Hệ Thống Phân Loại Cấu Trúc Đoạn Văn
+        </h1>
+        <p class="mt-4 text-lg text-slate-600 max-w-3xl mx-auto">
+          "Đọc vị" ý đồ của tác giả qua cách họ sắp xếp ý tưởng
+        </p>
+      </header>
+
+      <main>
+        <div
+          class="overflow-x-auto bg-white rounded-2xl shadow-xl border border-slate-200"
+        >
+          <table class="min-w-full text-sm divide-y divide-slate-200">
+            <thead class="bg-slate-100">
+              <tr>
+                <th
+                  class="p-4 text-left text-xs font-semibold text-slate-600 uppercase tracking-wider"
+                >
+                  Cấu Trúc
+                </th>
+                <th
+                  class="p-4 text-left text-xs font-semibold text-slate-600 uppercase tracking-wider"
+                >
+                  Mục Đích Cốt Lõi
+                </th>
+                <th
+                  class="p-4 text-left text-xs font-semibold text-slate-600 uppercase tracking-wider"
+                >
+                  Dấu Hiệu Nhận Biết
+                </th>
+              </tr>
+            </thead>
+            <tbody class="divide-y divide-slate-200">
+              <!-- Problem – Solution -->
+              <tr class="hover:bg-slate-50">
+                <td class="p-4 align-top w-1/5">
+                  <strong class="font-bold text-base text-sky-700"
+                    >1. Vấn Đề – Giải Pháp</strong
+                  ><br />(Problem – Solution)
+                </td>
+                <td class="p-4 align-top w-1/4">
+                  Trình bày một khó khăn, thách thức hoặc một câu hỏi, sau đó đề
+                  xuất một hoặc nhiều phương hướng để giải quyết nó.
+                </td>
+                <td class="p-4 align-top table-cell-keywords">
+                  <strong class="text-slate-700">Vấn đề (Nouns):</strong>
+                  <div class="mt-1">
+                    <span class="keyword text-sky-800 bg-sky-100"
+                      >problem</span
+                    ><span class="keyword text-sky-800 bg-sky-100">issue</span
+                    ><span class="keyword text-sky-800 bg-sky-100"
+                      >challenge</span
+                    ><span class="keyword text-sky-800 bg-sky-100"
+                      >difficulty</span
+                    ><span class="keyword text-sky-800 bg-sky-100"
+                      >dilemma</span
+                    ><span class="keyword text-sky-800 bg-sky-100"
+                      >obstacle</span
+                    ><span class="keyword text-sky-800 bg-sky-100"
+                      >drawback</span
+                    ><span class="keyword text-blue-800 bg-blue-200"
+                      >a concern</span
+                    ><span class="keyword text-blue-800 bg-blue-200"
+                      >a downside</span
+                    >
+                  </div>
+                  <strong class="text-slate-700 mt-2 block"
+                    >Giải pháp (Nouns):</strong
+                  >
+                  <div class="mt-1">
+                    <span class="keyword text-green-800 bg-green-100"
+                      >solution</span
+                    ><span class="keyword text-green-800 bg-green-100"
+                      >answer</span
+                    ><span class="keyword text-green-800 bg-green-100"
+                      >remedy</span
+                    ><span class="keyword text-green-800 bg-green-100"
+                      >approach</span
+                    ><span class="keyword text-green-800 bg-green-100"
+                      >measure</span
+                    ><span class="keyword text-green-800 bg-green-100"
+                      >strategy</span
+                    ><span class="keyword text-blue-800 bg-blue-200"
+                      >a fix</span
+                    >
+                  </div>
+                  <strong class="text-slate-700 mt-2 block"
+                    >Động từ &amp; Cụm từ:</strong
+                  >
+                  <div class="mt-1">
+                    <span class="keyword text-purple-800 bg-purple-100"
+                      >solve</span
+                    ><span class="keyword text-purple-800 bg-purple-100"
+                      >address</span
+                    ><span class="keyword text-purple-800 bg-purple-100"
+                      >tackle</span
+                    ><span class="keyword text-purple-800 bg-purple-100"
+                      >overcome</span
+                    ><span class="keyword text-purple-800 bg-purple-100"
+                      >mitigate</span
+                    ><span class="keyword text-blue-800 bg-blue-200"
+                      >to combat this</span
+                    ><span class="keyword text-blue-800 bg-blue-200"
+                      >the answer lies in...</span
+                    >
+                  </div>
+                </td>
+              </tr>
+
+              <!-- Cause – Effect -->
+              <tr class="hover:bg-slate-50">
+                <td class="p-4 align-top">
+                  <strong class="font-bold text-base text-emerald-700"
+                    >2. Nguyên Nhân – Kết Quả</strong
+                  ><br />(Cause – Effect)
+                </td>
+                <td class="p-4 align-top">
+                  Giải thích lý do tại sao một sự việc/hiện tượng xảy ra (Nguyên
+                  nhân) và/hoặc phân tích những hệ quả, tác động của nó (Kết
+                  quả).
+                </td>
+                <td class="p-4 align-top table-cell-keywords">
+                  <strong class="text-slate-700">Nguyên nhân:</strong>
+                  <div class="mt-1">
+                    <span class="keyword text-emerald-800 bg-emerald-100"
+                      >because (of)</span
+                    ><span class="keyword text-emerald-800 bg-emerald-100"
+                      >due to</span
+                    ><span class="keyword text-emerald-800 bg-emerald-100"
+                      >stems from</span
+                    ><span class="keyword text-emerald-800 bg-emerald-100"
+                      >is caused by</span
+                    ><span class="keyword text-blue-800 bg-blue-200"
+                      >is a key factor in</span
+                    ><span class="keyword text-blue-800 bg-blue-200"
+                      >driven by</span
+                    >
+                  </div>
+                  <strong class="text-slate-700 mt-2 block">Kết quả:</strong>
+                  <div class="mt-1">
+                    <span class="keyword text-orange-800 bg-orange-100"
+                      >as a result</span
+                    ><span class="keyword text-orange-800 bg-orange-100"
+                      >consequently</span
+                    ><span class="keyword text-orange-800 bg-orange-100"
+                      >therefore</span
+                    ><span class="keyword text-orange-800 bg-orange-100"
+                      >leads to</span
+                    ><span class="keyword text-orange-800 bg-orange-100"
+                      >results in</span
+                    ><span class="keyword text-blue-800 bg-blue-200"
+                      >has an impact on</span
+                    ><span class="keyword text-blue-800 bg-blue-200"
+                      >implications for</span
+                    >
+                  </div>
+                </td>
+              </tr>
+
+              <!-- Compare – Contrast -->
+              <tr class="hover:bg-slate-50">
+                <td class="p-4 align-top">
+                  <strong class="font-bold text-base text-amber-700"
+                    >3. So Sánh – Tương Phản</strong
+                  ><br />(Compare – Contrast)
+                </td>
+                <td class="p-4 align-top">
+                  Chỉ ra những điểm tương đồng (So sánh) và/hoặc điểm khác biệt
+                  (Tương phản) giữa hai hay nhiều đối tượng.
+                </td>
+                <td class="p-4 align-top table-cell-keywords">
+                  <strong class="text-slate-700">So sánh:</strong>
+                  <div class="mt-1">
+                    <span class="keyword text-amber-800 bg-amber-100"
+                      >similarly</span
+                    ><span class="keyword text-amber-800 bg-amber-100"
+                      >likewise</span
+                    ><span class="keyword text-amber-800 bg-amber-100"
+                      >in the same way</span
+                    ><span class="keyword text-amber-800 bg-amber-100"
+                      >both</span
+                    ><span class="keyword text-blue-800 bg-blue-200"
+                      >analogous to</span
+                    ><span class="keyword text-blue-800 bg-blue-200"
+                      >comparable to</span
+                    >
+                  </div>
+                  <strong class="text-slate-700 mt-2 block">Tương phản:</strong>
+                  <div class="mt-1">
+                    <span class="keyword text-red-800 bg-red-100"
+                      >however</span
+                    ><span class="keyword text-red-800 bg-red-100"
+                      >in contrast</span
+                    ><span class="keyword text-red-800 bg-red-100"
+                      >whereas</span
+                    ><span class="keyword text-red-800 bg-red-100"
+                      >unlike</span
+                    ><span class="keyword text-red-800 bg-red-100"
+                      >differs from</span
+                    ><span class="keyword text-blue-800 bg-blue-200">yet</span
+                    ><span class="keyword text-blue-800 bg-blue-200"
+                      >nevertheless</span
+                    >
+                  </div>
+                </td>
+              </tr>
+
+              <!-- Chronological / Sequential -->
+              <tr class="hover:bg-slate-50">
+                <td class="p-4 align-top">
+                  <strong class="font-bold text-base text-rose-700"
+                    >4. Trình Tự Thời Gian / Tuần Tự</strong
+                  ><br />(Chronological / Sequential)
+                </td>
+                <td class="p-4 align-top">
+                  Trình bày các sự kiện, giai đoạn hoặc các bước trong một quy
+                  trình theo thứ tự chúng xảy ra.
+                </td>
+                <td class="p-4 align-top table-cell-keywords">
+                  <strong class="text-slate-700">Trình tự:</strong>
+                  <div class="mt-1">
+                    <span class="keyword text-rose-800 bg-rose-100"
+                      >initially</span
+                    ><span class="keyword text-rose-800 bg-rose-100"
+                      >first(ly)</span
+                    ><span class="keyword text-rose-800 bg-rose-100">then</span
+                    ><span class="keyword text-rose-800 bg-rose-100">next</span
+                    ><span class="keyword text-rose-800 bg-rose-100"
+                      >subsequently</span
+                    ><span class="keyword text-rose-800 bg-rose-100"
+                      >finally</span
+                    ><span class="keyword text-blue-800 bg-blue-200"
+                      >to begin with</span
+                    >
+                  </div>
+                  <strong class="text-slate-700 mt-2 block"
+                    >Bối cảnh lịch sử:</strong
+                  >
+                  <div class="mt-1">
+                    <span class="keyword text-gray-800 bg-gray-200"
+                      >in 1990</span
+                    ><span class="keyword text-gray-800 bg-gray-200"
+                      >by 2005</span
+                    ><span class="keyword text-gray-800 bg-gray-200"
+                      >during the 19th century</span
+                    ><span class="keyword text-blue-800 bg-blue-200"
+                      >traditionally</span
+                    ><span class="keyword text-blue-800 bg-blue-200"
+                      >historically</span
+                    ><span class="keyword text-blue-800 bg-blue-200"
+                      >in ancient times</span
+                    >
+                  </div>
+                </td>
+              </tr>
+
+              <!-- Classification – Definition -->
+              <tr class="hover:bg-slate-50">
+                <td class="p-4 align-top">
+                  <strong class="font-bold text-base text-violet-700"
+                    >5. Phân Loại – Định Nghĩa</strong
+                  ><br />(Classification – Definition)
+                </td>
+                <td class="p-4 align-top">
+                  Nhóm các đối tượng vào các loại khác nhau (Phân loại) hoặc
+                  giải thích ý nghĩa của một thuật ngữ (Định nghĩa).
+                </td>
+                <td class="p-4 align-top table-cell-keywords">
+                  <strong class="text-slate-700">Phân loại:</strong>
+                  <div class="mt-1">
+                    <span class="keyword text-violet-800 bg-violet-100"
+                      >can be divided into</span
+                    ><span class="keyword text-violet-800 bg-violet-100"
+                      >categories</span
+                    ><span class="keyword text-violet-800 bg-violet-100"
+                      >types</span
+                    ><span class="keyword text-violet-800 bg-violet-100"
+                      >kinds</span
+                    ><span class="keyword text-violet-800 bg-violet-100"
+                      >consists of</span
+                    ><span class="keyword text-blue-800 bg-blue-200"
+                      >can be classified as</span
+                    >
+                  </div>
+                  <strong class="text-slate-700 mt-2 block">Định nghĩa:</strong>
+                  <div class="mt-1">
+                    <span class="keyword text-indigo-800 bg-indigo-100"
+                      >is defined as</span
+                    ><span class="keyword text-indigo-800 bg-indigo-100"
+                      >refers to</span
+                    ><span class="keyword text-indigo-800 bg-indigo-100"
+                      >means</span
+                    ><span class="keyword text-indigo-800 bg-indigo-100"
+                      >is known as</span
+                    ><span class="keyword text-blue-800 bg-blue-200"
+                      >The term 'X' denotes...</span
+                    >
+                  </div>
+                </td>
+              </tr>
+
+              <!-- Argument – Counterargument -->
+              <tr class="hover:bg-slate-50">
+                <td class="p-4 align-top">
+                  <strong class="font-bold text-base text-red-700"
+                    >6. Lập Luận – Phản Biện</strong
+                  ><br />(Argument – Counterargument)
+                </td>
+                <td class="p-4 align-top">
+                  Trình bày một lập luận, thừa nhận quan điểm trái ngược (phản
+                  biện), và cuối cùng bác bỏ nó để củng cố lập luận ban đầu.
+                </td>
+                <td class="p-4 align-top table-cell-keywords">
+                  <strong class="text-slate-700">Giới thiệu phản biện:</strong>
+                  <div class="mt-1">
+                    <span class="keyword text-red-800 bg-red-100"
+                      >It is often argued that...</span
+                    ><span class="keyword text-red-800 bg-red-100"
+                      >Some people believe...</span
+                    ><span class="keyword text-blue-800 bg-blue-200"
+                      >proponents of X argue...</span
+                    >
+                  </div>
+                  <strong class="text-slate-700 mt-2 block"
+                    >Giới thiệu quan điểm tác giả:</strong
+                  >
+                  <div class="mt-1">
+                    <span class="keyword text-green-800 bg-green-100"
+                      >However</span
+                    ><span class="keyword text-green-800 bg-green-100"
+                      >In reality</span
+                    ><span class="keyword text-green-800 bg-green-100"
+                      >Nevertheless</span
+                    ><span class="keyword text-blue-800 bg-blue-200"
+                      >The evidence suggests otherwise...</span
+                    >
+                  </div>
+                  <strong class="text-slate-700 mt-2 block">Thừa nhận (Concession):</strong>
+                  <div class="mt-1">
+                    <span class="keyword text-yellow-800 bg-yellow-100"
+                      >Although</span
+                    ><span class="keyword text-yellow-800 bg-yellow-100"
+                      >While it is true that...</span
+                    ><span class="keyword text-yellow-800 bg-yellow-100"
+                      >Admittedly</span
+                    ><span class="keyword text-blue-800 bg-blue-200"
+                      >Granted...</span
+                    >
+                  </div>
+                </td>
+              </tr>
+
+              <!-- General – Specific -->
+              <tr class="hover:bg-slate-50">
+                <td class="p-4 align-top">
+                  <strong class="font-bold text-base text-lime-700"
+                    >7. Tổng Quát – Cụ Thể</strong
+                  ><br />(General – Specific)
+                </td>
+                <td class="p-4 align-top">
+                  Đưa ra một phát biểu chung (luận điểm), sau đó làm rõ và hỗ
+                  trợ nó bằng các chi tiết, ví dụ, dữ liệu cụ thể.
+                </td>
+                <td class="p-4 align-top table-cell-keywords">
+                  <strong class="text-slate-700">Tín hiệu câu tổng quát:</strong>
+                  <div class="mt-1">
+                    <span class="keyword text-blue-800 bg-blue-200"
+                      >A key principle is...</span
+                    ><span class="keyword text-blue-800 bg-blue-200"
+                      >Generally speaking...</span
+                    ><span class="keyword text-blue-800 bg-blue-200"
+                      >Overall...</span
+                    >
+                  </div>
+                  <strong class="text-slate-700 mt-2 block"
+                    >Giới thiệu ví dụ/chi tiết:</strong
+                  >
+                  <div class="mt-1">
+                    <span class="keyword text-lime-800 bg-lime-100"
+                      >For example</span
+                    ><span class="keyword text-lime-800 bg-lime-100"
+                      >For instance</span
+                    ><span class="keyword text-lime-800 bg-lime-100"
+                      >To illustrate</span
+                    ><span class="keyword text-lime-800 bg-lime-100"
+                      >Specifically</span
+                    ><span class="keyword text-lime-800 bg-lime-100"
+                      >such as</span
+                    ><span class="keyword text-lime-800 bg-lime-100"
+                      >A case in point is...</span
+                    ><span class="keyword text-blue-800 bg-blue-200"
+                      >in other words</span
+                    >
+                  </div>
+                  <strong class="text-slate-700 mt-2 block"
+                    >Nội dung cụ thể:</strong
+                  >
+                  <p class="text-slate-600 mt-1">
+                    Tên riêng, địa danh, số liệu thống kê, kết quả nghiên cứu...
+                  </p>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </main>
+
+      <footer class="text-center mt-12 text-slate-500">
+        <p>&copy; 2025. A comprehensive guide.</p>
+      </footer>
+    </div>
+  </body>
+</html>
