@@ -1,0 +1,453 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Làm chủ Dạng bài Nghe Bản đồ (Map/Plan Labelling)</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      body {
+        font-family: "Be Vietnam Pro", sans-serif;
+        background-color: #f8fafc;
+      }
+      .card {
+        background-color: white;
+        border-radius: 1rem;
+        box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1),
+          0 2px 4px -2px rgb(0 0 0 / 0.1);
+        overflow: hidden;
+      }
+      .card-header {
+        padding: 1rem 1.5rem;
+        border-bottom: 1px solid #e5e7eb;
+      }
+      .card-content {
+        padding: 1.5rem;
+      }
+      .step-card {
+        background-color: #f9fafb;
+        border: 1px solid #f3f4f6;
+        border-radius: 0.75rem;
+        padding: 1.5rem;
+      }
+      .step-number {
+        font-size: 1.5rem;
+        font-weight: 700;
+        color: #4f46e5;
+        width: 48px;
+        height: 48px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 50%;
+        background-color: #eef2ff;
+        flex-shrink: 0;
+        margin-bottom: 1rem;
+      }
+      table {
+        width: 100%;
+        border-collapse: collapse;
+      }
+      th,
+      td {
+        text-align: left;
+        padding: 0.75rem;
+        border-bottom: 1px solid #e5e7eb;
+      }
+      th {
+        background-color: #f9fafb;
+        font-weight: 600;
+      }
+    </style>
+  </head>
+  <body class="text-gray-800">
+    <div class="container mx-auto px-4 py-12">
+      <!-- Header -->
+      <header class="text-center mb-12">
+        <h1 class="text-4xl md:text-5xl font-bold">
+          Phần 2: Từ Vựng & Chiến Lược Làm Bài
+        </h1>
+        <p class="mt-4 text-lg text-gray-600">
+          Trang bị bộ từ vựng và quy trình 4 bước để làm chủ dạng bài.
+        </p>
+      </header>
+
+      <!-- Main Grid -->
+      <div class="grid grid-cols-1 lg:grid-cols-5 gap-8">
+        <!-- Left Column: Vocabulary -->
+        <div class="lg:col-span-2">
+          <div class="card sticky top-8">
+            <div class="card-header">
+              <h2 class="text-2xl font-bold">Kho Từ vựng Tối quan trọng</h2>
+            </div>
+            <div class="card-content max-h-[80vh] overflow-y-auto">
+              <table>
+                <thead>
+                  <tr>
+                    <th>Từ/Cụm từ (Tiếng Anh)</th>
+                    <th>Nghĩa & Ví dụ</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr class="bg-gray-50">
+                    <td colspan="2" class="font-bold">
+                      Vị trí (Prepositions of Place)
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>next to / beside / alongside</td>
+                    <td>bên cạnh</td>
+                  </tr>
+                  <tr>
+                    <td>opposite / across from</td>
+                    <td>đối diện</td>
+                  </tr>
+                  <tr>
+                    <td>between</td>
+                    <td>ở giữa (hai vật)</td>
+                  </tr>
+                  <tr>
+                    <td>behind / at the back of</td>
+                    <td>phía sau</td>
+                  </tr>
+                  <tr>
+                    <td>in front of</td>
+                    <td>phía trước</td>
+                  </tr>
+                  <tr>
+                    <td>in the middle of / in the centre of</td>
+                    <td>ở giữa (một khu vực)</td>
+                  </tr>
+                  <tr>
+                    <td>on the corner of</td>
+                    <td>ở góc của (con đường)</td>
+                  </tr>
+                  <tr>
+                    <td>at the top/bottom of</td>
+                    <td>ở phía trên/dưới cùng của</td>
+                  </tr>
+                  <tr>
+                    <td>inside / outside</td>
+                    <td>bên trong / bên ngoài</td>
+                  </tr>
+                  <tr>
+                    <td>adjoining</td>
+                    <td>liền kề, tiếp giáp</td>
+                  </tr>
+                  <tr class="bg-gray-50">
+                    <td colspan="2" class="font-bold">Hướng & La bàn</td>
+                  </tr>
+                  <tr>
+                    <td>north, south, east, west</td>
+                    <td>bắc, nam, đông, tây</td>
+                  </tr>
+                  <tr>
+                    <td>to the north of</td>
+                    <td>về phía bắc của</td>
+                  </tr>
+                  <tr>
+                    <td>in the eastern part of</td>
+                    <td>ở phần phía đông của</td>
+                  </tr>
+                  <tr>
+                    <td>on the left/right-hand side</td>
+                    <td>ở phía bên tay trái/phải</td>
+                  </tr>
+                  <tr>
+                    <td>heading east</td>
+                    <td>đi về hướng đông</td>
+                  </tr>
+                  <tr class="bg-gray-50">
+                    <td colspan="2" class="font-bold">Di chuyển (Movement)</td>
+                  </tr>
+                  <tr>
+                    <td>go straight on (ahead)</td>
+                    <td>đi thẳng về phía trước</td>
+                  </tr>
+                  <tr>
+                    <td>turn left/right</td>
+                    <td>rẽ trái/phải</td>
+                  </tr>
+                  <tr>
+                    <td>go past</td>
+                    <td>đi ngang qua (không rẽ vào)</td>
+                  </tr>
+                  <tr>
+                    <td>cross over (the bridge/road)</td>
+                    <td>băng qua (cầu/đường)</td>
+                  </tr>
+                  <tr>
+                    <td>take the first/second turning</td>
+                    <td>rẽ ở ngã rẽ thứ nhất/thứ hai</td>
+                  </tr>
+                  <tr>
+                    <td>go along (the path)</td>
+                    <td>đi dọc theo (con đường)</td>
+                  </tr>
+                  <tr>
+                    <td>run through</td>
+                    <td>chạy xuyên qua</td>
+                  </tr>
+                  <tr class="bg-gray-50">
+                    <td colspan="2" class="font-bold">Địa danh (Đô thị)</td>
+                  </tr>
+                  <tr>
+                    <td>main road, side road</td>
+                    <td>đường chính, đường phụ</td>
+                  </tr>
+                  <tr>
+                    <td>junction / crossroads</td>
+                    <td>giao lộ, ngã tư</td>
+                  </tr>
+                  <tr>
+                    <td>roundabout</td>
+                    <td>bùng binh, vòng xuyến</td>
+                  </tr>
+                  <tr>
+                    <td>traffic lights</td>
+                    <td>đèn giao thông</td>
+                  </tr>
+                  <tr>
+                    <td>pavement (UK) / sidewalk (US)</td>
+                    <td>vỉa hè</td>
+                  </tr>
+                  <tr class="bg-gray-50">
+                    <td colspan="2" class="font-bold">Địa danh (Tòa nhà)</td>
+                  </tr>
+                  <tr>
+                    <td>entrance / exit</td>
+                    <td>lối vào / lối ra</td>
+                  </tr>
+                  <tr>
+                    <td>reception</td>
+                    <td>quầy lễ tân</td>
+                  </tr>
+                  <tr>
+                    <td>corridor / hallway</td>
+                    <td>hành lang</td>
+                  </tr>
+                  <tr>
+                    <td>foyer</td>
+                    <td>tiền sảnh</td>
+                  </tr>
+                  <tr>
+                    <td>basement / ground floor</td>
+                    <td>tầng hầm / tầng trệt</td>
+                  </tr>
+                  <tr>
+                    <td>stairs / staircase</td>
+                    <td>cầu thang bộ</td>
+                  </tr>
+                  <tr>
+                    <td>lift (UK) / elevator (US)</td>
+                    <td>thang máy</td>
+                  </tr>
+                  <tr>
+                    <td>auditorium</td>
+                    <td>khán phòng</td>
+                  </tr>
+                  <tr class="bg-gray-50">
+                    <td colspan="2" class="font-bold">
+                      Địa danh (Thiên nhiên)
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>footpath</td>
+                    <td>đường mòn, lối đi bộ</td>
+                  </tr>
+                  <tr>
+                    <td>bridge</td>
+                    <td>cây cầu</td>
+                  </tr>
+                  <tr>
+                    <td>lake / pond</td>
+                    <td>hồ / ao</td>
+                  </tr>
+                  <tr>
+                    <td>picnic area</td>
+                    <td>khu vực dã ngoại</td>
+                  </tr>
+                  <tr>
+                    <td>flower garden</td>
+                    <td>vườn hoa</td>
+                  </tr>
+                  <tr>
+                    <td>wooded area / forest</td>
+                    <td>khu vực có cây, rừng</td>
+                  </tr>
+                  <tr>
+                    <td>bird hide</td>
+                    <td>chòi quan sát chim</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+
+        <!-- Right Column: Strategy -->
+        <div class="lg:col-span-3 space-y-8">
+          <div class="card">
+            <div class="card-header">
+              <h2 class="text-2xl font-bold">Bản chất và Phân loại</h2>
+            </div>
+            <div class="card-content space-y-4">
+              <p>
+                Dạng bài này kiểm tra khả năng mô tả không gian, vị trí và
+                phương hướng. Thường xuất hiện ở Part 2.
+              </p>
+              <div>
+                <h3 class="font-semibold">Hai hình thức câu hỏi chính:</h3>
+                <ul class="list-decimal list-inside ml-4 mt-2">
+                  <li>
+                    <strong>Chọn đáp án cho sẵn:</strong> Nối địa điểm với các
+                    chữ cái (A, B, C,...) trên bản đồ.
+                  </li>
+                  <li>
+                    <strong>Tự điền từ:</strong> Nghe và điền tên địa điểm vào
+                    các chỗ trống trên bản đồ.
+                  </li>
+                </ul>
+              </div>
+              <div>
+                <h3 class="font-semibold">Phân loại bối cảnh:</h3>
+                <ul class="list-disc list-inside ml-4 mt-2">
+                  <li>
+                    <strong>Map (Bản đồ):</strong> Mô tả một không gian lớn (khu
+                    vực công viên, trung tâm thị trấn). Đặc điểm nhận dạng là la
+                    bàn (compass).
+                  </li>
+                  <li>
+                    <strong>Plan (Sơ đồ):</strong> Mô tả một không gian kín, chi
+                    tiết bên trong (thư viện, bảo tàng). Không sử dụng la bàn,
+                    thay vào đó là ngôn ngữ vị trí tương đối ("bên trái", "đối
+                    diện lối vào").
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="card">
+            <div class="card-header">
+              <h2 class="text-2xl font-bold">Chiến lược Làm bài 4 Bước Vàng</h2>
+            </div>
+            <div class="card-content space-y-6">
+              <!-- Step 1 -->
+              <div class="step-card">
+                <div class="flex items-start">
+                  <div class="step-number mr-4">1</div>
+                  <div>
+                    <h3 class="text-xl font-bold">
+                      Trước khi nghe: Phân tích & Dự đoán
+                    </h3>
+                  </div>
+                </div>
+                <ol
+                  class="list-decimal list-inside space-y-2 mt-4 pl-4 text-gray-600"
+                >
+                  <li>
+                    <strong>Đọc kỹ hướng dẫn:</strong> Xác định giới hạn từ
+                    (word limit).
+                  </li>
+                  <li>
+                    <strong>Phân tích bản đồ:</strong> Đọc tất cả các nhãn đã
+                    có.
+                  </li>
+                  <li>
+                    <strong>Xác định điểm bắt đầu (Starting Point):</strong> Tìm
+                    các dấu hiệu "You are here", "main entrance", "reception".
+                  </li>
+                  <li>
+                    <strong>Quét các địa danh đã có sẵn:</strong> Đây là các
+                    điểm tham chiếu.
+                  </li>
+                  <li>
+                    <strong>Dự đoán:</strong> Nhìn vào chỗ trống để hình dung
+                    loại địa điểm.
+                  </li>
+                </ol>
+              </div>
+              <!-- Step 2 -->
+              <div class="step-card">
+                <div class="flex items-start">
+                  <div class="step-number mr-4">2</div>
+                  <div>
+                    <h3 class="text-xl font-bold">
+                      Trong khi nghe: Kỹ thuật "Theo dấu bút"
+                    </h3>
+                  </div>
+                </div>
+                <p class="mt-4 text-gray-600">
+                  Dùng đầu bút chì hoặc ngón tay di chuyển trên bản đồ theo đúng
+                  lời chỉ dẫn của người nói. Kỹ thuật này giúp duy trì sự tập
+                  trung, trực quan hóa lộ trình và luôn biết mình đang ở đâu.
+                </p>
+              </div>
+              <!-- Step 3 -->
+              <div class="step-card">
+                <div class="flex items-start">
+                  <div class="step-number mr-4">3</div>
+                  <div>
+                    <h3 class="text-xl font-bold">
+                      Trong khi nghe: Lắng nghe Chủ động & Ghi chú
+                    </h3>
+                  </div>
+                </div>
+                <ul
+                  class="list-disc list-inside space-y-2 mt-4 pl-4 text-gray-600"
+                >
+                  <li>
+                    <strong>Tập trung vào từ vựng chuyên dụng:</strong> Lắng
+                    nghe các từ chỉ phương hướng, vị trí.
+                  </li>
+                  <li>
+                    <strong>Chú ý đến từ chỉ dẫn (Signposting Words):</strong>
+                    Các từ như "First...", "Next...", "Finally..." là tín hiệu
+                    chuyển sang địa điểm mới.
+                  </li>
+                  <li>
+                    <strong>Ghi chú nhanh:</strong> Khi nghe được đáp án, hãy
+                    viết tắt hoặc ghi nhanh vào giấy nháp.
+                  </li>
+                </ul>
+              </div>
+              <!-- Step 4 -->
+              <div class="step-card">
+                <div class="flex items-start">
+                  <div class="step-number mr-4">4</div>
+                  <div>
+                    <h3 class="text-xl font-bold">
+                      Sau khi nghe: Kiểm tra Toàn diện
+                    </h3>
+                  </div>
+                </div>
+                <ul
+                  class="list-disc list-inside space-y-2 mt-4 pl-4 text-gray-600"
+                >
+                  <li>
+                    <strong>Chính tả (Spelling):</strong> Một lỗi chính tả nhỏ
+                    cũng khiến câu trả lời bị chấm sai.
+                  </li>
+                  <li>
+                    <strong>Giới hạn từ (Word Limit):</strong> Đảm bảo câu trả
+                    lời không vượt quá số từ cho phép.
+                  </li>
+                  <li>
+                    <strong>Ngữ pháp:</strong> Đặc biệt chú ý đến danh từ số ít
+                    và số nhiều (ví dụ: "gift shop" và "gift shops").
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

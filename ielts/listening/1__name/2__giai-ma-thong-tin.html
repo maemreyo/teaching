@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Infographic: Giải Mã Thông Tin</title>
+    <!-- Tailwind CSS for styling -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Google Fonts for a modern look -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      /* Custom styles to enhance the visual appeal */
+      body {
+        font-family: "Inter", sans-serif;
+        background-color: #f0f4f8; /* Light blue-gray background */
+      }
+      .info-card {
+        background-color: white;
+        border-radius: 12px;
+        box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.05),
+          0 4px 6px -4px rgb(0 0 0 / 0.05);
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+      }
+      .info-card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 20px 25px -5px rgb(0 0 0 / 0.1),
+          0 8px 10px -6px rgb(0 0 0 / 0.1);
+      }
+      .card-header {
+        border-bottom: 1px solid #e5e7eb;
+        padding-bottom: 1rem;
+        margin-bottom: 1rem;
+        display: flex;
+        align-items: center;
+        gap: 0.75rem;
+        color: #1e3a8a; /* Deep blue for headers */
+      }
+      .card-header h3 {
+        font-size: 1.25rem;
+        font-weight: 700;
+      }
+      .highlight {
+        background-color: #e0e7ff; /* Light indigo background */
+        color: #3730a3; /* Indigo text */
+        padding: 2px 6px;
+        border-radius: 4px;
+        font-weight: 600;
+        font-family: monospace;
+      }
+      .main-title {
+        color: #1e3a8a;
+        font-weight: 800;
+        text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.05);
+      }
+      .intro-text {
+        color: #374151;
+      }
+      .table-container {
+        overflow-x: auto;
+      }
+      th {
+        background-color: #dbeafe; /* Light blue header for table */
+        color: #1e3a8a;
+      }
+    </style>
+  </head>
+  <body class="antialiased text-gray-800">
+    <div class="container mx-auto p-4 md:p-8">
+      <!-- Main Header -->
+      <header class="text-center mb-10">
+        <h1 class="text-3xl md:text-5xl font-extrabold main-title">
+          Phần 2: Giải Mã Thông Tin
+        </h1>
+        <h2 class="text-xl md:text-2xl font-semibold text-blue-700 mt-2">
+          Định Dạng, Quy Tắc và Quy Ước
+        </h2>
+        <p class="mt-4 max-w-3xl mx-auto text-base md:text-lg intro-text">
+          Khi đã có khả năng nghe chính xác từng chữ cái, bước tiếp theo là hiểu
+          rõ các quy ước và định dạng mà thông tin được đánh vần thường xuất
+          hiện. Việc nắm vững những quy tắc này giúp chuyển từ việc nghe bị động
+          sang giải mã thông tin một cách chủ động và có hệ thống, từ đó tăng
+          tốc độ và độ chính xác.
+        </p>
+      </header>
+
+      <!-- Information Grid -->
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+        <!-- Card 1: Tên Riêng -->
+        <div class="info-card p-6">
+          <div class="card-header">
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              class="h-8 w-8"
+              viewBox="0 0 20 20"
+              fill="currentColor"
+            >
+              <path
+                fill-rule="evenodd"
+                d="M10 9a3 3 0 100-6 3 3 0 000 6zm-7 9a7 7 0 1114 0H3z"
+                clip-rule="evenodd"
+              />
+            </svg>
+            <h3>2.1. Tên Riêng</h3>
+          </div>
+          <ul class="space-y-4 text-gray-700">
+            <li>
+              <strong>Chức danh (Titles):</strong> Luôn viết đầy đủ, ví dụ:
+              <span class="highlight">Mr</span>,
+              <span class="highlight">Mrs</span>,
+              <span class="highlight">Dr</span>,
+              <span class="highlight">Sir</span>.
+            </li>
+            <li>
+              <strong>Tên phổ biến và Tên lạ:</strong> Tên phổ biến thường dễ
+              nghe (<span class="highlight">Smith, Brown</span>). Với tên lạ,
+              hãy chuẩn bị tinh thần đánh vần từng chữ, ví dụ:
+              <span class="highlight">McDougal</span>,
+              <span class="highlight">Chichester</span>.
+            </li>
+            <li>
+              <strong>Tên viết tắt (Initials):</strong> Nghe và ghi lại các tên
+              được đọc dưới dạng chữ cái viết tắt, ví dụ:
+              <span class="highlight">"C J Billings"</span> hay
+              <span class="highlight">"A R Beevers"</span>.
+            </li>
+          </ul>
+        </div>
+
+        <!-- Card 2: Địa chỉ và Địa điểm -->
+        <div class="info-card p-6">
+          <div class="card-header">
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              class="h-8 w-8"
+              viewBox="0 0 20 20"
+              fill="currentColor"
+            >
+              <path
+                fill-rule="evenodd"
+                d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z"
+                clip-rule="evenodd"
+              />
+            </svg>
+            <h3>2.2. Địa chỉ và Địa điểm</h3>
+          </div>
+          <ul class="space-y-4 text-gray-700">
+            <li>
+              <strong>Từ ghép (Compound Words):</strong> Phân biệt giữa một từ
+              ghép và hai từ riêng biệt. Ví dụ:
+              <span class="highlight">Wolverhampton</span>,
+              <span class="highlight">Bridge Lane</span>.
+            </li>
+            <li>
+              <strong>Mã bưu chính (Postcodes):</strong> Là sự kết hợp giữa chữ
+              và số. Cần luyện tập để chuyển đổi nhanh. Ví dụ:
+              <span class="highlight">SW1A 2AA</span>.
+            </li>
+            <li>
+              <strong>Tên địa danh (Place Names):</strong> Tên quen thuộc dễ
+              nghe (<span class="highlight">Birmingham</span>). Tên lạ cần được
+              đánh vần để đảm bảo chính xác. Ví dụ:
+              <span class="highlight">Ormskirk</span>,
+              <span class="highlight">Painswick</span>.
+            </li>
+          </ul>
+        </div>
+
+        <!-- Card 3: Thông tin Kỹ thuật số -->
+        <div class="info-card p-6">
+          <div class="card-header">
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              class="h-8 w-8"
+              viewBox="0 0 20 20"
+              fill="currentColor"
+            >
+              <path
+                d="M2.003 5.884L10 9.882l7.997-3.998A2 2 0 0016 4H4a2 2 0 00-1.997 1.884z"
+              />
+              <path
+                d="M18 8.118l-8 4-8-4V14a2 2 0 002 2h12a2 2 0 002-2V8.118z"
+              />
+            </svg>
+            <h3>2.3. Thông tin Kỹ thuật số</h3>
+          </div>
+          <ul class="space-y-4 text-gray-700">
+            <li>
+              <strong>Địa chỉ Email:</strong> Nắm vững các quy ước đọc ký tự đặc
+              biệt như <span class="highlight">@ (at)</span>,
+              <span class="highlight">. (dot)</span>,
+              <span class="highlight">_ (underscore)</span>.
+            </li>
+            <li>
+              <strong>Địa chỉ trang web (URLs):</strong> Ký tự
+              <span class="highlight">//</span> được đọc là
+              <span class="highlight">"forward slash"</span>. Phần
+              <span class="highlight">www</span> thường được bỏ qua khi đọc.
+            </li>
+          </ul>
+        </div>
+
+        <!-- Card 4: Mã chữ - số -->
+        <div class="info-card p-6 lg:col-span-3">
+          <div class="card-header">
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              class="h-8 w-8"
+              viewBox="0 0 20 20"
+              fill="currentColor"
+            >
+              <path
+                fill-rule="evenodd"
+                d="M10 2a8 8 0 100 16 8 8 0 000-16zM8 6a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1zm1 3a1 1 0 100 2h2a1 1 0 100-2H9z"
+                clip-rule="evenodd"
+              />
+            </svg>
+            <h3>2.4. Mã Chữ-Số: Mã Thành Viên và Số Tham Chiếu</h3>
+          </div>
+          <ul class="space-y-4 text-gray-700">
+            <li>
+              <strong>Cấu trúc:</strong> Là sự kết hợp ngẫu nhiên giữa chữ và
+              số. Ví dụ: <span class="highlight">AC829</span>,
+              <span class="highlight">LIB451G</span>.
+            </li>
+            <li>
+              <strong>Thách thức chính:</strong> Khó khăn lớn nhất nằm ở việc
+              phải liên tục chuyển đổi sự tập trung giữa việc nghe chữ cái và
+              nghe số ở tốc độ nhanh. Điều này đòi hỏi sự linh hoạt cao về mặt
+              nhận thức.
+            </li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- Summary Table -->
+      <div class="mt-12 info-card p-6 md:p-8">
+        <div class="card-header">
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            class="h-8 w-8"
+            viewBox="0 0 20 20"
+            fill="currentColor"
+          >
+            <path d="M9 2a1 1 0 000 2h2a1 1 0 100-2H9z" />
+            <path
+              fill-rule="evenodd"
+              d="M4 5a2 2 0 012-2 3 3 0 003 3h2a3 3 0 003-3 2 2 0 012 2v11a2 2 0 01-2 2H6a2 2 0 01-2-2V5zm3 4a1 1 0 000 2h.01a1 1 0 100-2H7zm3 0a1 1 0 000 2h3a1 1 0 100-2h-3zm-3 4a1 1 0 100 2h.01a1 1 0 100-2H7zm3 0a1 1 0 100 2h3a1 1 0 100-2h-3z"
+              clip-rule="evenodd"
+            />
+          </svg>
+          <h3>Bảng 2: Hướng Dẫn Phát Âm Các Ký Hiệu và Quy Ước Phổ Biến</h3>
+        </div>
+        <div class="table-container">
+          <table class="w-full text-left border-collapse">
+            <thead>
+              <tr>
+                <th class="p-4 text-sm font-semibold uppercase rounded-tl-lg">
+                  Ký Hiệu / Quy Ước
+                </th>
+                <th class="p-4 text-sm font-semibold uppercase">
+                  Cách Đọc Chuẩn Tiếng Anh
+                </th>
+                <th class="p-4 text-sm font-semibold uppercase rounded-tr-lg">
+                  Ví Dụ
+                </th>
+              </tr>
+            </thead>
+            <tbody class="bg-white">
+              <tr class="hover:bg-gray-50">
+                <td
+                  class="p-4 font-bold text-blue-800 text-xl border-b border-gray-200"
+                >
+                  @
+                </td>
+                <td class="p-4 border-b border-gray-200">at</td>
+                <td class="p-4 border-b border-gray-200">
+                  <span class="highlight">info@example.com</span> &rarr; "info
+                  <strong>at</strong> example dot com"
+                </td>
+              </tr>
+              <tr class="hover:bg-gray-50">
+                <td
+                  class="p-4 font-bold text-blue-800 text-xl border-b border-gray-200"
+                >
+                  .
+                </td>
+                <td class="p-4 border-b border-gray-200">dot</td>
+                <td class="p-4 border-b border-gray-200">
+                  <span class="highlight">john.smith</span> &rarr; "john
+                  <strong>dot</strong> smith"
+                </td>
+              </tr>
+              <tr class="hover:bg-gray-50">
+                <td
+                  class="p-4 font-bold text-blue-800 text-xl border-b border-gray-200"
+                >
+                  _
+                </td>
+                <td class="p-4 border-b border-gray-200">underscore</td>
+                <td class="p-4 border-b border-gray-200">
+                  <span class="highlight">my_account</span> &rarr; "my
+                  <strong>underscore</strong> account"
+                </td>
+              </tr>
+              <tr class="hover:bg-gray-50">
+                <td
+                  class="p-4 font-bold text-blue-800 text-xl border-b border-gray-200"
+                >
+                  -
+                </td>
+                <td class="p-4 border-b border-gray-200">hyphen / dash</td>
+                <td class="p-4 border-b border-gray-200">
+                  <span class="highlight">user-name</span> &rarr; "user
+                  <strong>hyphen</strong> name"
+                </td>
+              </tr>
+              <tr class="hover:bg-gray-50">
+                <td
+                  class="p-4 font-bold text-blue-800 text-xl border-b border-gray-200"
+                >
+                  //
+                </td>
+                <td class="p-4 border-b border-gray-200">forward slash</td>
+                <td class="p-4 border-b border-gray-200">
+                  <span class="highlight">example.com/page</span> &rarr;
+                  "example dot com <strong>forward slash</strong> page"
+                </td>
+              </tr>
+              <tr class="hover:bg-gray-50">
+                <td
+                  class="p-4 font-bold text-blue-800 border-b-0 rounded-bl-lg"
+                >
+                  LL, SS, etc.
+                </td>
+                <td class="p-4 border-b-0">double L, double S</td>
+                <td class="p-4 border-b-0 rounded-br-lg">
+                  <span class="highlight">Lloyd</span> &rarr; "L-<strong
+                    >double L</strong
+                  >-O-Y-D"
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

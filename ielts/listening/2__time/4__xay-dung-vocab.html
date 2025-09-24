@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Bộ công cụ Từ vựng: Lịch trình và Cuộc hẹn</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      body {
+        font-family: "Be Vietnam Pro", sans-serif;
+        background-color: #f8fafc;
+      }
+      .card {
+        background-color: white;
+        border-radius: 16px;
+        box-shadow: 0 8px 16px rgba(47, 52, 88, 0.05);
+        border: 1px solid #eef2f7;
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+        display: flex;
+        flex-direction: column;
+      }
+      .card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 12px 24px rgba(47, 52, 88, 0.08);
+      }
+      .card-header {
+        border-bottom: 1px solid #eef2f7;
+        padding: 1.5rem;
+        display: flex;
+        align-items: center;
+        gap: 1rem;
+      }
+      .card-content {
+        padding: 1.5rem;
+        flex-grow: 1;
+      }
+      .icon-bg {
+        width: 48px;
+        height: 48px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 12px;
+        flex-shrink: 0;
+      }
+      .bg-cyan-100 {
+        background-color: #cffafe;
+      }
+      .text-cyan-600 {
+        color: #0891b2;
+      }
+      .bg-lime-100 {
+        background-color: #f3fde8;
+      }
+      .text-lime-600 {
+        color: #65a30d;
+      }
+      .bg-pink-100 {
+        background-color: #fce7f3;
+      }
+      .text-pink-600 {
+        color: #db2777;
+      }
+      .vocab-item {
+        display: flex;
+        align-items: flex-start;
+        gap: 0.75rem;
+      }
+      .vocab-term {
+        font-weight: 500;
+        color: #1e293b;
+      }
+      .vocab-def {
+        color: #64748b;
+      }
+      .final-card {
+        background: linear-gradient(135deg, #0f766e 0%, #0d9488 100%);
+        color: white;
+        padding: 2rem;
+        border-radius: 16px;
+      }
+    </style>
+  </head>
+  <body class="text-gray-800">
+    <div class="container mx-auto px-4 py-16">
+      <!-- Header -->
+      <header class="text-center mb-16">
+        <h1 class="text-4xl md:text-5xl font-bold">Phần 4: Xây Dựng Vốn Từ Vựng</h1>
+        <p class="mt-4 text-lg md:text-xl text-gray-500">
+          Các từ và cụm từ thiết yếu cho chủ đề Lịch trình và Cuộc hẹn.
+        </p>
+      </header>
+
+      <!-- Main Grid -->
+      <div class="grid grid-cols-1 lg:grid-cols-2 gap-8">
+        <!-- Card 1: Nouns -->
+        <div class="card">
+          <div class="card-header">
+            <div class="icon-bg bg-cyan-100">
+              <svg
+                class="w-6 h-6 text-cyan-600"
+                fill="none"
+                stroke="currentColor"
+                viewBox="0 0 24 24"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  d="M12 6.253v11.494m-9-5.747h18"
+                ></path>
+              </svg>
+            </div>
+            <h2 class="text-2xl font-bold">Các khái niệm cốt lõi (Danh từ)</h2>
+          </div>
+          <div class="card-content space-y-4">
+            <div class="vocab-item">
+              <span class="vocab-term">schedule / timetable:</span>
+              <span class="vocab-def">lịch trình, thời gian biểu</span>
+            </div>
+            <div class="vocab-item">
+              <span class="vocab-term"
+                >appointment / booking / reservation:</span
+              >
+              <span class="vocab-def">cuộc hẹn, việc đặt chỗ</span>
+            </div>
+            <div class="vocab-item">
+              <span class="vocab-term">agenda:</span>
+              <span class="vocab-def">chương trình nghị sự</span>
+            </div>
+            <div class="vocab-item">
+              <span class="vocab-term">deadline:</span>
+              <span class="vocab-def">hạn chót</span>
+            </div>
+            <div class="vocab-item">
+              <span class="vocab-term">business hours:</span>
+              <span class="vocab-def">giờ làm việc</span>
+            </div>
+            <div class="vocab-item">
+              <span class="vocab-term">duration:</span>
+              <span class="vocab-def">khoảng thời gian</span>
+            </div>
+            <div class="vocab-item">
+              <span class="vocab-term">calendar / planner:</span>
+              <span class="vocab-def">lịch, sổ kế hoạch</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Card 2: Verbs -->
+        <div class="card">
+          <div class="card-header">
+            <div class="icon-bg bg-lime-100">
+              <svg
+                class="w-6 h-6 text-lime-600"
+                fill="none"
+                stroke="currentColor"
+                viewBox="0 0 24 24"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  d="M14 5l7 7m0 0l-7 7m7-7H3"
+                ></path>
+              </svg>
+            </div>
+            <h2 class="text-2xl font-bold">Các động từ hành động</h2>
+          </div>
+          <div class="card-content space-y-4">
+            <div class="vocab-item">
+              <span class="vocab-term"
+                >to plan / to organize / to arrange:</span
+              >
+              <span class="vocab-def">lên kế hoạch, sắp xếp</span>
+            </div>
+            <div class="vocab-item">
+              <span class="vocab-term">to schedule / to book:</span>
+              <span class="vocab-def">đặt lịch, đặt chỗ</span>
+            </div>
+            <div class="vocab-item">
+              <span class="vocab-term">to cancel:</span>
+              <span class="vocab-def">hủy bỏ</span>
+            </div>
+            <div class="vocab-item">
+              <span class="vocab-term"
+                >to postpone / to put off / to reschedule:</span
+              >
+              <span class="vocab-def">hoãn lại, dời lịch</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Card 3: Phrases -->
+        <div class="card lg:col-span-2">
+          <div class="card-header">
+            <div class="icon-bg bg-pink-100">
+              <svg
+                class="w-6 h-6 text-pink-600"
+                fill="none"
+                stroke="currentColor"
+                viewBox="0 0 24 24"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z"
+                ></path>
+              </svg>
+            </div>
+            <h2 class="text-2xl font-bold">Các cụm từ giao tiếp phổ biến</h2>
+          </div>
+          <div class="card-content space-y-3">
+            <p class="italic text-gray-600">
+              "I'd like to make an appointment." (Tôi muốn đặt một cuộc hẹn.)
+            </p>
+            <p class="italic text-gray-600">
+              "Can I book a table for...?" (Tôi có thể đặt một bàn cho...?)
+            </p>
+            <p class="italic text-gray-600">
+              "Are you available on Monday?" (Bạn có rảnh vào thứ Hai không?)
+            </p>
+            <p class="italic text-gray-600">
+              "What time would you like?" (Bạn muốn lúc mấy giờ?)
+            </p>
+            <p class="italic text-gray-600">
+              "That time works for me." (Thời gian đó phù hợp với tôi.)
+            </p>
+          </div>
+        </div>
+
+        <!-- Final Card -->
+        <div class="card lg:col-span-2 final-card">
+          <div class="card-content text-center">
+            <h2 class="text-2xl font-bold mb-3">Chiến lược Nghe Chủ động</h2>
+            <p class="text-teal-100 text-lg max-w-3xl mx-auto">
+              Khi nghe thấy các từ như
+              <strong class="font-semibold text-white"
+                >schedule, deadline,</strong
+              >
+              hay
+              <strong class="font-semibold text-white">appointment,</strong> đó
+              là tín hiệu mạnh mẽ. Hãy chú ý ngay lập tức! Một con số, ngày
+              tháng, hoặc thời gian cụ thể sắp được nói đến.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
