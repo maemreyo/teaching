@@ -1,0 +1,429 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Phần 4: Lịch Trình & Thời Khóa - Time Mastery IELTS</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        body { font-family: 'Be Vietnam Pro', sans-serif; }
+        .gradient-bg { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); }
+        .schedule-highlight { background: linear-gradient(90deg, #a8e6cf 0%, #dcedc1 100%); }
+    </style>
+</head>
+<body class="bg-gray-50 text-gray-800">
+    <!-- Header -->
+    <header class="gradient-bg py-6">
+        <div class="container mx-auto px-6">
+            <div class="flex items-center justify-between">
+                <div>
+                    <h1 class="text-3xl font-bold text-white">Phần 4: Lịch Trình & Thời Khóa</h1>
+                    <p class="mt-2 text-gray-200">Schedule Navigation và Timetable Logic</p>
+                </div>
+                <div class="text-right">
+                    <div class="text-sm text-gray-300">Time Mastery</div>
+                    <div class="text-lg font-semibold text-white">IELTS Listening Part 1</div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Navigation -->
+    <nav class="bg-white shadow-md">
+        <div class="container mx-auto px-6">
+            <div class="flex items-center justify-between py-4">
+                <a href="index.html" class="flex items-center text-purple-600 hover:text-purple-800 transition-colors">
+                    <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path>
+                    </svg>
+                    Quay lại tổng quan
+                </a>
+                <div class="flex space-x-4">
+                    <a href="3.html" class="px-4 py-2 text-gray-600 hover:text-purple-600 transition-colors">← Phần 3</a>
+                    <span class="px-4 py-2 bg-purple-100 text-purple-800 rounded-lg font-medium">Phần 4</span>
+                    <a href="5.html" class="px-4 py-2 text-gray-600 hover:text-purple-600 transition-colors">Phần 5 →</a>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="container mx-auto px-6 py-8">
+        <!-- Section 1: Schedule Logic Fundamentals -->
+        <section class="mb-12">
+            <div class="bg-white rounded-lg shadow-md p-8">
+                <h2 class="text-2xl font-bold text-gray-800 mb-4">Schedule Logic Understanding</h2>
+                <div class="schedule-highlight text-gray-800 p-6 rounded-lg mb-6">
+                    <p class="text-lg font-semibold">Strategic Insight: Schedules have predictable patterns</p>
+                    <p class="mt-2">→ Understanding schedule logic = predicting time information accurately</p>
+                </div>
+
+                <div class="grid md:grid-cols-2 gap-8 mb-8">
+                    <div>
+                        <h3 class="text-xl font-semibold text-blue-700 mb-4">📅 Schedule Components</h3>
+                        <div class="space-y-4">
+                            <div class="bg-blue-50 p-4 rounded-lg">
+                                <h4 class="font-bold text-blue-600 mb-2">Time Blocks</h4>
+                                <div class="text-sm text-blue-800 space-y-1">
+                                    <p><strong>Morning:</strong> 8:00-12:00 (4 hours)</p>
+                                    <p><strong>Afternoon:</strong> 13:00-17:00 (4 hours)</p>
+                                    <p><strong>Evening:</strong> 18:00-21:00 (3 hours)</p>
+                                    <p><strong>Peak times:</strong> 9-11 AM, 2-4 PM</p>
+                                </div>
+                            </div>
+                            <div class="bg-green-50 p-4 rounded-lg">
+                                <h4 class="font-bold text-green-600 mb-2">Standard Durations</h4>
+                                <div class="text-sm text-green-800 space-y-1">
+                                    <p><strong>Classes:</strong> 45-90 minutes</p>
+                                    <p><strong>Workshops:</strong> 2-3 hours</p>
+                                    <p><strong>Breaks:</strong> 15-30 minutes</p>
+                                    <p><strong>Lunch:</strong> 30-60 minutes</p>
+                                </div>
+                            </div>
+                            <div class="bg-purple-50 p-4 rounded-lg">
+                                <h4 class="font-bold text-purple-600 mb-2">Buffer Times</h4>
+                                <div class="text-sm text-purple-800 space-y-1">
+                                    <p><strong>Between sessions:</strong> 15 minutes</p>
+                                    <p><strong>Setup time:</strong> 10-15 minutes</p>
+                                    <p><strong>Travel time:</strong> 5-15 minutes</p>
+                                    <p><strong>Registration:</strong> 15-30 minutes</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h3 class="text-xl font-semibold text-orange-700 mb-4">🕰️ Time Slot Patterns</h3>
+                        <div class="bg-orange-50 p-6 rounded-lg">
+                            <h4 class="font-semibold text-orange-800 mb-4">Common Scheduling Rules:</h4>
+                            <div class="space-y-4">
+                                <div class="bg-white p-4 rounded border">
+                                    <h5 class="font-bold text-gray-700 mb-2">Hour/Half-Hour Boundaries</h5>
+                                    <p class="text-sm text-gray-600 mb-2">
+                                        Most activities start at :00, :15, :30, :45
+                                    </p>
+                                    <p class="text-xs text-gray-500">
+                                        Examples: 9:00, 9:30, 10:15, 14:45
+                                    </p>
+                                </div>
+                                <div class="bg-white p-4 rounded border">
+                                    <h5 class="font-bold text-gray-700 mb-2">Peak vs Off-Peak</h5>
+                                    <p class="text-sm text-gray-600 mb-2">
+                                        Popular times: 9-11 AM, 2-4 PM, 7-9 PM
+                                    </p>
+                                    <p class="text-xs text-gray-500">
+                                        Off-peak: Early morning, lunch time, late evening
+                                    </p>
+                                </div>
+                                <div class="bg-white p-4 rounded border">
+                                    <h5 class="font-bold text-gray-700 mb-2">Logical Sequences</h5>
+                                    <p class="text-sm text-gray-600 mb-2">
+                                        Sessions follow chronological order
+                                    </p>
+                                    <p class="text-xs text-gray-500">
+                                        Session 1 → Break → Session 2 → Lunch → Session 3
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="bg-gray-50 border-l-4 border-gray-400 p-6">
+                    <h3 class="font-bold text-gray-700 mb-3">🧠 Prediction Strategy</h3>
+                    <div class="grid md:grid-cols-2 gap-6">
+                        <div>
+                            <h4 class="font-semibold text-gray-600 mb-2">Context Clues:</h4>
+                            <ul class="text-sm text-gray-700 space-y-1">
+                                <li>• Activity type → Expected duration</li>
+                                <li>• Venue type → Operating hours</li>
+                                <li>• Target audience → Preferred times</li>
+                            </ul>
+                        </div>
+                        <div>
+                            <h4 class="font-semibold text-gray-600 mb-2">Logical Constraints:</h4>
+                            <ul class="text-sm text-gray-700 space-y-1">
+                                <li>• No overlapping sessions</li>
+                                <li>• Reasonable break times</li>
+                                <li>• Travel time allowances</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Section 2: Academic Timetables -->
+        <section class="mb-12">
+            <div class="bg-white rounded-lg shadow-md p-8">
+                <h2 class="text-2xl font-bold text-gray-800 mb-6">Academic Timetable Navigation</h2>
+
+                <div class="mb-6">
+                    <div class="bg-blue-50 border-l-4 border-blue-400 p-4 mb-6">
+                        <p class="text-blue-800">
+                            <strong>Key Pattern:</strong> Academic schedules follow established conventions.
+                            Understanding these patterns helps predict and verify time information.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="space-y-8">
+                    <div class="bg-green-50 p-6 rounded-lg border-l-4 border-green-500">
+                        <h3 class="font-bold text-green-700 mb-4">📚 Class Schedule Patterns</h3>
+                        <div class="grid md:grid-cols-3 gap-6">
+                            <div class="bg-white p-4 rounded border">
+                                <h4 class="font-semibold text-green-600 mb-3">Standard Classes</h4>
+                                <div class="text-sm text-green-800 space-y-2">
+                                    <p><strong>Duration:</strong> 50-90 minutes</p>
+                                    <p><strong>Start times:</strong> :00, :30 typically</p>
+                                    <p><strong>Examples:</strong></p>
+                                    <ul class="text-xs text-green-700 ml-4 space-y-1">
+                                        <li>• 9:00-10:30 (90 min)</li>
+                                        <li>• 11:00-12:15 (75 min)</li>
+                                        <li>• 14:30-15:20 (50 min)</li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="bg-white p-4 rounded border">
+                                <h4 class="font-semibold text-green-600 mb-3">Seminar/Tutorial</h4>
+                                <div class="text-sm text-green-800 space-y-2">
+                                    <p><strong>Duration:</strong> 60-120 minutes</p>
+                                    <p><strong>Start times:</strong> Flexible</p>
+                                    <p><strong>Examples:</strong></p>
+                                    <ul class="text-xs text-green-700 ml-4 space-y-1">
+                                        <li>• 10:15-11:45 (90 min)</li>
+                                        <li>• 13:00-15:00 (120 min)</li>
+                                        <li>• 15:30-16:30 (60 min)</li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="bg-white p-4 rounded border">
+                                <h4 class="font-semibold text-green-600 mb-3">Lab Sessions</h4>
+                                <div class="text-sm text-green-800 space-y-2">
+                                    <p><strong>Duration:</strong> 2-3 hours</p>
+                                    <p><strong>Start times:</strong> Morning/afternoon blocks</p>
+                                    <p><strong>Examples:</strong></p>
+                                    <ul class="text-xs text-green-700 ml-4 space-y-1">
+                                        <li>• 9:00-12:00 (3 hours)</li>
+                                        <li>• 13:30-16:30 (3 hours)</li>
+                                        <li>• 14:00-16:00 (2 hours)</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="bg-orange-50 p-6 rounded-lg border-l-4 border-orange-500">
+                        <h3 class="font-bold text-orange-700 mb-4">📋 Course Registration Context</h3>
+                        <div class="grid md:grid-cols-2 gap-6">
+                            <div class="bg-white p-4 rounded border">
+                                <h4 class="font-semibold text-orange-600 mb-2">Information Flow Pattern</h4>
+                                <div class="text-sm text-orange-800 space-y-2">
+                                    <p><strong>Typical sequence:</strong></p>
+                                    <ol class="ml-4 space-y-1 text-xs list-decimal">
+                                        <li>Course name and code</li>
+                                        <li>Schedule options presentation</li>
+                                        <li>Student preference discussion</li>
+                                        <li>Final time slot confirmation</li>
+                                        <li>Additional session details</li>
+                                    </ol>
+                                </div>
+                            </div>
+                            <div>
+                                <h4 class="font-semibold text-orange-600 mb-2">Common Questions</h4>
+                                <div class="text-sm text-orange-800 space-y-2">
+                                    <p><strong>Time-related questions:</strong></p>
+                                    <ul class="ml-4 space-y-1 text-xs">
+                                        <li>• "What times are available?"</li>
+                                        <li>• "How long is each session?"</li>
+                                        <li>• "When does it start/finish?"</li>
+                                        <li>• "Are there any conflicts?"</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="bg-purple-50 p-6 rounded-lg border-l-4 border-purple-500">
+                        <h3 class="font-bold text-purple-700 mb-4">🗓️ Weekly Schedule Logic</h3>
+                        <div class="bg-white p-4 rounded border">
+                            <h4 class="font-semibold text-purple-600 mb-3">Pattern Recognition:</h4>
+                            <div class="grid md:grid-cols-2 gap-4 text-sm text-purple-800">
+                                <div>
+                                    <p class="font-semibold mb-2">Regular patterns:</p>
+                                    <ul class="space-y-1 text-xs">
+                                        <li>• "Monday and Wednesday 2-3:30"</li>
+                                        <li>• "Tuesday/Thursday 10:15-11:45"</li>
+                                        <li>• "Friday afternoon 1:30-4:30"</li>
+                                    </ul>
+                                </div>
+                                <div>
+                                    <p class="font-semibold mb-2">Frequency expressions:</p>
+                                    <ul class="space-y-1 text-xs">
+                                        <li>• "Twice weekly" = 2 sessions/week</li>
+                                        <li>• "Every other day" = 3-4 sessions/week</li>
+                                        <li>• "Daily except weekends" = 5 sessions/week</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Section 3: Service Hours & Booking Times -->
+        <section class="mb-12">
+            <div class="bg-white rounded-lg shadow-md p-8">
+                <h2 class="text-2xl font-bold text-gray-800 mb-6">Service Hours & Appointment Booking</h2>
+
+                <div class="space-y-8">
+                    <div class="bg-blue-50 p-6 rounded-lg border-l-4 border-blue-500">
+                        <h3 class="font-bold text-blue-700 mb-4">🏢 Business Hours Patterns</h3>
+                        <div class="grid md:grid-cols-3 gap-6">
+                            <div class="bg-white p-4 rounded border">
+                                <h4 class="font-semibold text-blue-600 mb-3">Standard Business</h4>
+                                <div class="text-sm text-blue-800 space-y-2">
+                                    <p><strong>Mon-Fri:</strong> 9:00-17:00</p>
+                                    <p><strong>Lunch:</strong> 12:00-13:00 (closed)</p>
+                                    <p><strong>Weekend:</strong> Limited or closed</p>
+                                    <p><strong>Peak:</strong> 10-12, 14-16</p>
+                                </div>
+                            </div>
+                            <div class="bg-white p-4 rounded border">
+                                <h4 class="font-semibold text-blue-600 mb-3">Extended Hours</h4>
+                                <div class="text-sm text-blue-800 space-y-2">
+                                    <p><strong>Early:</strong> 8:00-18:00</p>
+                                    <p><strong>Late:</strong> 9:00-20:00</p>
+                                    <p><strong>Saturday:</strong> 9:00-16:00</p>
+                                    <p><strong>Sunday:</strong> 10:00-15:00</p>
+                                </div>
+                            </div>
+                            <div class="bg-white p-4 rounded border">
+                                <h4 class="font-semibold text-blue-600 mb-3">24/7 Services</h4>
+                                <div class="text-sm text-blue-800 space-y-2">
+                                    <p><strong>Always open:</strong> Some facilities</p>
+                                    <p><strong>Staff hours:</strong> May vary</p>
+                                    <p><strong>Peak support:</strong> 9-17 weekdays</p>
+                                    <p><strong>Emergency:</strong> Always available</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="bg-green-50 p-6 rounded-lg border-l-4 border-green-500">
+                        <h3 class="font-bold text-green-700 mb-4">📞 Appointment Booking Scenarios</h3>
+                        <div class="grid md:grid-cols-2 gap-6">
+                            <div class="bg-white p-4 rounded border">
+                                <h4 class="font-semibold text-green-600 mb-2">Booking Conversation Flow</h4>
+                                <div class="text-sm text-green-800 space-y-2">
+                                    <p><strong>1. Availability inquiry:</strong></p>
+                                    <p class="text-xs italic ml-4">"When do you have appointments available?"</p>
+
+                                    <p><strong>2. Options presentation:</strong></p>
+                                    <p class="text-xs italic ml-4">"We have 2:30, 3:15, or 4:00 tomorrow"</p>
+
+                                    <p><strong>3. Selection process:</strong></p>
+                                    <p class="text-xs italic ml-4">"3:15 would work perfectly"</p>
+
+                                    <p><strong>4. Confirmation:</strong></p>
+                                    <p class="text-xs italic ml-4">"Confirmed for 3:15 tomorrow"</p>
+                                </div>
+                            </div>
+                            <div>
+                                <h4 class="font-semibold text-green-600 mb-2">Common Constraints</h4>
+                                <div class="text-sm text-green-800 space-y-2">
+                                    <p><strong>Time conflicts:</strong></p>
+                                    <ul class="text-xs ml-4 space-y-1">
+                                        <li>• "I'm busy until 2 PM"</li>
+                                        <li>• "Not available mornings"</li>
+                                        <li>• "Prefer afternoons"</li>
+                                    </ul>
+
+                                    <p><strong>Schedule adjustments:</strong></p>
+                                    <ul class="text-xs ml-4 space-y-1">
+                                        <li>• Reschedule requests</li>
+                                        <li>• Time modifications</li>
+                                        <li>• Alternative proposals</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="bg-yellow-50 p-6 rounded-lg border-l-4 border-yellow-500">
+                        <h3 class="font-bold text-yellow-700 mb-4">⚡ Quick Recognition Strategies</h3>
+                        <div class="grid md:grid-cols-2 gap-6">
+                            <div class="bg-white p-4 rounded border">
+                                <h4 class="font-semibold text-yellow-600 mb-2">Context Indicators</h4>
+                                <div class="text-sm text-yellow-800 space-y-2">
+                                    <p><strong>Booking context:</strong></p>
+                                    <ul class="text-xs ml-4 space-y-1">
+                                        <li>• "Make an appointment"</li>
+                                        <li>• "Schedule a session"</li>
+                                        <li>• "Book a slot"</li>
+                                        <li>• "Reserve a time"</li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="bg-white p-4 rounded border">
+                                <h4 class="font-semibold text-yellow-600 mb-2">Time Slot Language</h4>
+                                <div class="text-sm text-yellow-800 space-y-2">
+                                    <p><strong>Availability expressions:</strong></p>
+                                    <ul class="text-xs ml-4 space-y-1">
+                                        <li>• "We have openings at..."</li>
+                                        <li>• "Available slots are..."</li>
+                                        <li>• "Free at..."</li>
+                                        <li>• "Can fit you in at..."</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="mt-8 bg-gray-50 p-6 rounded-lg border-l-4 border-gray-400">
+                    <h3 class="font-bold text-gray-700 mb-3">🎯 Schedule Navigation Mastery</h3>
+                    <div class="grid md:grid-cols-3 gap-6">
+                        <div>
+                            <h4 class="font-semibold text-gray-600 mb-2">Prediction Skills:</h4>
+                            <ul class="text-sm text-gray-700 space-y-1">
+                                <li>✓ Recognize schedule patterns</li>
+                                <li>✓ Predict reasonable time slots</li>
+                                <li>✓ Understand duration constraints</li>
+                            </ul>
+                        </div>
+                        <div>
+                            <h4 class="font-semibold text-gray-600 mb-2">Listening Skills:</h4>
+                            <ul class="text-sm text-gray-700 space-y-1">
+                                <li>✓ Track option presentations</li>
+                                <li>✓ Identify selection process</li>
+                                <li>✓ Confirm final decisions</li>
+                            </ul>
+                        </div>
+                        <div>
+                            <h4 class="font-semibold text-gray-600 mb-2">Verification Skills:</h4>
+                            <ul class="text-sm text-gray-700 space-y-1">
+                                <li>✓ Check time logic</li>
+                                <li>✓ Verify schedule consistency</li>
+                                <li>✓ Confirm practical feasibility</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-gray-800 text-white py-8 mt-12">
+        <div class="container mx-auto px-6 text-center">
+            <p class="text-gray-300">
+                <strong>Schedule Navigation Mastery:</strong> Từ time chaos đến schedule logic.
+                Master timetables, master time prediction.
+            </p>
+        </div>
+    </footer>
+</body>
+</html>
