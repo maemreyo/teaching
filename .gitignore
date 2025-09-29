@@ -1,5 +1,9 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+*.mp3
+*.m4a
+*.mp4
+
 # dependencies
 **/node_modules
 /.pnp
@@ -782,3 +786,4 @@ scripts/node_modules/ws/lib/subprotocol.js
 scripts/node_modules/ws/lib/validation.js
 scripts/node_modules/ws/lib/websocket-server.js
 scripts/node_modules/ws/lib/websocket.js
+
