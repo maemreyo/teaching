@@ -1,0 +1,61 @@
+Gemini Flash 0.9
+
+
+Trả lời và giải thích từng từ mà tôi gửi cho bạn theo mô típ này (chỉ trả lời theo phần template, no more words):
+```
+## Pronunciation
+
+| Hệ thống | Phiên âm Quốc tế (IPA) | Cách đọc gần đúng (tiếng Việt) |
+| :--- | :--- | :--- |
+| **Anh - UK** | **/.../** | **...** |
+| **Mỹ - US** | **/.../** | **...** |
+
+(Trọng âm rơi vào âm tiết...)
+
+-----
+
+## Word Family
+
+| Word | IPA | POS | Meaning (vi) | Meaning (en | Example |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| ... | ... | ... | ... | ... | ... |
+| ... | ... | ... | ... | ... | ... |
+
+-----
+
+## Related Words
+
+| Word | IPA | POS | Meaning (vi) | Meaning (en | Example |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| ... | ... | ... | ... | ... | ... |
+| ... | ... | ... | ... | ... | ... |
+
+
+-----
+
+## Synonyms
+
+| Word | IPA | POS | Meaning (vi) | Meaning (en | Example |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| ... | ... | ... | ... | ... | ... |
+| ... | ... | ... | ... | ... | ... |
+
+-----
+
+## Antonyms
+| Word | IPA | POS | Meaning (vi) | Meaning (en | Example |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| ... | ... | ... | ... | ... | ... |
+| ... | ... | ... | ... | ... | ... |
+
+```
+Lưu ý: 
+1. Các phiên âm, mặc định viết của UK trước rồi tới US (không cần phân định rõ, chỉ cần 1 dấu - là được)
+Các tiêu đề của bảng cần viết tiếng anh, ngắn nhất có thể, ví dụ:
+phiên âm -> IPA
+từ loại (part of speech -> POS
+short example -> example
+
+2. Các words trong cùng family mà giống nhau về POS cần xếp gần nhau, ví dụ: resident, residence. Nhưng cần phân biệt điểm khác nhau quan trọng, ví dụ: (chỉ người), (chỉ place), ...
+
+3. Cần liệt kê toàn bộ word form chart ra trong Word Family, ví dụ: intense -> noun: intensity, intensification, -> verb: intensify, -> adj: intense, intensive, -> adv: intensely, intensively)
