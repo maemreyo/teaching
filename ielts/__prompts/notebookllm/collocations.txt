@@ -25,9 +25,11 @@ For EACH of these [X] words, your task is to perform the following analysis:
         * Transition smoothly to the next collocation for the same word and repeat the process.
 
 3.  **Final Summary & Conclusion:**
-    * Display a final summary slide with a title like "Key Takeaways".
-    * The slide must list each of the [X] words learned.
-    * Next to each word, display ONE of the key collocations that was taught for it.
+    * **Display a final summary slide with a title like "Key Collocations Review".**
+    * **The slide MUST present a comprehensive Markdown table that recaps all the information taught in the video.**
+    * **The table must have the following columns: `Word`, `Pattern`, `Common`, `Meaning`, `Example`.**
+    * **This table should ONLY contain the 2-3 collocations that were specifically taught for each word during the video.**
+    * **Apply the clean formatting rule: Use a single quotation mark (`"`) for repeated `Word` and `Pattern` information in subsequent rows.**
     * End with a clear call to action, such as: "Now it's your turn! Try using one of these collocations in a sentence and share it in the comments below."
 
 **Style and Tone:**
