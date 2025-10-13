@@ -1,45 +1,60 @@
-| Collocation | Phonetic Transcription | Dịch nghĩa |
+Chắc chắn rồi! "Education" là một trong những chủ đề phổ biến và quan trọng nhất trong kỳ thi IELTS. Nắm vững các collocations liên quan sẽ giúp bạn rất nhiều trong cả 4 kỹ năng.
+
+Dưới đây là danh sách hơn 40 collocations thiết yếu về chủ đề này, được phân loại rõ ràng.
+
+### 🎓 **Các loại hình & Giai đoạn Giáo dục (Types & Stages of Education)**
+
+| Collocation | Nghĩa tiếng Việt | Ví dụ / Bối cảnh |
 | :--- | :--- | :--- |
-| **Học thuật & Chương trình giảng dạy (Academic Life & Curriculum)** | | |
-| **Academic achievement** | /ˌækəˈdemɪk əˈtʃiːvmənt/ | Thành tích học tập |
-| **Academic discipline** | /ˌækəˈdemɪk ˈdɪsəplɪn/ | Lĩnh vực / ngành học thuật |
-| **Academic discourse** | /ˌækəˈdemɪk ˈdɪskɔːs/ | Diễn ngôn / luận bàn học thuật |
-| **Academic standards** | /ˌækəˈdemɪk ˈstændədz/ | Các tiêu chuẩn học thuật |
-| **Autonomous learning** | /ɔːˈtɒnəməs ˈlɜːnɪŋ/ | Việc học tự chủ |
-| **Comprehensive curriculum** | /ˌkɒmprɪˈhensɪv kəˈrɪkjələm/ | Chương trình giảng dạy toàn diện |
-| **Core curriculum** | /kɔː(r) kəˈrɪkjələm/ | Chương trình giảng dạy cốt lõi |
-| **Critical thinking skills** | /ˈkrɪtɪkl ˈθɪŋkɪŋ skɪlz/ | Kỹ năng tư duy phản biện |
-| **Curriculum development** | /kəˈrɪkjələm dɪˈveləpmənt/ | Sự phát triển chương trình giảng dạy |
-| **Interdisciplinary studies** | /ˌɪntəˌdɪsəˈplɪnəri ˈstʌdiz/ | Các ngành học liên ngành |
-| **Pedagogical approaches** | /ˌpedəˈɡɒdʒɪkl əˈprəʊtʃɪz/ | Các phương pháp sư phạm |
-| **Rigorous assessment / evaluation** | /ˈrɪɡərəs əˈsesmənt / ɪˌvæljuˈeɪʃn/ | Sự đánh giá / thẩm định nghiêm ngặt |
-| **Scholarly articles / journals** | /ˈskɒləli ˈɑːtɪklz / ˈdʒɜːnlz/ | Các bài báo / tạp chí học thuật |
-| **Chính sách & Hệ thống Giáo dục (Educational Policy & Systems)** | | |
-| **Admissions criteria / policy** | /ədˈmɪʃnz kraɪˈtɪəriə / ˈpɒləsi/ | Tiêu chí / chính sách tuyển sinh |
-| **Allocation of funding / resources** | /ˌæləˈkeɪʃn əv ˈfʌndɪŋ / rɪˈzɔːsɪz/ | Sự phân bổ kinh phí / nguồn lực |
-| **Educational provision** | /ˌedʒuˈkeɪʃənl prəˈvɪʒn/ | Sự cung cấp giáo dục (hệ thống, cơ sở vật chất) |
-| **Educational reform** | /ˌedʒuˈkeɪʃənl rɪˈfɔːm/ | Cải cách giáo dục |
-| **Equal access to education** | /ˈiːkwəl ˈækses tuː ˌedʒuˈkeɪʃn/ | Sự tiếp cận giáo dục bình đẳng |
-| **Learning environment** | /ˈlɜːnɪŋ ɪnˈvaɪrənmənt/ | Môi trường học tập |
-| **Quality assurance** | /ˈkwɒləti əˈʃʊərəns/ | Sự đảm bảo chất lượng |
-| **Standardized testing / curriculum** | /ˈstændədaɪzd ˈtestɪŋ / kəˈrɪkjələm/ | Thi cử / chương trình học được tiêu chuẩn hóa |
-| **Student-teacher ratio** | /ˈstjuːdnt ˈtiːtʃə(r) ˈreɪʃiəʊ/ | Tỷ lệ sinh viên trên giáo viên |
-| **Teacher training programs** | /ˈtiːtʃə(r) ˈtreɪnɪŋ ˈprəʊɡræmz/ | Các chương trình đào tạo giáo viên |
-| **Widening participation** | /ˈwaɪdnɪŋ pɑːˌtɪsɪˈpeɪʃn/ | Mở rộng sự tham gia (chính sách giúp nhiều người hơn vào ĐH) |
-| **Trải nghiệm & Kết quả của Sinh viên (Student Experience & Outcomes)** | | |
-| **Academic pressure** | /ˌækəˈdemɪk ˈpreʃə(r)/ | Áp lực học tập |
-| **Analytical skills** | /ˌænəˈlɪtɪkl skɪlz/ | Kỹ năng phân tích |
-| **Cognitive development** | /ˈkɒɡnətɪv dɪˈveləpmənt/ | Sự phát triển về nhận thức |
-| **Educational attainment** | /ˌedʒuˈkeɪʃənl əˈteɪnmənt/ | Trình độ học vấn đạt được |
-| **Extracurricular activities** | /ˌekstrəkəˈrɪkjələr ækˈtɪvətiz/ | Các hoạt động ngoại khóa |
-| **Falling behind with studies** | /ˈfɔːlɪŋ bɪˈhaɪnd wɪð ˈstʌdiz/ | Bị tụt lại trong việc học |
-| **Formal qualification** | /ˈfɔːml ˌkwɒlɪfɪˈkeɪʃn/ | Bằng cấp chính quy |
-| **Graduate employability** | /ˈɡrædʒuət ɪmˌplɔɪəˈbɪləti/ | Khả năng có việc làm của sinh viên sau tốt nghiệp |
-| **Holistic development** | /həʊˈlɪstɪk dɪˈveləpmənt/ | Sự phát triển toàn diện |
-| **Learning outcomes** | /ˈlɜːnɪŋ ˈaʊtkʌmz/ | Kết quả học tập (những gì SV học được sau khóa học) |
-| **Pastoral care** | /ˌpɑːstərəl ˈkeə(r)/ | Chăm sóc và hỗ trợ (về tinh thần, phúc lợi cho HS-SV) |
-| **Peer assessment / feedback** | /pɪər əˈsesmənt / ˈfiːdbæk/ | Sự đánh giá / phản hồi từ bạn đồng trang lứa |
-| **Rote learning** | /rəʊt ˈlɜːnɪŋ/ | Học vẹt, học thuộc lòng |
-| **Social mobility** | /ˌsəʊʃl məʊˈbɪləti/ | Sự dịch chuyển xã hội (khả năng thăng tiến) |
-| **Student engagement** | /ˈstjuːdnt ɪnˈɡeɪdʒmənt/ | Sự tham gia/gắn kết của sinh viên (vào việc học) |
-| **Student retention rates** | /ˈstjuːdnt rɪˈtenʃn reɪts/ | Tỷ lệ sinh viên tiếp tục theo học (không bỏ dở) |
+| **Higher education / Tertiary education** | Giáo dục đại học/sau trung học | Many students choose to pursue **higher education** to improve their career prospects. |
+| **Vocational training / education** | Đào tạo/Giáo dục nghề | **Vocational training** provides students with practical skills for a specific trade. |
+| **Lifelong learning** | Học tập suốt đời | In a rapidly changing world, **lifelong learning** is essential for personal development. |
+| **Compulsory education** | Giáo dục bắt buộc | In Vietnam, **compulsory education** covers primary and secondary school levels. |
+| **Distance learning / E-learning** | Học từ xa / Học trực tuyến | **Distance learning** has become much more popular thanks to the internet. |
+| **Blended learning** | Học tập kết hợp | Our course uses a **blended learning** approach, combining online classes with face-to-face tutorials. |
+| **Formal education** | Giáo dục chính quy | **Formal education** typically takes place in a school or university setting. |
+
+---
+
+### 📚 **Quá trình Dạy & Học (Teaching & Learning Process)**
+
+| Collocation | Nghĩa tiếng Việt | Ví dụ / Bối cảnh |
+| :--- | :--- | :--- |
+| **To acquire knowledge / skills** | Tiếp thu kiến thức / kỹ năng | The main goal of schooling is to help children **acquire knowledge**. |
+| **To broaden one's horizons** | Mở rộng tầm hiểu biết | Traveling and reading are excellent ways **to broaden one's horizons**. |
+| **Rote memorization** | Học vẹt, học thuộc lòng | Some people argue that **rote memorization** does not encourage real understanding. |
+| **Critical thinking skills** | Kỹ năng tư duy phản biện | A good education should foster **critical thinking skills**. |
+| **Hands-on experience** | Kinh nghiệm thực tế | The internship provided me with valuable **hands-on experience**. |
+| **Collaborative learning** | Học tập hợp tác | **Collaborative learning** encourages students to work in teams and learn from each other. |
+| **Teacher-student interaction** | Sự tương tác giữa giáo viên và học sinh | Small class sizes often lead to better **teacher-student interaction**. |
+| **To fall behind with your studies** | Bị tụt lại trong việc học | He was ill for a month and started **to fall behind with his studies**. |
+| **To keep up with your studies** | Theo kịp việc học | It's important to review your notes regularly **to keep up with your studies**. |
+
+---
+
+### 📝 **Chương trình học & Đánh giá (Curriculum & Assessment)**
+
+| Collocation | Nghĩa tiếng Việt | Ví dụ / Bối cảnh |
+| :--- | :--- | :--- |
+| **Core curriculum / Core subjects** | Chương trình học cốt lõi / Môn học chính | Maths and Science are **core subjects** in most school systems. |
+| **Extracurricular activities** | Các hoạt động ngoại khóa | Participating in **extracurricular activities** helps students develop social skills. |
+| **Formal examination** | Kỳ thi chính thức | Students have to pass a **formal examination** at the end of the year. |
+| **Continuous assessment** | Đánh giá liên tục | Many universities now use **continuous assessment** instead of a single final exam. |
+| **Academic performance** | Kết quả/Thành tích học tập | A student's **academic performance** is often measured by their grades. |
+| **Learning outcomes** | Kết quả học tập (đầu ra) | The syllabus clearly defines the **learning outcomes** for the course. |
+| **To sit / take an exam** | Tham dự một kỳ thi | All students are required **to sit an exam** in English. |
+
+---
+
+### 🏛️ **Hệ thống & Cơ hội (Systems & Opportunities)**
+
+| Collocation | Nghĩa tiếng Việt | Ví dụ / Bối cảnh |
+| :--- | :--- | :--- |
+| **Equal opportunities** | Cơ hội bình đẳng | The government is committed to providing **equal opportunities** in education for all citizens. |
+| **Access to education** | Tiếp cận giáo dục | Improving **access to education** in rural areas is a key priority. |
+| **Tuition fees** | Học phí | The rising cost of **tuition fees** is a major concern for many students. |
+| **To win a scholarship** | Giành được học bổng | She worked hard and managed **to win a scholarship** to a prestigious university. |
+| **Financial aid** | Hỗ trợ tài chính | Students from low-income families can apply for **financial aid**. |
+| **To drop out of school** | Bỏ học | High tuition fees force some students **to drop out of school**. |
+| **Educational standards** | Tiêu chuẩn giáo dục | The government aims to raise **educational standards** across the country. |
+| **A well-rounded education** | Một nền giáo dục toàn diện | A **well-rounded education** includes arts and sports, not just academic subjects. |
