@@ -15,6 +15,7 @@ export default function Home() {
       <header className="text-center mb-8">
         <h1 className="text-4xl font-bold">Word Forms</h1>
         <p className="text-lg text-gray-600">Your personal dictionary to master word formations.</p>
+        <Link href="/train" className="text-blue-500 hover:underline">Go to Training</Link>
       </header>
       <main>
         <ul className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">

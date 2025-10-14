@@ -1,6 +1,7 @@
-import { getWordByRoot, getAllWordForms } from '@/lib/words';
-import { notFound } from 'next/navigation';
-import Link from 'next/link';
+import { getWordByRoot, getAllWordForms } from "@/lib/words";
+import { notFound } from "next/navigation";
+import Link from "next/link";
+import WordTable from "./WordTable";
 
 export async function generateStaticParams() {
   const words = getAllWordForms();
@@ -16,6 +17,10 @@ export default function WordPage({ params }: { params: { word: string } }) {
     notFound();
   }
 
+  const forms = Object.entries(word.forms).flatMap(([type, formArray]) =>
+    formArray.map((form: any) => ({ type, ...form }))
+  );
+
   return (
     <div className="font-sans p-8">
       <header className="mb-8">
@@ -28,27 +33,7 @@ export default function WordPage({ params }: { params: { word: string } }) {
       </header>
 
       <main>
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-          <div>
-            <h2 className="text-2xl font-semibold mb-4">Word Forms</h2>
-            <ul>
-              {Object.entries(word.forms).map(([type, forms]: [string, any[]]) => (
-                <li key={type} className="mb-4">
-                  <h3 className="text-xl font-medium capitalize">{type}</h3>
-                  <ul className="list-disc list-inside ml-4 mt-2">
-                    {forms.map((form) => (
-                      <li key={form.word} className="mb-2">
-                        <p className="font-semibold">{form.word}</p>
-                        <p className="text-gray-600">{form.meaning.en}</p>
-                        <p className="text-gray-500">{form.meaning.vi}</p>
-                      </li>
-                    ))}
-                  </ul>
-                </li>
-              ))}
-            </ul>
-          </div>
-        </div>
+        <WordTable forms={forms} />
       </main>
     </div>
   );
