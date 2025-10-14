@@ -1,0 +1,363 @@
+[
+  {
+    "root": "politic",
+    "forms": {
+      "noun": [
+        {
+          "word": "politics",
+          "meaning": {
+            "vi": "chính trị",
+            "en": "the activities associated with the governance of a country or area"
+          }
+        },
+        {
+          "word": "politician",
+          "meaning": {
+            "vi": "chính trị gia",
+            "en": "a person who is professionally involved in politics"
+          }
+        }
+      ],
+      "verb": [],
+      "adjective": [
+        {
+          "word": "political",
+          "meaning": {
+            "vi": "thuộc về chính trị",
+            "en": "relating to the government or public affairs of a country"
+          }
+        }
+      ],
+      "adverb": [
+        {
+          "word": "politically",
+          "meaning": {
+            "vi": "về mặt chính trị",
+            "en": "in a way that relates to politics"
+          }
+        }
+      ]
+    },
+    "notes": {
+      "vi": "Một chủ đề quan trọng trong các vấn đề xã hội và thời sự.",
+      "en": "An important topic in social and current affairs."
+    }
+  },
+  {
+    "root": "popular",
+    "forms": {
+      "noun": [
+        {
+          "word": "popularity",
+          "meaning": {
+            "vi": "sự nổi tiếng, sự phổ biến",
+            "en": "the state or condition of being liked, admired, or supported by many people"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "popularize",
+          "meaning": {
+            "vi": "phổ biến hóa",
+            "en": "to make something popular with the general public"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "popular",
+          "meaning": {
+            "vi": "phổ biến, nổi tiếng",
+            "en": "liked, admired, or enjoyed by many people"
+          }
+        },
+        {
+          "word": "unpopular",
+          "meaning": {
+            "vi": "không được ưa chuộng",
+            "en": "not liked or popular"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Hữu ích khi nói về xu hướng trong xã hội, văn hóa, giải trí.",
+      "en": "Useful for talking about trends in society, culture, and entertainment."
+    }
+  },
+  {
+    "root": "possible",
+    "forms": {
+      "noun": [
+        {
+          "word": "possibility",
+          "meaning": {
+            "vi": "khả năng",
+            "en": "a thing that may happen or be the case"
+          }
+        },
+        {
+          "word": "impossibility",
+          "meaning": {
+            "vi": "sự không thể",
+            "en": "the state or fact of being impossible"
+          }
+        }
+      ],
+      "verb": [],
+      "adjective": [
+        {
+          "word": "possible",
+          "meaning": { "vi": "có thể", "en": "able to be done or achieved" }
+        },
+        {
+          "word": "impossible",
+          "meaning": {
+            "vi": "không thể",
+            "en": "not able to occur, exist, or be done"
+          }
+        }
+      ],
+      "adverb": [
+        {
+          "word": "possibly",
+          "meaning": { "vi": "có lẽ, có thể", "en": "perhaps; maybe" }
+        }
+      ]
+    },
+    "notes": {
+      "vi": "Dùng để diễn tả khả năng và xác suất.",
+      "en": "Used to express ability and probability."
+    }
+  },
+  {
+    "root": "power",
+    "forms": {
+      "noun": [
+        {
+          "word": "power",
+          "meaning": {
+            "vi": "quyền lực, năng lượng",
+            "en": "the ability to direct or influence others; physical strength or energy"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "empower",
+          "meaning": {
+            "vi": "trao quyền",
+            "en": "to give someone the authority or power to do something"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "powerful",
+          "meaning": {
+            "vi": "mạnh mẽ, có quyền lực",
+            "en": "having great power or strength"
+          }
+        },
+        {
+          "word": "powerless",
+          "meaning": {
+            "vi": "bất lực",
+            "en": "without ability, influence, or power"
+          }
+        }
+      ],
+      "adverb": [
+        {
+          "word": "powerfully",
+          "meaning": {
+            "vi": "một cách mạnh mẽ",
+            "en": "in a way that has a strong effect"
+          }
+        }
+      ]
+    },
+    "notes": {
+      "vi": "'Empower' là một động từ tích cực, thường dùng trong các bối cảnh xã hội.",
+      "en": "'Empower' is a positive verb, often used in social contexts."
+    }
+  },
+  {
+    "root": "press",
+    "forms": {
+      "noun": [
+        {
+          "word": "pressure",
+          "meaning": {
+            "vi": "áp lực",
+            "en": "the continuous physical force exerted on or against an object"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "press",
+          "meaning": {
+            "vi": "nhấn, ấn; thúc ép",
+            "en": "to move into contact with something by applying force; to persuade someone insistently"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "pressing",
+          "meaning": {
+            "vi": "cấp bách, khẩn cấp",
+            "en": "requiring urgent action"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "'A pressing issue' (một vấn đề cấp bách) là một cụm từ rất hữu ích.",
+      "en": "'A pressing issue' is a very useful collocation."
+    }
+  },
+  {
+    "root": "produce",
+    "forms": {
+      "noun": [
+        {
+          "word": "product",
+          "meaning": {
+            "vi": "sản phẩm",
+            "en": "an article or substance that is manufactured or refined for sale"
+          }
+        },
+        {
+          "word": "production",
+          "meaning": {
+            "vi": "sự sản xuất",
+            "en": "the action of making or manufacturing from components or raw materials"
+          }
+        },
+        {
+          "word": "producer",
+          "meaning": {
+            "vi": "nhà sản xuất",
+            "en": "a person, company, or country that makes, grows, or supplies goods"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "produce",
+          "meaning": {
+            "vi": "sản xuất",
+            "en": "to make or manufacture from components or raw materials"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "productive",
+          "meaning": {
+            "vi": "có năng suất",
+            "en": "producing or able to produce large amounts of goods, crops, or other commodities"
+          }
+        },
+        {
+          "word": "unproductive",
+          "meaning": {
+            "vi": "không có năng suất",
+            "en": "not producing or able to produce large amounts"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Một họ từ cốt lõi trong chủ đề kinh tế, nông nghiệp và công nghiệp.",
+      "en": "A core word family in topics of economics, agriculture, and industry."
+    }
+  },
+  {
+    "root": "protect",
+    "forms": {
+      "noun": [
+        {
+          "word": "protection",
+          "meaning": {
+            "vi": "sự bảo vệ",
+            "en": "the action of protecting, or the state of being protected"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "protect",
+          "meaning": {
+            "vi": "bảo vệ",
+            "en": "to keep safe from harm or injury"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "protective",
+          "meaning": {
+            "vi": "có tính bảo vệ, che chở",
+            "en": "intended to protect someone or something"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Liên quan đến chủ đề môi trường, sức khỏe và an ninh.",
+      "en": "Related to topics of environment, health, and security."
+    }
+  },
+  {
+    "root": "psychology",
+    "forms": {
+      "noun": [
+        {
+          "word": "psychology",
+          "meaning": {
+            "vi": "tâm lý học",
+            "en": "the scientific study of the human mind and its functions"
+          }
+        },
+        {
+          "word": "psychologist",
+          "meaning": {
+            "vi": "nhà tâm lý học",
+            "en": "an expert or specialist in psychology"
+          }
+        }
+      ],
+      "verb": [],
+      "adjective": [
+        {
+          "word": "psychological",
+          "meaning": {
+            "vi": "thuộc về tâm lý",
+            "en": "of, affecting, or arising in the mind; related to the mental and emotional state"
+          }
+        }
+      ],
+      "adverb": [
+        {
+          "word": "psychologically",
+          "meaning": {
+            "vi": "về mặt tâm lý",
+            "en": "in a way that affects the mind or relates to the emotional state"
+          }
+        }
+      ]
+    },
+    "notes": {
+      "vi": "Hữu ích khi bàn về hành vi, cảm xúc và sức khỏe tinh thần của con người.",
+      "en": "Useful when discussing human behavior, emotions, and mental health."
+    }
+  }
+]

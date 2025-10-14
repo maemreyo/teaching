@@ -1,0 +1,455 @@
+[
+  {
+    "root": "attribute",
+    "forms": {
+      "noun": [
+        {
+          "word": "attribute",
+          "meaning": {
+            "vi": "thuộc tính, đặc tính",
+            "en": "a quality or feature regarded as a characteristic of someone or something"
+          }
+        },
+        {
+          "word": "attribution",
+          "meaning": {
+            "vi": "sự quy cho",
+            "en": "the action of regarding something as being caused by a person or thing"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "attribute (to)",
+          "meaning": {
+            "vi": "cho là do, quy cho",
+            "en": "to regard something as being caused by"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "attributive",
+          "meaning": {
+            "vi": "(ngữ pháp) thuộc về định ngữ",
+            "en": "(grammar) expressing an attribute"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Lưu ý cách phát âm khác nhau giữa danh từ và động từ.",
+      "en": "Note the different pronunciation between the noun and the verb."
+    }
+  },
+  {
+    "root": "aware",
+    "forms": {
+      "noun": [
+        {
+          "word": "awareness",
+          "meaning": {
+            "vi": "sự nhận thức",
+            "en": "knowledge or perception of a situation or fact"
+          }
+        }
+      ],
+      "verb": [],
+      "adjective": [
+        {
+          "word": "aware",
+          "meaning": {
+            "vi": "nhận thức, biết",
+            "en": "having knowledge or perception of a situation"
+          }
+        },
+        {
+          "word": "unaware",
+          "meaning": {
+            "vi": "không nhận thức được",
+            "en": "having no knowledge of a situation"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Ví dụ: to raise awareness of environmental issues (nâng cao nhận thức về các vấn đề môi trường).",
+      "en": "E.g., to raise awareness of environmental issues."
+    }
+  },
+  {
+    "root": "brief",
+    "forms": {
+      "noun": [
+        {
+          "word": "brevity",
+          "meaning": {
+            "vi": "sự ngắn gọn",
+            "en": "concise and exact use of words"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "brief",
+          "meaning": {
+            "vi": "tóm tắt, chỉ dẫn ngắn",
+            "en": "to instruct or inform someone thoroughly and concisely"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "brief",
+          "meaning": { "vi": "ngắn gọn", "en": "of short duration; concise" }
+        }
+      ],
+      "adverb": [
+        {
+          "word": "briefly",
+          "meaning": {
+            "vi": "một cách ngắn gọn",
+            "en": "for a short time; in a few words"
+          }
+        }
+      ]
+    },
+    "notes": {
+      "vi": "Hữu ích khi cần tóm tắt lại một ý tưởng.",
+      "en": "Useful when needing to summarize an idea."
+    }
+  },
+  {
+    "root": "capable",
+    "forms": {
+      "noun": [
+        {
+          "word": "capability",
+          "meaning": {
+            "vi": "khả năng, năng lực",
+            "en": "the power or ability to do something"
+          }
+        }
+      ],
+      "verb": [],
+      "adjective": [
+        {
+          "word": "capable (of)",
+          "meaning": {
+            "vi": "có khả năng",
+            "en": "having the ability or quality necessary to do something"
+          }
+        },
+        {
+          "word": "incapable (of)",
+          "meaning": {
+            "vi": "không có khả năng",
+            "en": "unable to do something"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Một cách nói khác của 'able to'.",
+      "en": "Another way of saying 'able to'."
+    }
+  },
+  {
+    "root": "challenge",
+    "forms": {
+      "noun": [
+        {
+          "word": "challenge",
+          "meaning": {
+            "vi": "thách thức",
+            "en": "a task or situation that tests someone's abilities"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "challenge",
+          "meaning": {
+            "vi": "thách thức",
+            "en": "to dispute the truth or validity of; to invite to a contest"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "challenging",
+          "meaning": {
+            "vi": "mang tính thử thách",
+            "en": "testing one's abilities; demanding"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Dùng để nói về khó khăn hoặc vấn đề cần giải quyết.",
+      "en": "Used to talk about difficulties or problems to be solved."
+    }
+  },
+  {
+    "root": "cite",
+    "forms": {
+      "noun": [
+        {
+          "word": "citation",
+          "meaning": {
+            "vi": "sự trích dẫn",
+            "en": "a quotation from or reference to a book, paper, or author"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "cite",
+          "meaning": {
+            "vi": "trích dẫn",
+            "en": "to quote as evidence for an argument or statement"
+          }
+        }
+      ],
+      "adjective": [],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Một kỹ năng quan trọng trong viết học thuật là 'cite' các nguồn thông tin.",
+      "en": "An important skill in academic writing is to 'cite' sources."
+    }
+  },
+  {
+    "root": "civil",
+    "forms": {
+      "noun": [
+        {
+          "word": "civilian",
+          "meaning": {
+            "vi": "thường dân",
+            "en": "a person not in the armed services or the police force"
+          }
+        },
+        {
+          "word": "civility",
+          "meaning": {
+            "vi": "sự lịch sự, phép lịch sự",
+            "en": "formal politeness and courtesy"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "civilize",
+          "meaning": {
+            "vi": "khai hóa, làm cho văn minh",
+            "en": "to bring a place or people to a stage of social development"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "civil",
+          "meaning": {
+            "vi": "thuộc về dân sự; lịch sự",
+            "en": "relating to ordinary citizens; courteous and polite"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Ví dụ: civil rights (quyền công dân), civil war (nội chiến).",
+      "en": "E.g., civil rights, civil war."
+    }
+  },
+  {
+    "root": "clarify",
+    "forms": {
+      "noun": [
+        {
+          "word": "clarification",
+          "meaning": {
+            "vi": "sự làm rõ",
+            "en": "the action of making a statement less confused and more comprehensible"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "clarify",
+          "meaning": {
+            "vi": "làm rõ",
+            "en": "to make a statement or situation less confused"
+          }
+        }
+      ],
+      "adjective": [],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Hữu ích trong Speaking khi bạn muốn giải thích thêm về một ý.",
+      "en": "Useful in Speaking when you want to further explain a point."
+    }
+  },
+  {
+    "root": "coherent",
+    "forms": {
+      "noun": [
+        {
+          "word": "coherence",
+          "meaning": {
+            "vi": "sự mạch lạc, chặt chẽ",
+            "en": "the quality of being logical and consistent"
+          }
+        }
+      ],
+      "verb": [],
+      "adjective": [
+        {
+          "word": "coherent",
+          "meaning": {
+            "vi": "mạch lạc, chặt chẽ",
+            "en": "logical and consistent"
+          }
+        },
+        {
+          "word": "incoherent",
+          "meaning": {
+            "vi": "không mạch lạc",
+            "en": "not logical or consistent"
+          }
+        }
+      ],
+      "adverb": [
+        {
+          "word": "coherently",
+          "meaning": { "vi": "một cách mạch lạc", "en": "in a coherent way" }
+        }
+      ]
+    },
+    "notes": {
+      "vi": "'Coherence and Cohesion' là một trong bốn tiêu chí chấm điểm của IELTS Writing.",
+      "en": "'Coherence and Cohesion' is one of the four grading criteria for IELTS Writing."
+    }
+  },
+  {
+    "root": "coincide",
+    "forms": {
+      "noun": [
+        {
+          "word": "coincidence",
+          "meaning": {
+            "vi": "sự trùng hợp",
+            "en": "a remarkable concurrence of events without apparent causal connection"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "coincide",
+          "meaning": {
+            "vi": "trùng hợp, xảy ra đồng thời",
+            "en": "to occur at or during the same time"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "coincident",
+          "meaning": {
+            "vi": "trùng khớp",
+            "en": "occurring together in space or time"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Hữu ích khi mô tả các sự kiện diễn ra cùng lúc.",
+      "en": "Useful for describing events that happen at the same time."
+    }
+  },
+  {
+    "root": "collapse",
+    "forms": {
+      "noun": [
+        {
+          "word": "collapse",
+          "meaning": {
+            "vi": "sự sụp đổ",
+            "en": "an instance of a structure falling down or in"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "collapse",
+          "meaning": { "vi": "sụp đổ", "en": "to fall down suddenly" }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "collapsible",
+          "meaning": {
+            "vi": "có thể thu gọn, xếp lại",
+            "en": "able to be folded into a small space"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Dùng cho cả nghĩa đen (tòa nhà sụp đổ) và nghĩa bóng (nền kinh tế sụp đổ).",
+      "en": "Used both literally (a building collapses) and figuratively (an economy collapses)."
+    }
+  },
+  {
+    "root": "colleague",
+    "forms": {
+      "noun": [
+        {
+          "word": "colleague",
+          "meaning": {
+            "vi": "đồng nghiệp",
+            "en": "a person with whom one works in a profession or business"
+          }
+        }
+      ],
+      "verb": [],
+      "adjective": [],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Một từ trang trọng hơn 'co-worker'.",
+      "en": "A more formal word for 'co-worker'."
+    }
+  },
+  {
+    "root": "commence",
+    "forms": {
+      "noun": [
+        {
+          "word": "commencement",
+          "meaning": {
+            "vi": "sự bắt đầu, lễ tốt nghiệp",
+            "en": "the beginning of something; a graduation ceremony"
+          }
+        }
+      ],
+      "verb": [
+        { "word": "commence", "meaning": { "vi": "bắt đầu", "en": "to begin" } }
+      ],
+      "adjective": [],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Một cách nói trang trọng hơn của 'start' hoặc 'begin'.",
+      "en": "A more formal way to say 'start' or 'begin'."
+    }
+  }
+]

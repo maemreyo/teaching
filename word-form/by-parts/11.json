@@ -1,0 +1,380 @@
+[
+  {
+    "root": "direct",
+    "forms": {
+      "noun": [
+        {
+          "word": "direction",
+          "meaning": {
+            "vi": "phương hướng; sự chỉ dẫn",
+            "en": "a course along which someone or something moves; an instruction"
+          }
+        },
+        {
+          "word": "director",
+          "meaning": {
+            "vi": "giám đốc, đạo diễn",
+            "en": "a person who is in charge of an activity or organization"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "direct",
+          "meaning": {
+            "vi": "chỉ đạo, hướng dẫn",
+            "en": "to control the operations of; manage or govern"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "direct",
+          "meaning": {
+            "vi": "trực tiếp",
+            "en": "extending or moving from one place to another by the shortest way"
+          }
+        },
+        {
+          "word": "indirect",
+          "meaning": {
+            "vi": "gián tiếp",
+            "en": "not directly caused by or resulting from something"
+          }
+        }
+      ],
+      "adverb": [
+        {
+          "word": "directly",
+          "meaning": {
+            "vi": "một cách trực tiếp",
+            "en": "without changing direction or stopping"
+          }
+        },
+        {
+          "word": "indirectly",
+          "meaning": {
+            "vi": "một cách gián tiếp",
+            "en": "in a way that is not direct"
+          }
+        }
+      ]
+    },
+    "notes": {
+      "vi": "Họ từ này có nhiều nghĩa khác nhau cần chú ý.",
+      "en": "This word family has multiple meanings to pay attention to."
+    }
+  },
+  {
+    "root": "doubt",
+    "forms": {
+      "noun": [
+        {
+          "word": "doubt",
+          "meaning": {
+            "vi": "sự nghi ngờ",
+            "en": "a feeling of uncertainty or lack of conviction"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "doubt",
+          "meaning": { "vi": "nghi ngờ", "en": "to feel uncertain about" }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "doubtful",
+          "meaning": {
+            "vi": "đáng nghi, không chắc chắn",
+            "en": "feeling uncertain about something"
+          }
+        }
+      ],
+      "adverb": [
+        {
+          "word": "undoubtedly",
+          "meaning": {
+            "vi": "chắc chắn, không còn nghi ngờ gì nữa",
+            "en": "without doubt; certainly"
+          }
+        }
+      ]
+    },
+    "notes": {
+      "vi": "'Undoubtedly' là một trạng từ rất mạnh để khẳng định một ý kiến.",
+      "en": "'Undoubtedly' is a very strong adverb to state an opinion."
+    }
+  },
+  {
+    "root": "ease",
+    "forms": {
+      "noun": [
+        {
+          "word": "ease",
+          "meaning": {
+            "vi": "sự dễ dàng, sự thoải mái",
+            "en": "absence of difficulty or effort"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "ease",
+          "meaning": {
+            "vi": "làm dịu đi, làm dễ dàng hơn",
+            "en": "to make something less serious or severe"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "easy",
+          "meaning": { "vi": "dễ dàng", "en": "achieved without great effort" }
+        }
+      ],
+      "adverb": [
+        {
+          "word": "easily",
+          "meaning": {
+            "vi": "một cách dễ dàng",
+            "en": "without difficulty or effort"
+          }
+        }
+      ]
+    },
+    "notes": {
+      "vi": "Một họ từ cơ bản nhưng thiết yếu.",
+      "en": "A basic but essential word family."
+    }
+  },
+  {
+    "root": "effect",
+    "forms": {
+      "noun": [
+        {
+          "word": "effect",
+          "meaning": {
+            "vi": "sự ảnh hưởng, kết quả",
+            "en": "a change which is a result of an action"
+          }
+        }
+      ],
+      "verb": [],
+      "adjective": [
+        {
+          "word": "effective",
+          "meaning": {
+            "vi": "hiệu quả",
+            "en": "successful in producing a desired or intended result"
+          }
+        },
+        {
+          "word": "ineffective",
+          "meaning": {
+            "vi": "không hiệu quả",
+            "en": "not producing any significant or desired effect"
+          }
+        }
+      ],
+      "adverb": [
+        {
+          "word": "effectively",
+          "meaning": {
+            "vi": "một cách hiệu quả",
+            "en": "in such a manner as to achieve a desired result"
+          }
+        }
+      ]
+    },
+    "notes": {
+      "vi": "Rất quan trọng! 'Effect' là danh từ, còn 'Affect' là động từ.",
+      "en": "Very important! 'Effect' is the noun, while 'Affect' is the verb."
+    }
+  },
+  {
+    "root": "equal",
+    "forms": {
+      "noun": [
+        {
+          "word": "equality",
+          "meaning": {
+            "vi": "sự bình đẳng",
+            "en": "the state of being equal, especially in status, rights, and opportunities"
+          }
+        },
+        {
+          "word": "inequality",
+          "meaning": {
+            "vi": "sự bất bình đẳng",
+            "en": "difference in size, degree, circumstances, etc."
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "equalize",
+          "meaning": {
+            "vi": "làm cho bằng nhau, san bằng",
+            "en": "to make the same in quantity, size, or degree"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "equal",
+          "meaning": {
+            "vi": "bằng nhau, bình đẳng",
+            "en": "being the same in quantity, size, degree, or value"
+          }
+        },
+        {
+          "word": "unequal",
+          "meaning": {
+            "vi": "không bằng nhau",
+            "en": "not equal in quantity, size, or value"
+          }
+        }
+      ],
+      "adverb": [
+        {
+          "word": "equally",
+          "meaning": {
+            "vi": "một cách công bằng, như nhau",
+            "en": "in the same manner or to the same extent"
+          }
+        }
+      ]
+    },
+    "notes": {
+      "vi": "Chủ đề về bình đẳng xã hội (social equality) rất phổ biến.",
+      "en": "The topic of social equality is very common."
+    }
+  },
+  {
+    "root": "exact",
+    "forms": {
+      "noun": [],
+      "verb": [],
+      "adjective": [
+        {
+          "word": "exact",
+          "meaning": {
+            "vi": "chính xác",
+            "en": "not approximated in any way; precise"
+          }
+        },
+        {
+          "word": "inexact",
+          "meaning": {
+            "vi": "không chính xác",
+            "en": "not completely accurate or correct"
+          }
+        }
+      ],
+      "adverb": [
+        {
+          "word": "exactly",
+          "meaning": {
+            "vi": "một cách chính xác",
+            "en": "used to emphasize the accuracy of a statement"
+          }
+        }
+      ]
+    },
+    "notes": {
+      "vi": "Hữu ích khi nói về số liệu trong Writing Task 1.",
+      "en": "Useful when talking about data in Writing Task 1."
+    }
+  },
+  {
+    "root": "explain",
+    "forms": {
+      "noun": [
+        {
+          "word": "explanation",
+          "meaning": {
+            "vi": "lời giải thích",
+            "en": "a statement that makes something clear"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "explain",
+          "meaning": {
+            "vi": "giải thích",
+            "en": "to make an idea or situation clear to someone"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "explanatory",
+          "meaning": {
+            "vi": "có tính giải thích",
+            "en": "serving to explain something"
+          }
+        },
+        {
+          "word": "inexplicable",
+          "meaning": {
+            "vi": "không thể giải thích được",
+            "en": "hard to explain or account for"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Kỹ năng giải thích ý kiến là cốt lõi của Writing và Speaking.",
+      "en": "The skill of explaining ideas is core to Writing and Speaking."
+    }
+  },
+  {
+    "root": "final",
+    "forms": {
+      "noun": [
+        {
+          "word": "final",
+          "meaning": {
+            "vi": "trận chung kết, bài thi cuối kỳ",
+            "en": "the last game in a competition; the last exams"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "finalize",
+          "meaning": {
+            "vi": "hoàn tất, chốt lại",
+            "en": "to complete the last stage of a plan or arrangement"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "final",
+          "meaning": {
+            "vi": "cuối cùng",
+            "en": "coming at the end of a series"
+          }
+        }
+      ],
+      "adverb": [
+        {
+          "word": "finally",
+          "meaning": {
+            "vi": "cuối cùng",
+            "en": "after a long time; as the last point"
+          }
+        }
+      ]
+    },
+    "notes": {
+      "vi": "'Finally' là một từ nối tốt để giới thiệu điểm cuối cùng trong một danh sách.",
+      "en": "'Finally' is a good linking word to introduce the last point in a list."
+    }
+  }
+]

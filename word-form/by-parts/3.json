@@ -1,0 +1,675 @@
+[
+  {
+    "root": "issue",
+    "forms": {
+      "noun": [
+        {
+          "word": "issue",
+          "meaning": {
+            "vi": "vấn đề; số báo/tạp chí",
+            "en": "an important topic for debate; a version of a newspaper"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "issue",
+          "meaning": {
+            "vi": "phát hành, đưa ra",
+            "en": "to formally send out or make available"
+          }
+        }
+      ],
+      "adjective": [],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Một từ đa nghĩa, cần chú ý ngữ cảnh để hiểu đúng.",
+      "en": "A word with multiple meanings; context is crucial for understanding."
+    }
+  },
+  {
+    "root": "labour",
+    "forms": {
+      "noun": [
+        {
+          "word": "labour",
+          "meaning": {
+            "vi": "lao động, công việc chân tay",
+            "en": "work, especially physical work"
+          }
+        },
+        {
+          "word": "laborer",
+          "meaning": {
+            "vi": "người lao động chân tay",
+            "en": "a person doing unskilled manual work"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "labour",
+          "meaning": { "vi": "lao động vất vả", "en": "to work hard" }
+        }
+      ],
+      "adjective": [],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Cách viết ở Anh ('labour') và Mỹ ('labor') khác nhau.",
+      "en": "Spelling differs between British ('labour') and American ('labor') English."
+    }
+  },
+  {
+    "root": "legal",
+    "forms": {
+      "noun": [
+        {
+          "word": "legality",
+          "meaning": {
+            "vi": "tính hợp pháp",
+            "en": "the quality of being in accordance with the law"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "legalize",
+          "meaning": {
+            "vi": "hợp pháp hóa",
+            "en": "to make something that was previously illegal permissible by law"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "legal",
+          "meaning": {
+            "vi": "hợp pháp, thuộc về pháp luật",
+            "en": "relating to the law"
+          }
+        },
+        {
+          "word": "illegal",
+          "meaning": {
+            "vi": "bất hợp pháp",
+            "en": "contrary to or forbidden by law"
+          }
+        }
+      ],
+      "adverb": [
+        {
+          "word": "legally",
+          "meaning": {
+            "vi": "một cách hợp pháp",
+            "en": "in a way that conforms to the law"
+          }
+        }
+      ]
+    },
+    "notes": {
+      "vi": "Chủ đề luật pháp thường xuyên xuất hiện trong các bài thi.",
+      "en": "The topic of law frequently appears in the exam."
+    }
+  },
+  {
+    "root": "legislate",
+    "forms": {
+      "noun": [
+        {
+          "word": "legislation",
+          "meaning": {
+            "vi": "pháp luật, luật lệ",
+            "en": "laws, considered collectively"
+          }
+        },
+        {
+          "word": "legislature",
+          "meaning": {
+            "vi": "cơ quan lập pháp",
+            "en": "the legislative body of a country"
+          }
+        },
+        {
+          "word": "legislator",
+          "meaning": { "vi": "nhà lập pháp", "en": "a person who makes laws" }
+        }
+      ],
+      "verb": [
+        {
+          "word": "legislate",
+          "meaning": {
+            "vi": "làm luật, lập pháp",
+            "en": "to make or enact laws"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "legislative",
+          "meaning": {
+            "vi": "thuộc về lập pháp",
+            "en": "having the power to make laws"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Một họ từ học thuật hơn liên quan đến 'legal'.",
+      "en": "A more academic word family related to 'legal'."
+    }
+  },
+  {
+    "root": "method",
+    "forms": {
+      "noun": [
+        {
+          "word": "method",
+          "meaning": {
+            "vi": "phương pháp",
+            "en": "a particular way of doing something"
+          }
+        },
+        {
+          "word": "methodology",
+          "meaning": {
+            "vi": "hệ phương pháp luận",
+            "en": "a system of methods used in a particular area of study"
+          }
+        }
+      ],
+      "verb": [],
+      "adjective": [
+        {
+          "word": "methodical",
+          "meaning": {
+            "vi": "có phương pháp, ngăn nắp",
+            "en": "done in an orderly or systematic way"
+          }
+        }
+      ],
+      "adverb": [
+        {
+          "word": "methodically",
+          "meaning": {
+            "vi": "một cách có phương pháp",
+            "en": "in an orderly and systematic way"
+          }
+        }
+      ]
+    },
+    "notes": {
+      "vi": "'Methodology' là một từ học thuật cao cấp hơn 'method'.",
+      "en": "'Methodology' is a more advanced academic word than 'method'."
+    }
+  },
+  {
+    "root": "occur",
+    "forms": {
+      "noun": [
+        {
+          "word": "occurrence",
+          "meaning": { "vi": "sự việc xảy ra", "en": "an incident or event" }
+        }
+      ],
+      "verb": [
+        {
+          "word": "occur",
+          "meaning": { "vi": "xảy ra, diễn ra", "en": "to happen; take place" }
+        }
+      ],
+      "adjective": [],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Một cách nói trang trọng hơn của 'happen'.",
+      "en": "A more formal way to say 'happen'."
+    }
+  },
+  {
+    "root": "percent",
+    "forms": {
+      "noun": [
+        {
+          "word": "percent",
+          "meaning": { "vi": "phần trăm", "en": "one part in every hundred" }
+        },
+        {
+          "word": "percentage",
+          "meaning": {
+            "vi": "tỷ lệ phần trăm",
+            "en": "an amount expressed as a number out of 100"
+          }
+        }
+      ],
+      "verb": [],
+      "adjective": [],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Không thể thiếu cho Writing Task 1.",
+      "en": "Indispensable for Writing Task 1."
+    }
+  },
+  {
+    "root": "period",
+    "forms": {
+      "noun": [
+        {
+          "word": "period",
+          "meaning": {
+            "vi": "giai đoạn, thời kỳ",
+            "en": "a length or portion of time"
+          }
+        }
+      ],
+      "verb": [],
+      "adjective": [
+        {
+          "word": "periodic",
+          "meaning": {
+            "vi": "định kỳ",
+            "en": "appearing or occurring at intervals"
+          }
+        }
+      ],
+      "adverb": [
+        {
+          "word": "periodically",
+          "meaning": {
+            "vi": "một cách định kỳ",
+            "en": "from time to time; occasionally"
+          }
+        }
+      ]
+    },
+    "notes": {
+      "vi": "Hữu ích khi mô tả các xu hướng theo thời gian.",
+      "en": "Useful for describing trends over time."
+    }
+  },
+  {
+    "root": "principle",
+    "forms": {
+      "noun": [
+        {
+          "word": "principle",
+          "meaning": {
+            "vi": "nguyên tắc, nguyên lý",
+            "en": "a fundamental truth or proposition"
+          }
+        }
+      ],
+      "verb": [],
+      "adjective": [
+        {
+          "word": "principled",
+          "meaning": {
+            "vi": "có nguyên tắc (về đạo đức)",
+            "en": "acting in accordance with morality"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Đừng nhầm lẫn với 'principal' (hiệu trưởng; chính yếu).",
+      "en": "Do not confuse with 'principal' (head of a school; main)."
+    }
+  },
+  {
+    "root": "proceed",
+    "forms": {
+      "noun": [
+        {
+          "word": "procedure",
+          "meaning": {
+            "vi": "thủ tục",
+            "en": "an established or official way of doing something"
+          }
+        },
+        {
+          "word": "proceedings",
+          "meaning": {
+            "vi": "chuỗi sự kiện; biên bản",
+            "en": "an event or a series of activities; a published report"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "proceed",
+          "meaning": {
+            "vi": "tiếp tục, tiến hành",
+            "en": "to begin or continue a course of action"
+          }
+        }
+      ],
+      "adjective": [],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Thường dùng trong các ngữ cảnh trang trọng hoặc học thuật.",
+      "en": "Often used in formal or academic contexts."
+    }
+  },
+  {
+    "root": "process",
+    "forms": {
+      "noun": [
+        {
+          "word": "process",
+          "meaning": {
+            "vi": "quá trình",
+            "en": "a series of actions taken to achieve an end"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "process",
+          "meaning": {
+            "vi": "xử lý (dữ liệu)",
+            "en": "to perform a series of operations on something"
+          }
+        }
+      ],
+      "adjective": [],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Cực kỳ quan trọng trong Writing Task 1 khi mô tả một quy trình.",
+      "en": "Crucial in Writing Task 1 for describing a process."
+    }
+  },
+  {
+    "root": "require",
+    "forms": {
+      "noun": [
+        {
+          "word": "requirement",
+          "meaning": {
+            "vi": "yêu cầu, điều kiện cần",
+            "en": "a thing that is needed or wanted"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "require",
+          "meaning": {
+            "vi": "yêu cầu, đòi hỏi",
+            "en": "to need for a particular purpose"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "required",
+          "meaning": {
+            "vi": "bắt buộc, cần thiết",
+            "en": "officially compulsory"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Một cách nói trang trọng hơn của 'need'.",
+      "en": "A more formal way to say 'need'."
+    }
+  },
+  {
+    "root": "research",
+    "forms": {
+      "noun": [
+        {
+          "word": "research",
+          "meaning": {
+            "vi": "nghiên cứu",
+            "en": "the systematic investigation into materials and sources"
+          }
+        },
+        {
+          "word": "researcher",
+          "meaning": {
+            "vi": "nhà nghiên cứu",
+            "en": "a person who carries out research"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "research",
+          "meaning": {
+            "vi": "nghiên cứu",
+            "en": "to investigate systematically"
+          }
+        }
+      ],
+      "adjective": [],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Chủ đề nghiên cứu và khoa học rất phổ biến trong IELTS.",
+      "en": "The topic of research and science is very common in IELTS."
+    }
+  },
+  {
+    "root": "role",
+    "forms": {
+      "noun": [
+        {
+          "word": "role",
+          "meaning": {
+            "vi": "vai trò",
+            "en": "the function assumed or part played by a person or thing"
+          }
+        }
+      ],
+      "verb": [],
+      "adjective": [],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Hữu ích khi thảo luận về chức năng của một cá nhân hoặc một yếu tố trong hệ thống.",
+      "en": "Useful when discussing the function of an individual or an element in a system."
+    }
+  },
+  {
+    "root": "section",
+    "forms": {
+      "noun": [
+        {
+          "word": "section",
+          "meaning": {
+            "vi": "phần, khu vực",
+            "en": "any of the parts into which something is divided"
+          }
+        }
+      ],
+      "verb": [],
+      "adjective": [],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Dùng để chỉ một phần của bài viết, biểu đồ hoặc khu vực địa lý.",
+      "en": "Used to refer to a part of a text, chart, or geographical area."
+    }
+  },
+  {
+    "root": "sector",
+    "forms": {
+      "noun": [
+        {
+          "word": "sector",
+          "meaning": {
+            "vi": "khu vực, lĩnh vực (kinh tế)",
+            "en": "an area of the economy"
+          }
+        }
+      ],
+      "verb": [],
+      "adjective": [],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Ví dụ: the public sector (khu vực công), the private sector (khu vực tư nhân).",
+      "en": "E.g., the public sector, the private sector."
+    }
+  },
+  {
+    "root": "similar",
+    "forms": {
+      "noun": [
+        {
+          "word": "similarity",
+          "meaning": {
+            "vi": "sự tương đồng",
+            "en": "the state of being similar"
+          }
+        }
+      ],
+      "verb": [],
+      "adjective": [
+        {
+          "word": "similar",
+          "meaning": {
+            "vi": "tương tự, giống nhau",
+            "en": "resembling without being identical"
+          }
+        }
+      ],
+      "adverb": [
+        {
+          "word": "similarly",
+          "meaning": { "vi": "tương tự", "en": "in a similar way" }
+        }
+      ]
+    },
+    "notes": {
+      "vi": "Quan trọng để so sánh các ý tưởng hoặc dữ liệu.",
+      "en": "Important for comparing ideas or data."
+    }
+  },
+  {
+    "root": "source",
+    "forms": {
+      "noun": [
+        {
+          "word": "source",
+          "meaning": {
+            "vi": "nguồn, nguồn gốc",
+            "en": "a place, person, or thing from which something comes"
+          }
+        }
+      ],
+      "verb": [],
+      "adjective": [],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Ví dụ: a source of information (nguồn thông tin), a source of energy (nguồn năng lượng).",
+      "en": "E.g., a source of information, a source of energy."
+    }
+  },
+  {
+    "root": "specific",
+    "forms": {
+      "noun": [
+        {
+          "word": "specificity",
+          "meaning": {
+            "vi": "tính cụ thể",
+            "en": "the quality of being specific"
+          }
+        },
+        {
+          "word": "specification",
+          "meaning": {
+            "vi": "thông số kỹ thuật, yêu cầu cụ thể",
+            "en": "a detailed description of the design and materials"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "specify",
+          "meaning": {
+            "vi": "chỉ rõ, định rõ",
+            "en": "to identify clearly and definitely"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "specific",
+          "meaning": {
+            "vi": "cụ thể, riêng biệt",
+            "en": "clearly defined or identified"
+          }
+        }
+      ],
+      "adverb": [
+        {
+          "word": "specifically",
+          "meaning": {
+            "vi": "một cách cụ thể",
+            "en": "in a way that is exact and clear"
+          }
+        }
+      ]
+    },
+    "notes": {
+      "vi": "Bài viết IELTS cần có các ý tưởng và ví dụ 'specific'.",
+      "en": "IELTS essays require 'specific' ideas and examples."
+    }
+  },
+  {
+    "root": "structure",
+    "forms": {
+      "noun": [
+        {
+          "word": "structure",
+          "meaning": {
+            "vi": "cấu trúc",
+            "en": "the arrangement of and relations between the parts of something complex"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "structure",
+          "meaning": {
+            "vi": "cấu trúc hóa",
+            "en": "to arrange or organize into a structure"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "structural",
+          "meaning": {
+            "vi": "thuộc về cấu trúc",
+            "en": "relating to structure"
+          }
+        }
+      ],
+      "adverb": [
+        {
+          "word": "structurally",
+          "meaning": {
+            "vi": "về mặt cấu trúc",
+            "en": "in a way that relates to structure"
+          }
+        }
+      ]
+    },
+    "notes": {
+      "vi": "Cấu trúc bài viết (essay structure) là một tiêu chí chấm điểm quan trọng.",
+      "en": "Essay structure is an important grading criterion."
+    }
+  }
+]

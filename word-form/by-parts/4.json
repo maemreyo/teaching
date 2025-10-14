@@ -1,0 +1,508 @@
+[
+  {
+    "root": "tradition",
+    "forms": {
+      "noun": [
+        {
+          "word": "tradition",
+          "meaning": {
+            "vi": "truyền thống",
+            "en": "a long-established custom or belief"
+          }
+        }
+      ],
+      "verb": [],
+      "adjective": [
+        {
+          "word": "traditional",
+          "meaning": {
+            "vi": "thuộc về truyền thống",
+            "en": "existing in or as part of a tradition"
+          }
+        }
+      ],
+      "adverb": [
+        {
+          "word": "traditionally",
+          "meaning": {
+            "vi": "theo truyền thống",
+            "en": "according to tradition"
+          }
+        }
+      ]
+    },
+    "notes": {
+      "vi": "Chủ đề văn hóa và truyền thống rất phổ biến trong Speaking và Writing.",
+      "en": "The topic of culture and tradition is very common in Speaking and Writing."
+    }
+  },
+  {
+    "root": "transfer",
+    "forms": {
+      "noun": [
+        {
+          "word": "transfer",
+          "meaning": {
+            "vi": "sự chuyển giao, sự di chuyển",
+            "en": "the movement of something from one place to another"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "transfer",
+          "meaning": {
+            "vi": "chuyển, dời",
+            "en": "to move from one place to another"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "transferable",
+          "meaning": {
+            "vi": "có thể chuyển nhượng, có thể di dời",
+            "en": "able to be transferred"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Dùng trong nhiều bối cảnh như chuyển tiền, chuyển dữ liệu, chuyển kỹ năng.",
+      "en": "Used in many contexts like transferring money, data, or skills."
+    }
+  },
+  {
+    "root": "trend",
+    "forms": {
+      "noun": [
+        {
+          "word": "trend",
+          "meaning": {
+            "vi": "xu hướng",
+            "en": "a general direction in which something is developing or changing"
+          }
+        }
+      ],
+      "verb": [],
+      "adjective": [
+        {
+          "word": "trendy",
+          "meaning": {
+            "vi": "hợp thời trang, theo mốt",
+            "en": "very fashionable or up to date"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Từ khóa cho Writing Task 1 khi mô tả sự thay đổi của dữ liệu theo thời gian.",
+      "en": "A keyword for Writing Task 1 when describing changes in data over time."
+    }
+  },
+  {
+    "root": "valid",
+    "forms": {
+      "noun": [
+        {
+          "word": "validity",
+          "meaning": {
+            "vi": "tính hợp lệ, giá trị pháp lý",
+            "en": "the quality of being logically or factually sound"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "validate",
+          "meaning": {
+            "vi": "xác thực, làm cho có hiệu lực",
+            "en": "to check or prove the validity of something"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "valid",
+          "meaning": {
+            "vi": "hợp lệ, có hiệu lực",
+            "en": "legally or officially acceptable"
+          }
+        },
+        {
+          "word": "invalid",
+          "meaning": { "vi": "không hợp lệ", "en": "not valid" }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Quan trọng khi đánh giá tính xác thực của một lập luận hoặc bằng chứng.",
+      "en": "Important when assessing the soundness of an argument or evidence."
+    }
+  },
+  {
+    "root": "access",
+    "forms": {
+      "noun": [
+        {
+          "word": "access",
+          "meaning": {
+            "vi": "sự truy cập, lối vào",
+            "en": "the means or opportunity to approach or enter a place"
+          }
+        },
+        {
+          "word": "accessibility",
+          "meaning": {
+            "vi": "khả năng tiếp cận",
+            "en": "the quality of being easy to approach or use"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "access",
+          "meaning": {
+            "vi": "truy cập",
+            "en": "to approach or enter a place; to obtain data"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "accessible",
+          "meaning": {
+            "vi": "có thể tiếp cận được",
+            "en": "able to be reached or entered"
+          }
+        },
+        {
+          "word": "inaccessible",
+          "meaning": {
+            "vi": "không thể tiếp cận được",
+            "en": "unable to be reached"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Ví dụ: access to education (tiếp cận giáo dục), access the internet (truy cập internet).",
+      "en": "E.g., access to education, access the internet."
+    }
+  },
+  {
+    "root": "adapt",
+    "forms": {
+      "noun": [
+        {
+          "word": "adaptation",
+          "meaning": {
+            "vi": "sự thích nghi, tác phẩm chuyển thể",
+            "en": "the process of changing to suit different conditions"
+          }
+        },
+        {
+          "word": "adaptability",
+          "meaning": {
+            "vi": "khả năng thích ứng",
+            "en": "the quality of being able to adjust to new conditions"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "adapt",
+          "meaning": {
+            "vi": "thích nghi, phỏng theo",
+            "en": "to become adjusted to new conditions"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "adaptable",
+          "meaning": {
+            "vi": "có thể thích nghi",
+            "en": "able to adjust to new conditions"
+          }
+        },
+        {
+          "word": "adaptive",
+          "meaning": {
+            "vi": "mang tính thích nghi",
+            "en": "characterized by or given to adaptation"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Liên quan đến các chủ đề về sinh học, xã hội và thay đổi công nghệ.",
+      "en": "Related to topics on biology, society, and technological change."
+    }
+  },
+  {
+    "root": "adequate",
+    "forms": {
+      "noun": [
+        {
+          "word": "adequacy",
+          "meaning": {
+            "vi": "sự đầy đủ",
+            "en": "the state of being satisfactory in quantity or quality"
+          }
+        }
+      ],
+      "verb": [],
+      "adjective": [
+        {
+          "word": "adequate",
+          "meaning": {
+            "vi": "đầy đủ, tương xứng",
+            "en": "satisfactory or acceptable in quality or quantity"
+          }
+        },
+        {
+          "word": "inadequate",
+          "meaning": {
+            "vi": "không đầy đủ, thiếu",
+            "en": "lacking the quality or quantity required"
+          }
+        }
+      ],
+      "adverb": [
+        {
+          "word": "adequately",
+          "meaning": {
+            "vi": "một cách đầy đủ",
+            "en": "to a satisfactory extent"
+          }
+        }
+      ]
+    },
+    "notes": {
+      "vi": "Một cách nói khác của 'enough' nhưng trang trọng hơn.",
+      "en": "Another, more formal way of saying 'enough'."
+    }
+  },
+  {
+    "root": "adjust",
+    "forms": {
+      "noun": [
+        {
+          "word": "adjustment",
+          "meaning": {
+            "vi": "sự điều chỉnh",
+            "en": "a small alteration or movement made to achieve a desired fit"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "adjust",
+          "meaning": {
+            "vi": "điều chỉnh",
+            "en": "to alter or move something slightly to achieve a desired result"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "adjustable",
+          "meaning": { "vi": "có thể điều chỉnh", "en": "able to be adjusted" }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Tương tự như 'adapt' nhưng thường mang nghĩa điều chỉnh nhỏ.",
+      "en": "Similar to 'adapt' but often implies minor alterations."
+    }
+  },
+  {
+    "root": "administrate",
+    "forms": {
+      "noun": [
+        {
+          "word": "administration",
+          "meaning": {
+            "vi": "sự quản lý, chính quyền",
+            "en": "the process of running a business or organization; the government in power"
+          }
+        },
+        {
+          "word": "administrator",
+          "meaning": {
+            "vi": "người quản lý",
+            "en": "a person responsible for running a business"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "administrate",
+          "meaning": {
+            "vi": "quản lý, cai quản",
+            "en": "to manage the affairs of a business or organization"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "administrative",
+          "meaning": {
+            "vi": "thuộc về hành chính",
+            "en": "relating to the running of a business or organization"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Phổ biến trong các chủ đề về kinh doanh, giáo dục và chính phủ.",
+      "en": "Common in topics about business, education, and government."
+    }
+  },
+  {
+    "root": "affect",
+    "forms": {
+      "noun": [],
+      "verb": [
+        {
+          "word": "affect",
+          "meaning": {
+            "vi": "ảnh hưởng, tác động đến",
+            "en": "to have an effect on; to make a difference to"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "affective",
+          "meaning": {
+            "vi": "thuộc về cảm xúc",
+            "en": "relating to moods, feelings, and attitudes"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Đừng nhầm lẫn với danh từ 'effect' (sự ảnh hưởng). 'Affect' là động từ.",
+      "en": "Do not confuse with the noun 'effect'. 'Affect' is the verb."
+    }
+  },
+  {
+    "root": "appropriate",
+    "forms": {
+      "noun": [],
+      "verb": [
+        {
+          "word": "appropriate",
+          "meaning": {
+            "vi": "chiếm đoạt; dành riêng (cho mục đích gì)",
+            "en": "to take something for one's own use; to devote money to a special purpose"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "appropriate",
+          "meaning": {
+            "vi": "thích hợp, phù hợp",
+            "en": "suitable or proper in the circumstances"
+          }
+        },
+        {
+          "word": "inappropriate",
+          "meaning": { "vi": "không phù hợp", "en": "not suitable or proper" }
+        }
+      ],
+      "adverb": [
+        {
+          "word": "appropriately",
+          "meaning": { "vi": "một cách thích hợp", "en": "in a suitable way" }
+        }
+      ]
+    },
+    "notes": {
+      "vi": "Lưu ý cách phát âm khác nhau giữa động từ và tính từ.",
+      "en": "Note the different pronunciation between the verb and the adjective."
+    }
+  },
+  {
+    "root": "approximate",
+    "forms": {
+      "noun": [
+        {
+          "word": "approximation",
+          "meaning": {
+            "vi": "sự xấp xỉ, giá trị gần đúng",
+            "en": "a value that is close but not exactly the same"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "approximate",
+          "meaning": {
+            "vi": "xấp xỉ, gần bằng",
+            "en": "to come close or be similar to something"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "approximate",
+          "meaning": {
+            "vi": "xấp xỉ, gần đúng",
+            "en": "close to the actual, but not completely accurate"
+          }
+        }
+      ],
+      "adverb": [
+        {
+          "word": "approximately",
+          "meaning": {
+            "vi": "khoảng, xấp xỉ",
+            "en": "used to show that something is almost, but not completely, accurate"
+          }
+        }
+      ]
+    },
+    "notes": {
+      "vi": "Từ đồng nghĩa của 'about' hoặc 'around', rất hữu ích trong Writing Task 1.",
+      "en": "A synonym for 'about' or 'around', very useful in Writing Task 1."
+    }
+  },
+  {
+    "root": "attitude",
+    "forms": {
+      "noun": [
+        {
+          "word": "attitude",
+          "meaning": {
+            "vi": "thái độ, quan điểm",
+            "en": "a settled way of thinking or feeling about someone or something"
+          }
+        }
+      ],
+      "verb": [],
+      "adjective": [
+        {
+          "word": "attitudinal",
+          "meaning": { "vi": "thuộc về thái độ", "en": "relating to attitude" }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Quan trọng khi thảo luận về quan điểm của công chúng hoặc cá nhân.",
+      "en": "Important when discussing public or personal opinions."
+    }
+  }
+]

@@ -1,0 +1,712 @@
+[
+  {
+    "root": "achieve",
+    "forms": {
+      "noun": [
+        {
+          "word": "achievement",
+          "meaning": { "vi": "thành tựu", "en": "something done successfully" }
+        }
+      ],
+      "verb": [
+        {
+          "word": "achieve",
+          "meaning": {
+            "vi": "đạt được",
+            "en": "to succeed in finishing something"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "achievable",
+          "meaning": { "vi": "có thể đạt được", "en": "possible to achieve" }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Một từ rất phổ biến trong chủ đề công việc và giáo dục.",
+      "en": "A very common word in topics about work and education."
+    }
+  },
+  {
+    "root": "analyze",
+    "forms": {
+      "noun": [
+        {
+          "word": "analysis",
+          "meaning": {
+            "vi": "sự phân tích",
+            "en": "the detailed study of something"
+          }
+        },
+        {
+          "word": "analyst",
+          "meaning": {
+            "vi": "nhà phân tích",
+            "en": "a person who conducts analysis"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "analyze",
+          "meaning": {
+            "vi": "phân tích",
+            "en": "to examine something in detail"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "analytical",
+          "meaning": {
+            "vi": "thuộc về phân tích",
+            "en": "relating to or using analysis"
+          }
+        }
+      ],
+      "adverb": [
+        {
+          "word": "analytically",
+          "meaning": {
+            "vi": "một cách phân tích",
+            "en": "in an analytical way"
+          }
+        }
+      ]
+    },
+    "notes": {
+      "vi": "Cần thiết cho IELTS Writing Task 1 và Task 2.",
+      "en": "Essential for IELTS Writing Task 1 and Task 2."
+    }
+  },
+  {
+    "root": "benefit",
+    "forms": {
+      "noun": [
+        {
+          "word": "benefit",
+          "meaning": { "vi": "lợi ích", "en": "an advantage or profit" }
+        },
+        {
+          "word": "beneficiary",
+          "meaning": {
+            "vi": "người hưởng lợi",
+            "en": "a person who derives advantage from something"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "benefit",
+          "meaning": {
+            "vi": "làm lợi cho",
+            "en": "to receive an advantage; to give an advantage to"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "beneficial",
+          "meaning": { "vi": "có lợi", "en": "favorable or advantageous" }
+        }
+      ],
+      "adverb": [
+        {
+          "word": "beneficially",
+          "meaning": { "vi": "một cách có lợi", "en": "in a beneficial way" }
+        }
+      ]
+    },
+    "notes": {
+      "vi": "Thường dùng để thảo luận về ưu điểm của một vấn đề.",
+      "en": "Often used to discuss the advantages of an issue."
+    }
+  },
+  {
+    "root": "create",
+    "forms": {
+      "noun": [
+        {
+          "word": "creation",
+          "meaning": {
+            "vi": "sự sáng tạo, tác phẩm",
+            "en": "the action of creating; something created"
+          }
+        },
+        {
+          "word": "creativity",
+          "meaning": {
+            "vi": "tính sáng tạo, óc sáng tạo",
+            "en": "the use of imagination or original ideas"
+          }
+        },
+        {
+          "word": "creator",
+          "meaning": {
+            "vi": "người tạo ra",
+            "en": "a person that creates something"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "create",
+          "meaning": {
+            "vi": "sáng tạo, tạo ra",
+            "en": "to bring something into existence"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "creative",
+          "meaning": {
+            "vi": "sáng tạo",
+            "en": "involving imagination or original ideas"
+          }
+        }
+      ],
+      "adverb": [
+        {
+          "word": "creatively",
+          "meaning": { "vi": "một cách sáng tạo", "en": "in a creative way" }
+        }
+      ]
+    },
+    "notes": {
+      "vi": "Quan trọng cho các chủ đề về nghệ thuật, công nghệ và giải pháp.",
+      "en": "Important for topics on art, technology, and solutions."
+    }
+  },
+  {
+    "root": "economy",
+    "forms": {
+      "noun": [
+        {
+          "word": "economy",
+          "meaning": {
+            "vi": "nền kinh tế",
+            "en": "the system of trade and industry"
+          }
+        },
+        {
+          "word": "economics",
+          "meaning": { "vi": "kinh tế học", "en": "the study of economy" }
+        },
+        {
+          "word": "economist",
+          "meaning": { "vi": "nhà kinh tế học", "en": "an expert in economics" }
+        }
+      ],
+      "verb": [
+        {
+          "word": "economize",
+          "meaning": { "vi": "tiết kiệm", "en": "to spend less money" }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "economic",
+          "meaning": {
+            "vi": "thuộc về kinh tế",
+            "en": "relating to the economy"
+          }
+        },
+        {
+          "word": "economical",
+          "meaning": {
+            "vi": "tiết kiệm (thời gian, tiền bạc)",
+            "en": "giving good value in relation to money, time"
+          }
+        }
+      ],
+      "adverb": [
+        {
+          "word": "economically",
+          "meaning": {
+            "vi": "về mặt kinh tế",
+            "en": "in a way that relates to the economy"
+          }
+        }
+      ]
+    },
+    "notes": {
+      "vi": "'Economic' và 'economical' là hai tính từ dễ nhầm lẫn.",
+      "en": "'Economic' and 'economical' are two easily confused adjectives."
+    }
+  },
+  {
+    "root": "environment",
+    "forms": {
+      "noun": [
+        {
+          "word": "environment",
+          "meaning": {
+            "vi": "môi trường",
+            "en": "the surroundings or conditions in which a person, animal, or plant lives"
+          }
+        },
+        {
+          "word": "environmentalist",
+          "meaning": {
+            "vi": "nhà môi trường học",
+            "en": "a person who is concerned with protecting the environment"
+          }
+        }
+      ],
+      "verb": [],
+      "adjective": [
+        {
+          "word": "environmental",
+          "meaning": {
+            "vi": "thuộc về môi trường",
+            "en": "relating to the natural world"
+          }
+        }
+      ],
+      "adverb": [
+        {
+          "word": "environmentally",
+          "meaning": {
+            "vi": "về phương diện môi trường",
+            "en": "in a way that relates to the environment"
+          }
+        }
+      ]
+    },
+    "notes": {
+      "vi": "Chủ đề môi trường rất phổ biến trong cả 4 kỹ năng IELTS.",
+      "en": "The topic of the environment is very common in all 4 IELTS skills."
+    }
+  },
+  {
+    "root": "establish",
+    "forms": {
+      "noun": [
+        {
+          "word": "establishment",
+          "meaning": {
+            "vi": "sự thành lập, tổ chức",
+            "en": "the action of establishing something; an organization"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "establish",
+          "meaning": {
+            "vi": "thành lập, thiết lập",
+            "en": "to set up on a firm or permanent basis"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "established",
+          "meaning": {
+            "vi": "đã được thiết lập, có uy tín",
+            "en": "having been in existence for a long time and being recognized"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Hữu ích khi viết về lịch sử hoặc sự phát triển của một tổ chức/khái niệm.",
+      "en": "Useful when writing about the history or development of an organization/concept."
+    }
+  },
+  {
+    "root": "finance",
+    "forms": {
+      "noun": [
+        {
+          "word": "finance",
+          "meaning": {
+            "vi": "tài chính",
+            "en": "the management of large amounts of money"
+          }
+        },
+        {
+          "word": "financing",
+          "meaning": {
+            "vi": "sự cấp vốn",
+            "en": "the act of providing funds for a project"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "finance",
+          "meaning": {
+            "vi": "cấp vốn, tài trợ",
+            "en": "to provide funding for something"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "financial",
+          "meaning": { "vi": "thuộc về tài chính", "en": "relating to finance" }
+        }
+      ],
+      "adverb": [
+        {
+          "word": "financially",
+          "meaning": {
+            "vi": "về mặt tài chính",
+            "en": "in a way that relates to finance"
+          }
+        }
+      ]
+    },
+    "notes": {
+      "vi": "Một chủ đề quan trọng liên quan đến kinh tế và kinh doanh.",
+      "en": "An important topic related to economics and business."
+    }
+  },
+  {
+    "root": "indicate",
+    "forms": {
+      "noun": [
+        {
+          "word": "indication",
+          "meaning": {
+            "vi": "sự biểu thị, dấu hiệu",
+            "en": "a sign or piece of information that indicates something"
+          }
+        },
+        {
+          "word": "indicator",
+          "meaning": {
+            "vi": "chỉ số, vật chỉ thị",
+            "en": "a thing that indicates the state or level of something"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "indicate",
+          "meaning": { "vi": "chỉ ra, biểu thị", "en": "to point out; to show" }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "indicative",
+          "meaning": {
+            "vi": "mang tính biểu thị",
+            "en": "serving as a sign of something"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Cực kỳ hữu ích cho Writing Task 1 khi mô tả biểu đồ.",
+      "en": "Extremely useful for Writing Task 1 when describing charts."
+    }
+  },
+  {
+    "root": "major",
+    "forms": {
+      "noun": [
+        {
+          "word": "majority",
+          "meaning": { "vi": "đa số", "en": "the greater number" }
+        }
+      ],
+      "verb": [
+        {
+          "word": "major",
+          "meaning": {
+            "vi": "chuyên về (một môn học)",
+            "en": "to specialize in a particular subject at college"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "major",
+          "meaning": {
+            "vi": "chính, chủ yếu, trọng đại",
+            "en": "important, serious, or significant"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Từ 'major' có thể là cả tính từ, danh từ (chuyên ngành) và động từ.",
+      "en": "The word 'major' can be an adjective, a noun (field of study), and a verb."
+    }
+  },
+  {
+    "root": "policy",
+    "forms": {
+      "noun": [
+        {
+          "word": "policy",
+          "meaning": {
+            "vi": "chính sách",
+            "en": "a course of action adopted by a government or organization"
+          }
+        },
+        {
+          "word": "politics",
+          "meaning": {
+            "vi": "chính trị, chính trị học",
+            "en": "the activities associated with the governance of a country"
+          }
+        },
+        {
+          "word": "politician",
+          "meaning": {
+            "vi": "chính trị gia",
+            "en": "a person who is professionally involved in politics"
+          }
+        }
+      ],
+      "verb": [],
+      "adjective": [
+        {
+          "word": "political",
+          "meaning": {
+            "vi": "thuộc về chính trị",
+            "en": "relating to the government or public affairs"
+          }
+        }
+      ],
+      "adverb": [
+        {
+          "word": "politically",
+          "meaning": {
+            "vi": "về mặt chính trị",
+            "en": "in a way that relates to politics"
+          }
+        }
+      ]
+    },
+    "notes": {
+      "vi": "Thường xuất hiện trong các chủ đề về chính phủ, xã hội và luật pháp.",
+      "en": "Often appears in topics about government, society, and law."
+    }
+  },
+  {
+    "root": "respond",
+    "forms": {
+      "noun": [
+        {
+          "word": "response",
+          "meaning": { "vi": "sự phản hồi", "en": "a verbal or written answer" }
+        },
+        {
+          "word": "respondent",
+          "meaning": {
+            "vi": "người trả lời (khảo sát)",
+            "en": "a person who replies to something, especially a survey"
+          }
+        },
+        {
+          "word": "responsiveness",
+          "meaning": {
+            "vi": "khả năng phản ứng nhanh",
+            "en": "the quality of reacting quickly and positively"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "respond",
+          "meaning": {
+            "vi": "phản hồi, đáp lại",
+            "en": "to say or do something as a reaction"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "responsive",
+          "meaning": {
+            "vi": "phản ứng nhanh, đáp ứng nhiệt tình",
+            "en": "reacting quickly and positively"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Từ 'respondent' rất hữu ích trong Writing Task 1 khi mô tả dữ liệu khảo sát.",
+      "en": "The word 'respondent' is very useful in Writing Task 1 when describing survey data."
+    }
+  },
+  {
+    "root": "significant",
+    "forms": {
+      "noun": [
+        {
+          "word": "significance",
+          "meaning": {
+            "vi": "sự quan trọng, ý nghĩa",
+            "en": "the quality of being important"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "signify",
+          "meaning": {
+            "vi": "biểu thị, có nghĩa là",
+            "en": "to be an indication of"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "significant",
+          "meaning": {
+            "vi": "quan trọng, đáng kể",
+            "en": "sufficiently great or important to be worthy of attention"
+          }
+        }
+      ],
+      "adverb": [
+        {
+          "word": "significantly",
+          "meaning": {
+            "vi": "một cách đáng kể",
+            "en": "in a sufficiently great or important way"
+          }
+        }
+      ]
+    },
+    "notes": {
+      "vi": "Một từ vựng học thuật cấp cao thay thế cho 'important'.",
+      "en": "A high-level academic vocabulary alternative to 'important'."
+    }
+  },
+  {
+    "root": "theory",
+    "forms": {
+      "noun": [
+        {
+          "word": "theory",
+          "meaning": {
+            "vi": "lý thuyết",
+            "en": "a system of ideas intended to explain something"
+          }
+        },
+        {
+          "word": "theorist",
+          "meaning": {
+            "vi": "nhà lý luận",
+            "en": "a person concerned with the theoretical aspects of a subject"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "theorize",
+          "meaning": {
+            "vi": "lý thuyết hóa",
+            "en": "to form a theory or theories about something"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "theoretical",
+          "meaning": {
+            "vi": "thuộc về lý thuyết",
+            "en": "concerned with theory rather than practice"
+          }
+        }
+      ],
+      "adverb": [
+        {
+          "word": "theoretically",
+          "meaning": { "vi": "về mặt lý thuyết", "en": "according to theory" }
+        }
+      ]
+    },
+    "notes": {
+      "vi": "Quan trọng trong các chủ đề khoa học và học thuật.",
+      "en": "Important in scientific and academic topics."
+    }
+  },
+  {
+    "root": "vary",
+    "forms": {
+      "noun": [
+        {
+          "word": "variety",
+          "meaning": {
+            "vi": "sự đa dạng",
+            "en": "the quality of being different or diverse"
+          }
+        },
+        {
+          "word": "variation",
+          "meaning": {
+            "vi": "sự biến đổi, biến thể",
+            "en": "a change or difference in condition, amount, or level"
+          }
+        },
+        {
+          "word": "variable",
+          "meaning": {
+            "vi": "biến số",
+            "en": "an element, feature, or factor that is liable to vary or change"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "vary",
+          "meaning": {
+            "vi": "thay đổi, khác nhau",
+            "en": "to differ in size, amount, degree, or nature"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "various",
+          "meaning": {
+            "vi": "đa dạng, khác nhau",
+            "en": "different from one another; of different kinds"
+          }
+        },
+        {
+          "word": "varied",
+          "meaning": {
+            "vi": "phong phú, nhiều loại",
+            "en": "incorporating a number of different types"
+          }
+        },
+        {
+          "word": "variable",
+          "meaning": {
+            "vi": "có thể thay đổi, hay thay đổi",
+            "en": "not consistent or having a fixed pattern; liable to change"
+          }
+        }
+      ],
+      "adverb": [
+        {
+          "word": "variably",
+          "meaning": {
+            "vi": "một cách có thể thay đổi",
+            "en": "in a way that is not consistent"
+          }
+        }
+      ]
+    },
+    "notes": {
+      "vi": "Một họ từ cực kỳ linh hoạt và hữu ích để tránh lặp từ.",
+      "en": "An extremely versatile and useful word family for avoiding repetition."
+    }
+  }
+]

@@ -1,0 +1,391 @@
+[
+  {
+    "root": "manage",
+    "forms": {
+      "noun": [
+        {
+          "word": "management",
+          "meaning": {
+            "vi": "sự quản lý",
+            "en": "the process of dealing with or controlling things or people"
+          }
+        },
+        {
+          "word": "manager",
+          "meaning": {
+            "vi": "người quản lý",
+            "en": "a person responsible for controlling or administering an organization"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "manage",
+          "meaning": {
+            "vi": "quản lý, xoay xở",
+            "en": "to be in charge of; to succeed in doing something difficult"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "manageable",
+          "meaning": {
+            "vi": "có thể quản lý, có thể giải quyết",
+            "en": "able to be managed or dealt with"
+          }
+        },
+        {
+          "word": "unmanageable",
+          "meaning": {
+            "vi": "không thể quản lý",
+            "en": "difficult or impossible to manage"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Liên quan đến các chủ đề về kinh doanh, công việc và giải quyết vấn đề.",
+      "en": "Related to topics of business, work, and problem-solving."
+    }
+  },
+  {
+    "root": "move",
+    "forms": {
+      "noun": [
+        {
+          "word": "movement",
+          "meaning": {
+            "vi": "sự di chuyển; phong trào",
+            "en": "an act of changing physical location; a group of people working together for a cause"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "move",
+          "meaning": {
+            "vi": "di chuyển",
+            "en": "to go in a specified direction or manner"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "moving",
+          "meaning": {
+            "vi": "cảm động",
+            "en": "producing strong emotions, especially sadness or sympathy"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Lưu ý nghĩa bóng của 'moving' (cảm động) và 'movement' (phong trào).",
+      "en": "Note the figurative meanings of 'moving' (touching) and 'movement' (a campaign)."
+    }
+  },
+  {
+    "root": "nation",
+    "forms": {
+      "noun": [
+        {
+          "word": "nation",
+          "meaning": {
+            "vi": "quốc gia",
+            "en": "a large body of people united by common descent, history, culture, or language"
+          }
+        },
+        {
+          "word": "nationality",
+          "meaning": {
+            "vi": "quốc tịch",
+            "en": "the status of belonging to a particular nation"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "nationalize",
+          "meaning": {
+            "vi": "quốc hữu hóa",
+            "en": "to transfer from private to state ownership or control"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "national",
+          "meaning": { "vi": "thuộc về quốc gia", "en": "relating to a nation" }
+        },
+        {
+          "word": "international",
+          "meaning": {
+            "vi": "quốc tế",
+            "en": "existing or occurring between two or more nations"
+          }
+        }
+      ],
+      "adverb": [
+        {
+          "word": "nationally",
+          "meaning": { "vi": "trên toàn quốc", "en": "on a national scale" }
+        },
+        {
+          "word": "internationally",
+          "meaning": {
+            "vi": "trên phạm vi quốc tế",
+            "en": "in a way that involves more than one country"
+          }
+        }
+      ]
+    },
+    "notes": {
+      "vi": "Các từ 'national' và 'international' rất quan trọng trong nhiều chủ đề.",
+      "en": "The words 'national' and 'international' are very important in many topics."
+    }
+  },
+  {
+    "root": "operate",
+    "forms": {
+      "noun": [
+        {
+          "word": "operation",
+          "meaning": {
+            "vi": "sự vận hành; ca phẫu thuật",
+            "en": "the action of functioning or the fact of being active; an act of surgery"
+          }
+        },
+        {
+          "word": "operator",
+          "meaning": {
+            "vi": "người vận hành",
+            "en": "a person who operates equipment or a machine"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "operate",
+          "meaning": {
+            "vi": "vận hành; phẫu thuật",
+            "en": "to control the functioning of; to perform surgery"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "operational",
+          "meaning": { "vi": "sẵn sàng hoạt động", "en": "in or ready for use" }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Một họ từ có nhiều nghĩa trong cả lĩnh vực kỹ thuật và y tế.",
+      "en": "A word family with meanings in both technical and medical fields."
+    }
+  },
+  {
+    "root": "organize",
+    "forms": {
+      "noun": [
+        {
+          "word": "organization",
+          "meaning": {
+            "vi": "tổ chức",
+            "en": "an organized group of people with a particular purpose"
+          }
+        },
+        {
+          "word": "organizer",
+          "meaning": {
+            "vi": "người tổ chức",
+            "en": "a person who arranges an event or activity"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "organize",
+          "meaning": {
+            "vi": "tổ chức, sắp xếp",
+            "en": "to arrange systematically; to coordinate"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "organized",
+          "meaning": {
+            "vi": "có tổ chức, ngăn nắp",
+            "en": "arranged in a systematic way"
+          }
+        },
+        {
+          "word": "disorganized",
+          "meaning": {
+            "vi": "vô tổ chức, bừa bộn",
+            "en": "not properly planned and controlled"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Kỹ năng 'organize' là một phẩm chất cá nhân quan trọng.",
+      "en": "The skill to 'organize' is an important personal quality."
+    }
+  },
+  {
+    "root": "perfect",
+    "forms": {
+      "noun": [
+        {
+          "word": "perfection",
+          "meaning": {
+            "vi": "sự hoàn hảo",
+            "en": "the condition, state, or quality of being free from all flaws"
+          }
+        },
+        {
+          "word": "imperfection",
+          "meaning": {
+            "vi": "sự không hoàn hảo, khuyết điểm",
+            "en": "a fault, blemish, or undesirable feature"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "perfect",
+          "meaning": {
+            "vi": "hoàn thiện",
+            "en": "to make something completely free from faults"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "perfect",
+          "meaning": {
+            "vi": "hoàn hảo",
+            "en": "having all the required or desirable elements"
+          }
+        },
+        {
+          "word": "imperfect",
+          "meaning": {
+            "vi": "không hoàn hảo",
+            "en": "not perfect; faulty or incomplete"
+          }
+        }
+      ],
+      "adverb": [
+        {
+          "word": "perfectly",
+          "meaning": {
+            "vi": "một cách hoàn hảo",
+            "en": "in a manner that could not be better"
+          }
+        }
+      ]
+    },
+    "notes": {
+      "vi": "Hữu ích khi đánh giá một sự vật, hiện tượng.",
+      "en": "Useful when evaluating an object or phenomenon."
+    }
+  },
+  {
+    "root": "permit",
+    "forms": {
+      "noun": [
+        {
+          "word": "permission",
+          "meaning": {
+            "vi": "sự cho phép",
+            "en": "the action of officially allowing someone to do something"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "permit",
+          "meaning": {
+            "vi": "cho phép",
+            "en": "to officially allow someone to do something"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "permissible",
+          "meaning": { "vi": "được cho phép", "en": "permitted; allowed" }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Một cách nói trang trọng hơn của 'allow'. 'Permission' là danh từ không đếm được.",
+      "en": "A more formal way of saying 'allow'. 'Permission' is an uncountable noun."
+    }
+  },
+  {
+    "root": "person",
+    "forms": {
+      "noun": [
+        {
+          "word": "person",
+          "meaning": { "vi": "người", "en": "a human being" }
+        },
+        {
+          "word": "personality",
+          "meaning": {
+            "vi": "tính cách, nhân cách",
+            "en": "the combination of characteristics that form an individual's distinctive character"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "personalize",
+          "meaning": {
+            "vi": "cá nhân hóa",
+            "en": "to design or produce something to meet someone's individual requirements"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "personal",
+          "meaning": {
+            "vi": "cá nhân",
+            "en": "belonging to or affecting a particular person"
+          }
+        },
+        {
+          "word": "impersonal",
+          "meaning": {
+            "vi": "khách quan, không liên quan đến cá nhân",
+            "en": "not influenced by, showing, or involving personal feelings"
+          }
+        }
+      ],
+      "adverb": [
+        {
+          "word": "personally",
+          "meaning": {
+            "vi": "theo cá nhân tôi",
+            "en": "used to emphasize that you are giving your own opinion"
+          }
+        }
+      ]
+    },
+    "notes": {
+      "vi": "'Personally' là một cụm từ tốt để bắt đầu đưa ra quan điểm của bạn.",
+      "en": "'Personally' is a good phrase to introduce your own opinion."
+    }
+  }
+]

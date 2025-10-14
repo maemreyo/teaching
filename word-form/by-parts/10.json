@@ -1,0 +1,437 @@
+[
+  {
+    "root": "like",
+    "forms": {
+      "noun": [
+        {
+          "word": "likeness",
+          "meaning": {
+            "vi": "sự giống nhau",
+            "en": "the fact or quality of being alike"
+          }
+        },
+        {
+          "word": "likelihood",
+          "meaning": {
+            "vi": "khả năng xảy ra",
+            "en": "the state or fact of being likely; probability"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "like",
+          "meaning": {
+            "vi": "thích",
+            "en": "to find agreeable, enjoyable, or satisfactory"
+          }
+        },
+        {
+          "word": "liken (to)",
+          "meaning": { "vi": "so sánh với", "en": "to compare with" }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "like",
+          "meaning": {
+            "vi": "giống như",
+            "en": "similar to; having the same characteristics"
+          }
+        },
+        {
+          "word": "likely",
+          "meaning": {
+            "vi": "có khả năng, có vẻ sẽ",
+            "en": "such as well might happen or be true; probable"
+          }
+        },
+        {
+          "word": "unlikely",
+          "meaning": {
+            "vi": "khó có khả năng",
+            "en": "not likely to happen, be done, or be true"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Một họ từ cực kỳ phổ biến. 'Likely' và 'unlikely' rất hữu ích để nói về xác suất.",
+      "en": "An extremely common word family. 'Likely' and 'unlikely' are very useful for talking about probability."
+    }
+  },
+  {
+    "root": "differ",
+    "forms": {
+      "noun": [
+        {
+          "word": "difference",
+          "meaning": {
+            "vi": "sự khác biệt",
+            "en": "a point or way in which people or things are not the same"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "differ",
+          "meaning": { "vi": "khác với", "en": "to be not the same as" }
+        },
+        {
+          "word": "differentiate",
+          "meaning": {
+            "vi": "phân biệt",
+            "en": "to recognize what makes something different"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "different",
+          "meaning": {
+            "vi": "khác",
+            "en": "not the same as another or each other"
+          }
+        }
+      ],
+      "adverb": [
+        {
+          "word": "differently",
+          "meaning": {
+            "vi": "một cách khác biệt",
+            "en": "in a way that is not the same"
+          }
+        }
+      ]
+    },
+    "notes": {
+      "vi": "Cốt lõi của việc so sánh và đối chiếu trong Writing Task 2.",
+      "en": "Core vocabulary for comparing and contrasting in Writing Task 2."
+    }
+  },
+  {
+    "root": "able",
+    "forms": {
+      "noun": [
+        {
+          "word": "ability",
+          "meaning": {
+            "vi": "khả năng",
+            "en": "possession of the means or skill to do something"
+          }
+        },
+        {
+          "word": "disability",
+          "meaning": {
+            "vi": "sự khuyết tật",
+            "en": "a physical or mental condition that limits a person's movements"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "enable",
+          "meaning": {
+            "vi": "cho phép, làm cho có thể",
+            "en": "to make it possible for someone to do something"
+          }
+        },
+        {
+          "word": "disable",
+          "meaning": {
+            "vi": "làm cho tàn tật; vô hiệu hóa",
+            "en": "to make unable to function; to put out of action"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "able",
+          "meaning": {
+            "vi": "có thể, có khả năng",
+            "en": "having the power, skill, means, or opportunity to do something"
+          }
+        },
+        {
+          "word": "unable",
+          "meaning": {
+            "vi": "không thể",
+            "en": "lacking the skill, means, or opportunity to do something"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "'Enable' là một động từ rất hay để miêu tả nguyên nhân-kết quả tích cực.",
+      "en": "'Enable' is a great verb to describe positive cause-effect relationships."
+    }
+  },
+  {
+    "root": "believe",
+    "forms": {
+      "noun": [
+        {
+          "word": "belief",
+          "meaning": {
+            "vi": "niềm tin",
+            "en": "an acceptance that a statement is true or that something exists"
+          }
+        },
+        {
+          "word": "disbelief",
+          "meaning": {
+            "vi": "sự hoài nghi, không tin",
+            "en": "inability or refusal to accept that something is true"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "believe",
+          "meaning": { "vi": "tin tưởng", "en": "to accept something as true" }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "believable",
+          "meaning": {
+            "vi": "có thể tin được",
+            "en": "able to be believed; credible"
+          }
+        },
+        {
+          "word": "unbelievable",
+          "meaning": {
+            "vi": "khó tin",
+            "en": "difficult to believe; extraordinary"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Dùng để diễn đạt quan điểm, ý kiến cá nhân.",
+      "en": "Used to express personal opinions and views."
+    }
+  },
+  {
+    "root": "care",
+    "forms": {
+      "noun": [
+        {
+          "word": "care",
+          "meaning": {
+            "vi": "sự chăm sóc, sự cẩn thận",
+            "en": "the provision of what is necessary for the health, welfare, and protection of someone"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "care",
+          "meaning": {
+            "vi": "quan tâm, chăm sóc",
+            "en": "to feel concern or interest; to look after"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "careful",
+          "meaning": {
+            "vi": "cẩn thận",
+            "en": "making sure of avoiding potential danger, mishap, or harm"
+          }
+        },
+        {
+          "word": "careless",
+          "meaning": {
+            "vi": "bất cẩn",
+            "en": "not giving sufficient attention or thought"
+          }
+        }
+      ],
+      "adverb": [
+        {
+          "word": "carefully",
+          "meaning": {
+            "vi": "một cách cẩn thận",
+            "en": "in a way that is cautious"
+          }
+        },
+        {
+          "word": "carelessly",
+          "meaning": {
+            "vi": "một cách bất cẩn",
+            "en": "in a casual or reckless way"
+          }
+        }
+      ]
+    },
+    "notes": {
+      "vi": "Cả 'careful' và 'careless' đều là những tính từ mô tả rất hữu ích.",
+      "en": "Both 'careful' and 'careless' are very useful descriptive adjectives."
+    }
+  },
+  {
+    "root": "certain",
+    "forms": {
+      "noun": [
+        {
+          "word": "certainty",
+          "meaning": {
+            "vi": "sự chắc chắn",
+            "en": "firm conviction that something is the case"
+          }
+        },
+        {
+          "word": "uncertainty",
+          "meaning": {
+            "vi": "sự không chắc chắn",
+            "en": "the state of being uncertain"
+          }
+        }
+      ],
+      "verb": [],
+      "adjective": [
+        {
+          "word": "certain",
+          "meaning": {
+            "vi": "chắc chắn",
+            "en": "known for sure; established beyond doubt"
+          }
+        },
+        {
+          "word": "uncertain",
+          "meaning": {
+            "vi": "không chắc chắn",
+            "en": "not able to be relied on; not known or definite"
+          }
+        }
+      ],
+      "adverb": [
+        {
+          "word": "certainly",
+          "meaning": { "vi": "chắc chắn, tất nhiên", "en": "without doubt" }
+        }
+      ]
+    },
+    "notes": {
+      "vi": "'Certainly' là một trạng từ tốt để nhấn mạnh một điểm.",
+      "en": "'Certainly' is a good adverb for emphasizing a point."
+    }
+  },
+  {
+    "root": "decide",
+    "forms": {
+      "noun": [
+        {
+          "word": "decision",
+          "meaning": {
+            "vi": "quyết định",
+            "en": "a conclusion or resolution reached after consideration"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "decide",
+          "meaning": {
+            "vi": "quyết định",
+            "en": "to come to a resolution in the mind as a result of consideration"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "decisive",
+          "meaning": {
+            "vi": "quyết đoán; có tính quyết định",
+            "en": "able to make decisions quickly; settling an issue"
+          }
+        },
+        {
+          "word": "indecisive",
+          "meaning": {
+            "vi": "do dự, không quyết đoán",
+            "en": "not able to make decisions quickly"
+          }
+        }
+      ],
+      "adverb": [
+        {
+          "word": "decisively",
+          "meaning": {
+            "vi": "một cách dứt khoát",
+            "en": "in a way that settles an issue"
+          }
+        }
+      ]
+    },
+    "notes": {
+      "vi": "Chủ đề về việc ra quyết định rất phổ biến trong Speaking Part 3.",
+      "en": "The topic of decision-making is common in Speaking Part 3."
+    }
+  },
+  {
+    "root": "depend",
+    "forms": {
+      "noun": [
+        {
+          "word": "dependence",
+          "meaning": {
+            "vi": "sự phụ thuộc",
+            "en": "the state of relying on someone or something"
+          }
+        },
+        {
+          "word": "independence",
+          "meaning": {
+            "vi": "sự độc lập",
+            "en": "the fact or state of being independent"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "depend (on)",
+          "meaning": {
+            "vi": "phụ thuộc vào",
+            "en": "to be controlled or determined by"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "dependent",
+          "meaning": {
+            "vi": "phụ thuộc",
+            "en": "relying on someone or something for support"
+          }
+        },
+        {
+          "word": "independent",
+          "meaning": {
+            "vi": "độc lập",
+            "en": "free from the control or influence of others"
+          }
+        }
+      ],
+      "adverb": [
+        {
+          "word": "independently",
+          "meaning": {
+            "vi": "một cách độc lập",
+            "en": "in a way that is free from the control of others"
+          }
+        }
+      ]
+    },
+    "notes": {
+      "vi": "Cặp từ trái nghĩa 'dependent/independent' rất quan trọng.",
+      "en": "The antonym pair 'dependent/independent' is very important."
+    }
+  }
+]

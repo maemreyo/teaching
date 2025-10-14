@@ -1,0 +1,452 @@
+[
+  {
+    "root": "comment",
+    "forms": {
+      "noun": [
+        {
+          "word": "comment",
+          "meaning": {
+            "vi": "lời bình luận",
+            "en": "a verbal or written remark expressing an opinion"
+          }
+        },
+        {
+          "word": "commentary",
+          "meaning": {
+            "vi": "bài bình luận (chi tiết)",
+            "en": "a set of explanatory notes on a text"
+          }
+        },
+        {
+          "word": "commentator",
+          "meaning": {
+            "vi": "bình luận viên",
+            "en": "a person who comments on events"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "comment",
+          "meaning": {
+            "vi": "bình luận",
+            "en": "to express an opinion or reaction"
+          }
+        }
+      ],
+      "adjective": [],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Hữu ích khi bạn cần đưa ra hoặc trích dẫn ý kiến trong bài viết.",
+      "en": "Useful when you need to give or cite an opinion in your essay."
+    }
+  },
+  {
+    "root": "commit",
+    "forms": {
+      "noun": [
+        {
+          "word": "commitment",
+          "meaning": {
+            "vi": "sự cam kết",
+            "en": "the state of being dedicated to a cause or activity"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "commit",
+          "meaning": {
+            "vi": "cam kết; phạm (tội)",
+            "en": "to pledge oneself to a course of action; to carry out a crime"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "committed",
+          "meaning": {
+            "vi": "tận tụy, hết lòng",
+            "en": "feeling dedication and loyalty to a cause"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Động từ 'commit' có hai nghĩa phổ biến, một tích cực và một tiêu cực.",
+      "en": "The verb 'commit' has two common meanings, one positive and one negative."
+    }
+  },
+  {
+    "root": "communicate",
+    "forms": {
+      "noun": [
+        {
+          "word": "communication",
+          "meaning": {
+            "vi": "sự giao tiếp",
+            "en": "the imparting or exchanging of information"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "communicate",
+          "meaning": {
+            "vi": "giao tiếp",
+            "en": "to share or exchange information or ideas"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "communicative",
+          "meaning": {
+            "vi": "có tính giao tiếp, cởi mở",
+            "en": "willing to talk to people and give information"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Chủ đề giao tiếp rất quan trọng trong nhiều phần của bài thi IELTS.",
+      "en": "The topic of communication is crucial in many parts of the IELTS exam."
+    }
+  },
+  {
+    "root": "community",
+    "forms": {
+      "noun": [
+        {
+          "word": "community",
+          "meaning": {
+            "vi": "cộng đồng",
+            "en": "a group of people living in the same place or having a particular characteristic in common"
+          }
+        }
+      ],
+      "verb": [],
+      "adjective": [
+        {
+          "word": "communal",
+          "meaning": {
+            "vi": "chung, công cộng",
+            "en": "shared by all members of a community"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Liên quan đến các chủ đề về xã hội, văn hóa và đời sống đô thị.",
+      "en": "Related to topics on society, culture, and urban life."
+    }
+  },
+  {
+    "root": "compensate",
+    "forms": {
+      "noun": [
+        {
+          "word": "compensation",
+          "meaning": {
+            "vi": "sự đền bù, sự bồi thường",
+            "en": "something, typically money, awarded to someone in recognition of loss or injury"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "compensate (for)",
+          "meaning": {
+            "vi": "đền bù, bồi thường",
+            "en": "to reduce or counteract the effect of something undesirable by exerting an opposite force"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "compensatory",
+          "meaning": {
+            "vi": "mang tính đền bù",
+            "en": "reducing or counteracting the effect of something"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Hữu ích trong các chủ đề về luật pháp, kinh tế và môi trường.",
+      "en": "Useful in topics about law, economics, and the environment."
+    }
+  },
+  {
+    "root": "complex",
+    "forms": {
+      "noun": [
+        {
+          "word": "complexity",
+          "meaning": {
+            "vi": "sự phức tạp",
+            "en": "the state or quality of being intricate or complicated"
+          }
+        }
+      ],
+      "verb": [],
+      "adjective": [
+        {
+          "word": "complex",
+          "meaning": {
+            "vi": "phức tạp",
+            "en": "consisting of many different and connected parts"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Một từ học thuật cao cấp hơn 'complicated' hoặc 'difficult'.",
+      "en": "A more advanced academic word for 'complicated' or 'difficult'."
+    }
+  },
+  {
+    "root": "component",
+    "forms": {
+      "noun": [
+        {
+          "word": "component",
+          "meaning": {
+            "vi": "thành phần",
+            "en": "a part or element of a larger whole"
+          }
+        }
+      ],
+      "verb": [],
+      "adjective": [],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Một cách nói khác của 'part', thường dùng trong ngữ cảnh kỹ thuật hoặc hệ thống.",
+      "en": "Another word for 'part', often used in technical or systematic contexts."
+    }
+  },
+  {
+    "root": "compound",
+    "forms": {
+      "noun": [
+        {
+          "word": "compound",
+          "meaning": {
+            "vi": "hợp chất; khu nhà có rào vây",
+            "en": "a thing that is composed of two or more separate elements; a mixture"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "compound",
+          "meaning": {
+            "vi": "làm cho tệ hơn, làm trầm trọng thêm",
+            "en": "to make something bad worse"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "compound",
+          "meaning": {
+            "vi": "kép, phức",
+            "en": "made up of several parts or elements"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Một từ đa năng có thể là danh từ, động từ và tính từ với các nghĩa khác nhau.",
+      "en": "A versatile word that can be a noun, verb, and adjective with different meanings."
+    }
+  },
+  {
+    "root": "comprehensive",
+    "forms": {
+      "noun": [
+        {
+          "word": "comprehension",
+          "meaning": {
+            "vi": "sự thấu hiểu, khả năng lĩnh hội",
+            "en": "the ability to understand something"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "comprehend",
+          "meaning": {
+            "vi": "hiểu, lĩnh hội",
+            "en": "to grasp mentally; to understand"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "comprehensive",
+          "meaning": {
+            "vi": "toàn diện",
+            "en": "complete; including all or nearly all elements of something"
+          }
+        },
+        {
+          "word": "comprehensible",
+          "meaning": { "vi": "có thể hiểu được", "en": "able to be understood" }
+        }
+      ],
+      "adverb": [
+        {
+          "word": "comprehensively",
+          "meaning": {
+            "vi": "một cách toàn diện",
+            "en": "in a way that includes everything"
+          }
+        }
+      ]
+    },
+    "notes": {
+      "vi": "Đừng nhầm lẫn 'comprehensive' (toàn diện) và 'comprehensible' (có thể hiểu).",
+      "en": "Do not confuse 'comprehensive' (complete) and 'comprehensible' (understandable)."
+    }
+  },
+  {
+    "root": "comprise",
+    "forms": {
+      "noun": [],
+      "verb": [
+        {
+          "word": "comprise",
+          "meaning": {
+            "vi": "bao gồm, gồm có",
+            "en": "to consist of; to be made up of"
+          }
+        }
+      ],
+      "adjective": [],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Một cách nói trang trọng hơn của 'consist of' hoặc 'be made up of'.",
+      "en": "A more formal way to say 'consist of' or 'be made up of'."
+    }
+  },
+  {
+    "root": "compute",
+    "forms": {
+      "noun": [
+        {
+          "word": "computation",
+          "meaning": {
+            "vi": "sự tính toán",
+            "en": "the action of mathematical calculation"
+          }
+        },
+        {
+          "word": "computer",
+          "meaning": {
+            "vi": "máy tính",
+            "en": "an electronic device for storing and processing data"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "compute",
+          "meaning": {
+            "vi": "tính toán",
+            "en": "to calculate a figure or amount"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "computational",
+          "meaning": {
+            "vi": "thuộc về tính toán",
+            "en": "relating to or using computers"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Liên quan đến chủ đề công nghệ, khoa học và toán học.",
+      "en": "Related to topics of technology, science, and mathematics."
+    }
+  },
+  {
+    "root": "concentrate",
+    "forms": {
+      "noun": [
+        {
+          "word": "concentration",
+          "meaning": {
+            "vi": "sự tập trung; nồng độ",
+            "en": "the action of focusing one's attention; the amount of a substance in a defined space"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "concentrate (on)",
+          "meaning": {
+            "vi": "tập trung vào",
+            "en": "to focus all one's attention on a particular object or activity"
+          }
+        }
+      ],
+      "adjective": [],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Danh từ 'concentration' có hai nghĩa phổ biến.",
+      "en": "The noun 'concentration' has two common meanings."
+    }
+  },
+  {
+    "root": "conclude",
+    "forms": {
+      "noun": [
+        {
+          "word": "conclusion",
+          "meaning": {
+            "vi": "kết luận",
+            "en": "the end or finish of an event or process; a judgment reached by reasoning"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "conclude",
+          "meaning": {
+            "vi": "kết luận",
+            "en": "to bring something to an end; to arrive at a judgment by reasoning"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "conclusive",
+          "meaning": {
+            "vi": "có tính quyết định, xác đáng",
+            "en": "proving that something is true, or ending any doubt"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "'In conclusion' là một cụm từ phổ biến để bắt đầu phần kết bài trong IELTS Writing.",
+      "en": "'In conclusion' is a common phrase to start the concluding paragraph in IELTS Writing."
+    }
+  }
+]

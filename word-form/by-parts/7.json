@@ -1,0 +1,498 @@
+[
+  {
+    "root": "concurrent",
+    "forms": {
+      "noun": [],
+      "verb": [],
+      "adjective": [
+        {
+          "word": "concurrent",
+          "meaning": {
+            "vi": "đồng thời, xảy ra cùng lúc",
+            "en": "existing, happening, or done at the same time"
+          }
+        }
+      ],
+      "adverb": [
+        {
+          "word": "concurrently",
+          "meaning": { "vi": "một cách đồng thời", "en": "at the same time" }
+        }
+      ]
+    },
+    "notes": {
+      "vi": "Một từ học thuật cao cấp để thay thế 'at the same time'.",
+      "en": "A high-level academic word to replace 'at the same time'."
+    }
+  },
+  {
+    "root": "conduct",
+    "forms": {
+      "noun": [
+        {
+          "word": "conduct",
+          "meaning": {
+            "vi": "hạnh kiểm, cách cư xử; sự chỉ đạo",
+            "en": "a person's behavior; the management of an activity"
+          }
+        },
+        {
+          "word": "conductor",
+          "meaning": {
+            "vi": "nhạc trưởng; chất dẫn (điện, nhiệt)",
+            "en": "a person who directs an orchestra; a material that conducts heat or electricity"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "conduct",
+          "meaning": {
+            "vi": "tiến hành; chỉ huy; dẫn (điện, nhiệt)",
+            "en": "to organize and carry out; to direct; to transmit heat or electricity"
+          }
+        }
+      ],
+      "adjective": [],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Lưu ý phát âm và nghĩa khác nhau giữa danh từ và động từ. Ví dụ: conduct a survey (tiến hành khảo sát).",
+      "en": "Note the different pronunciation and meaning between the noun and the verb. E.g., conduct a survey."
+    }
+  },
+  {
+    "root": "confer",
+    "forms": {
+      "noun": [
+        {
+          "word": "conference",
+          "meaning": {
+            "vi": "hội nghị",
+            "en": "a formal meeting for discussion"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "confer",
+          "meaning": {
+            "vi": "bàn bạc, hội ý; ban, trao tặng",
+            "en": "to have discussions; to grant a title or degree"
+          }
+        }
+      ],
+      "adjective": [],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Thường dùng trong môi trường học thuật hoặc kinh doanh.",
+      "en": "Often used in academic or business environments."
+    }
+  },
+  {
+    "root": "confine",
+    "forms": {
+      "noun": [
+        {
+          "word": "confinement",
+          "meaning": {
+            "vi": "sự giam cầm, sự giới hạn",
+            "en": "the state of being confined"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "confine",
+          "meaning": {
+            "vi": "giam giữ, giới hạn",
+            "en": "to keep or restrict someone or something within certain limits"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "confined",
+          "meaning": {
+            "vi": "bị hạn chế, chật hẹp",
+            "en": "restricted in area or volume; cramped"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Có thể dùng cho cả không gian (confined space) và các khái niệm trừu tượng (confined to a specific topic).",
+      "en": "Can be used for both physical spaces (a confined space) and abstract concepts (confined to a specific topic)."
+    }
+  },
+  {
+    "root": "confirm",
+    "forms": {
+      "noun": [
+        {
+          "word": "confirmation",
+          "meaning": {
+            "vi": "sự xác nhận",
+            "en": "the action of confirming something"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "confirm",
+          "meaning": {
+            "vi": "xác nhận",
+            "en": "to establish the truth or correctness of something"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "confirmed",
+          "meaning": {
+            "vi": "đã được xác nhận",
+            "en": "firmly established and unlikely to change"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Một động từ cơ bản nhưng rất quan trọng.",
+      "en": "A basic but very important verb."
+    }
+  },
+  {
+    "root": "conflict",
+    "forms": {
+      "noun": [
+        {
+          "word": "conflict",
+          "meaning": {
+            "vi": "sự xung đột, mâu thuẫn",
+            "en": "a serious disagreement or argument"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "conflict",
+          "meaning": {
+            "vi": "xung đột, mâu thuẫn",
+            "en": "to be incompatible or at variance"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "conflicting",
+          "meaning": {
+            "vi": "mâu thuẫn, đối nghịch",
+            "en": "incompatible or contradictory"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Lưu ý cách phát âm khác nhau giữa danh từ và động từ.",
+      "en": "Note the different pronunciation between the noun and the verb."
+    }
+  },
+  {
+    "root": "conform",
+    "forms": {
+      "noun": [
+        {
+          "word": "conformity",
+          "meaning": {
+            "vi": "sự tuân thủ, sự phù hợp",
+            "en": "compliance with standards, rules, or laws"
+          }
+        },
+        {
+          "word": "nonconformist",
+          "meaning": {
+            "vi": "người không theo khuôn phép",
+            "en": "a person who does not conform to prevailing ideas"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "conform (to)",
+          "meaning": {
+            "vi": "tuân theo, làm theo",
+            "en": "to comply with rules, standards, or laws"
+          }
+        }
+      ],
+      "adjective": [],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Liên quan đến các chủ đề về quy tắc xã hội, áp lực từ bạn bè và cá tính.",
+      "en": "Related to topics on social rules, peer pressure, and individuality."
+    }
+  },
+  {
+    "root": "consent",
+    "forms": {
+      "noun": [
+        {
+          "word": "consent",
+          "meaning": {
+            "vi": "sự đồng ý, sự cho phép",
+            "en": "permission for something to happen or agreement to do something"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "consent",
+          "meaning": {
+            "vi": "đồng ý, cho phép",
+            "en": "to give permission for something to happen"
+          }
+        }
+      ],
+      "adjective": [],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Một cách nói trang trọng hơn của 'agreement' hoặc 'permission'.",
+      "en": "A more formal way to say 'agreement' or 'permission'."
+    }
+  },
+  {
+    "root": "consequent",
+    "forms": {
+      "noun": [
+        {
+          "word": "consequence",
+          "meaning": {
+            "vi": "hậu quả, kết quả",
+            "en": "a result or effect of an action or condition"
+          }
+        }
+      ],
+      "verb": [],
+      "adjective": [
+        {
+          "word": "consequent",
+          "meaning": {
+            "vi": "là hậu quả của, là kết quả của",
+            "en": "following as a result or effect"
+          }
+        }
+      ],
+      "adverb": [
+        {
+          "word": "consequently",
+          "meaning": { "vi": "do đó, vì vậy", "en": "as a result" }
+        }
+      ]
+    },
+    "notes": {
+      "vi": "'Consequently' là một từ nối rất hữu ích để chỉ kết quả.",
+      "en": "'Consequently' is a very useful linking word to show result."
+    }
+  },
+  {
+    "root": "considerable",
+    "forms": {
+      "noun": [],
+      "verb": [
+        {
+          "word": "consider",
+          "meaning": {
+            "vi": "cân nhắc, xem xét",
+            "en": "to think carefully about something"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "considerable",
+          "meaning": {
+            "vi": "đáng kể, lớn lao",
+            "en": "notably large in size, amount, or extent"
+          }
+        },
+        {
+          "word": "considerate",
+          "meaning": {
+            "vi": "chu đáo, ân cần",
+            "en": "careful not to inconvenience or harm others"
+          }
+        }
+      ],
+      "adverb": [
+        {
+          "word": "considerably",
+          "meaning": {
+            "vi": "một cách đáng kể",
+            "en": "by a notably large amount or to a notably large extent"
+          }
+        }
+      ]
+    },
+    "notes": {
+      "vi": "Đừng nhầm lẫn 'considerable' (lớn) và 'considerate' (chu đáo).",
+      "en": "Do not confuse 'considerable' (large) and 'considerate' (thoughtful)."
+    }
+  },
+  {
+    "root": "construct",
+    "forms": {
+      "noun": [
+        {
+          "word": "construction",
+          "meaning": {
+            "vi": "sự xây dựng",
+            "en": "the building of something, typically a large structure"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "construct",
+          "meaning": { "vi": "xây dựng", "en": "to build or erect something" }
+        },
+        {
+          "word": "reconstruct",
+          "meaning": {
+            "vi": "tái thiết, xây dựng lại",
+            "en": "to build something again after it has been damaged"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "constructive",
+          "meaning": {
+            "vi": "có tính xây dựng",
+            "en": "serving a useful purpose; tending to build up"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Ví dụ: constructive criticism (phê bình mang tính xây dựng).",
+      "en": "E.g., constructive criticism."
+    }
+  },
+  {
+    "root": "constant",
+    "forms": {
+      "noun": [
+        {
+          "word": "constancy",
+          "meaning": {
+            "vi": "sự kiên định, sự không đổi",
+            "en": "the quality of being enduring and unchanging"
+          }
+        }
+      ],
+      "verb": [],
+      "adjective": [
+        {
+          "word": "constant",
+          "meaning": {
+            "vi": "liên tục, không đổi",
+            "en": "occurring continuously over a period of time"
+          }
+        }
+      ],
+      "adverb": [
+        {
+          "word": "constantly",
+          "meaning": {
+            "vi": "một cách liên tục",
+            "en": "continuously over a period of time"
+          }
+        }
+      ]
+    },
+    "notes": {
+      "vi": "Hữu ích để mô tả một trạng thái hoặc hành động kéo dài.",
+      "en": "Useful for describing a continuous state or action."
+    }
+  },
+  {
+    "root": "constitute",
+    "forms": {
+      "noun": [
+        {
+          "word": "constitution",
+          "meaning": {
+            "vi": "hiến pháp; thể chất",
+            "en": "a body of fundamental principles for a state; a person's physical state"
+          }
+        },
+        {
+          "word": "constituent",
+          "meaning": {
+            "vi": "thành phần, cử tri",
+            "en": "a component part; a voter"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "constitute",
+          "meaning": {
+            "vi": "cấu thành, tạo thành",
+            "en": "to be a part of a whole"
+          }
+        }
+      ],
+      "adjective": [],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Một cách nói trang trọng của 'make up' hoặc 'form'.",
+      "en": "A formal way of saying 'make up' or 'form'."
+    }
+  },
+  {
+    "root": "constrain",
+    "forms": {
+      "noun": [
+        {
+          "word": "constraint",
+          "meaning": {
+            "vi": "sự ràng buộc, sự hạn chế",
+            "en": "a limitation or restriction"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "constrain",
+          "meaning": {
+            "vi": "bắt ép, hạn chế",
+            "en": "to severely restrict the scope, activity, or freedom of"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "constrained",
+          "meaning": {
+            "vi": "bị ép buộc, không tự nhiên",
+            "en": "appearing forced or overly controlled"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Liên quan đến các chủ đề về giới hạn, quy định và áp lực.",
+      "en": "Related to topics about limits, regulations, and pressure."
+    }
+  }
+]

@@ -1,0 +1,355 @@
+[
+  {
+    "root": "impress",
+    "forms": {
+      "noun": [
+        {
+          "word": "impression",
+          "meaning": {
+            "vi": "ấn tượng",
+            "en": "an idea, feeling, or opinion about something or someone"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "impress",
+          "meaning": {
+            "vi": "gây ấn tượng",
+            "en": "to make someone feel admiration and respect"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "impressive",
+          "meaning": {
+            "vi": "ấn tượng, đáng ngưỡng mộ",
+            "en": "evoking admiration through size, quality, or skill"
+          }
+        },
+        {
+          "word": "unimpressive",
+          "meaning": {
+            "vi": "không gây ấn tượng",
+            "en": "not evoking admiration"
+          }
+        }
+      ],
+      "adverb": [
+        {
+          "word": "impressively",
+          "meaning": {
+            "vi": "một cách ấn tượng",
+            "en": "in a way that evokes admiration"
+          }
+        }
+      ]
+    },
+    "notes": {
+      "vi": "Hữu ích khi miêu tả người, địa điểm hoặc thành tựu.",
+      "en": "Useful for describing people, places, or achievements."
+    }
+  },
+  {
+    "root": "improve",
+    "forms": {
+      "noun": [
+        {
+          "word": "improvement",
+          "meaning": {
+            "vi": "sự cải thiện",
+            "en": "a thing that makes something better or is better than something else"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "improve",
+          "meaning": { "vi": "cải thiện", "en": "to make or become better" }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "improved",
+          "meaning": { "vi": "đã được cải thiện", "en": "having become better" }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Một trong những động từ quan trọng nhất để nói về sự thay đổi và phát triển.",
+      "en": "One of the most important verbs for talking about change and development."
+    }
+  },
+  {
+    "root": "inform",
+    "forms": {
+      "noun": [
+        {
+          "word": "information",
+          "meaning": {
+            "vi": "thông tin",
+            "en": "facts provided or learned about something or someone"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "inform",
+          "meaning": {
+            "vi": "thông báo",
+            "en": "to give someone facts or information"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "informative",
+          "meaning": {
+            "vi": "cung cấp nhiều thông tin",
+            "en": "providing useful or interesting information"
+          }
+        },
+        {
+          "word": "uninformed",
+          "meaning": {
+            "vi": "không được thông báo, thiếu thông tin",
+            "en": "lacking awareness or knowledge"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Lưu ý: 'Information' là danh từ không đếm được.",
+      "en": "Note: 'Information' is an uncountable noun."
+    }
+  },
+  {
+    "root": "interest",
+    "forms": {
+      "noun": [
+        {
+          "word": "interest",
+          "meaning": {
+            "vi": "sự quan tâm, sở thích; lãi suất",
+            "en": "the feeling of wanting to know more; a subject one enjoys; money paid for the use of money lent"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "interest",
+          "meaning": {
+            "vi": "làm cho quan tâm, thu hút",
+            "en": "to arouse curiosity or attention in"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "interesting",
+          "meaning": {
+            "vi": "thú vị (dùng cho vật)",
+            "en": "arousing curiosity or interest"
+          }
+        },
+        {
+          "word": "interested",
+          "meaning": {
+            "vi": "quan tâm, hứng thú (dùng cho người)",
+            "en": "showing curiosity or concern about something"
+          }
+        },
+        {
+          "word": "uninteresting",
+          "meaning": { "vi": "không thú vị", "en": "not arousing interest" }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Phân biệt rõ cách dùng của 'interesting' và 'interested'.",
+      "en": "Clearly distinguish the usage of 'interesting' and 'interested'."
+    }
+  },
+  {
+    "root": "invent",
+    "forms": {
+      "noun": [
+        {
+          "word": "invention",
+          "meaning": {
+            "vi": "phát minh",
+            "en": "something that has been invented"
+          }
+        },
+        {
+          "word": "inventor",
+          "meaning": {
+            "vi": "nhà phát minh",
+            "en": "a person who invented a particular process or device"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "invent",
+          "meaning": {
+            "vi": "phát minh",
+            "en": "to create or design something that has not existed before"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "inventive",
+          "meaning": {
+            "vi": "có tài phát minh, sáng tạo",
+            "en": "having the ability to create or design new things"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Liên quan đến chủ đề công nghệ, khoa học và sáng tạo.",
+      "en": "Related to topics on technology, science, and creativity."
+    }
+  },
+  {
+    "root": "know",
+    "forms": {
+      "noun": [
+        {
+          "word": "knowledge",
+          "meaning": {
+            "vi": "kiến thức",
+            "en": "facts, information, and skills acquired through experience or education"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "know",
+          "meaning": { "vi": "biết", "en": "to have information in your mind" }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "known",
+          "meaning": {
+            "vi": "nổi tiếng, được biết đến",
+            "en": "recognized, familiar, or within the scope of knowledge"
+          }
+        },
+        {
+          "word": "unknown",
+          "meaning": {
+            "vi": "không xác định, chưa được biết",
+            "en": "not known or familiar"
+          }
+        },
+        {
+          "word": "knowledgeable",
+          "meaning": {
+            "vi": "am hiểu, có kiến thức",
+            "en": "intelligent and well informed"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "'Knowledge' là danh từ không đếm được.",
+      "en": "'Knowledge' is an uncountable noun."
+    }
+  },
+  {
+    "root": "lead",
+    "forms": {
+      "noun": [
+        {
+          "word": "leader",
+          "meaning": {
+            "vi": "người lãnh đạo",
+            "en": "the person who leads or commands a group"
+          }
+        },
+        {
+          "word": "leadership",
+          "meaning": {
+            "vi": "khả năng lãnh đạo",
+            "en": "the action of leading a group of people"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "lead",
+          "meaning": {
+            "vi": "dẫn dắt, dẫn đến",
+            "en": "to be in charge of; to be a route or means of access to a particular place or outcome"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "leading",
+          "meaning": {
+            "vi": "hàng đầu, chính",
+            "en": "most important; pre-eminent"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Động từ 'lead to' rất hữu ích để chỉ nguyên nhân-kết quả.",
+      "en": "The verb 'lead to' is very useful for indicating cause and effect."
+    }
+  },
+  {
+    "root": "live",
+    "forms": {
+      "noun": [
+        {
+          "word": "life",
+          "meaning": {
+            "vi": "cuộc sống",
+            "en": "the condition that distinguishes animals and plants from inorganic matter"
+          }
+        }
+      ],
+      "verb": [
+        { "word": "live", "meaning": { "vi": "sống", "en": "to remain alive" } }
+      ],
+      "adjective": [
+        {
+          "word": "live",
+          "meaning": {
+            "vi": "trực tiếp (phát sóng)",
+            "en": "broadcast at the time of occurrence"
+          }
+        },
+        {
+          "word": "alive",
+          "meaning": { "vi": "còn sống", "en": "living, not dead" }
+        },
+        {
+          "word": "lively",
+          "meaning": {
+            "vi": "sôi nổi, sống động",
+            "en": "full of life and energy"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Lưu ý phát âm và nghĩa khác nhau của 'live' (động từ) và 'live' (tính từ).",
+      "en": "Note the different pronunciation and meaning of 'live' (verb) and 'live' (adjective)."
+    }
+  }
+]

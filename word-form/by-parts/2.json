@@ -1,0 +1,730 @@
+[
+  {
+    "root": "assume",
+    "forms": {
+      "noun": [
+        {
+          "word": "assumption",
+          "meaning": {
+            "vi": "giả định, giả thiết",
+            "en": "a thing that is accepted as true without proof"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "assume",
+          "meaning": {
+            "vi": "cho rằng, giả sử",
+            "en": "to suppose to be the case, without proof"
+          }
+        }
+      ],
+      "adjective": [],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Thường dùng trong các bài đọc và viết học thuật khi thảo luận về các giả thuyết.",
+      "en": "Common in academic reading and writing when discussing hypotheses."
+    }
+  },
+  {
+    "root": "authority",
+    "forms": {
+      "noun": [
+        {
+          "word": "authority",
+          "meaning": {
+            "vi": "uy quyền, chính quyền, chuyên gia",
+            "en": "the power to give orders; an expert source"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "authorize",
+          "meaning": {
+            "vi": "ủy quyền, cho phép",
+            "en": "to give official permission for something"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "authoritative",
+          "meaning": {
+            "vi": "có thẩm quyền, đáng tin cậy",
+            "en": "able to be trusted as being accurate or true"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Liên quan đến các chủ đề về chính phủ, luật pháp và nghiên cứu.",
+      "en": "Related to topics on government, law, and research."
+    }
+  },
+  {
+    "root": "available",
+    "forms": {
+      "noun": [
+        {
+          "word": "availability",
+          "meaning": {
+            "vi": "sự có sẵn",
+            "en": "the quality of being able to be used or obtained"
+          }
+        }
+      ],
+      "verb": [],
+      "adjective": [
+        {
+          "word": "available",
+          "meaning": {
+            "vi": "có sẵn, rảnh",
+            "en": "able to be used or obtained; free to do something"
+          }
+        },
+        {
+          "word": "unavailable",
+          "meaning": {
+            "vi": "không có sẵn, bận",
+            "en": "not able to be used or obtained"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Một từ cơ bản nhưng cực kỳ quan trọng trong mọi kỹ năng.",
+      "en": "A basic but extremely important word in all skills."
+    }
+  },
+  {
+    "root": "concept",
+    "forms": {
+      "noun": [
+        {
+          "word": "concept",
+          "meaning": { "vi": "khái niệm", "en": "an abstract idea" }
+        },
+        {
+          "word": "conception",
+          "meaning": {
+            "vi": "quan niệm, ý niệm",
+            "en": "the forming of a plan or idea"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "conceptualize",
+          "meaning": {
+            "vi": "khái niệm hóa",
+            "en": "to form a concept or idea of something"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "conceptual",
+          "meaning": {
+            "vi": "thuộc về khái niệm",
+            "en": "relating to or based on concepts"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Cần thiết khi thảo luận về các ý tưởng trừu tượng trong Writing Task 2.",
+      "en": "Essential when discussing abstract ideas in Writing Task 2."
+    }
+  },
+  {
+    "root": "consist",
+    "forms": {
+      "noun": [
+        {
+          "word": "consistency",
+          "meaning": {
+            "vi": "sự nhất quán",
+            "en": "the quality of being consistent"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "consist (of)",
+          "meaning": { "vi": "bao gồm", "en": "to be composed or made up of" }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "consistent",
+          "meaning": {
+            "vi": "nhất quán, kiên định",
+            "en": "acting or done in the same way over time"
+          }
+        },
+        {
+          "word": "inconsistent",
+          "meaning": {
+            "vi": "không nhất quán, mâu thuẫn",
+            "en": "not staying the same throughout"
+          }
+        }
+      ],
+      "adverb": [
+        {
+          "word": "consistently",
+          "meaning": {
+            "vi": "một cách nhất quán",
+            "en": "in a way that does not vary"
+          }
+        }
+      ]
+    },
+    "notes": {
+      "vi": "'Consistency' là một yếu tố quan trọng để đạt điểm cao trong Writing và Speaking.",
+      "en": "'Consistency' is an important factor for a high score in Writing and Speaking."
+    }
+  },
+  {
+    "root": "context",
+    "forms": {
+      "noun": [
+        {
+          "word": "context",
+          "meaning": {
+            "vi": "bối cảnh, ngữ cảnh",
+            "en": "the circumstances that form the setting for an event"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "contextualize",
+          "meaning": {
+            "vi": "ngữ cảnh hóa",
+            "en": "to place something in a particular context"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "contextual",
+          "meaning": {
+            "vi": "thuộc bối cảnh",
+            "en": "depending on or relating to the context"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Hiểu 'context' là chìa khóa để hiểu đúng nghĩa của từ vựng và bài đọc.",
+      "en": "Understanding 'context' is key to correctly interpreting vocabulary and reading passages."
+    }
+  },
+  {
+    "root": "contract",
+    "forms": {
+      "noun": [
+        {
+          "word": "contract",
+          "meaning": { "vi": "hợp đồng", "en": "a written or spoken agreement" }
+        },
+        {
+          "word": "contractor",
+          "meaning": {
+            "vi": "nhà thầu",
+            "en": "a person or company that undertakes a contract"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "contract",
+          "meaning": {
+            "vi": "ký hợp đồng; co lại",
+            "en": "to enter into a formal agreement; to decrease in size"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "contractual",
+          "meaning": {
+            "vi": "thuộc hợp đồng",
+            "en": "relating to or enforced by a contract"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Lưu ý động từ 'contract' có hai nghĩa khác nhau.",
+      "en": "Note that the verb 'contract' has two different meanings."
+    }
+  },
+  {
+    "root": "data",
+    "forms": {
+      "noun": [
+        {
+          "word": "data",
+          "meaning": {
+            "vi": "dữ liệu",
+            "en": "facts and statistics collected for reference or analysis"
+          }
+        },
+        {
+          "word": "database",
+          "meaning": {
+            "vi": "cơ sở dữ liệu",
+            "en": "a structured set of data held in a computer"
+          }
+        }
+      ],
+      "verb": [],
+      "adjective": [],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Từ không thể thiếu trong Writing Task 1. 'Data' thường được coi là danh từ không đếm được.",
+      "en": "An indispensable word in Writing Task 1. 'Data' is often treated as an uncountable noun."
+    }
+  },
+  {
+    "root": "define",
+    "forms": {
+      "noun": [
+        {
+          "word": "definition",
+          "meaning": {
+            "vi": "định nghĩa",
+            "en": "a statement of the exact meaning of a word"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "define",
+          "meaning": {
+            "vi": "định nghĩa",
+            "en": "to state or describe the exact nature of something"
+          }
+        },
+        {
+          "word": "redefine",
+          "meaning": {
+            "vi": "định nghĩa lại",
+            "en": "to define again or differently"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "definable",
+          "meaning": { "vi": "có thể định nghĩa", "en": "able to be defined" }
+        },
+        {
+          "word": "definite",
+          "meaning": {
+            "vi": "rõ ràng, xác định",
+            "en": "clearly stated or decided"
+          }
+        }
+      ],
+      "adverb": [
+        {
+          "word": "definitely",
+          "meaning": { "vi": "chắc chắn, dứt khoát", "en": "without doubt" }
+        }
+      ]
+    },
+    "notes": {
+      "vi": "Hữu ích khi cần làm rõ một thuật ngữ hoặc khái niệm.",
+      "en": "Useful when needing to clarify a term or concept."
+    }
+  },
+  {
+    "root": "derive",
+    "forms": {
+      "noun": [
+        {
+          "word": "derivation",
+          "meaning": {
+            "vi": "sự bắt nguồn, nguồn gốc",
+            "en": "the obtaining of something from a source"
+          }
+        },
+        {
+          "word": "derivative",
+          "meaning": {
+            "vi": "phái sinh",
+            "en": "something that is based on another source"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "derive (from)",
+          "meaning": {
+            "vi": "bắt nguồn từ",
+            "en": "to obtain something from a specified source"
+          }
+        }
+      ],
+      "adjective": [],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Một động từ học thuật dùng để chỉ nguồn gốc của một ý tưởng hoặc sản phẩm.",
+      "en": "An academic verb used to indicate the origin of an idea or product."
+    }
+  },
+  {
+    "root": "distribute",
+    "forms": {
+      "noun": [
+        {
+          "word": "distribution",
+          "meaning": {
+            "vi": "sự phân phối",
+            "en": "the action of sharing something out among a number of recipients"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "distribute",
+          "meaning": {
+            "vi": "phân phát, phân phối",
+            "en": "to give shares of something; to deal out"
+          }
+        }
+      ],
+      "adjective": [],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Liên quan đến các chủ đề về kinh tế, xã hội và thống kê.",
+      "en": "Related to topics in economics, society, and statistics."
+    }
+  },
+  {
+    "root": "evidence",
+    "forms": {
+      "noun": [
+        {
+          "word": "evidence",
+          "meaning": {
+            "vi": "bằng chứng",
+            "en": "the available body of facts indicating whether a belief is true"
+          }
+        }
+      ],
+      "verb": [],
+      "adjective": [
+        {
+          "word": "evident",
+          "meaning": {
+            "vi": "hiển nhiên, rõ ràng",
+            "en": "plain or obvious; clearly seen or understood"
+          }
+        }
+      ],
+      "adverb": [
+        {
+          "word": "evidently",
+          "meaning": {
+            "vi": "một cách hiển nhiên",
+            "en": "in a way that is clearly seen or understood"
+          }
+        }
+      ]
+    },
+    "notes": {
+      "vi": "Cung cấp 'evidence' là yêu cầu cốt lõi trong Writing Task 2.",
+      "en": "Providing 'evidence' is a core requirement in Writing Task 2."
+    }
+  },
+  {
+    "root": "export",
+    "forms": {
+      "noun": [
+        {
+          "word": "export",
+          "meaning": {
+            "vi": "sự xuất khẩu, hàng xuất khẩu",
+            "en": "the action of exporting; an exported item"
+          }
+        },
+        {
+          "word": "exporter",
+          "meaning": {
+            "vi": "nhà xuất khẩu",
+            "en": "a person or country that exports goods"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "export",
+          "meaning": {
+            "vi": "xuất khẩu",
+            "en": "to send goods to another country for sale"
+          }
+        }
+      ],
+      "adjective": [],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Đối lập với 'import' (nhập khẩu). Cả hai đều phổ biến trong chủ đề kinh tế.",
+      "en": "The opposite of 'import'. Both are common in economics topics."
+    }
+  },
+  {
+    "root": "factor",
+    "forms": {
+      "noun": [
+        {
+          "word": "factor",
+          "meaning": {
+            "vi": "yếu tố, nhân tố",
+            "en": "a circumstance, fact, or influence that contributes to a result"
+          }
+        }
+      ],
+      "verb": [],
+      "adjective": [],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Một danh từ quan trọng để phân tích nguyên nhân và kết quả.",
+      "en": "An important noun for analyzing causes and effects."
+    }
+  },
+  {
+    "root": "function",
+    "forms": {
+      "noun": [
+        {
+          "word": "function",
+          "meaning": {
+            "vi": "chức năng",
+            "en": "an activity that is natural to or the purpose of a person or thing"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "function",
+          "meaning": {
+            "vi": "hoạt động, thực hiện chức năng",
+            "en": "to work or operate in a proper way"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "functional",
+          "meaning": {
+            "vi": "thuộc về chức năng, hữu dụng",
+            "en": "having a special purpose; designed to be practical"
+          }
+        }
+      ],
+      "adverb": [
+        {
+          "word": "functionally",
+          "meaning": {
+            "vi": "về mặt chức năng",
+            "en": "in a way that relates to function"
+          }
+        }
+      ]
+    },
+    "notes": {
+      "vi": "Dùng trong nhiều ngữ cảnh, từ sinh học, kỹ thuật đến xã hội.",
+      "en": "Used in many contexts, from biology and technology to society."
+    }
+  },
+  {
+    "root": "identify",
+    "forms": {
+      "noun": [
+        {
+          "word": "identity",
+          "meaning": {
+            "vi": "danh tính, bản sắc",
+            "en": "the fact of being who or what a person or thing is"
+          }
+        },
+        {
+          "word": "identification",
+          "meaning": {
+            "vi": "sự nhận dạng",
+            "en": "the action of identifying someone or something"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "identify",
+          "meaning": {
+            "vi": "nhận dạng, xác định",
+            "en": "to establish who or what someone or something is"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "identifiable",
+          "meaning": {
+            "vi": "có thể nhận dạng",
+            "en": "able to be recognized or identified"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Một kỹ năng quan trọng trong bài thi Reading là 'identify' thông tin chính.",
+      "en": "An important skill in the Reading test is to 'identify' key information."
+    }
+  },
+  {
+    "root": "income",
+    "forms": {
+      "noun": [
+        {
+          "word": "income",
+          "meaning": {
+            "vi": "thu nhập",
+            "en": "money received, especially on a regular basis, for work"
+          }
+        }
+      ],
+      "verb": [],
+      "adjective": [],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Thường được thảo luận cùng với 'expenditure' (chi tiêu).",
+      "en": "Often discussed alongside 'expenditure'."
+    }
+  },
+  {
+    "root": "individual",
+    "forms": {
+      "noun": [
+        {
+          "word": "individual",
+          "meaning": { "vi": "cá nhân", "en": "a single human being" }
+        },
+        {
+          "word": "individuality",
+          "meaning": {
+            "vi": "tính cách cá nhân, cá tính",
+            "en": "the quality that makes one person different from others"
+          }
+        }
+      ],
+      "verb": [],
+      "adjective": [
+        {
+          "word": "individual",
+          "meaning": { "vi": "cá nhân, riêng lẻ", "en": "single; separate" }
+        }
+      ],
+      "adverb": [
+        {
+          "word": "individually",
+          "meaning": { "vi": "một cách riêng lẻ", "en": "separately" }
+        }
+      ]
+    },
+    "notes": {
+      "vi": "Dùng để đối lập với 'society' (xã hội) hoặc 'group' (nhóm).",
+      "en": "Used to contrast with 'society' or 'group'."
+    }
+  },
+  {
+    "root": "interpret",
+    "forms": {
+      "noun": [
+        {
+          "word": "interpretation",
+          "meaning": {
+            "vi": "sự diễn giải",
+            "en": "the action of explaining the meaning of something"
+          }
+        },
+        {
+          "word": "interpreter",
+          "meaning": {
+            "vi": "thông dịch viên",
+            "en": "a person who interprets"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "interpret",
+          "meaning": {
+            "vi": "diễn giải, thông dịch",
+            "en": "to explain the meaning of information or actions"
+          }
+        }
+      ],
+      "adjective": [],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Quan trọng trong Writing Task 1 khi bạn phải 'interpret' dữ liệu từ biểu đồ.",
+      "en": "Important in Writing Task 1 as you must 'interpret' data from charts."
+    }
+  },
+  {
+    "root": "involve",
+    "forms": {
+      "noun": [
+        {
+          "word": "involvement",
+          "meaning": {
+            "vi": "sự tham gia, sự liên quan",
+            "en": "the fact or condition of being involved with something"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "involve",
+          "meaning": {
+            "vi": "bao gồm, liên quan đến",
+            "en": "to have or include something as a necessary part"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "involved",
+          "meaning": {
+            "vi": "phức tạp; có liên quan",
+            "en": "difficult to understand; connected with"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Một cách hay để thay thế cho 'include' hoặc 'contain'.",
+      "en": "A good alternative for 'include' or 'contain'."
+    }
+  }
+]

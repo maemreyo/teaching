@@ -1,0 +1,485 @@
+[
+  {
+    "root": "consume",
+    "forms": {
+      "noun": [
+        {
+          "word": "consumption",
+          "meaning": {
+            "vi": "sự tiêu thụ",
+            "en": "the action of using up a resource"
+          }
+        },
+        {
+          "word": "consumer",
+          "meaning": {
+            "vi": "người tiêu dùng",
+            "en": "a person who purchases goods and services"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "consume",
+          "meaning": {
+            "vi": "tiêu thụ, tiêu dùng",
+            "en": "to use up a resource"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "consumable",
+          "meaning": {
+            "vi": "có thể ăn được, có thể tiêu thụ",
+            "en": "intended to be used up and then replaced"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Một từ khóa trong các chủ đề về kinh tế, môi trường và xã hội.",
+      "en": "A keyword in topics about economics, environment, and society."
+    }
+  },
+  {
+    "root": "contact",
+    "forms": {
+      "noun": [
+        {
+          "word": "contact",
+          "meaning": {
+            "vi": "sự liên lạc, sự tiếp xúc",
+            "en": "the state of physical touching or communication"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "contact",
+          "meaning": {
+            "vi": "liên lạc, liên hệ",
+            "en": "to communicate with someone"
+          }
+        }
+      ],
+      "adjective": [],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Dùng trong cả bối cảnh trang trọng và không trang trọng.",
+      "en": "Used in both formal and informal contexts."
+    }
+  },
+  {
+    "root": "contemporary",
+    "forms": {
+      "noun": [
+        {
+          "word": "contemporary",
+          "meaning": {
+            "vi": "người cùng thời",
+            "en": "a person living or existing at the same time as another"
+          }
+        }
+      ],
+      "verb": [],
+      "adjective": [
+        {
+          "word": "contemporary",
+          "meaning": {
+            "vi": "đương đại, hiện đại",
+            "en": "living or occurring at the same time; belonging to the present"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Hữu ích khi so sánh quá khứ với hiện tại. Ví dụ: contemporary art (nghệ thuật đương đại).",
+      "en": "Useful when comparing the past with the present. E.g., contemporary art."
+    }
+  },
+  {
+    "root": "contradict",
+    "forms": {
+      "noun": [
+        {
+          "word": "contradiction",
+          "meaning": {
+            "vi": "sự mâu thuẫn",
+            "en": "a combination of statements or ideas that are opposed to one another"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "contradict",
+          "meaning": {
+            "vi": "mâu thuẫn với, cãi lại",
+            "en": "to deny the truth of a statement by asserting the opposite"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "contradictory",
+          "meaning": {
+            "vi": "mâu thuẫn, trái ngược",
+            "en": "mutually opposed or inconsistent"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Dùng để chỉ ra sự không nhất quán trong lập luận hoặc dữ liệu.",
+      "en": "Used to point out inconsistency in arguments or data."
+    }
+  },
+  {
+    "root": "contrary",
+    "forms": {
+      "noun": [
+        {
+          "word": "contrary",
+          "meaning": { "vi": "điều trái ngược", "en": "the opposite" }
+        }
+      ],
+      "verb": [],
+      "adjective": [
+        {
+          "word": "contrary",
+          "meaning": {
+            "vi": "trái ngược",
+            "en": "opposite in nature, direction, or meaning"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Cụm từ phổ biến: 'On the contrary' (trái lại).",
+      "en": "Common phrase: 'On the contrary'."
+    }
+  },
+  {
+    "root": "contribute",
+    "forms": {
+      "noun": [
+        {
+          "word": "contribution",
+          "meaning": {
+            "vi": "sự đóng góp",
+            "en": "a gift or payment to a common fund or collection"
+          }
+        },
+        {
+          "word": "contributor",
+          "meaning": {
+            "vi": "người đóng góp",
+            "en": "a person that contributes something"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "contribute (to)",
+          "meaning": {
+            "vi": "đóng góp, góp phần",
+            "en": "to give in order to help achieve or provide something"
+          }
+        }
+      ],
+      "adjective": [],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Một động từ tích cực để chỉ sự tham gia vào một mục tiêu chung.",
+      "en": "A positive verb to show participation in a common goal."
+    }
+  },
+  {
+    "root": "controversy",
+    "forms": {
+      "noun": [
+        {
+          "word": "controversy",
+          "meaning": {
+            "vi": "sự tranh cãi",
+            "en": "prolonged public disagreement or heated discussion"
+          }
+        }
+      ],
+      "verb": [],
+      "adjective": [
+        {
+          "word": "controversial",
+          "meaning": {
+            "vi": "gây tranh cãi",
+            "en": "giving rise or likely to give rise to controversy"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Nhiều chủ đề trong Writing Task 2 là các vấn đề 'controversial'.",
+      "en": "Many topics in Writing Task 2 are 'controversial' issues."
+    }
+  },
+  {
+    "root": "convene",
+    "forms": {
+      "noun": [
+        {
+          "word": "convention",
+          "meaning": {
+            "vi": "hội nghị; tục lệ, quy ước",
+            "en": "a large meeting; a way in which something is usually done"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "convene",
+          "meaning": {
+            "vi": "triệu tập (họp)",
+            "en": "to come or bring together for a meeting"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "conventional",
+          "meaning": {
+            "vi": "thông thường, theo quy ước",
+            "en": "based on or conforming to what is generally done"
+          }
+        },
+        {
+          "word": "unconventional",
+          "meaning": {
+            "vi": "khác thường, không theo quy ước",
+            "en": "not based on what is generally done"
+          }
+        }
+      ],
+      "adverb": [
+        {
+          "word": "conventionally",
+          "meaning": {
+            "vi": "một cách thông thường",
+            "en": "in a way that is based on convention"
+          }
+        }
+      ]
+    },
+    "notes": {
+      "vi": "Danh từ 'convention' có hai nghĩa khác biệt cần lưu ý.",
+      "en": "The noun 'convention' has two distinct meanings to be aware of."
+    }
+  },
+  {
+    "root": "convert",
+    "forms": {
+      "noun": [
+        {
+          "word": "conversion",
+          "meaning": {
+            "vi": "sự chuyển đổi",
+            "en": "the process of changing something from one form to another"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "convert",
+          "meaning": {
+            "vi": "chuyển đổi",
+            "en": "to change the form, character, or function of something"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "convertible",
+          "meaning": { "vi": "có thể chuyển đổi", "en": "able to be converted" }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Dùng cho nhiều loại chuyển đổi: năng lượng, tiền tệ, tôn giáo, v.v.",
+      "en": "Used for many types of change: energy, currency, religion, etc."
+    }
+  },
+  {
+    "root": "cooperate",
+    "forms": {
+      "noun": [
+        {
+          "word": "cooperation",
+          "meaning": {
+            "vi": "sự hợp tác",
+            "en": "the process of working together to the same end"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "cooperate",
+          "meaning": {
+            "vi": "hợp tác",
+            "en": "to work jointly toward the same end"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "cooperative",
+          "meaning": {
+            "vi": "có tính hợp tác",
+            "en": "involving mutual assistance"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Một kỹ năng quan trọng trong nhiều môi trường làm việc và học tập.",
+      "en": "An important skill in many work and academic environments."
+    }
+  },
+  {
+    "root": "coordinate",
+    "forms": {
+      "noun": [
+        {
+          "word": "coordination",
+          "meaning": {
+            "vi": "sự phối hợp",
+            "en": "the organization of different elements so that they work together"
+          }
+        },
+        {
+          "word": "coordinator",
+          "meaning": {
+            "vi": "điều phối viên",
+            "en": "a person who organizes activities"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "coordinate",
+          "meaning": {
+            "vi": "phối hợp",
+            "en": "to bring the different elements of a complex activity into a harmonious relationship"
+          }
+        }
+      ],
+      "adjective": [],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Mạnh hơn 'cooperate', mang ý nghĩa tổ chức và sắp xếp.",
+      "en": "Stronger than 'cooperate', implying organization and arrangement."
+    }
+  },
+  {
+    "root": "corporate",
+    "forms": {
+      "noun": [
+        {
+          "word": "corporation",
+          "meaning": {
+            "vi": "tập đoàn, công ty lớn",
+            "en": "a large company or group of companies"
+          }
+        }
+      ],
+      "verb": [],
+      "adjective": [
+        {
+          "word": "corporate",
+          "meaning": {
+            "vi": "thuộc về doanh nghiệp, tập đoàn",
+            "en": "relating to a corporation"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Liên quan đến thế giới kinh doanh và các công ty lớn.",
+      "en": "Related to the world of business and large companies."
+    }
+  },
+  {
+    "root": "correspond",
+    "forms": {
+      "noun": [
+        {
+          "word": "correspondence",
+          "meaning": {
+            "vi": "sự tương ứng; thư từ",
+            "en": "a close similarity; communication by exchanging letters"
+          }
+        },
+        {
+          "word": "correspondent",
+          "meaning": {
+            "vi": "phóng viên",
+            "en": "a person who reports news from a distant place"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "correspond (to/with)",
+          "meaning": {
+            "vi": "tương ứng với",
+            "en": "to have a close similarity; to match"
+          }
+        }
+      ],
+      "adjective": [],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Hữu ích khi so sánh hai bộ dữ liệu hoặc hai ý tưởng.",
+      "en": "Useful when comparing two sets of data or ideas."
+    }
+  },
+  {
+    "root": "crucial",
+    "forms": {
+      "noun": [],
+      "verb": [],
+      "adjective": [
+        {
+          "word": "crucial",
+          "meaning": {
+            "vi": "cực kỳ quan trọng, cốt yếu",
+            "en": "decisive or critical, especially in the success or failure of something"
+          }
+        }
+      ],
+      "adverb": [
+        {
+          "word": "crucially",
+          "meaning": {
+            "vi": "một cách cốt yếu",
+            "en": "in a way that is decisive or critical"
+          }
+        }
+      ]
+    },
+    "notes": {
+      "vi": "Một từ mạnh hơn 'important' hoặc 'necessary'.",
+      "en": "A stronger word for 'important' or 'necessary'."
+    }
+  }
+]

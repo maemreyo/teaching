@@ -1,0 +1,470 @@
+[
+  {
+    "root": "currency",
+    "forms": {
+      "noun": [
+        {
+          "word": "currency",
+          "meaning": {
+            "vi": "tiền tệ",
+            "en": "a system of money in general use in a particular country"
+          }
+        }
+      ],
+      "verb": [],
+      "adjective": [],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Chủ đề kinh tế, tài chính và du lịch thường đề cập đến tiền tệ.",
+      "en": "Topics of economics, finance, and tourism often mention currency."
+    }
+  },
+  {
+    "root": "cycle",
+    "forms": {
+      "noun": [
+        {
+          "word": "cycle",
+          "meaning": {
+            "vi": "chu kỳ, chu trình",
+            "en": "a series of events that are regularly repeated in the same order"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "cycle",
+          "meaning": {
+            "vi": "đạp xe; đi theo chu kỳ",
+            "en": "to ride a bicycle; to move in cycles"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "cyclical",
+          "meaning": {
+            "vi": "có tính tuần hoàn, theo chu kỳ",
+            "en": "occurring in cycles"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Quan trọng trong Writing Task 1 khi mô tả một quy trình lặp lại (ví dụ: vòng đời của một loài vật).",
+      "en": "Important in Writing Task 1 when describing a repeating process (e.g., a life cycle)."
+    }
+  },
+  {
+    "root": "debate",
+    "forms": {
+      "noun": [
+        {
+          "word": "debate",
+          "meaning": {
+            "vi": "cuộc tranh luận",
+            "en": "a formal discussion on a particular topic"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "debate",
+          "meaning": {
+            "vi": "tranh luận",
+            "en": "to argue about a subject in a formal manner"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "debatable",
+          "meaning": {
+            "vi": "còn phải bàn cãi",
+            "en": "open to discussion or argument"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Nhiều bài Writing Task 2 yêu cầu bạn 'debate' (tranh luận) về một vấn đề.",
+      "en": "Many Writing Task 2 prompts ask you to 'debate' an issue."
+    }
+  },
+  {
+    "root": "decade",
+    "forms": {
+      "noun": [
+        {
+          "word": "decade",
+          "meaning": { "vi": "thập kỷ (10 năm)", "en": "a period of ten years" }
+        }
+      ],
+      "verb": [],
+      "adjective": [],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Một đơn vị thời gian phổ biến khi mô tả biểu đồ trong Writing Task 1.",
+      "en": "A common time unit for describing charts in Writing Task 1."
+    }
+  },
+  {
+    "root": "decline",
+    "forms": {
+      "noun": [
+        {
+          "word": "decline",
+          "meaning": {
+            "vi": "sự suy giảm",
+            "en": "a gradual and continuous loss of strength, numbers, or value"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "decline",
+          "meaning": {
+            "vi": "suy giảm; từ chối",
+            "en": "to become smaller, fewer, or less; to politely refuse"
+          }
+        }
+      ],
+      "adjective": [],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Một từ vựng cốt lõi cho Writing Task 1 để mô tả xu hướng đi xuống.",
+      "en": "A core vocabulary item for Writing Task 1 to describe a downward trend."
+    }
+  },
+  {
+    "root": "deduce",
+    "forms": {
+      "noun": [
+        {
+          "word": "deduction",
+          "meaning": {
+            "vi": "sự suy luận",
+            "en": "the action of deducing something"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "deduce",
+          "meaning": {
+            "vi": "suy luận, suy ra",
+            "en": "to arrive at a fact or a conclusion by reasoning"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "deductive",
+          "meaning": {
+            "vi": "có tính suy diễn",
+            "en": "based on reasoning or logical deduction"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Một kỹ năng quan trọng trong Reading: suy luận ý của tác giả từ những gì được viết.",
+      "en": "An important skill in Reading: deducing the author's meaning from the text."
+    }
+  },
+  {
+    "root": "demonstrate",
+    "forms": {
+      "noun": [
+        {
+          "word": "demonstration",
+          "meaning": {
+            "vi": "sự chứng minh; cuộc biểu tình",
+            "en": "the action of showing that something is true; a public protest"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "demonstrate",
+          "meaning": {
+            "vi": "chứng minh, cho thấy",
+            "en": "to clearly show the existence or truth of something"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "demonstrative",
+          "meaning": {
+            "vi": "hay thổ lộ tình cảm; (ngữ pháp) chỉ định",
+            "en": "tending to show feelings openly; (grammar) pointing to a specific thing"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Một cách nói khác của 'show' nhưng học thuật hơn.",
+      "en": "Another, more academic way of saying 'show'."
+    }
+  },
+  {
+    "root": "deny",
+    "forms": {
+      "noun": [
+        {
+          "word": "denial",
+          "meaning": {
+            "vi": "sự phủ nhận",
+            "en": "a statement that something is not true"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "deny",
+          "meaning": {
+            "vi": "phủ nhận",
+            "en": "to state that one refuses to admit the truth of something"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "undeniable",
+          "meaning": {
+            "vi": "không thể chối cãi",
+            "en": "unable to be denied or disputed"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "'Undeniable' là một tính từ mạnh để nhấn mạnh một sự thật.",
+      "en": "'Undeniable' is a strong adjective to emphasize a fact."
+    }
+  },
+  {
+    "root": "depress",
+    "forms": {
+      "noun": [
+        {
+          "word": "depression",
+          "meaning": {
+            "vi": "sự suy thoái (kinh tế); bệnh trầm cảm",
+            "en": "a long and severe recession in an economy; a mental health disorder"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "depress",
+          "meaning": {
+            "vi": "làm chán nản, làm suy yếu",
+            "en": "to make someone feel sad; to reduce the level of activity"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "depressing",
+          "meaning": { "vi": "gây chán nản", "en": "making one feel sad" }
+        },
+        {
+          "word": "depressed",
+          "meaning": { "vi": "bị trầm cảm, chán nản", "en": "feeling sad" }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Một từ có ý nghĩa quan trọng trong cả lĩnh vực kinh tế và tâm lý học.",
+      "en": "A word with important meanings in both economics and psychology."
+    }
+  },
+  {
+    "root": "design",
+    "forms": {
+      "noun": [
+        {
+          "word": "design",
+          "meaning": {
+            "vi": "thiết kế",
+            "en": "a plan or drawing produced to show the look and function of something"
+          }
+        },
+        {
+          "word": "designer",
+          "meaning": {
+            "vi": "nhà thiết kế",
+            "en": "a person who designs things"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "design",
+          "meaning": {
+            "vi": "thiết kế",
+            "en": "to create the plan for something"
+          }
+        }
+      ],
+      "adjective": [],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Liên quan đến các chủ đề về nghệ thuật, kiến trúc, công nghệ và quy hoạch.",
+      "en": "Related to topics on art, architecture, technology, and planning."
+    }
+  },
+  {
+    "root": "despite",
+    "forms": {
+      "noun": [],
+      "verb": [],
+      "adjective": [],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "'Despite' là một giới từ chỉ sự tương phản, theo sau là danh từ hoặc V-ing. Ví dụ: Despite the rain, we went out.",
+      "en": "'Despite' is a preposition of contrast, followed by a noun or V-ing. E.g., Despite the rain, we went out."
+    }
+  },
+  {
+    "root": "detect",
+    "forms": {
+      "noun": [
+        {
+          "word": "detection",
+          "meaning": {
+            "vi": "sự phát hiện, sự dò tìm",
+            "en": "the action of identifying the presence of something"
+          }
+        },
+        {
+          "word": "detective",
+          "meaning": {
+            "vi": "thám tử",
+            "en": "a person, especially a police officer, who investigates crimes"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "detect",
+          "meaning": {
+            "vi": "phát hiện, dò ra",
+            "en": "to discover or identify the presence of something"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "detectable",
+          "meaning": { "vi": "có thể phát hiện", "en": "able to be detected" }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Thường dùng trong các ngữ cảnh khoa học, y tế hoặc tội phạm.",
+      "en": "Often used in scientific, medical, or criminal contexts."
+    }
+  },
+  {
+    "root": "deviate",
+    "forms": {
+      "noun": [
+        {
+          "word": "deviation",
+          "meaning": {
+            "vi": "sự sai lệch, sự chệch hướng",
+            "en": "the action of departing from an established course or standard"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "deviate (from)",
+          "meaning": {
+            "vi": "lệch khỏi, đi chệch",
+            "en": "to depart from an established course"
+          }
+        }
+      ],
+      "adjective": [],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Hữu ích khi mô tả một điểm dữ liệu khác biệt so với xu hướng chung.",
+      "en": "Useful for describing a data point that differs from the general trend."
+    }
+  },
+  {
+    "root": "differentiate",
+    "forms": {
+      "noun": [
+        {
+          "word": "differentiation",
+          "meaning": {
+            "vi": "sự phân biệt",
+            "en": "the action of differentiating between two or more things"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "differentiate",
+          "meaning": {
+            "vi": "phân biệt",
+            "en": "to recognize what makes someone or something different"
+          }
+        }
+      ],
+      "adjective": [],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Một cách nói học thuật hơn của 'tell the difference'.",
+      "en": "A more academic way to say 'tell the difference'."
+    }
+  },
+  {
+    "root": "dimension",
+    "forms": {
+      "noun": [
+        {
+          "word": "dimension",
+          "meaning": {
+            "vi": "chiều, kích thước; khía cạnh",
+            "en": "a measurable extent of a particular kind, such as length; an aspect"
+          }
+        }
+      ],
+      "verb": [],
+      "adjective": [
+        {
+          "word": "dimensional",
+          "meaning": {
+            "vi": "thuộc về kích thước, chiều",
+            "en": "relating to dimensions"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Ví dụ: a multi-dimensional problem (một vấn đề đa chiều).",
+      "en": "E.g., a multi-dimensional problem."
+    }
+  }
+]

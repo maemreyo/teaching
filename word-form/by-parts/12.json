@@ -1,0 +1,345 @@
+[
+  {
+    "root": "force",
+    "forms": {
+      "noun": [
+        {
+          "word": "force",
+          "meaning": {
+            "vi": "lực lượng, sức mạnh",
+            "en": "strength or energy as an attribute of physical action or movement"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "force",
+          "meaning": {
+            "vi": "bắt buộc, ép buộc",
+            "en": "to make someone do something against their will"
+          }
+        },
+        {
+          "word": "enforce",
+          "meaning": {
+            "vi": "thi hành, thực thi (luật)",
+            "en": "to compel observance of or compliance with (a law, rule, or obligation)"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "forceful",
+          "meaning": {
+            "vi": "mạnh mẽ, đầy sức thuyết phục",
+            "en": "strong and assertive"
+          }
+        }
+      ],
+      "adverb": [
+        {
+          "word": "forcefully",
+          "meaning": {
+            "vi": "một cách mạnh mẽ",
+            "en": "in a strong and assertive way"
+          }
+        }
+      ]
+    },
+    "notes": {
+      "vi": "'Enforce the law' (thực thi pháp luật) là một cụm từ rất phổ biến.",
+      "en": "'Enforce the law' is a very common collocation."
+    }
+  },
+  {
+    "root": "friend",
+    "forms": {
+      "noun": [
+        {
+          "word": "friend",
+          "meaning": {
+            "vi": "bạn bè",
+            "en": "a person whom one knows and with whom one has a bond of mutual affection"
+          }
+        },
+        {
+          "word": "friendship",
+          "meaning": {
+            "vi": "tình bạn",
+            "en": "the emotions or conduct of friends; the state of being friends"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "befriend",
+          "meaning": {
+            "vi": "kết bạn, đối xử tốt",
+            "en": "to act as a friend to (someone) by offering help or support"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "friendly",
+          "meaning": { "vi": "thân thiện", "en": "kind and pleasant" }
+        },
+        {
+          "word": "unfriendly",
+          "meaning": { "vi": "không thân thiện", "en": "not friendly" }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Chủ đề về 'friendship' thường xuất hiện trong Speaking.",
+      "en": "The topic of 'friendship' often appears in the Speaking test."
+    }
+  },
+  {
+    "root": "grow",
+    "forms": {
+      "noun": [
+        {
+          "word": "growth",
+          "meaning": {
+            "vi": "sự tăng trưởng, sự phát triển",
+            "en": "the process of increasing in amount, value, or importance"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "grow",
+          "meaning": {
+            "vi": "phát triển, mọc lên",
+            "en": "to undergo natural development by increasing in size and changing physically"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "growing",
+          "meaning": {
+            "vi": "đang phát triển",
+            "en": "increasing in size or quantity"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Từ vựng cốt lõi trong Writing Task 1 để mô tả xu hướng tăng. Ví dụ: economic growth (tăng trưởng kinh tế).",
+      "en": "Core vocabulary for Writing Task 1 to describe an upward trend. E.g., economic growth."
+    }
+  },
+  {
+    "root": "happy",
+    "forms": {
+      "noun": [
+        {
+          "word": "happiness",
+          "meaning": { "vi": "hạnh phúc", "en": "the state of being happy" }
+        }
+      ],
+      "verb": [],
+      "adjective": [
+        {
+          "word": "happy",
+          "meaning": {
+            "vi": "vui vẻ, hạnh phúc",
+            "en": "feeling or showing pleasure or contentment"
+          }
+        },
+        {
+          "word": "unhappy",
+          "meaning": { "vi": "buồn, không vui", "en": "not happy" }
+        }
+      ],
+      "adverb": [
+        {
+          "word": "happily",
+          "meaning": { "vi": "một cách vui vẻ", "en": "in a happy way" }
+        }
+      ]
+    },
+    "notes": {
+      "vi": "Chủ đề về 'happiness' là một chủ đề phổ biến trong Writing Task 2 và Speaking.",
+      "en": "The topic of 'happiness' is a common one in Writing Task 2 and Speaking."
+    }
+  },
+  {
+    "root": "health",
+    "forms": {
+      "noun": [
+        {
+          "word": "health",
+          "meaning": {
+            "vi": "sức khỏe",
+            "en": "the state of being free from illness or injury"
+          }
+        }
+      ],
+      "verb": [],
+      "adjective": [
+        {
+          "word": "healthy",
+          "meaning": {
+            "vi": "khỏe mạnh, lành mạnh",
+            "en": "in a good physical or mental condition"
+          }
+        },
+        {
+          "word": "unhealthy",
+          "meaning": {
+            "vi": "không khỏe mạnh, không lành mạnh",
+            "en": "harmful to health"
+          }
+        }
+      ],
+      "adverb": []
+    },
+    "notes": {
+      "vi": "Một chủ đề lớn trong IELTS, bao gồm cả sức khỏe thể chất và tinh thần.",
+      "en": "A major topic in IELTS, covering both physical and mental health."
+    }
+  },
+  {
+    "root": "high",
+    "forms": {
+      "noun": [
+        {
+          "word": "height",
+          "meaning": {
+            "vi": "chiều cao",
+            "en": "the measurement of someone or something from head to foot or from base to top"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "heighten",
+          "meaning": {
+            "vi": "làm tăng lên, nâng cao",
+            "en": "to make or become more intense"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "high",
+          "meaning": { "vi": "cao", "en": "of great vertical extent" }
+        }
+      ],
+      "adverb": [
+        {
+          "word": "highly",
+          "meaning": {
+            "vi": "rất, hết sức (chỉ mức độ)",
+            "en": "to a high degree"
+          }
+        }
+      ]
+    },
+    "notes": {
+      "vi": "Lưu ý 'highly' thường đi với tính từ (highly effective) chứ không phải để chỉ chiều cao vật lý.",
+      "en": "Note that 'highly' usually goes with adjectives (highly effective) and does not refer to physical height."
+    }
+  },
+  {
+    "root": "hope",
+    "forms": {
+      "noun": [
+        {
+          "word": "hope",
+          "meaning": {
+            "vi": "niềm hy vọng",
+            "en": "a feeling of expectation and desire for a certain thing to happen"
+          }
+        }
+      ],
+      "verb": [
+        {
+          "word": "hope",
+          "meaning": {
+            "vi": "hy vọng",
+            "en": "to want something to happen or be the case"
+          }
+        }
+      ],
+      "adjective": [
+        {
+          "word": "hopeful",
+          "meaning": {
+            "vi": "đầy hy vọng",
+            "en": "feeling or inspiring optimism about a future event"
+          }
+        },
+        {
+          "word": "hopeless",
+          "meaning": {
+            "vi": "vô vọng",
+            "en": "feeling or causing despair about something"
+          }
+        }
+      ],
+      "adverb": [
+        {
+          "word": "hopefully",
+          "meaning": {
+            "vi": "một cách đầy hy vọng",
+            "en": "in a hopeful manner"
+          }
+        }
+      ]
+    },
+    "notes": {
+      "vi": "'Hopefully' cũng thường được dùng ở đầu câu để diễn tả mong muốn.",
+      "en": "'Hopefully' is also often used at the start of a sentence to express a wish."
+    }
+  },
+  {
+    "root": "important",
+    "forms": {
+      "noun": [
+        {
+          "word": "importance",
+          "meaning": {
+            "vi": "tầm quan trọng",
+            "en": "the state or fact of being of great significance or value"
+          }
+        }
+      ],
+      "verb": [],
+      "adjective": [
+        {
+          "word": "important",
+          "meaning": {
+            "vi": "quan trọng",
+            "en": "of great significance or value"
+          }
+        },
+        {
+          "word": "unimportant",
+          "meaning": {
+            "vi": "không quan trọng",
+            "en": "lacking in significance or value"
+          }
+        }
+      ],
+      "adverb": [
+        {
+          "word": "importantly",
+          "meaning": {
+            "vi": "một cách quan trọng",
+            "en": "in an important way"
+          }
+        }
+      ]
+    },
+    "notes": {
+      "vi": "Để nâng band điểm, hãy dùng các từ đồng nghĩa như 'significant', 'crucial', 'vital'.",
+      "en": "To improve your band score, use synonyms like 'significant', 'crucial', 'vital'."
+    }
+  }
+]
