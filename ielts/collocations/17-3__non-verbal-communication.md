@@ -53,3 +53,159 @@
 | **Cross-cultural communication**     | Giao tiếp đa văn hóa                     | Communication between people from different cultures.    | Understanding non-verbal cues is vital for effective **cross-cultural communication**.            |
 | **To be considered rude / polite**   | Bị coi là thô lỗ / lịch sự               | To be thought of as impolite / polite.                   | In Japan, direct eye contact can sometimes **be considered rude**.                                |
 | **To have different meanings**       | Có những ý nghĩa khác nhau               | To mean different things.                                | The same hand gesture can **have completely different meanings** in different parts of the world. |
+
+==================
+
+Target a specific use case:
+
+    "Help intermediate English learners identify and define the fundamental forms of non-verbal communication, from broad concepts like body language to specific signals like eye contact."
+
+Focus on a specific source:
+
+    "Focus on this list of 8 collocations that introduce the basics of non-verbal communication. For each one, provide its short English meaning and a simple example sentence."
+
+        Non-verbal communication
+
+        Non-verbal cues / signals
+
+        Body language
+
+        Facial expressions
+
+        Eye contact
+
+        Gestures and posture
+
+        Tone of voice
+
+        Personal space
+
+Describe the show structure:
+
+    "Start by asking a thought-provoking question: 'Did you know that most of what we communicate doesn't come from words? Today, let's learn the secrets of the silent language.'"
+
+    "Next, introduce the collocations in two parts.
+
+        Part 1 is 'The Big Picture': Introduce the main concepts of Non-verbal communication, the Non-verbal cues it involves, and the broad category of Body language.
+
+        Part 2 is 'The Key Channels': Detail the specific ways we communicate silently, including Facial expressions, Eye contact, Gestures and posture, Tone of voice, and the concept of Personal space."
+
+    "Then, create a clear review table that summarizes all 8 collocations and their definitions."
+
+    "End with an observational call to action: 'In your culture, is making a lot of eye contact considered polite or rude? Share in the comments!'"
+
+==================
+
+Target a specific use case:
+
+    "Help intermediate English learners explain why non-verbal communication is so important by learning the vocabulary for its key functions, like conveying emotion and building rapport."
+
+Focus on a specific source:
+
+    "Focus on this list of 7 collocations that describe the importance of non-verbal communication. For each one, provide its short English meaning and a simple example sentence."
+
+        To convey emotions / feelings
+
+        To reveal one's true feelings
+
+        To build rapport with someone
+
+        An essential part of communication
+
+        To complement the verbal message
+
+        To regulate the flow of conversation
+
+        To send a powerful message
+
+Describe the show structure:
+
+    "Start by asking a question that builds on the last video: 'We know what non-verbal cues are, but why are they so important? Let's explore why our actions can be more powerful than our words.'"
+
+    "Next, introduce the collocations in two parts.
+
+        Part 1 is 'Expressing What's Inside': Focus on how non-verbal cues help us convey emotions, reveal our true feelings, and send a powerful message without speaking.
+
+        Part 2 is 'Enhancing the Conversation': Explain why these cues are an essential part of communication that helps complement the verbal message, regulate the flow of conversation, and build rapport with someone."
+
+    "Then, create a clear review table that summarizes all 7 collocations and their definitions."
+
+    "End with a reflective call to action: 'Think about a time you knew how someone was feeling without them saying a word. What non-verbal cue told you? Share your experience in the comments!'"
+
+==================
+
+Target a specific use case:
+
+    "Help intermediate English learners discuss the challenges and skills involved in interpreting non-verbal cues, including the common ways misunderstandings can happen."
+
+Focus on a specific source:
+
+    "Focus on this list of 7 collocations about interpreting and misinterpreting non-verbal signals. For each one, provide its short English meaning and a simple example sentence."
+
+        To read someone's body language
+
+        To interpret a signal
+
+        To send mixed signals / messages
+
+        To misinterpret a gesture
+
+        An unconscious signal
+
+        To be unaware of...
+
+        A subtle hint
+
+Describe the show structure:
+
+    "Start by asking an intriguing question: 'Is it possible to read someone's mind? Not really, but you can learn to read their body language. Let's explore the art of reading the signs.'"
+
+    "Next, introduce the collocations in two parts.
+
+        Part 1 is 'The Skill of Interpretation': Cover the active skills of understanding non-verbal cues, such as how to read someone's body language, to interpret a signal, and notice a subtle hint.
+
+        Part 2 is 'The Risk of Misunderstanding': Cover the common pitfalls, like when people send mixed signals, how we can misinterpret a gesture, and the role of an unconscious signal that people are often unaware of."
+
+    "Then, create a clear review table that summarizes all 7 collocations and their definitions."
+
+    "End with a relatable call to action: 'Have you ever misinterpreted someone's message because you couldn't see their face? Share your experience in the comments!'"
+
+==================
+
+Target a specific use case:
+
+    "Help intermediate English learners understand and navigate the critical role of culture in non-verbal communication, highlighting how gestures and norms can vary dramatically around the world."
+
+Focus on a specific source:
+
+    "Focus on this final list of 8 collocations about cultural differences in non-verbal communication. For each one, provide its short English meaning and a simple example sentence."
+
+        Cultural norms
+
+        To vary from culture to culture
+
+        A universal expression
+
+        A culture-specific gesture
+
+        To cause offense unintentionally
+
+        Cross-cultural communication
+
+        To be considered rude / polite
+
+        To have different meanings
+
+Describe the show structure:
+
+    "Start with a fascinating fact: 'Did you know that the 'thumbs up' gesture is positive in some cultures but deeply offensive in others? Today, we're exploring how culture shapes our silent language.'"
+
+    "Next, introduce the collocations in two parts.
+
+        Part 1 is 'The Rules of Culture': Explain the foundational ideas that Cultural norms for communication vary from culture to culture, and that the same signal can have different meanings.
+
+        Part 2 is 'Navigating a Global World': Discuss the importance of Cross-cultural communication, contrasting a universal expression with a culture-specific gesture, and explain how actions can be considered rude / polite and cause offense unintentionally if we are not careful."
+
+    "Then, create a final, comprehensive review table that summarizes all 8 collocations."
+
+    "End the series with a final, practical call to action: 'Thank you for completing our series on non-verbal communication! What is one cultural norm about body language from your country that foreigners might find surprising? Share it in the comments!'"

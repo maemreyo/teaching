@@ -54,3 +54,161 @@
 | **A sense of achievement**           | Cảm giác thành tựu, đạt được điều gì đó | A feeling of pride after accomplishing something.                        | Having your first successful conversation in a new language brings a great **sense of achievement**.     |
 | **Mother tongue interference**       | Sự can thiệp của tiếng mẹ đẻ (gây lỗi)  | When your first language causes errors in the language you are learning. | **Mother tongue interference** is when your native language's grammar affects your foreign language use. |
 | **To be a confident communicator**   | Là một người giao tiếp tự tin           | To be able to communicate with self-assurance.                           | The goal is not just to be fluent, but **to be a confident communicator**.                               |
+
+==================
+
+Target a specific use case:
+
+    "Help intermediate English learners understand the fundamental concepts of language acquisition, the different types of learners, and the mindset needed for a successful learning journey."
+
+Focus on a specific source:
+
+    "Focus on this list of 8 collocations about the language learner and the learning process. For each one, provide its short English meaning and a simple example sentence."
+
+        A native speaker
+
+        To be bilingual / multilingual
+
+        Second-language acquisition
+
+        To pick up a language
+
+        To be immersed in a language/culture
+
+        To have a natural aptitude for
+
+        To make steady progress
+
+        To set learning goals
+
+Describe the show structure:
+
+    "Start with an inspiring question: 'What does it truly take to learn a new language? Is it talent, or is it a journey we can all take? Let's explore the language learner's journey.'"
+
+    "Next, introduce the collocations in two parts.
+
+        Part 1 is 'The Learner's Profile': Cover who the learners are, from a native speaker to someone who is bilingual, and the role of having a natural aptitude for languages.
+
+        Part 2 is 'The Learning Process': Cover how we learn, from the science of second-language acquisition to how we pick up a language naturally when we are immersed in a culture, and the importance of set(ting) learning goals to make steady progress."
+
+    "Then, create a clear review table that summarizes all 8 collocations and their definitions."
+
+    "End with a motivational call to action: 'What is one learning goal you have for your English this month? Share it in the comments to make it real!'"
+
+==================
+
+Target a specific use case:
+
+    "Help intermediate English learners identify and understand various language learning methods, from formal teaching approaches to practical techniques for self-study."
+
+Focus on a specific source:
+
+    "Focus on this list of 7 collocations about language learning methods and techniques. For each one, provide its short English meaning and a simple example sentence."
+
+        Language immersion
+
+        A communicative approach
+
+        To build vocabulary
+
+        To improve grammar and syntax
+
+        To take a language course
+
+        Self-study methods
+
+        To practice pronunciation
+
+Describe the show structure:
+
+    "Start by asking a common question: 'What's the best way to learn a language? While there's no single answer, there are many powerful tools. Today, let's explore our learning toolkit.'"
+
+    "Next, introduce the collocations in two parts.
+
+        Part 1 is 'Learning Approaches': Cover the different ways to learn, from tak(ing) a language course and using self-study methods to the powerful technique of language immersion.
+
+        Part 2 is 'Core Skill Building': Cover the specific areas to practice, such as using a communicative approach, the need to build vocabulary, improve grammar, and practice pronunciation."
+
+    "Then, create a clear review table that summarizes all 7 collocations and their definitions."
+
+    "End with a practical call to action: 'What is your favorite self-study method for learning English? Share your best tip in the comments!'"
+
+==================
+
+Target a specific use case:
+
+    "Help intermediate English learners define their proficiency goals, understand the key language skills, and learn the vocabulary to describe different levels of mastery, from basic fluency to a native-like command."
+
+Focus on a specific source:
+
+    "Focus on this list of 8 collocations about language skills and proficiency. For each one, provide its short English meaning and a simple example sentence."
+
+        The four language skills
+
+        To have a good command of
+
+        To achieve a high level of proficiency
+
+        To be fluent in...
+
+        A native-like accent
+
+        To expand one's vocabulary
+
+        To make grammatical mistakes
+
+        To improve accuracy and fluency
+
+Describe the show structure:
+
+    "Start by asking about the ultimate goal: 'What does it mean to be "good" at a language? Is it about being perfect, or something else? Let's explore the journey from novice to native-like.'"
+
+    "Next, introduce the collocations in two parts.
+
+        Part 1 is 'The Core Skills': Cover the foundation of learning, including the four language skills, the importance of expand(ing) one's vocabulary, and accepting that it's okay to make grammatical mistakes.
+
+        Part 2 is 'The Levels of Mastery': Cover the goals learners strive for, such as improv(ing) accuracy and fluency to be fluent in the language, developing a native-like accent, hav(ing) a good command of it, and ultimately achiev(ing) a high level of proficiency."
+
+    "Then, create a clear review table that summarizes all 8 collocations and their definitions."
+
+    "End with an encouraging call to action: 'In your opinion, which is more important for a language learner: fluency or accuracy? Share your thoughts in the comments!'"
+
+==================
+
+Target a specific use case:
+
+    "Help intermediate English learners articulate both the profound benefits of learning a new language and the common challenges they might face on their journey, providing a balanced and motivational perspective."
+
+Focus on a specific source:
+
+    "Focus on this final list of 8 collocations about the benefits and challenges of language learning. For each one, provide its short English meaning and a simple example sentence."
+
+        Cognitive benefits
+
+        To enhance career opportunities
+
+        To broaden one's horizons
+
+        To overcome the language barrier
+
+        To face challenges
+
+        A sense of achievement
+
+        Mother tongue interference
+
+        To be a confident communicator
+
+Describe the show structure:
+
+    "Start by asking the ultimate question: 'Why do we put in all the effort to learn a new language? What are the rewards, and what roadblocks will we face? Let's explore the final stage of our journey.'"
+
+    "Next, present the collocations in two balanced parts.
+
+        Part 1 is 'The Rewards': Cover the amazing benefits of learning a language, such as the cognitive benefits, how it can enhance career opportunities, help you broaden your horizons, overcome the language barrier, and give you a great sense of achievement.
+
+        Part 2 is 'The Roadblocks': Acknowledge the difficulties, explaining that every learner will face challenges like mother tongue interference, but the ultimate goal is to be a confident communicator."
+
+    "Then, create a final, comprehensive review table summarizing all 8 collocations."
+
+    "End the series with a final, motivational call to action: 'Learning a language is a marathon, not a sprint. Thank you for learning with us! What has been your biggest sense of achievement in learning English so far? Share your success in the comments!'"

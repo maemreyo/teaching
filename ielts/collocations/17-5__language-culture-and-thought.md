@@ -43,3 +43,121 @@ Phần này khám phá vai trò của ngôn ngữ trong việc hình thành bả
 | **To document a language**               | Ghi chép, tư liệu hóa một ngôn ngữ      | To record a language in detail.                                           | Linguists work with native speakers **to document** endangered languages before they disappear.         |
 | **To pass a language down to...**        | Truyền lại một ngôn ngữ cho...          | To teach a language to the next generation.                               | The responsibility of elders is **to pass the language down to** the next generation.                   |
 | **A rich oral tradition**                | Một truyền thống truyền miệng phong phú | A strong tradition of stories and histories passed down by word of mouth. | Many endangered languages have a **rich oral tradition** of stories and poems.                          |
+
+==================
+
+Target a specific use case:
+
+    "Help intermediate English learners explore the fascinating and philosophical idea that the language we speak can fundamentally shape how we think and perceive the world."
+
+Focus on a specific source:
+
+    "Focus on this list of 7 collocations about the relationship between language and thought. For each one, provide its short English meaning and a simple example sentence."
+
+        To shape our thought processes
+
+        To influence how we see the world
+
+        To perceive reality differently
+
+        A unique worldview
+
+        To articulate complex ideas
+
+        The limits of my language
+
+        To express subtle nuances of meaning
+
+Describe the show structure:
+
+    "Start with a fascinating question: 'Do our words just describe the world, or do they create it for us? Let's explore the powerful idea that language shapes our thoughts.'"
+
+    "Next, introduce the collocations in two parts.
+
+        Part 1 is 'The Power of Influence': Explain the core theory of how language can shape our thought processes, influence how we see the world, and cause us to perceive reality differently.
+
+        Part 2 is 'The World Within Words': Explore the consequences, showing how each language offers a unique worldview and the tools to articulate complex ideas, but also has limits and challenges in express(ing) subtle nuances of meaning."
+
+    "Then, create a clear review table that summarizes all 7 collocations and their definitions."
+
+    "End with a deep, reflective call to action: 'Can you think of a word in your native language that is difficult to translate into English? Share it in the comments!'"
+
+==================
+
+Target a specific use case:
+
+    "Help intermediate English learners discuss the deep connection between language and our sense of identity, both as individuals and as part of a larger community and culture."
+
+Focus on a specific source:
+
+    "Focus on this list of 8 collocations about language, identity, and heritage. For each one, provide its short English meaning and a simple example sentence."
+
+        To be inextricably linked
+
+        A marker of identity
+
+        A sense of belonging
+
+        To express one's cultural identity
+
+        To transmit cultural values
+
+        To lose one's cultural heritage
+
+        A reflection of culture
+
+        To be integral to a culture
+
+Describe the show structure:
+
+    "Start with a personal question: 'What makes you, you? For many, the language we speak is a huge part of the answer. Let's explore the voice of identity.'"
+
+    "Next, introduce the collocations in two parts.
+
+        Part 1 is 'Language as Our Anchor': Explain how language serves as a marker of identity and fosters a sense of belonging, allowing us to express our cultural identity because language and identity are inextricably linked.
+
+        Part 2 is 'Language as Our Legacy': Discuss how language acts as a reflection of culture and is used to transmit cultural values. Explain why it is integral to a culture and why we risk los(ing) our cultural heritage if a language disappears.
+
+    "Then, create a clear review table that summarizes all 8 collocations and their definitions."
+
+    "End with a personal reflection: 'How important is your native language to your personal sense of identity? Share your feelings in the comments!'"
+
+==================
+
+Target a specific use case:
+
+    "Help intermediate English learners discuss the critical issue of language endangerment and the global efforts being made to preserve and revitalize these vital parts of our cultural heritage."
+
+Focus on a specific source:
+
+    "Focus on this final list of 8 collocations about language preservation. For each one, provide its short English meaning and a simple example sentence."
+
+        Linguistic diversity
+
+        An endangered / a dying language
+
+        To prevent a language from dying out
+
+        Language revitalization
+
+        To preserve a language
+
+        To document a language
+
+        To pass a language down to...
+
+        A rich oral tradition
+
+Describe the show structure:
+
+    "Start with a startling fact: 'Did you know that a language dies every two weeks? What do we lose when a voice goes silent? Today, we're talking about the fight to save our languages.'"
+
+    "Next, introduce the collocations in two parts.
+
+        Part 1 is 'The Disappearing Voices': Explain the importance of Linguistic diversity and the threat to an endangered language, which often holds a rich oral tradition.
+
+        Part 2 is 'The Fight for Preservation': Cover the active efforts to prevent a language from dying out, including how we document a language, preserve a language through language revitalization, and pass a language down to the next generation.
+
+    "Then, create a final, comprehensive review table summarizing all 8 collocations."
+
+    "End the series with a hopeful and powerful call to action: 'Every language is a unique worldview. Thank you for learning with us! What can we do in our daily lives to support linguistic diversity? Share your ideas in the comments!'"

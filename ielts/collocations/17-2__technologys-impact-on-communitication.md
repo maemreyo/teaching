@@ -43,3 +43,145 @@
 | **To prefer online interaction to...**          | Thích tương tác trực tuyến hơn...                  | To like communicating online more than in person.                 | A potential danger is when people start **to prefer online interaction to** face-to-face meetings.         |
 | **To erode traditional forms of communication** | Xói mòn các hình thức giao tiếp truyền thống       | To gradually destroy old ways of communicating.                   | The popularity of instant messaging is **eroding traditional forms of communication** like letter writing. |
 | **The nuances of communication**                | Các sắc thái tinh tế của giao tiếp                 | The small, subtle differences in meaning in communication.        | **The nuances of communication**, such as tone of voice and facial expressions, are lost in text.          |
+
+
+Target a specific use case:
+
+    "Help intermediate English learners describe the modern tools of digital communication and explain the positive impact they have on connecting people across distances and building communities."
+
+Focus on a specific source:
+
+    "Focus on this list of 11 collocations about the forms and benefits of digital communication. For each one, provide its short English meaning and a simple example sentence."
+
+        Digital communication
+
+        Social media platforms
+
+        Instant messaging apps
+
+        Video conferencing
+
+        To stay in touch with
+
+        To connect with people
+
+        To bridge geographical distances
+
+        Instantaneous communication
+
+        To foster global connections
+
+        To build online communities
+
+        To maintain long-distance relationships
+
+Describe the show structure:
+
+    "Start with a relatable observation: 'From video calls with family to instant messages with friends, technology has changed how we talk to each other. Let's explore the vocabulary of our connected world.'"
+
+    "Next, present the collocations in two parts.
+
+        Part 1 is 'The Tools of Connection': Introduce the main platforms and methods we use, including Digital communication in general, Social media platforms, Instant messaging apps, and Video conferencing.
+
+        Part 2 is 'The Power of Connection': Focus on the amazing benefits these tools bring, allowing Instantaneous communication that helps us stay in touch with people, bridge geographical distances, foster global connections, build online communities, and maintain long-distance relationships."
+
+    "Then, create a clear review table that summarizes all 11 collocations and their definitions."
+
+    "End with a simple, personal question: 'What is your favorite digital tool to stay in touch with friends and family? Share it in the comments!'"
+
+
+
+
+
+
+
+
+
+
+
+Target a specific use case:
+
+    "Help intermediate English learners discuss the negative impacts and potential dangers of digital communication, from social isolation and misinformation to cyberbullying."
+
+Focus on a specific source:
+
+    "Focus on this list of 9 collocations about the drawbacks of digital communication. For each one, provide its short English meaning and a simple example sentence."
+
+        A lack of face-to-face interaction
+
+        To lead to social isolation
+
+        The spread of misinformation
+
+        Cyberbullying
+
+        An invasion of privacy
+
+        To be addicted to social media
+
+        Information overload
+
+        A decline in the quality of communication
+
+        To misinterpret the tone of a message
+
+Describe the show structure:
+
+    "Start with a critical question to follow the last video: 'We know technology connects us, but what are the hidden costs? Let's explore the dark side of the screen.'"
+
+    "Next, introduce the collocations in two parts.
+
+        Part 1 is 'Impact on Our Well-being': Cover the effects on mental and social health, using A lack of face-to-face interaction, To lead to social isolation, To be addicted to social media, Information overload, and the serious issue of Cyberbullying.
+
+        Part 2 is 'Impact on Communication Quality': Cover how our interactions can suffer, using A decline in the quality of communication, how we can misinterpret the tone of a message, and the dangers of The spread of misinformation and An invasion of privacy."
+
+    "Then, create a clear review table that summarizes all 9 collocations and their definitions."
+
+    "End with a call to action that promotes healthy habits: 'What is one thing you do to avoid information overload from social media? Share your tip in the comments!'"
+
+
+
+
+
+
+
+
+
+
+
+
+Target a specific use case:
+
+    "Help intermediate English learners analyze and discuss the long-term effects of technology on our social skills, communication norms, and the very nature of human interaction."
+
+Focus on a specific source:
+
+    "Focus on this final list of 7 collocations about how technology is changing our social skills. For each one, provide its short English meaning and a simple example sentence."
+
+        A decline in interpersonal skills
+
+        To lose the ability to
+
+        To have a shorter attention span
+
+        A virtual social life
+
+        To prefer online interaction to...
+
+        To erode traditional forms of communication
+
+        The nuances of communication
+
+Describe the show structure:
+
+    "Start the final video with a forward-looking question: 'We've seen the good and the bad, but how is technology fundamentally changing us? Let's look at the new age of social skills.'"
+
+    "Next, present the collocations in two parts.
+
+        Part 1 is 'The Changing Skills': Cover the potential loss of traditional abilities, such as A decline in interpersonal skills, how we might lose the ability to read body language, have a shorter attention span, and miss the nuances of communication.
+
+        Part 2 is 'The New Social Reality': Cover the new norms being created, where people may have a virtual social life, prefer online interaction to meeting in person, and how technology can erode traditional forms of communication."
+
+    "Then, create a final, comprehensive review table summarizing all 7 collocations."
+
+    "End the series with a final, reflective call to action: 'Technology is a powerful tool. Thank you for completing this series! What do you think is the most important communication skill to teach the next generation? Share your final thoughts below.'"
