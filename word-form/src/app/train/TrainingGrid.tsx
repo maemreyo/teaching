@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useCallback } from 'react';
 import {
   Table,
   TableHeader,
@@ -16,7 +16,7 @@ import {
   TooltipTrigger,
 } from '@/components/ui/tooltip';
 import { Button } from '@/components/ui/button';
-import { Input } from '@/components/ui/input';
+import { MemoizedTrainingCell } from './MemoizedTrainingCell';
 
 interface WordForm {
   root: string;
@@ -33,7 +33,6 @@ interface TrainingItem {
       word: string;
       meaning: { vi: string; en: string };
       hidden: boolean;
-      userInput: string;
       isCorrect: boolean | null;
     }[];
   };
@@ -43,6 +42,8 @@ const FORM_TYPES = ['noun', 'verb', 'adjective', 'adverb'];
 
 export default function TrainingGrid({ allWords }: { allWords: WordForm[] }) {
   const [trainingData, setTrainingData] = useState<TrainingItem[]>([]);
+  const [userInputs, setUserInputs] = useState<{ [key: string]: string }>({});
+  const [hints, setHints] = useState<{ [key: string]: boolean }>({});
 
   useEffect(() => {
     const newTrainingData = allWords.map((word) => {
@@ -53,16 +54,11 @@ export default function TrainingGrid({ allWords }: { allWords: WordForm[] }) {
 
       FORM_TYPES.forEach((type) => {
         const formsOfType = word.forms[type] || [];
-        trainingItem.forms[type] = formsOfType.map((form) => {
-          // Randomly hide some forms
-          const hidden = Math.random() > 0.5;
-          return {
-            ...form,
-            hidden,
-            userInput: '',
-            isCorrect: null,
-          };
-        });
+        trainingItem.forms[type] = formsOfType.map((form) => ({
+          ...form,
+          hidden: Math.random() > 0.5,
+          isCorrect: null,
+        }));
       });
 
       return trainingItem;
@@ -70,23 +66,9 @@ export default function TrainingGrid({ allWords }: { allWords: WordForm[] }) {
     setTrainingData(newTrainingData);
   }, [allWords]);
 
-  const handleInputChange = (root: string, type: string, word: string, value: string) => {
-    setTrainingData((prevData) =>
-      prevData.map((item) => {
-        if (item.root === root) {
-          const newForms = { ...item.forms };
-          newForms[type] = newForms[type].map((form) => {
-            if (form.word === word) {
-              return { ...form, userInput: value };
-            }
-            return form;
-          });
-          return { ...item, forms: newForms };
-        }
-        return item;
-      })
-    );
-  };
+  const handleInputChange = useCallback((key: string, value: string) => {
+    setUserInputs((prev) => ({ ...prev, [key]: value }));
+  }, []);
 
   const handleCheckRow = (root: string) => {
     setTrainingData((prevData) =>
@@ -96,7 +78,9 @@ export default function TrainingGrid({ allWords }: { allWords: WordForm[] }) {
           FORM_TYPES.forEach((type) => {
             newForms[type] = newForms[type].map((form) => {
               if (form.hidden) {
-                const isCorrect = form.userInput.trim().toLowerCase() === form.word.toLowerCase();
+                const inputKey = `${root}-${type}-${form.word}`;
+                const userInput = userInputs[inputKey] || '';
+                const isCorrect = userInput.trim().toLowerCase() === form.word.toLowerCase();
                 return { ...form, isCorrect };
               }
               return form;
@@ -107,6 +91,10 @@ export default function TrainingGrid({ allWords }: { allWords: WordForm[] }) {
         return item;
       })
     );
+  };
+
+  const handleHint = (root: string) => {
+    setHints((prev) => ({ ...prev, [root]: true }));
   };
 
   return (
@@ -127,39 +115,24 @@ export default function TrainingGrid({ allWords }: { allWords: WordForm[] }) {
               <TableCell className="font-semibold">{item.root}</TableCell>
               {FORM_TYPES.map((type) => (
                 <TableCell key={type}>
-                  {item.forms[type]?.map((form) => (
-                    <div key={form.word} className="mb-2">
-                      <Tooltip>
-                        <TooltipTrigger>
-                          {form.hidden ? (
-                            <Input
-                              value={form.userInput}
-                              onChange={(e) =>
-                                handleInputChange(item.root, type, form.word, e.target.value)
-                              }
-                              className={
-                                form.isCorrect === true
-                                  ? 'border-green-500'
-                                  : form.isCorrect === false
-                                  ? 'border-red-500'
-                                  : ''
-                              }
-                            />
-                          ) : (
-                            <span>{form.word}</span>
-                          )}
-                        </TooltipTrigger>
-                        <TooltipContent>
-                          <p>{form.meaning.en}</p>
-                          <p>{form.meaning.vi}</p>
-                        </TooltipContent>
-                      </Tooltip>
-                    </div>
-                  ))}
+                  {item.forms[type]?.map((form) => {
+                    const inputKey = `${item.root}-${type}-${form.word}`;
+                    return (
+                      <MemoizedTrainingCell
+                        key={form.word}
+                        form={form}
+                        userInput={userInputs[inputKey] || ''}
+                        hint={hints[item.root] || false}
+                        onInputChange={handleInputChange}
+                        inputKey={inputKey}
+                      />
+                    );
+                  })}
                 </TableCell>
               ))}
-              <TableCell>
+              <TableCell className="space-x-2">
                 <Button onClick={() => handleCheckRow(item.root)}>Check</Button>
+                <Button variant="outline" onClick={() => handleHint(item.root)}>Hint</Button>
               </TableCell>
             </TableRow>
           ))}
