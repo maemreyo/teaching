@@ -80,7 +80,7 @@ Focus on a specific source:
 
 Describe the show structure:
 
-    "Start with a captivating question: 'We hear about AI everywhere, but how does it actually work? What is the 'brain' inside the machine? Let's uncover the core concepts of AI.'"
+    "Start with a captivating question: 'We hear about AI everywhere, but how does it actually work? Let's uncover the core concepts of AI.'"
 
     "Next, introduce the collocations in two parts.
 
@@ -90,7 +90,7 @@ Describe the show structure:
 
     "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
-    "End with a fun, modern call to action: 'What is your favorite real-world example of Artificial Intelligence? Share it in the comments!'"
+    "End with a fun, modern call to action: 'What is your favorite real-world example of Artificial Intelligence?'"
 
 ==================
 
@@ -106,17 +106,15 @@ Focus on a specific source:
 
 Describe the show structure:
 
-    "Start by connecting AI to our daily work: 'We know what AI is, but what does it actually do? How does it make our work and lives better? Let's explore the efficiency revolution.'"
+    "Start by connecting AI to our daily work: 'We know what AI is, but what does it actually do? Let's explore the efficiency revolution.'"
 
     "Next, present the collocations as a chain of cause and effect.
 
-        "Start by explaining that AI is a technological breakthrough. This breakthrough allows us to automate repetitive tasks, which helps to streamline operations and optimize processes.
-
-        "Then, show the results: we can analyze large datasets to gain actionable insights using predictive analytics. This enables data-driven decision-making, which ultimately helps to boost efficiency and productivity and enhance accuracy."
+        'Start by explaining that AI is a technological breakthrough. This allows us to automate repetitive tasks, which helps to streamline operations and optimize processes. We can analyze large datasets to gain actionable insights using predictive analytics. This enables data-driven decision-making, which ultimately helps to boost efficiency and productivity and enhance accuracy.'"
 
     "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
-    "End with a relatable call to action: 'Think about your daily work or studies. What is one repetitive task you would love to automate? Share it in the comments!'"
+    "End with a relatable call to action: 'What is one repetitive task you would love to automate?'"
 
 ==================
 
@@ -132,23 +130,23 @@ Focus on a specific source:
 
 Describe the show structure:
 
-    "Start with a direct and compelling question: 'Will robots take our jobs? It's one of the biggest questions of our time. Let's explore the future of work in the age of automation.'"
+    "Start with a compelling question: 'Will robots take our jobs? Let's explore the future of work in the age of automation.'"
 
     "Next, present a balanced view with two parts.
 
-        Part 1 is 'The Challenges We Face': Discuss concerns like job displacement due to the automation of both manual and cognitive labor, and fears of a shrinking job market.
+        Part 1 is 'The Challenges': Discuss concerns like job displacement due to the automation of both manual and cognitive labor, and fears of a shrinking job market.
 
         Part 2 is 'The Path Forward': Discuss the other side, where AI can augment human capabilities and create new job opportunities. This requires the workforce of the future to address the skills gap through reskilling and upskilling, all part of AI's profound impact on society."
 
     "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
-    "End with a forward-looking call to action: 'What is one new skill you think will be important for the workforce of the future? Share your idea in the comments!'"
+    "End with a forward-looking call to action: 'What is one new skill you think will be important for the workforce of the future?'"
 
 ==================
 
 Target a specific use case:
 
-    "Help intermediate English learners discuss the complex ethical questions, dilemmas, and potential risks associated with advanced Artificial Intelligence."
+    "Help intermediate English learners discuss the complex ethical questions and potential risks associated with advanced Artificial Intelligence."
 
 Focus on a specific source:
 
@@ -158,7 +156,7 @@ Focus on a specific source:
 
 Describe the show structure:
 
-    "Start with a serious question: 'With great power comes great responsibility. As AI becomes more powerful, what are the ethical lines we must not cross? Let's enter the ethical maze.'"
+    "Start with a serious question: 'With great power comes great responsibility. As AI becomes more powerful, what are the ethical lines we must not cross?'"
 
     "Next, explore these complex issues in three parts.
 
@@ -170,4 +168,4 @@ Describe the show structure:
 
     "Then, create a final, compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
-    "End the series with a final, important question: 'What do you think is the biggest ethical risk of AI that we need to solve first? Share your concerns in the comments.'"
+    "End the series with a final, important question: 'What do you think is the biggest ethical risk of AI that we need to solve first?'"
