@@ -19,3 +19,5 @@ Dưới đây là tổng hợp các bài viết chi tiết, được phân loạ
 *   **[5. Multiculturalism](./23-5__multiculturalism.md)**: Thảo luận về các lợi ích và thách thức của một xã hội đa văn hóa.
 
 *   **[6. The Changing Family and Community](./23-6__the-changing-family-and-community.md)**: Tập trung vào sự thay đổi trong cấu trúc gia đình và đời sống cộng đồng trong xã hội ngày nay.
+
+*   **[7. Advertising and Consumer Culture](./23-7__advertising-and-consumer-culture.md)**: Cung cấp từ vựng để thảo luận về các loại hình quảng cáo và tác động của chúng lên văn hóa tiêu dùng.
