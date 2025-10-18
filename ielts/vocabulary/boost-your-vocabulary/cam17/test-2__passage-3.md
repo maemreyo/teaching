@@ -103,3 +103,262 @@
 | **abandon**             | end, leaving, cancel                                                               | The time seems right for **abandoning** the naive notions of intelligent design...                     |
 | **naive**               | simple, childlike, innocent                                                        | ...abandoning the **naive** notions of intelligent design and genius...                                |
 | **notion**              | idea, view, concept                                                                | ...the naive **notions** of intelligent design and genius...                                           |
+
+### **Vocabulary Learning Plan: The Nature of Discovery (7 Videos)**
+
+Đây là kế hoạch chi tiết để học toàn bộ 106 từ vựng từ bài đọc, được chia thành 7 phần dễ quản lý hơn. Mỗi phần tương ứng với một video/buổi học và kể một chương của câu chuyện, giúp bạn học từ vựng một cách tự nhiên.
+
+---
+
+#### **VIDEO 1: The Myth of the Lone Genius (16 words)**
+
+**Video Script Prompt**
+
+**Target a specific use case:**
+"Help learners challenge the popular idea that scientific breakthroughs come from isolated geniuses."
+
+**Focus on a specific source:**
+"Focus on the first 16 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+
+1.  **origin**
+2.  **discovery**
+3.  **innovative**
+4.  **result from**
+5.  **sheer**
+6.  **genius**
+7.  **intellectual**
+8.  **naturalist**
+9.  **theoretical**
+10. **physicist**
+11. **unique**
+12. **contribution**
+13. **disregard**
+14. **prior**
+15. **lesser-known**
+16. **predecessor**
+
+**Describe the show structure:**
+"Start by questioning a common belief: 'What is the **origin** of **discovery** and **innovative** behavior? Many believe it **results from** the **sheer** **genius** of **intellectual** stars like the **naturalist** Darwin or the **theoretical** **physicist** Einstein.'"
+
+"Next, reveal the hidden history: 'But this view of their **unique** **contributions** often **disregards** their **prior** experience and the work of their **lesser-known** **predecessors**.'"
+
+"Then, create a review screen. Arrange the 16 words in two columns to show all the words/phrase clearly as much as possible, showing only the word and its synonyms. For example: `word —— synonyms`."
+
+"End with a discussion question: 'Why do we often **disregard** the **contributions** of **lesser-known** **predecessors** when we celebrate a famous **genius**?'"
+
+---
+
+#### **VIDEO 2: Insight vs. Evolution (15 words)**
+
+**Video Script Prompt**
+
+**Target a specific use case:**
+"Help learners contrast the idea of sudden 'insight' with a more gradual, evolutionary view of innovation."
+
+**Focus on a specific source:**
+"Focus on the next 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+
+1.  **conventional**
+2.  **wisdom**
+3.  **place weight on**
+4.  **insight**
+5.  **promote**
+6.  **breakthrough**
+7.  **spontaneously**
+8.  **pop into one's head**
+9.  **functional**
+10. **misrepresent**
+11. **nature**
+12. **realm**
+13. **endeavor**
+14. **set aside**
+15. **monumental**
+
+**Describe the show structure:**
+"Start with the popular view: '**Conventional** **wisdom** **places great weight on** **insight** to **promote** scientific **breakthroughs**, as if ideas **spontaneously** **pop into someone's head**, fully formed and **functional**.'"
+
+"Next, introduce the counter-argument: 'But this view largely **misrepresents** the true **nature** of discovery in science and many other **realms** of human **endeavor**. If we **set aside** the greats and their **monumental** contributions, we see a different picture.'"
+
+"Then, create a review screen. Arrange the 15 words in two columns to show all the words/phrase clearly as much as possible, showing the word and its synonyms. For example: `word —— synonyms`."
+
+"End with a creative question: 'Can you think of a time an idea seemed to **spontaneously** **pop into your head**? Was it truly from nowhere?'"
+
+---
+
+#### **VIDEO 3: The Unheralded Scientist (15 words)**
+
+**Video Script Prompt**
+
+**Target a specific use case:**
+"Help learners understand how even incorrect ideas can contribute to scientific progress through a specific historical example."
+
+**Focus on a specific source:**
+"Focus on the next 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+
+1.  **duly**
+2.  **undermine**
+3.  **notion**
+4.  **cumulative**
+5.  **unheralded**
+6.  **postulate**
+7.  **proto-**
+8.  **atom**
+9.  **periodic table**
+10. **noteworthy**
+11. **fanciful**
+12. **wild speculation**
+13. **the father of**
+14. **conceive**
+15. **make of**
+
+**Describe the show structure:**
+"Start with the evolutionary view: 'While great contributions are **duly** celebrated, an evolutionary view **undermines** the **notion** of lone genius and recognizes the **cumulative** nature of science.'"
+
+"Next, introduce an example: 'Consider an **unheralded** scientist who **postulated** the existence of **proto-**elements. He could arrange their **atoms** to match the **periodic table**. This was **noteworthy** because his theories were **fanciful** **wild speculations**. Yet, Niels Bohr, **the father of** modern atomic theory, used this idea to **conceive** his famous model. What are we to **make of** this story?'"
+
+"Then, create a review screen. Arrange the 15 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
+
+"End with a reflective question: 'How can a **fanciful** idea or **wild speculation** lead to a real scientific **breakthrough**?'"
+
+---
+
+#### **VIDEO 4: Science as a Biological System (15 words)**
+
+**Video Script Prompt**
+
+**Target a specific use case:**
+"Help learners explore the analogy between scientific evolution and biological evolution, including the role of random mutations."
+
+**Focus on a specific source:**
+"Focus on the next 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+
+1.  **collective**
+2.  **enterprise**
+3.  **glean**
+4.  **constantly**
+5.  **evolve**
+6.  **organism**
+7.  **arbitrary**
+8.  **pave the way for**
+9.  **advance**
+10. **thrive**
+11. **reproduce**
+12. **evolutionary**
+13. **domain**
+14. **influential**
+15. **stirrup**
+
+**Describe the show structure:**
+"Start with the lesson from the story: 'We can see science is a **collective** **enterprise**. But a deeper insight can be **gleaned**: science is **constantly** **evolving**, just like a biological **organism**.'"
+
+"Next, explain the analogy: 'Random, **arbitrary** mutations of ideas can **pave the way for** scientific **advances**. If an idea is beneficial, it will **thrive** and **reproduce**. This **evolutionary** view is supported in many **domains**, like an **influential** innovation in horseracing involving the rider's **stirrup**.'"
+
+"Then, create a review screen. Arrange the 15 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
+
+"End with a discussion question: 'Can you think of another **domain**, besides science, where **arbitrary** ideas **pave the way for** major **advances**?'"
+
+---
+
+#### **VIDEO 5: The Accidental Jockey (15 words)**
+
+**Video Script Prompt**
+
+**Target a specific use case:**
+"Help learners understand how a chance event, rather than a deliberate plan, led to a significant innovation."
+
+**Focus on a specific source:**
+"Focus on the next 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+
+1.  **confer**
+2.  **conduct**
+3.  **methodical**
+4.  **investigation**
+5.  **extensive**
+6.  **shrewd**
+7.  **outrun**
+8.  **foresee**
+9.  **modification**
+10. **coincide**
+11. **adoption**
+12. **thoroughbred**
+13. **misadventure**
+14. **serendipity**
+15. **affix**
+
+**Describe the show structure:**
+"Start with the innovation's effect: 'The new stirrup placement was believed to **confer** a speed advantage. But did the jockey **conduct** a **methodical** **investigation** or have a **shrewd** plan to **outrun** his rivals? Did he **foresee** the benefit?'"
+
+"Next, reveal the true story: 'No. His **modification** was due to a leg injury. It just happened to **coincide** with better performance, leading to its widespread **adoption** in **thoroughbred** racing. This shows how advances can come from **misadventure** and pure **serendipity**, like the invention of Post-It notes to **affix** bookmarks.'"
+
+"Then, create a review screen. Arrange the 15 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
+
+"End with a creative question: 'Can you share a story of **serendipity** or **misadventure** that led to a positive outcome in your life?'"
+
+---
+
+#### **VIDEO 6: The Banal Forces of Creation (15 words)**
+
+**Video Script Prompt**
+
+**Target a specific use case:**
+"Help learners challenge the romantic notions of creativity and genius by introducing a more mechanical, scientific explanation."
+
+**Focus on a specific source:**
+"Focus on the next 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+
+1.  **phenomenally**
+2.  **give lie to**
+3.  **ingenious**
+4.  **designing**
+5.  **banal**
+6.  **mechanical**
+7.  **fundamentally**
+8.  **invoke**
+9.  **vague**
+10. **merely**
+11. **advance**
+12. **psychologist**
+13. **groundbreaking**
+14. **hold**
+15. **refrain from**
+
+**Describe the show structure:**
+"Start with the Post-It note example: 'The **phenomenally** successful Post-It note **gives lie to** the claim that only **ingenious**, **designing** minds are responsible for creativity.'"
+
+"Next, introduce a new perspective: 'Far more **banal** and **mechanical** forces, **fundamentally** connected to science, may be at work. Notions like genius are often **invoked**, but they are **vague** and **merely** label, not explain. A theory was **advanced** by a **psychologist** after Darwin's **groundbreaking** work. This law **holds** that organisms repeat success and **refrain from** failure.'"
+
+"Then, create a review screen. Arrange the 15 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
+
+"End with a reflective question: 'Do you believe creativity is more **ingenious** and inspired, or more **banal** and **mechanical**? Why?'"
+
+---
+
+#### **VIDEO 7: A New Path Forward (10 words)**
+
+**Video Script Prompt**
+
+**Target a specific use case:**
+"Help learners summarize the main argument of the text and understand the call to abandon old ideas in favor of a new scientific approach."
+
+**Focus on a specific source:**
+"Focus on the final 10 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+
+1.  **objective**
+2.  **particular**
+3.  **provenance**
+4.  **operate**
+5.  **constrained**
+6.  **abandon**
+7.  **naive**
+8.  **notion**
+9.  **predecessor**
+10. **innovative**
+
+**Describe the show structure:**
+"Start by explaining the Law of Effect: 'This process works without any end **objective** in sight. In **particular**, the **provenance** of the raw material on which this law **operates** is not fully known.'"
+
+"Next, conclude with the final call to action: 'New ideas are **constrained** by the successes and failures of **predecessors**. The time is right for **abandoning** the **naive** **notions** of genius and scientifically exploring the true origins of **innovative** behavior.'"
+
+"Then, create a review screen. Arrange the 10 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
+
+"End with a final discussion question: 'Why is it sometimes difficult for people to **abandon** a **naive** **notion**, even with new evidence?'"

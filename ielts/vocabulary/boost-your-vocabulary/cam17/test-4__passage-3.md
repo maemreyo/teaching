@@ -62,3 +62,154 @@
 | **extraordinary**      | odd, exceptional, remarkable                                                               | ...the first clues to Gareyev's **extraordinary** ability.                                                                 |
 | **title**              | a word that is used before someone's name, stating their social rank, qualifications, etc. | He will need to win 80% to claim the **title**.                                                                            |
 | **dedicate**           | contribute, commit, devote                                                                 | '...I have found the one thing that I can fully **dedicate** myself to.'                                                   |
+
+### **Vocabulary Learning Plan: The Mind of a Champion (4 Videos)**
+
+Đây là kế hoạch chi tiết để học toàn bộ 59 từ vựng từ bài đọc, được chia thành 4 phần dễ quản lý hơn. Mỗi phần tương ứng với một video/buổi học và kể một chương của câu chuyện, giúp bạn học từ vựng một cách tự nhiên.
+
+---
+
+#### **VIDEO 1: The Blindfold King (15 words)**
+
+**Video Script Prompt**
+
+**Target a specific use case:**
+"Help learners get to know Timur Gareyev, his unique personality, and the incredible challenge he is undertaking."
+
+**Focus on a specific source:**
+"Focus on the first 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+
+1.  **blindfold**
+2.  **take on**
+3.  **opponent**
+4.  **challenger**
+5.  **set a high bar for**
+6.  **stand out**
+7.  **rarefied**
+8.  **fondness**
+9.  **kick**
+10. **BASE jumping**
+11. **simultaneously**
+12. **prowess**
+13. **feat**
+14. **reach**
+15. **accomplished**
+
+**Describe the show structure:**
+"Start with the challenge: 'A chess player will **take on** 50 **opponents** while **blindfolded**. His **challengers** play normally. This **sets a high bar for** human performance.'"
+
+"Next, introduce the champion: 'He already **stands out** in the **rarefied** world of blindfold chess. He has a **fondness** for bright clothes and gets his **kicks** from **BASE jumping**. He once played 33 games **simultaneously** in his head. This mental **prowess** is an incredible **feat**, but for an **accomplished** player, playing one game blind is not a far **reach**.'"
+
+"Then, create a review screen. Arrange the 15 words in two columns to show all the words/phrase clearly as much as possible, showing only the word and its synonyms. For example: `word —— synonyms`."
+
+"End with a discussion question: 'What kind of mental **feat** do you find most impressive, and why?'"
+
+---
+
+#### **VIDEO 2: The Making of a Grandmaster (15 words)**
+
+**Video Script Prompt**
+
+**Target a specific use case:**
+"Help learners understand Gareyev's background, his rise in the chess world, and the fundamental skills behind blindfold chess."
+
+**Focus on a specific source:**
+"Focus on the next 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+
+1.  **run**
+2.  **remarkable**
+3.  **astonishing**
+4.  **native**
+5.  **tournament**
+6.  **obsess with**
+7.  **grandmaster**
+8.  **championship**
+9.  **rank**
+10. **uninitiated**
+11. **call for**
+12. **superhuman**
+13. **go back**
+14. **move**
+15. **defence**
+
+**Describe the show structure:**
+"Start with the scientific interest: 'A scientist who **runs** a memory lab finds it **remarkable** and **astonishing** how many games Gareyev can play at once. Gareyev learned chess in his **native** Uzbekistan, entered his first **tournament** at age eight, and became **obsessed with** competitions. At 16, he was a **grandmaster**. He won a national **championship** and was **ranked** third in the US.'"
+
+"Next, explain the skill: 'To the **uninitiated**, this seems to **call for** **superhuman** skill, but the feat **goes back** centuries. Chess players naturally run through possible **moves** and remember patterns of attack and **defence**.'"
+
+"Then, create a review screen. Arrange the 15 words in two columns to show all the words/phrase clearly as much as possible, showing the word and its synonyms. For example: `word —— synonyms`."
+
+"End with a reflective question: 'What skill are you **obsessed with** mastering, similar to how Gareyev mastered chess?'"
+
+---
+
+#### **VIDEO 3: The Mental Gymnasium (15 words)**
+
+**Video Script Prompt**
+
+**Target a specific use case:**
+"Help learners understand the intense mental challenges of playing multiple blindfold games, including memory recall and fatigue."
+
+**Focus on a specific source:**
+"Focus on the next 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+
+1.  **capable**
+2.  **mental**
+3.  **multiple**
+4.  **memorise**
+5.  **faithfully**
+6.  **reliably**
+7.  **taxing**
+8.  **set in**
+9.  **patchy**
+10. **fragmented**
+11. **assess**
+12. **manage**
+13. **exceptional**
+14. **supremely**
+15. **gifted**
+
+**Describe the show structure:**
+"Start with the core challenge: 'Many players are **capable** of playing one game blind. The real **mental** challenge is playing **multiple** games. You must **memorise** every board, recall it **faithfully**, and **reliably** store it again.'"
+
+"Next, describe the effects of fatigue and scientific testing: 'The end of a game is **taxing** as exhaustion **sets in**. Recall can get **patchy**, based on a **fragmented** memory. Scientists **assessed** his memory; most people can **manage** about seven numbers. He was not **exceptional** on these tests, but he is **supremely** **gifted** at chess.'"
+
+"Then, create a review screen. Arrange the 15 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
+
+"End with a discussion question: 'What makes a **mental** task, like playing **multiple** games, so **taxing** on the brain?'"
+
+---
+
+#### **VIDEO 4: Inside the Champion's Brain (14 words)**
+
+**Video Script Prompt**
+
+**Target a specific use case:**
+"Help learners explore the initial scientific findings about Gareyev's brain structure and what makes his ability possible."
+
+**Focus on a specific source:**
+"Focus on the final 14 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+
+1.  **tentative**
+2.  **frontoparietal**
+3.  **complex**
+4.  **allocate**
+5.  **work out**
+6.  **hint**
+7.  **visual**
+8.  **initial**
+9.  **region**
+10. **clue**
+11. **extraordinary**
+12. **title**
+13. **dedicate**
+14. **accomplished**
+
+**Describe the show structure:**
+"Start with the brain scan results: 'Though the results are **tentative**, scans show high connectivity in his **frontoparietal** network, which you use for any **complex** task. It helps you **allocate** attention and **work out** how to respond.'"
+
+"Next, explain other findings and his motivation: 'There was another **hint**: his **visual** network is also highly connected. **Initial** results suggest the brain **regions** for processing images are more powerful. This may be the first **clue** to his **extraordinary** ability. To claim the world record **title**, this **accomplished** player must win 80% of his games. He says he has found the one thing he can fully **dedicate** himself to.'"
+
+"Then, create a review screen. Arrange the 14 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
+
+"End with a final thought: 'What is one thing in your life that you could fully **dedicate** yourself to?'"

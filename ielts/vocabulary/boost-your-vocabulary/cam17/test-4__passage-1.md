@@ -81,3 +81,216 @@
 | **quantify**          | calculate, compute, measure                                                                        | The team is now calling for further research to **quantify** this contribution.                                                     |
 | **give sb a hand**    | help, support, aid                                                                                 | 'If we **give nature a hand**, we can speed up the process of regeneration.'                                                        |
 | **regeneration**      | renewal, rebirth, redevelopment                                                                    | ...we can speed up the process of **regeneration**.                                                                                 |
+
+### **Vocabulary Learning Plan: The Bats of Madagascar (6 Videos)**
+
+Đây là kế hoạch chi tiết để học toàn bộ 81 từ vựng từ bài đọc, được chia thành 6 phần dễ quản lý hơn. Mỗi phần tương ứng với một video/buổi học và kể một chương của câu chuyện, giúp bạn học từ vựng một cách tự nhiên.
+
+---
+
+#### **VIDEO 1: A Strained Relationship (15 words)**
+
+**Video Script Prompt**
+
+**Target a specific use case:**
+"Help learners understand the central conflict between agriculture and conservation in Madagascar, driven by rice farming."
+
+**Focus on a specific source:**
+"Focus on the first 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+
+1.  **rainforest**
+2.  **conservation**
+3.  **strained**
+4.  **convert**
+5.  **destruction**
+6.  **fuel**
+7.  **cultivation**
+8.  **staple**
+9.  **key**
+10. **pest**
+11. **vast**
+12. **subsistence**
+13. **paddy**
+14. **devastating**
+15. **biodiversity**
+
+**Describe the show structure:**
+"Start by introducing the problem: 'Saving the **rainforest** is a major goal of **conservation**, but in Madagascar, the relationship with farming is **strained**. Forests are being **converted** to farmland, and this **destruction** is **fuelled** by the **cultivation** of rice, the country's **staple** crop.'"
+
+"Next, explain the cause: 'A **key** reason is that insect **pests** destroy **vast** amounts of rice grown by **subsistence** farmers. This leads them to clear more forest to create new **paddy** fields, resulting in **devastating** **biodiversity** loss.'"
+
+"Then, create a review screen. Arrange the 15 words in two columns to show all the words/phrase clearly as much as possible, showing only the word and its synonyms. For example: `word —— synonyms`."
+
+"End with a discussion question: 'What is the connection between insect **pests** and the **destruction** of the **rainforest** in this context?'"
+
+---
+
+#### **VIDEO 2: The Unlikely Heroes (16 words)**
+
+**Video Script Prompt**
+
+**Target a specific use case:**
+"Help learners discover the surprising role that insect-eating bats play in this environmental conflict."
+
+**Focus on a specific source:**
+"Focus on the next 16 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+
+1.  **insectivore**
+2.  **thriving**
+3.  **implication**
+4.  **conservationist**
+5.  **passionate**
+6.  **deforestation**
+7.  **feast on**
+8.  **a plague of**
+9.  **ease**
+10. **comprise**
+11. **mammal**
+12. **native**
+13. **indigenous**
+14. **take advantage of**
+15. **modification**
+16. **swarm**
+
+**Describe the show structure:**
+"Start with a surprising twist: 'Not all species are suffering. Some **insectivore** bats are **thriving**, which has important **implications** for **conservationists**. One scientist, **passionate** about bats, studied how they respond to **deforestation**.'"
+
+"Next, reveal the bats' role: 'He found that bats **feast on** **a plague of** insects, which can **ease** the financial pressure on farmers. Bats **comprise** a fifth of all **mammal** species **native** to the island. These **indigenous** bats **take advantage of** habitat **modification** to hunt insects that **swarm** over rice fields.'"
+
+"Then, create a review screen. Arrange the 16 words in two columns to show all the words/phrase clearly as much as possible, showing the word and its synonyms. For example: `word —— synonyms`."
+
+"End with a creative question: 'How can the **modification** of a habitat by humans sometimes help **native** species to **thrive**?'"
+
+---
+
+#### **VIDEO 3: The Scientific Investigation (15 words)**
+
+**Video Script Prompt**
+
+**Target a specific use case:**
+"Help learners understand the methods scientists used to study the bats' feeding habits and prove their value."
+
+**Focus on a specific source:**
+"Focus on the next 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+
+1.  **valuable**
+2.  **suppressor**
+3.  **prey on**
+4.  **caterpillar**
+5.  **webworm**
+6.  **journal**
+7.  **set out**
+8.  **investigate**
+9.  **insectivorous**
+10. **state-of-the-art**
+11. **ultrasonic**
+12. **echolocation**
+13. **target**
+14. **reveal**
+15. **preferentially**
+
+**Describe the show structure:**
+"Start with the bats' service: 'The bats provide a **valuable** service as biological pest **suppressors**. They **prey on** pests like the swarming **caterpillar** and grass **webworm**.'"
+
+"Next, describe the study: 'A study published in a scientific **journal** **set out** to **investigate** the feeding of these **insectivorous** bats. Using **state-of-the-art** **ultrasonic** recorders, they listened for the **echolocation** bats use to **target** prey. The recordings **revealed** that bats were **preferentially** hunting over the rice fields.'"
+
+"Then, create a review screen. Arrange the 15 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
+
+"End with a reflective question: 'Why is it important to use **state-of-the-art** technology to **investigate** animal behavior?'"
+
+---
+
+#### **VIDEO 4: More Than Just Pest Control (15 words)**
+
+**Video Script Prompt**
+
+**Target a specific use case:**
+"Help learners discover the wider benefits of the bats, including their impact on human health and other crops."
+
+**Focus on a specific source:**
+"Focus on the next 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+
+1.  **forage**
+2.  **man-made**
+3.  **run-off**
+4.  **susceptible**
+5.  **infestation**
+6.  **twig borer**
+7.  **infest**
+8.  **sugarcane**
+9.  **cicada**
+10. **effectiveness**
+11. **stake**
+12. **mosquito**
+13. **carrier**
+14. **fever**
+15. **river blindness**
+
+**Describe the show structure:**
+"Start with why bats hunt in rice fields: 'The bats **forage** in these **man-made** ecosystems because poor nutrient **run-off** makes the crops more **susceptible** to pest **infestations**. They also eat pests like the **twig borer** that **infests** coffee and the **sugarcane** **cicada**.'"
+
+"Next, explain the broader impact: 'The **effectiveness** of bats as pest controllers is high, and the **stakes** are high for farmers. Bats also eat the **mosquito**, a **carrier** of diseases like malaria **fever**, and blackflies that spread **river blindness**.'"
+
+"Then, create a review screen. Arrange the 15 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
+
+"End with a discussion question: 'Besides controlling pests, how does the bats' diet demonstrate their **effectiveness** in helping the local community?'"
+
+---
+
+#### **VIDEO 5: A Complicated Relationship (10 words)**
+
+**Video Script Prompt**
+
+**Target a specific use case:**
+"Help learners understand the complex cultural and practical relationship between the local people and the bats."
+
+**Focus on a specific source:**
+"Focus on the next 10 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+
+1.  **point out**
+2.  **scarce**
+3.  **roost**
+4.  **associate with**
+5.  **sacred**
+6.  **ancestor**
+7.  **significant**
+8.  **potential**
+9.  **mutually**
+10. **colleague**
+
+**Describe the show structure:**
+"Start with the complexity: 'The scientist **points out** that the relationship is complicated. When other food is **scarce**, people hunt bats. The bats also **roost** in buildings, which people don't like.'"
+
+"Next, explain the cultural view and a solution: 'At the same time, bats are **associated with** **sacred** caves and the **ancestors**, making them culturally **significant**. A **potential** problem is deforestation reducing places to **roost**. The scientist and his **colleagues** suggest a **mutually** beneficial solution: farmers can build bat houses.'"
+
+"Then, create a review screen. Arrange the 10 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
+
+"End with a reflective question: 'How can something be both a food source and a **sacred** animal in a culture?'"
+
+---
+
+#### **VIDEO 6: Giving Nature a Hand (5 words)**
+
+**Video Script Prompt**
+
+**Target a specific use case:**
+"Help learners understand the final conclusion of the study and its optimistic outlook for the future."
+
+**Focus on a specific source:**
+"Focus on the final 5 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+
+1.  **yield**
+2.  **sustainable**
+3.  **livelihood**
+4.  **quantify**
+5.  **give sb a hand**
+6.  **regeneration**
+
+**Describe the show structure:**
+"Start with the main goal: 'Maximizing bat populations can boost crop **yields** and promote **sustainable** **livelihoods** for local farmers.'"
+
+"Next, describe the next steps: 'The team now wants to **quantify** this contribution. The main message is optimistic: if we **give nature a hand**, we can speed up the process of **regeneration**.'"
+
+"Then, create a review screen. Arrange the 6 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
+
+"End with a final thought: 'What is one small way you could **give nature a hand** to help with environmental **regeneration** in your area?'"

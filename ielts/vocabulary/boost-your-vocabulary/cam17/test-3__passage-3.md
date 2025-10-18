@@ -84,3 +84,220 @@
 | **epilogue**             | a speech or piece of text that is added to the end of a play or book                      | The book ends with an **epilogue**, in which Barr discusses the impact of climate change...                          |
 | **suggestion**           | hint, proposal, implication                                                               | ...and makes policy **suggestions** for New York going forward.                                                      |
 | **forward**              | ahead, further, progress                                                                  | ...for New York going **forward**.                                                                                   |
+
+### **Vocabulary Learning Plan: The Story of the New York Skyline (6 Videos)**
+
+Đây là kế hoạch chi tiết để học toàn bộ 86 từ vựng từ bài đọc, được chia thành 6 phần dễ quản lý hơn. Mỗi phần tương ứng với một video/buổi học và kể một chương của câu chuyện, giúp bạn học từ vựng một cách tự nhiên.
+
+---
+
+#### **VIDEO 1: A Tale of Two Cities (15 words)**
+
+**Video Script Prompt**
+
+**Target a specific use case:**
+"Help learners understand the book's structure and its historical approach to explaining New York's development."
+
+**Focus on a specific source:**
+"Focus on the first 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+
+1.  **detailed**
+2.  **cluster**
+3.  **skyline**
+4.  **distinct**
+5.  **primarily**
+6.  **compilation**
+7.  **tone**
+8.  **somewhat**
+9.  **latter**
+10. **incorporate**
+11. **paper**
+12. **fascinating**
+13. **account**
+14. **landscape**
+15. **subterranean**
+
+**Describe the show structure:**
+"Start with an overview of the book: 'The book gives a **detailed** history of how business **clusters** shaped the New York **skyline**. It's organized into two **distinct** parts. The first is **primarily** historical; the second is a **compilation** of chapters.'"
+
+"Next, describe the book's style and a unique tour: 'The **tone** changes **somewhat** in the **latter** part, which **incorporates** research **papers**. The author gives a **fascinating** **account** of the city's early **landscape** and even takes us on a **subterranean** tour.'"
+
+"Then, create a review screen. Arrange the 15 words in two columns to show all the words/phrase clearly as much as possible, showing only the word and its synonyms. For example: `word —— synonyms`."
+
+"End with a discussion question: 'How can the location of business **clusters** influence a city's **skyline** over time?'"
+
+---
+
+#### **VIDEO 2: Foundations of a Metropolis (15 words)**
+
+**Video Script Prompt**
+
+**Target a specific use case:**
+"Help learners understand the early urban planning of New York and the complex factors that influenced where skyscrapers were built."
+
+**Focus on a specific source:**
+"Focus on the next 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+
+1.  **subsoil**
+2.  **various**
+3.  **residence**
+4.  **legend**
+5.  **implementation**
+6.  **grid**
+7.  **informative**
+8.  **set the stage for**
+9.  **tenement**
+10. **skyscraper**
+11. **slum**
+12. **clearance**
+13. **foundation**
+14. **fraction**
+15. **glance**
+
+**Describe the show structure:**
+"Start with the city's early days: 'The book explores what's under the **subsoil**, **various** fun facts about a historic **residence**, and city **legends**. It discusses the **implementation** of the city's **grid** system in **informative** chapters that **set the stage for** later analysis.'"
+
+"Next, introduce a puzzle: 'Why did **tenements** prevent **skyscraper** construction? Developers weren't interested in the necessary **slum** **clearance**. Yet, expensive **foundations** were only a small **fraction** of the cost. At first **glance**, this seems contradictory.'"
+
+"Then, create a review screen. Arrange the 15 words in two columns to show all the words/phrase clearly as much as possible, showing the word and its synonyms. For example: `word —— synonyms`."
+
+"End with a reflective question: 'Why might **slum** **clearance** be a bigger obstacle for a developer than the cost of a deep **foundation**?'"
+
+---
+
+#### **VIDEO 3: The Economics of Height (15 words)**
+
+**Video Script Prompt**
+
+**Target a specific use case:**
+"Help learners understand the different ways to define a skyscraper's height and the economic and social geography of 19th-century New York."
+
+**Focus on a specific source:**
+"Focus on the next 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+
+1.  **immigration**
+2.  **immigrant**
+3.  **enclave**
+4.  **amenity**
+5.  **valuable**
+6.  **waterfront**
+7.  **wealthy**
+8.  **border**
+9.  **distinguish**
+10. **engineering**
+11. **efficient**
+12. **attempt**
+13. **maximize**
+14. **return on investment**
+15. **advance**
+
+**Describe the show structure:**
+"Start with the city's social map: 'The book discusses **immigration** and how **immigrant** **enclaves** formed in areas with few **amenities**. They were on the least **valuable** land, between the industrial **waterfront** and the **wealthy** neighborhoods **bordering** Central Park.'"
+
+"Next, explain the height definitions: 'The author **distinguishes** between three types of height: **engineering** height (the tallest possible), **efficient** height (best for society), and developer height, which is an **attempt** to **maximize** the **return on investment**. Technological **advances** made these new heights possible.'"
+
+"Then, create a review screen. Arrange the 15 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
+
+"End with a discussion question: 'Should developers aim for the most **efficient** height for society or be allowed to **maximize** their **return on investment**?'"
+
+---
+
+#### **VIDEO 4: The Bones of the Skyscraper (15 words)**
+
+**Video Script Prompt**
+
+**Target a specific use case:**
+"Help learners understand the key technological innovations that made modern skyscrapers possible and the analytical methods used in the book."
+
+**Focus on a specific source:**
+"Focus on the next 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+
+1.  **construction**
+2.  **skeletal**
+3.  **load-bearing**
+4.  **square footage**
+5.  **availability**
+6.  **throughout**
+7.  **regression analysis**
+8.  **technical**
+9.  **probably**
+10. **audience**
+11. **tackle**
+12. **myth**
+13. **assumption**
+14. **absence**
+15. **bedrock**
+
+**Describe the show structure:**
+"Start with the technology: 'The **construction** of skyscrapers was enabled by steel **skeletal** frames. These made thick, **load-bearing** walls unnecessary, which increased usable **square footage** and the **availability** of natural light.'"
+
+"Next, describe the book's analysis: '**Throughout** the 20th century, data was collected. The book uses **regression analysis**, which is quite **technical** and **probably** not for a general **audience**. It **tackles** the **myth** that the **absence** of shallow **bedrock** is why skyscrapers weren't built in certain areas—a common **assumption**.'"
+
+"Then, create a review screen. Arrange the 15 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
+
+"End with a creative question: 'Besides steel **skeletal** frames, what other technological **advance** was crucial for the **construction** of tall skyscrapers?'"
+
+---
+
+#### **VIDEO 5: Digging Deep and Building High (15 words)**
+
+**Video Script Prompt**
+
+**Target a specific use case:**
+"Help learners understand the engineering challenges of building foundations and the economic theories behind urban booms."
+
+**Focus on a specific source:**
+"Focus on the next 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+
+1.  **prohibitively**
+2.  **caisson**
+3.  **dig**
+4.  **water table**
+5.  **reference**
+6.  **empirical**
+7.  **relatively**
+8.  **boom**
+9.  **lengthy**
+10. **undergraduate**
+11. **exuberance**
+12. **viability**
+13. **credit**
+14. **estimate**
+15. **impressive**
+
+**Describe the show structure:**
+"Start with the bedrock myth debunked: 'Foundation costs were not **prohibitively** high. The book describes **caissons**, which let workers **dig** deep, even below the **water table**. It **references** **empirical** research but is a **relatively** easy read.'"
+
+"Next, explain the 1920s building **boom**: 'The book has **lengthy** discussions perfect for an **undergraduate**. It explores two causes for the boom: financial **exuberance** and easy financing. The author assesses the **viability** of both and argues that cheap **credit** was not the main cause. The **impressive** data work used to **estimate** land values is a key feature.'"
+
+"Then, create a review screen. Arrange the 15 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
+
+"End with a discussion question: 'Do you think a building **boom** is caused more by economic **exuberance** or by the availability of cheap **credit**?'"
+
+---
+
+#### **VIDEO 6: The Skyline's Future (6 words)**
+
+**Video Script Prompt**
+
+**Target a specific use case:**
+"Help learners understand the book's conclusion about the relationship between land value and building height, and its final look toward the future."
+
+**Focus on a specific source:**
+"Focus on the final 6 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+
+1.  **predict**
+2.  **reverse**
+3.  **epilogue**
+4.  **suggestion**
+5.  **forward**
+6.  **cluster**
+
+**Describe the show structure:**
+"Start with the book's main finding: 'The author finds that land values can **predict** future building height, but the **reverse** is not true.'"
+
+"Next, describe the book's ending: 'The book ends with an **epilogue** that makes policy **suggestions** for New York going **forward**, considering future challenges like climate change and the continued growth of business **clusters**.'"
+
+"Then, create a review screen. Arrange the 6 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
+
+"End with a final thought: 'What policy **suggestion** would you make for your city's development going **forward**?'"
