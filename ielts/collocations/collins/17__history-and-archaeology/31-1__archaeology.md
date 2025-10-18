@@ -70,7 +70,7 @@ Describe the show structure:
 
         'An archaeologist might start an archaeological dig to excavate a site, such as a burial mound. There, they hope to unearth ancient artifacts. These could be anything from lithic tools and pottery sherds to valuable grave goods or even skeletal remains. All of these discoveries are very fragile and require careful handling. The ultimate prize is to find well-preserved ruins of an ancient city.'"
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a fun question: 'If you could be an archaeologist for a day, what kind of ancient artifact would you most like to find?'"
 
@@ -96,7 +96,7 @@ Describe the show structure:
 
         Part 2 is 'The Dig and the Analysis': During a stratigraphic excavation, they carefully document all their results. In the lab, they apply scientific techniques. They use carbon dating or dendrochronology to find the age of objects, and osteological analysis or stable isotope analysis to study bones."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a critical thinking question: 'Which of these scientific techniques do you think has been the most important for archaeology?'"
 

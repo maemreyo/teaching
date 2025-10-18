@@ -113,7 +113,7 @@ Describe the show structure:
 
 "Next, introduce the main character and his idea: 'One of the most **vocal advocates** for a solution was a **solicitor** named Charles Pearson. His vision was to build an underground railway to **link** all the train **stations** that formed a **ring** around the city. This would **clear** the slums and **relocate** the workers.'"
 
-"Then, create a compact review screen. Arrange the 15 words in two columns to save space, showing only the word and its synonyms. For example: `word —— synonyms`."
+"Then, create a review screen. Arrange the 15 words in two columns to save space, showing only the word and its synonyms. For example: `word —— synonyms`."
 
 "End with a problem-solving question: 'Besides an underground railway, what other solution could have been **proposed** to solve London's **congested** streets?'"
 
@@ -154,7 +154,7 @@ Describe the show structure:
 
 "Next, describe the public's reaction: 'This was a **radical** idea. The **press** printed **critical** articles. **Objectors** argued that the **tunnels** would **collapse** and passengers would be **poisoned** by **emissions** from the train **engines**.'"
 
-"Then, create a compact review screen. Arrange the 18 words in two columns to save space, showing only the word and its synonyms. For example: `word —— synonyms`."
+"Then, create a review screen. Arrange the 18 words in two columns to save space, showing only the word and its synonyms. For example: `word —— synonyms`."
 
 "End with a debate question: 'Do you think the **press** and the **objectors** had valid concerns? Why or why not?'"
 
@@ -195,7 +195,7 @@ Describe the show structure:
 
 "Finally, describe the successful opening: 'On its first day, the railway **carried** 40,000 people. It was so successful that **extensions** were immediately **authorised**.'"
 
-"Then, create a compact review screen. Arrange the 16 words in two columns to save space, showing only the word and its synonyms. For example: `word —— synonyms`."
+"Then, create a review screen. Arrange the 16 words in two columns to save space, showing only the word and its synonyms. For example: `word —— synonyms`."
 
 "End with a reflection question: 'The project took longer than **scheduled** but was a huge success. What does this teach us about big projects?'"
 
@@ -237,6 +237,6 @@ Describe the show structure:
 
 "Finally, explain the breakthrough: 'This great **technical** achievement led to the first deep-level electric railway. By 1907, the heart of London's **tube** network was **in place**.'"
 
-"Then, create a compact review screen. Arrange the 17 words in two columns to save space, showing only the word and its synonyms. For example: `word —— synonyms`."
+"Then, create a review screen. Arrange the 17 words in two columns to save space, showing only the word and its synonyms. For example: `word —— synonyms`."
 
 "End with a forward-thinking question: 'The electric **motor** was a key innovation. What modern **technical** achievement do you think is changing transportation today?'"

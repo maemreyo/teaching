@@ -54,7 +54,7 @@ Describe the show structure:
 
         Part 2 is 'The Channels': Advertising can take many forms, from traditional methods that lead to word-of-mouth advertising, to modern social media advertising. Some methods are subtle, like product placement, while others are annoying, like pop-up ads. It is illegal to run a misleading advertisement."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a personal opinion question: 'What do you think is the most effective type of advertising today?'"
 
@@ -80,6 +80,6 @@ Describe the show structure:
 
         Part 2 is 'The Methods & The Dangers': To do this, ads often use an emotional appeal or exploit psychological triggers. Critics argue that this can manipulate consumer behavior, create unrealistic expectations, and unethically target vulnerable audiences. For the consumer, seeing too many ads can lead to ad fatigue."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a debate question: 'Overall, do you think advertising has a more positive or negative effect on society?'"

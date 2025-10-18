@@ -71,7 +71,7 @@ Describe the show structure:
 
         Part 2 is 'The Human Dimension': Discuss the human side of this divide, from the different socio-economic strata to those living below the poverty line. Introduce the ideals of social mobility and equality of opportunity that inequality challenges."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a thought-provoking question: 'Which do you think is more important for a fair society: equality of opportunity or equality of outcome? Share your view.'"
 
@@ -97,7 +97,7 @@ Describe the show structure:
 
         Part 2 is 'The Consequences': Discuss the negative effects on society, explaining how inequality can perpetuate the cycle of poverty, create disparities in health and education, erode social cohesion, fuel social unrest, and lead to political polarization."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a critical thinking question: 'Of the causes we discussed, which one do you believe has the biggest impact on creating inequality in today's world?'"
 

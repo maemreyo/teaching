@@ -56,7 +56,7 @@ Describe the show structure:
         - **Single-sex vs. Co-educational:** Discuss the debate between educating boys and girls separately or together.
         - **In-school vs. At-home:** Mention the alternatives of vocational education and homeschooling."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a personal preference question: 'If you had the choice, would you prefer to attend a single-sex or a co-educational school? Explain your choice!'"
 
@@ -82,6 +82,6 @@ Describe the show structure:
 
         Part 2 is 'The Guiding Philosophies': Discuss the goals of the system. The aim is to maintain high educational standards and provide a well-rounded education. This can be achieved through a holistic approach, progressive education, and character education, all contributing to the ideal of lifelong learning."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a big-idea question: 'What do you think is the most important goal of education: to build knowledge, to build character, or something else?'"

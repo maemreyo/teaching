@@ -72,7 +72,7 @@ Describe the show structure:
 
         Part 2 is 'The Modern Challenge': Discuss the movement to challenge these ideas. People now seek to break traditional roles, subvert gender norms, and redefine what it means to be a man or a woman."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a critical thinking question: 'What is one gender stereotype you would like to see disappear completely?'"
 
@@ -98,7 +98,7 @@ Describe the show structure:
 
         Part 2 is 'The Solution': To fix this, we must fight discrimination, expose it where it exists, and address the imbalance. The goal is to promote gender equality, empower women, and seek parity in all areas of life."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a debate question: 'What is the most effective way to close the gender pay gap?'"
 

@@ -71,7 +71,7 @@ Describe the show structure:
 
         Part 2 is 'The Sources of Pollution': Explain where it comes from. Cover major sources like industrial waste, vehicle emissions, and the combustion of fossil fuels. Also mention agricultural runoff, improper waste disposal of toxic waste, and the proliferation of single-use plastics."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a local observation question: 'What do you think is the most serious type of pollution in the area where you live? Share your observation in the comments.'"
 
@@ -97,7 +97,7 @@ Describe the show structure:
 
         Part 2 is 'The Impact on the Environment': Discuss how pollution degrades ecosystems and has far-reaching consequences. For example, it can disrupt the marine food chain and inflict irreversible harm on marine life due to the accumulation of toxic substances."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a critical thinking question: 'Which consequence of pollution do you find more alarming: the threat to public health or the damage to ecosystems? Explain your choice.'"
 

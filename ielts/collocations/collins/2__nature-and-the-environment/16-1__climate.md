@@ -88,7 +88,7 @@ Describe the show structure:
         - **Heat-related:** Cover record-breaking heatwaves and the devastating wildfires they can cause.
         - **General Descriptors:** Explain how these extreme weather events can be described as natural catastrophes that have a devastating impact and are often unprecedented in scale and intensity."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a personal experience question: 'Have you personally experienced an extreme weather event in your area? Describe what happened in the comments.'"
 
@@ -116,7 +116,7 @@ Describe the show structure:
 
         "Finally, cover the other major contributing factors, such as deforestation, industrial pollution, and unsustainable agricultural practices, which lead to problems like the depletion of the ozone layer and a catastrophic loss of biodiversity."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a critical thinking question: 'Which of these causes do you believe is the most difficult for humanity to solve? Explain your choice.'"
 
@@ -142,7 +142,7 @@ Describe the show structure:
         - **Human Society:** Explain the far-reaching consequences for people, such as threats to global food security, food and water scarcity, and the creation of a global public health crisis.
         - **The Most Vulnerable:** Highlight the impact on specific groups, such as vulnerable coastal populations who may become climate refugees."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a question about priorities: 'Which of these consequences of climate change do you find the most alarming? Share your biggest concern.'"
 

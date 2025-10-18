@@ -71,7 +71,7 @@ Describe the show structure:
 
         Part 2 is 'Strengthening Local Cultures': Cover how tourism can be a source of national pride and provide the incentive for the preservation of cultural heritage. It can even lead to the revitalization of traditional arts and strengthen community bonds."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a personal experience question: 'Think of a time you traveled. What is one thing you learned that gave you a deeper insight into another culture? Share your story!'"
 
@@ -99,7 +99,7 @@ Describe the show structure:
 
         "Finally, cover the impacts on the community, including the demonstration effect on youth, the disruption of the social fabric, the creation of tourist enclaves, and the potential for a clash of cultures that creates social tension."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a critical thinking question: 'Which do you think is a bigger threat to local culture: commercialization or homogenization? Explain your choice.'"
 

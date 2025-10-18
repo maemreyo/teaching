@@ -71,7 +71,7 @@ Describe the show structure:
 
         Part 2 is 'The Challenges': We should cut down on junk food and processed foods. Some people must also be careful if they have a food intolerance. If people need to lose weight, they might decide to go on a diet and follow it strictly."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a practical question: 'What is one small change you could make to your diet to make it healthier?'"
 
@@ -95,7 +95,7 @@ Describe the show structure:
 
         'Many people today lead a sedentary lifestyle and feel they are out of shape. The solution is to lead an active lifestyle and take regular exercise to keep fit. You can start a fitness regime that includes cardiovascular exercise and strength training to build muscle and improve stamina. Remember, it's always important to warm up before and cool down after exercise.'"
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a personal preference question: 'What is your favorite way to keep fit?'"
 

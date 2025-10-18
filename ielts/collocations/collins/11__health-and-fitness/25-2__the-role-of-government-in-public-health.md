@@ -75,7 +75,7 @@ Describe the show structure:
 
         "Finally, discuss the actions: This requires government intervention, where they prioritize public health initiatives, allocate public funds for them, and, if necessary, legislate on public health matters."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a debate question: 'Do you believe government intervention in public health is a duty or an overreach of power? Share your view in the comments!'"
 
@@ -101,7 +101,7 @@ Describe the show structure:
 
         Part 2 is 'The "Hard" Measures (Regulation & Restriction)': Cover the stricter policies, such as imposing sin taxes, placing stringent restrictions on harmful products, banning their advertising, strictly regulating the industry, and in some cases, making things like vaccinations mandatory."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a policy preference question: 'Which type of policy do you think is more effective for improving public health: education or taxation? Explain your choice.'"
 

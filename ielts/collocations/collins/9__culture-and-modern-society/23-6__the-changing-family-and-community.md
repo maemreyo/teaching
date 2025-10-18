@@ -54,7 +54,7 @@ Describe the show structure:
 
         Part 2 is 'The Modern Reality': Discuss the decline of the traditional family unit and the rise of single-parent households and dual-income families. This has led to changing family roles, where child-rearing responsibilities are shared, and many people choose to start a family later in life."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a sociological question: 'What do you think is the main reason for the decline of the traditional family unit in many countries?'"
 
@@ -82,6 +82,6 @@ Describe the show structure:
 
         Part 3 is 'The Solution': Discuss how we can rebuild connections by fostering a sense of belonging through local community groups and encouraging civic participation."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a practical question: 'What is one thing people can do to improve the sense of community in their own neighborhood?'"

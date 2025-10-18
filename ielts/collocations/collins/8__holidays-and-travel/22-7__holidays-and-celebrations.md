@@ -54,7 +54,7 @@ Describe the show structure:
 
         Part 2 is 'Personal Holidays': Cover the ways individuals take time off, such as a long weekend, a family vacation, a solo trip, or a staycation."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a personal preference question: 'What is your favorite type of holiday: a cultural festival, a relaxing family vacation, or an adventurous solo trip?'"
 
@@ -78,6 +78,6 @@ Describe the show structure:
 
         'Imagine a festival that is steeped in history and tradition. It has many time-honored traditions. People wear traditional costumes and hold a parade. At night, they set off fireworks. Families gather for a festive meal and to exchange gifts. Some may also pay respect to their ancestors. The most important thing is that everyone takes part in the festivities, creating a wonderful sense of community.'"
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a cultural sharing question: 'What is the most important tradition during a major festival in your country?'"

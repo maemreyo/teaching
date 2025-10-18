@@ -88,7 +88,7 @@ Describe the show structure:
 
         Part 2 is 'The Lived Experience': Describe what this looks like in reality. It's a cosmopolitan environment with people from all walks of life, including ethnic minority groups. The ideal is an inclusive society with constant cross-cultural interaction."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a preference question: 'Which metaphor do you prefer for a multicultural society: the 'melting pot' or the 'cultural mosaic'? Explain your choice!'"
 
@@ -114,7 +114,7 @@ Describe the show structure:
         - **Social Benefits:** Discuss how it can challenge stereotypes, promote tolerance and open-mindedness, and lead to a more cosmopolitan outlook.
         - **Economic & Innovative Benefits:** Cover how it can bring new skills to the workforce, foster creativity and innovation, and even lead to enhanced diplomatic ties."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a personal experience question: 'What is your favorite benefit of living in a multicultural society? Share it in the comments!'"
 
@@ -142,7 +142,7 @@ Describe the show structure:
 
         "Finally, cover the resulting problems: These include a perceived threat to national identity, competition for public services, and the serious issue of racial discrimination."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a critical thinking question: 'In your opinion, what is the single biggest challenge for a multicultural society to overcome? Explain your choice.'"
 

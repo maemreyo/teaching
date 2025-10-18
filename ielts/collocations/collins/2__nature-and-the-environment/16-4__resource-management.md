@@ -88,7 +88,7 @@ Describe the show structure:
         - **Specific Examples:** Give concrete examples, such as raw materials, mineral resources, water resources, and the critical category of fossil fuels.
         - **The Geopolitical View:** Introduce the concept of strategic natural resources."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a quiz-style question: 'Is wood from a forest a renewable or a non-renewable resource? Explain your answer in the comments!'"
 
@@ -116,7 +116,7 @@ Describe the show structure:
 
         "Finally, explain the consequences: the result is the depletion of natural resources and growing resource scarcity. Introduce the paradox of the 'resource curse' and the need for better resource management."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a critical thinking question: 'Why do you think some countries rich in natural resources remain poor (the 'resource curse')? Share your ideas.'"
 
@@ -142,7 +142,7 @@ Describe the show structure:
         - **The Application:** Explain how this applies in different areas, such as sustainable agriculture and the need for companies to adopt sustainable business practices as part of their corporate social responsibility. Introduce the model of a circular economy.
         - **The Individual Role:** Discuss how people can contribute by choosing to live a sustainable lifestyle, which involves resource conservation and buying environmentally friendly products."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a practical question: 'What is one change you can make to live a more sustainable lifestyle? Share your idea in the comments!'"
 

@@ -88,7 +88,7 @@ Describe the show structure:
 
         Part 2 is 'The Beautiful vs. The Ugly': Explore the subjective nature of design. Compare an iconic landmark or an architectural masterpiece with something considered an eyesore. Discuss the different goals of design, from being aesthetically pleasing to purely utilitarian, and the importance of a building blending in with its surroundings."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a personal opinion question: 'Do you believe it's more important to preserve old, historic buildings or to build new, modern ones?'"
 
@@ -114,7 +114,7 @@ Describe the show structure:
 
         Part 2 is 'The Responses and Realities': Discuss the government's responsibility to provide adequate housing and the common solutions, such as building high-rise apartment buildings in residential areas."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a critical thinking question: 'What do you think is the best solution to the shortage of affordable housing in big cities?'"
 
@@ -140,7 +140,7 @@ Describe the show structure:
 
         Part 2 is 'The Purpose of Spaces': Explain the social benefits. A great public space should be accessible to all, provide a venue for social interaction, and foster a sense of community, ultimately creating a vibrant public realm."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a personal reflection: 'Think about your favorite public space in your town or city. What makes it special?'"
 

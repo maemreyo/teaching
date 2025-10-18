@@ -88,7 +88,7 @@ Describe the show structure:
 
         Part 2 is 'Social and Cultural Pressures': Discuss the external forces like peer pressure, the culture of hyper-competition, and the constant social comparison fueled by media, which creates pressure to conform to unrealistic standards."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a reflective question: 'Which type of pressure do you think is more difficult for young people to handle today: academic pressure or social pressure? Share your opinion.'"
 
@@ -114,7 +114,7 @@ Describe the show structure:
 
         Part 2 is 'The Outer World (Physical & Lifestyle Health)': Discuss the physical challenges, such as a sedentary lifestyle, sleep deprivation due to digital addiction and excessive screen time, and the impact of poor dietary habits."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a practical advice-sharing question: 'What is one healthy habit that you think is most important for a young person's well-being? Share your tip in the comments!'"
 
@@ -140,7 +140,7 @@ Describe the show structure:
 
         Part 2 is 'The Resulting Behaviors': Explain the behaviors that can result from these causes, such as engaging in risky behavior like substance abuse, antisocial behavior, and in serious cases, juvenile delinquency."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a question about responsibility: 'Who do you think has the biggest role in guiding young people away from negative behavior: parents, schools, or the community? Share your view.'"
 

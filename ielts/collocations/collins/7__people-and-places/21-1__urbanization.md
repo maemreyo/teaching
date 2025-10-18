@@ -71,7 +71,7 @@ Describe the show structure:
 
         Part 2 is 'The Resulting Landscape': Describe the outcomes of this process, from rapid urban expansion and the creation of urban agglomerations to the challenges of urban sprawl. Introduce the terms for the resulting places, like a densely populated area or a sprawling metropolis, and the people who live there, the urban dwellers."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a personal question: 'Do you prefer living in a bustling city or a quiet rural area? Share your preference in the comments!'"
 
@@ -99,7 +99,7 @@ Describe the show structure:
 
         Part 3 is 'Environmental Challenges': Discuss the impact on nature, such as the lack of green spaces and broader environmental degradation. Explain how all these factors put a severe strain on public services."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a critical thinking question: 'In your opinion, what is the single biggest challenge that large cities face today? Let us know in the comments!'"
 

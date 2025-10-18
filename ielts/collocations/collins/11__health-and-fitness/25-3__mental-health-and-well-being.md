@@ -92,7 +92,7 @@ Describe the show structure:
 
         "Finally, contrast this with the challenges: mental health conditions or disorders, which are a negative state of mind."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a personal reflection: 'What is one small thing you do that gives you a sense of well-being? Share your tip in the comments!'"
 
@@ -118,7 +118,7 @@ Describe the show structure:
 
         Part 2 is 'Personal and Social Pressures': Cover other major factors, such as social isolation and loneliness, financial instability, and the impact of traumatic life events. All of these can cause people to suffer from chronic stress and face constant pressure."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a critical thinking question: 'Which do you think is a bigger source of stress in modern life: work pressure or social pressure? Explain your choice.'"
 
@@ -144,7 +144,7 @@ Describe the show structure:
 
         Part 2 is 'The Impact on Work and Society': Discuss how constant pressure can lead to burnout, resulting in a significant loss of productivity. Mention the major social barrier: the pervasive stigma surrounding mental illness."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a question about social barriers: 'Why do you think the stigma surrounding mental illness is still so pervasive in many societies? Share your thoughts.'"
 

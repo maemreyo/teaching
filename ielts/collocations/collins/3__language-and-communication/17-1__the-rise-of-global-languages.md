@@ -69,7 +69,7 @@ Describe the show structure:
 
         'A global language, also known as the dominant language, acts as a lingua franca. This provides a common means of communication for people from different countries. The main benefit is that it can facilitate international communication and break down communication barriers. This, in turn, can foster global understanding, promote international trade, and enhance cross-cultural communication. For individuals, it provides access to a wealth of information.'"
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a personal opinion question: 'What do you think is the biggest advantage of having a global language?'"
 
@@ -93,7 +93,7 @@ Describe the show structure:
 
         'The rise of a global language often causes the decline of minority languages. Many of these are now endangered languages that are at risk of disappearing. This leads to a catastrophic loss of linguistic diversity. If we are not careful, it can lead to language death. This process can marginalize speakers of other languages, creating a linguistic divide where some people feel a sense of linguistic inferiority. Ultimately, this can erode cultural identity.'"
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a critical thinking question: 'Why is it important to save endangered languages? Share your opinion.'"
 

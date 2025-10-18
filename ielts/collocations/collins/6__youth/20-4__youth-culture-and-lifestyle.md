@@ -88,7 +88,7 @@ Describe the show structure:
 
         Part 2 is 'The Personal Journey': Discuss how individuals navigate this world. Cover the formation of identity, the pressure to follow trends versus the desire to express one's individuality, the role of subcultures, and the importance of rites of passage."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a nostalgic question: 'What was a popular youth subculture or trend when you were a teenager? Share it in the comments!'"
 
@@ -114,7 +114,7 @@ Describe the show structure:
 
         Part 2 is 'The Social & Psychological Impact': Discuss the social side, including virtual communities and the creation of a curated online persona. Cover the psychological effects, such as the fear of missing out (FOMO) driven by heavy social media engagement and the danger of online echo chambers."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a critical thinking question: 'Do you think virtual friendships are as strong as real-life friendships? Share your opinion in the comments!'"
 
@@ -140,7 +140,7 @@ Describe the show structure:
 
         Part 2 is 'The Deeper Meaning': Explain the purpose behind these activities, such as peer group socialization, seeking novel experiences, and finding a sense of community, often through things like attending live music events or participating in urban youth culture."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a fun question: 'What is your favorite leisure activity to do with friends? Let us know in the comments!'"
 

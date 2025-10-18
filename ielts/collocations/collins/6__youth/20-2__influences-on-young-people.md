@@ -88,7 +88,7 @@ Describe the show structure:
 
         Part 2 is 'The Transmission of Values': Cover how parents act as role models to instill moral values and shape a child's worldview. Discuss the intergenerational transmission of values, the strength of family bonds, and the pressure to follow in parents' footsteps."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a reflective question: 'What is the most important value that your parents or family instilled in you? Share it in the comments!'"
 
@@ -114,7 +114,7 @@ Describe the show structure:
         
         "Then, explain the results: This makes teenagers susceptible to peer influence and creates peer pressure to conform to group norms. Understanding these peer dynamics is crucial, as it can lead to positive outcomes or negative ones, like falling in with the wrong crowd."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a personal reflection question: 'Looking back, was peer pressure a mostly positive or negative force in your own teenage years? Share your experience.'"
 
@@ -140,7 +140,7 @@ Describe the show structure:
 
         Part 2 is 'The Commercial and Social Effects': Explain how being bombarded with advertisements promotes a consumer culture through the cultivation of artificial needs. Discuss the social impacts, like the normalization of certain behaviors and the echo chamber effect."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a critical thinking question: 'Which has a bigger influence on young people today: social media influencers or traditional celebrities? What's your take?'"
 

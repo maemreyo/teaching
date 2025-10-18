@@ -52,7 +52,7 @@ Describe the show structure:
 
         'For someone with a thirst for adventure, the first step is to look for travel inspiration and choose a destination. Then, you need to do thorough research, read travel guides, and check visa requirements. The next crucial step is to set a travel budget. Based on that, you can decide whether to travel during the peak or off-peak season. Finally, you can create a detailed itinerary to make the most of your holiday.'"
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a personal question: 'When you plan a trip, do you prefer to create a detailed itinerary or be more spontaneous?'"
 
@@ -78,6 +78,6 @@ Describe the show structure:
 
         Part 2 is 'Types of Trips & Strategy': You can choose a package holiday or an all-inclusive resort for convenience. Some people prefer to get everything sorted in advance, while others look for deals with a last-minute booking. Don't forget to arrange transportation for when you arrive."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a practical question: 'What is your number one tip for finding a good deal on flights or hotels?'"

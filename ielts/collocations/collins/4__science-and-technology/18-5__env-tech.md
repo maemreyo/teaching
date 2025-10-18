@@ -88,7 +88,7 @@ Describe the show structure:
 
         Part 2 is 'Innovation in Action': Show specific examples, such as sustainable design in buildings, sustainable transportation, eco-friendly alternatives to common products, and new ideas like vertical farming."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a forward-looking call to action: 'Which of these green innovations do you find the most exciting for the future?'"
 
@@ -114,7 +114,7 @@ Describe the show structure:
 
         Part 2 is 'Harnessing Nature's Power': Describe the specific technologies we use to harness solar, wind, hydroelectric, and geothermal power. Mention the importance of energy-efficient technology, energy storage solutions, and an updated power grid to make it all work."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a forward-looking call to action: 'Which renewable energy source do you think has the most potential for the future?'"
 
@@ -140,7 +140,7 @@ Describe the show structure:
 
         Part 2 is 'Innovations in Waste and Water': Cover how we deal with waste, including advanced recycling techniques, waste-to-energy plants, and efforts to develop biodegradable materials to combat single-use plastics. Also, cover how we handle water with wastewater treatment and purification systems."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a question about innovation: 'Which of these pollution-fighting technologies do you think is the most impressive?'"
 

@@ -86,7 +86,7 @@ Describe the show structure:
 
         'It all starts with the scientific method. First, a scientist will formulate a hypothesis. Then, they conduct a controlled experiment to gather empirical evidence. After that, they analyze the data to draw a conclusion. If the results are significant, they will publish their findings, which must be subjected to peer review. Other scientists may then try to replicate the experiment to confirm its validity.'"
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a critical thinking question: 'Why is it important for other scientists to be able to replicate an experiment?'"
 
@@ -114,7 +114,7 @@ Describe the show structure:
 
         Part 3 is 'The Process': Mention that science is a collaborative effort where researchers stand on the shoulders of giants, and sometimes progress comes from a chance discovery.'"
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a historical question: 'What do you think is the most important scientific breakthrough in human history?'"
 
@@ -138,7 +138,7 @@ Describe the show structure:
 
         'A major goal is to improve the public understanding of science and increase scientific literacy. This can be done if we promote science education, make science accessible, and bridge the gap between scientists and the public. This helps to foster a culture of scientific inquiry and allows for evidence-based policy-making. However, challenges remain, such as public skepticism towards science, the need to combat scientific misinformation, and the risks of the commercialization of science.'"
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a practical question: 'What is the best way to make science more accessible to the general public?'"
 

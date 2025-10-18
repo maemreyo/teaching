@@ -90,7 +90,7 @@ Describe the show structure:
 
         Part 3 is 'The Cultural Result': Introduce the idea of cultural diffusion and the global spread of cultural products."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a tangible example: 'Look around you right now. Can you spot one product that is a result of global supply chains? Share it in the comments!'"
 
@@ -118,7 +118,7 @@ Describe the show structure:
 
         "Finally, discuss the consequences: This can cause the erosion of cultural identity, the marginalization of local traditions, and the decline of indigenous languages. Ultimately, it threatens cultural diversity and causes places to lose their unique character."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a critical thinking question: 'Do you believe that the dominance of the English language is a major threat to cultural diversity? Explain your view.'"
 
@@ -146,7 +146,7 @@ Describe the show structure:
 
         "Finally, describe the ideal society this creates: a vibrant multicultural society that promotes and celebrates cultural diversity, forming a rich tapestry of cultures."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a personal experience question: 'What is your favorite example of cultural fusion (in food, music, or art)? Share it in the comments!'"
 

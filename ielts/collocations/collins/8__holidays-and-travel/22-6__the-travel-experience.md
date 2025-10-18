@@ -73,7 +73,7 @@ Describe the show structure:
 
         Part 3 is 'The Challenges': Mention the common problems, like a travel delay, getting stuck in a traffic jam, or suffering from jet lag."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a personal question: 'What is your favorite mode of transport when you travel and why?'"
 
@@ -97,7 +97,7 @@ Describe the show structure:
 
         'After you check into your accommodation, which could be budget or luxury, it's time to explore. You can go sightseeing and visit the main tourist attractions, but be careful of tourist traps. A better way is to get off the beaten track, soak up the local atmosphere, and try the local cuisine. For those with a thirst for adventure, there are always exciting things to do. At the end of the day, you might buy souvenirs or send a postcard to remember your trip.'"
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a fun question: 'When you visit a new place, what is the first thing you want to do?'"
 

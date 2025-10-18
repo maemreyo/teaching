@@ -88,7 +88,7 @@ Describe the show structure:
 
         Part 2 is 'The Journey into Space': Describe the key actions, from launching a rocket and going into orbit to visiting an international space station or even landing on a celestial body. Mention the role of a fleet of satellites as well."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a fun, historical call to action: 'What is the most exciting space mission you know about?'"
 
@@ -116,7 +116,7 @@ Describe the show structure:
 
         Part 3 is 'The Earthly Drivers': Cover motivations rooted on Earth, such as geopolitical competition, national pride, and the new era of commercial space travel and exploiting extraterrestrial resources."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a personal, philosophical call to action: 'If you could ask the universe one question, what would it be?'"
 
@@ -142,7 +142,7 @@ Describe the show structure:
 
         Part 2 is 'Impact on Humanity': Cover benefits for life on Earth, including how space tech helps us monitor climate change, how missions foster international collaboration, inspire the next generation, and give us a greater appreciation for our planet."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a fun fact-based call to action: 'What is a piece of technology you use daily that is a spin-off from space programs?'"
 

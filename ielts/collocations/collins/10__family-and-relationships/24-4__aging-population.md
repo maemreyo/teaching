@@ -88,7 +88,7 @@ Describe the show structure:
 
         Part 2 is 'The Consequences': Describe the results of these trends. The proportion of the elderly population (or senior citizens) is growing, leading to a top-heavy age structure. This rapid change is sometimes metaphorically called the 'silver tsunami'."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a personal reflection: 'What do you think is the biggest reason for increased life expectancy in the last century? Share your idea in the comments!'"
 
@@ -114,7 +114,7 @@ Describe the show structure:
 
         Part 2 is 'The Social Pressures': Explain the strain on the social welfare system, particularly the increased strain on the healthcare system due to a growing demand for healthcare services."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a policy-focused question: 'Do you think raising the retirement age is a fair solution to the pension crisis? Vote Yes or No and explain why!'"
 
@@ -140,7 +140,7 @@ Describe the show structure:
 
         Part 2 is 'The Question of Responsibility': Discuss the central debate: is caring for one's aging parents a family responsibility or a state responsibility? Mention the role of community-based support and the unique pressures on the 'sandwich generation'."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a cultural question: 'In your culture, is it more common for elderly parents to live with their children or in nursing homes? Share your cultural norm.'"
 

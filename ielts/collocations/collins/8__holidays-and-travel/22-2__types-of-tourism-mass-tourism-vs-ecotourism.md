@@ -73,7 +73,7 @@ Describe the show structure:
 
         "Finally, discuss the outcomes: This can lead to standardized experiences, a significant carbon footprint from travel, and the problem of economic leakage."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a personal experience question: 'Have you ever been on an all-inclusive package holiday? What was your experience like? Share in the comments!'"
 
@@ -101,7 +101,7 @@ Describe the show structure:
 
         Part 3 is 'The Goals': Discuss the main aims, which are to have a strong educational component and to directly contribute to conservation efforts."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a travel preference question: 'When you travel, what's more important to you: comfort and convenience, or having an authentic cultural experience? Let us know!'"
 

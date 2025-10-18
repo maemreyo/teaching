@@ -104,7 +104,7 @@ Describe the show structure:
         - **The Broader Vision (The 'Why'):** The long-term vision is to restore degraded ecosystems, achieve sustainable development, and safeguard the environment for future generations.
         - **The Human Connection (The 'How'):** This requires us to mitigate the effects of climate change, foster a sense of environmental stewardship, and learn to live in harmony with nature."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a philosophical question: 'Which of these goals do you think is the most urgent for humanity to focus on right now? Share your priority.'"
 
@@ -132,7 +132,7 @@ Describe the show structure:
 
         Part 3 is 'Individual Efforts': Explain what individuals can do, such as adopting green practices, reducing their carbon footprint, and supporting the transition to a circular economy."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a personal action question: 'Of the individual actions we discussed, which one do you find easiest to do in your daily life? Share your experience!'"
 
@@ -159,7 +159,7 @@ Describe the show structure:
         - **The Economic Levers:** Explain the financial tools, such as introducing a carbon tax to discourage pollution and providing subsidies for green technology to encourage innovation.
         - **The Global Stage:** Mention the need for binding international agreements."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a policy debate: 'Which do you think is more effective for changing a company's behavior: a high carbon tax or a strict ban on a polluting activity? Explain your choice.'"
 

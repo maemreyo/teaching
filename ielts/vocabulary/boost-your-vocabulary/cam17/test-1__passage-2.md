@@ -143,7 +143,7 @@ This is a detailed plan to learn all 98 vocabulary words from the reading passag
 
 "Next, describe the modern problem: 'Today, however, stadiums are **regarded** with growing **scepticism**. Construction costs can **soar**, and stadiums built for **major** events have **notably** **fallen into** disuse.'"
 
-"Then, create a compact review screen. Arrange the 16 words in two columns to save space, showing only the word and its synonyms. For example: `word —— synonyms`."
+"Then, create a review screen. Arrange the 16 words in two columns to save space, showing only the word and its synonyms. For example: `word —— synonyms`."
 
 "End with a discussion question: 'Why do you think modern stadiums are **regarded** with **scepticism**, even though they were so important in ancient **empires**?'"
 
@@ -179,7 +179,7 @@ This is a detailed plan to learn all 98 vocabulary words from the reading passag
 
 "Next, introduce a historical example: 'The amphitheatre of Arles, with a **capacity** of 25,000 **spectators**, shows how **versatile** stadiums can be. It became a **fortress**, then a village. With growing **interest** in **conservation**, it was converted back.'"
 
-"Then, create a compact review screen. Arrange the 14 words in two columns, showing the word and its synonyms. For example: `word —— synonyms`."
+"Then, create a review screen. Arrange the 14 words in two columns, showing the word and its synonyms. For example: `word —— synonyms`."
 
 "End with a creative question: 'How could a modern, **mono-functional** sports **arena** in your city **adapt** to become more **versatile**?'"
 
@@ -217,7 +217,7 @@ This is a detailed plan to learn all 98 vocabulary words from the reading passag
 
 "Then, move to the Lucca example: 'In Lucca, an amphitheatre became **absorbed** into **the fabric of** the city. The site **evolved** and was **progressively** filled with buildings.'"
 
-"Then, create a compact review screen. Arrange the 14 words in two columns, showing the word and its synonyms. For example: `word —— synonyms`."
+"Then, create a review screen. Arrange the 14 words in two columns, showing the word and its synonyms. For example: `word —— synonyms`."
 
 "End with a comparative question: 'Which stadium do you find more **imposing**: one used for the **staging** of modern concerts, or one that has **endured** for centuries?'"
 
@@ -254,7 +254,7 @@ This is a detailed plan to learn all 98 vocabulary words from the reading passag
 
 "Finally, introduce a new idea: 'But **innovative** architects see **scope** for stadiums to improve cities. One **particular** idea is the stadium as an urban **hub**.'"
 
-"Then, create a compact review screen. Arrange the 13 words in two columns. For example: `word —— synonyms`."
+"Then, create a review screen. Arrange the 13 words in two columns. For example: `word —— synonyms`."
 
 "End with a reflective question: 'How can cities make stadiums more **accessible** to the **general public** and turn them into urban **hubs**?'"
 
@@ -294,7 +294,7 @@ This is a detailed plan to learn all 98 vocabulary words from the reading passag
 
 "Finally, introduce the power plant stadium concept: 'The idea of stadiums as power stations has **arisen from** the need to **integrate** **interconnected** buildings.'"
 
-"Then, create a compact review screen. Arrange the 16 words in two columns. For example: `word —— synonyms`."
+"Then, create a review screen. Arrange the 16 words in two columns. For example: `word —— synonyms`."
 
 "End with a practical question: 'What kind of facilities, besides **retail outlets**, would you want to see in a stadium to **cater** to a wider **cross-section** of society?'"
 
@@ -332,7 +332,7 @@ This is a detailed plan to learn all 98 vocabulary words from the reading passag
 
 "Finally, introduce real-world examples: 'A new **wave** of power-plant stadiums includes the Kaohsiung Stadium, **inaugurated** in 2009. It supplies power to the surrounding area when not **in use**. This is **proof** that a stadium can serve its city.'"
 
-"Then, create a compact review screen. Arrange the 14 words in two columns. For example: `word —— synonyms`."
+"Then, create a review screen. Arrange the 14 words in two columns. For example: `word —— synonyms`."
 
 "End with a future-focused question: 'Besides **photovoltaic panels** and wind **turbines**, what other technologies could be used in stadiums to generate power?'"
 
@@ -371,6 +371,6 @@ This is a detailed plan to learn all 98 vocabulary words from the reading passag
 
 "Finally, conclude with the future vision: 'The stadium of today now **brings together** multiple functions, helping cities to create a **sustainable** future.'"
 
-"Then, create a compact review screen. Arrange the 15 words in two columns. For example: `word —— synonyms`."
+"Then, create a review screen. Arrange the 15 words in two columns. For example: `word —— synonyms`."
 
 "End with a summary question: 'In the next **era**, what new functions do you think stadiums will **acquire** to help create a **sustainable** future?'"

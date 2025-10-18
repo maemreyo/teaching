@@ -90,7 +90,7 @@ Describe the show structure:
 
         "The outcome for society is that it helps to bridge the skills gap and ensure upward social mobility."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a personal opinion question: 'Do you believe the main purpose of a university education is to get a better job? Vote Yes or No and explain why!'"
 
@@ -116,7 +116,7 @@ Describe the show structure:
 
         Part 2 is 'Building a Strong Nation': Explain how education serves the nation by acting as a driver of economic growth, nurturing future leaders, and ensuring the transmission of cultural values. This equips society to address future challenges."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a critical thinking question: 'In your opinion, what is the most important contribution that an educated person can make to society?'"
 
@@ -144,7 +144,7 @@ Describe the show structure:
 
         Part 3 is 'The Solution': Propose that the ideal is a broad and balanced curriculum that combines both academic knowledge and practical skills."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a curriculum design question: 'If you could add one new subject to the school curriculum, what would it be and why?'"
 

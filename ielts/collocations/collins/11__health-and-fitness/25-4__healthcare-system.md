@@ -105,7 +105,7 @@ Describe the show structure:
 
         Part 2 is 'The Role of Government': Discuss how governments shape these systems through healthcare policy. This includes the allocation of resources, the decision to fund medical research, and the constant need to reform the system to maintain a high standard of care. Mention the different levels, from primary to tertiary care."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a policy debate: 'Do you believe universal healthcare should be a right for all citizens? Vote Yes or No and explain your reasoning.'"
 
@@ -133,7 +133,7 @@ Describe the show structure:
 
         "Finally, cover the patient's rights and risks: the right to get a second opinion and give informed consent before a procedure, and the risk of medical malpractice."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a question about trust: 'What is the most important quality you look for in a doctor? Share your thoughts in the comments!'"
 
@@ -159,7 +159,7 @@ Describe the show structure:
 
         Part 2 is 'The Science of Medicine': Discuss how treatments are developed and evaluated. This involves rigorous clinical trials to find a medical breakthrough. Mention the importance of evidence-based medicine and the interesting phenomenon of the placebo effect."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a personal opinion question: 'Do you believe in the effectiveness of alternative medicine (like acupuncture or herbal remedies)? Share your experience or opinion.'"
 
@@ -187,6 +187,6 @@ Describe the show structure:
 
         "Finally, explain the impact on the system: these high costs put an immense strain on the healthcare system as a whole, and in some cases, may even force hospitals to ration healthcare. The ultimate goal is to achieve equitable access for all."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a final, challenging question: 'Do you think it's ever acceptable for a society to ration healthcare? Explain your difficult choice in the comments.'"

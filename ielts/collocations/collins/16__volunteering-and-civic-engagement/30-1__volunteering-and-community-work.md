@@ -72,7 +72,7 @@ Describe the show structure:
 
         Part 2 is 'The Personal Rewards': Cover the benefits for the volunteer themselves. It can nurture empathy, build a sense of compassion, and lead to great personal fulfillment. On a practical level, it can also improve one's employability."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a personal reflection: 'What is the number one reason that would motivate you to volunteer?'"
 
@@ -96,7 +96,7 @@ Describe the show structure:
 
         'You can take part in community service through an environmental cleanup drive or by helping to run a soup kitchen. You could mentor underprivileged youth or do animal shelter volunteering. If you have professional skills, you can do skills-based volunteering or provide pro bono services. In times of crisis, you can join a disaster relief effort or participate in a blood donation drive. And today, you can even do remote volunteering online.'"
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a preference question: 'Which of these volunteer activities do you find the most appealing or meaningful?'"
 

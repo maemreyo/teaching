@@ -88,7 +88,7 @@ Describe the show structure:
 
         "Then, describe the specific roles: The man was the head of the household and the male breadwinner. The woman fulfilled her traditional role as the female homemaker, confined to the domestic sphere and responsible for domestic responsibilities. Explain that these roles were based on gender stereotypes."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a critical thinking question: 'What do you think was the biggest disadvantage of the traditional family model? Share your opinion in the comments!'"
 
@@ -116,7 +116,7 @@ Describe the show structure:
 
         "Finally, explain the ideal: an egalitarian partnership with an equitable division of labor, where both partners share parental responsibilities."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a poll: 'In a modern family, do you believe household chores should be split exactly 50/50, or based on other factors? Share your view!'"
 
@@ -142,7 +142,7 @@ Describe the show structure:
 
         Part 2 is 'Broader Social and Economic Shifts': Cover other major trends, such as shifting social attitudes, the rise of individualism, and economic necessity. Mention technological/medical changes like the availability of contraception, which has enabled delayed marriage and childbirth."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a critical thinking question: 'Which of these factors do you think has been the most powerful driver of change in family roles? Explain your choice.'"
 

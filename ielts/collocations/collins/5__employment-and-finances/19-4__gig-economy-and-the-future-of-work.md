@@ -88,7 +88,7 @@ Describe the show structure:
 
         Part 2 is 'The People and the Work': Introduce the people, known as gig workers, freelancers, or independent contractors. Describe their work as project-based, often leading to a portfolio career through a series of short-term contracts."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a simple poll: 'Have you ever used an on-demand service from the platform economy (like Uber, Grab, or Airbnb)? Let us know in the comments!'"
 
@@ -114,7 +114,7 @@ Describe the show structure:
 
         Part 2 is 'The Insecurities (The Cons)': Discuss the significant drawbacks, such as the lack of job security, a fluctuating income, a lack of statutory benefits, and the reality of precarious work. Mention the 'feast or famine' cycle, the blurring of lines between work and life, and the intense competition."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a personal reflection question: 'For you, which is more important in a job: flexibility or security? Share your priority in the comments!'"
 
@@ -140,7 +140,7 @@ Describe the show structure:
 
         Part 2 is 'The Broader Economic Impact': Discuss the larger trends, such as the shift away from traditional employment and how this model disrupts traditional industries. Cover the argument that it creates a dynamic labor market, but also faces regulatory uncertainty."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a critical thinking question: 'Do you think the benefits of the gig economy for businesses outweigh the potential downsides for workers? Share your opinion.'"
 

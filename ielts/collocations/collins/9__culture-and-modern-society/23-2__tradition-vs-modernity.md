@@ -88,7 +88,7 @@ Describe the show structure:
 
         Part 2 is 'Why We Preserve It': Explain the motivations. We do it to pass down traditions, maintain a tangible link to the past, and combat the erosion of traditional values in places that are steeped in history."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a personal reflection: 'What is one tradition from your culture that you believe is most important to pass down to future generations? Share it in the comments!'"
 
@@ -114,7 +114,7 @@ Describe the show structure:
 
         "Then, explain what this means in practice. It involves scientific advancements, social reform, and sometimes the courage to break with convention or even discard outdated and harmful traditions in favor of a modern, cosmopolitan lifestyle."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a critical thinking question: 'Can you name one outdated tradition from the past that society was right to discard? Explain your choice.'"
 
@@ -140,7 +140,7 @@ Describe the show structure:
 
         Part 2 is 'The Consequences': Explain how modern ideas challenge traditional norms, which can be met with resistance to change. Some traditions may be seen as incompatible with modern values and become obsolete, leading to a sense of cultural loss. This complex situation requires people to navigate its complexities."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a question about personal experience: 'Have you ever experienced a clash between traditional and modern values in your own life? What was it about?'"
 

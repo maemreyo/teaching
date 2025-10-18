@@ -69,7 +69,7 @@ Describe the show structure:
 
         'You might strike up a friendship with someone because you have a lot in common and enjoy their company. If you are lucky, you form a lasting friendship and they become a close friend in your circle of friends, someone who is a shoulder to cry on and with whom you see eye to eye. You might have many other casual acquaintances. Over time, however, it's possible to drift apart and lose touch with old friends.'"
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a reflective question: 'What is the most important quality you look for in a close friend?'"
 
@@ -95,7 +95,7 @@ Describe the show structure:
 
         Part 2 is 'The Bad Habits': In contrast, some people dominate the conversation, leading to awkward silences. The goal is to socialize with people, not just talk at them."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a practical advice question: 'What is your best tip for breaking the ice when you meet new people?'"
 

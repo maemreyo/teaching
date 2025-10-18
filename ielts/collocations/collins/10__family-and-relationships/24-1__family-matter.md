@@ -88,7 +88,7 @@ Describe the show structure:
 
         Part 2 is 'Roles and Responsibilities': Discuss the traditional roles of the primary breadwinner and the primary caregiver, and the modern trend towards a more equal division of household labor. Cover the general duties, like shouldering responsibility, providing for one's family, and fulfilling family obligations. Mention that family reunions help to strengthen family ties."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a cultural question: 'In your culture, is the nuclear family or the extended family more common?'"
 
@@ -112,7 +112,7 @@ Describe the show structure:
 
         'Start by introducing the different parenting styles and child-rearing practices, which have a formative influence and shape a child's character. Then, discuss the key actions of a parent: they instill values and pass them on to the next generation, set clear boundaries, and provide unconditional love and support. Finally, mention the importance of parental involvement in education and the potential pitfall of overprotective parenting.'"
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a reflective question: 'What do you think is the single most important value a parent can instill in a child?'"
 
@@ -138,7 +138,7 @@ Describe the show structure:
 
         Part 2 is 'The Solutions': Cover the ways to handle these issues, such as the goal to resolve a conflict peacefully, the ability to show affection, the choice to mend fences, and the option to seek professional family counseling."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a practical advice question: 'What is your best advice for resolving a small conflict with a family member peacefully?'"
 

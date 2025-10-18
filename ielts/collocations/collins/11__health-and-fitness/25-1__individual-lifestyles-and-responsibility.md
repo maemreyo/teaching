@@ -88,7 +88,7 @@ Describe the show structure:
         - **Pillar 2 (Movement):** Cover the need to engage in regular physical activity and adhere to a fitness regimen to maintain a healthy weight.
         - **Pillar 3 (Rest & Resilience):** Explain the importance of getting adequate sleep to boost one's immune system. Emphasize that all these habits support not just physical health but also mental well-being, and are the best form of preventative healthcare."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a personal reflection: 'Of these healthy habits, which one do you find the most challenging to maintain consistently? Share your challenge in the comments!'"
 
@@ -115,7 +115,7 @@ Describe the show structure:
         - **Other Behaviors:** Cover issues like chronic sleep deprivation, leading a stressful life, and engaging in risky health behaviors.
         - **The Result:** Explain that these habits are a major contributing factor to being out of shape and developing diseases."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a critical thinking question: 'Which do you think is a bigger health problem in modern society: a sedentary lifestyle or poor dietary habits? Explain your choice.'"
 
@@ -141,7 +141,7 @@ Describe the show structure:
 
         Part 2 is 'The Argument for Societal Responsibility': Present the counter-argument that societal factors play a huge role. This side emphasizes the role of government in public health, using public health campaigns and creating a supportive environment that makes healthy choices easier."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a poll: 'Ultimately, who do you think has more influence on a person's health: the individual or society? Cast your vote in the comments!'"
 

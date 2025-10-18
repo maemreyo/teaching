@@ -72,7 +72,7 @@ Describe the show structure:
 
         Part 2 is 'The Fan Ecosystem': Explain that fame is built on a fan base. This can be a small cult following or a massive global community. Fan loyalty is crucial. In the modern era, fame can be achieved when content goes viral, and influencers can then monetize their fame."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a modern culture question: 'Do you think it's easier or harder to achieve celebrity status today than it was 50 years ago?'"
 
@@ -96,7 +96,7 @@ Describe the show structure:
 
         'A celebrity is constantly in the media spotlight, receiving media coverage for every public appearance. Sometimes, a single event can cause a media frenzy. This is fueled by tabloid coverage and paparazzi culture, which often try to exposé their personal life. To manage this, some use a publicity stunt to control the narrative. However, too much attention can lead to overexposure, causing many celebrities to wish they could escape the spotlight.'"
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a debate question: 'Do you think the media has a right to report on the private lives of public figures?'"
 

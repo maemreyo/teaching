@@ -72,7 +72,7 @@ Describe the show structure:
 
         Part 2 is 'Dressing for the World': Cover the social aspect of dressing. This includes the need to dress for the occasion, the desire to dress to impress, and the skill of good outfit coordination to avoid a fashion faux pas."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a personal question: 'How would you describe your own personal style in three words?'"
 
@@ -98,7 +98,7 @@ Describe the show structure:
 
         Part 2 is 'The Industry Models': Contrast the world of high-end fashion and expensive designer labels with the modern phenomenon of fast fashion. Introduce the growing importance of sustainable fashion as an alternative."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a debate question: 'Is fast fashion a good thing or a bad thing for society?'"
 

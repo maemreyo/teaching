@@ -86,7 +86,7 @@ Describe the show structure:
 
         Part 2 is 'The Types of Community': Describe the characteristics of strong communities, whether they are close-knit or vibrant and diverse. Discuss how community members contribute to a shared local identity and a sense of place."
 
-    "Then, create a compact review screen. Arrange the 8 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 8 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a personal reflection: 'What is one thing that gives your own neighborhood a unique local identity? Share it in the comments!'"
 
@@ -112,7 +112,7 @@ Describe the show structure:
 
         Part 2 is 'Organized Community Efforts': Cover more organized actions, such as community-led initiatives and the work of grassroots organizations. Explain how community centers provide a space for these activities, and how collective action can strengthen community bonds and foster a sense of community."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a practical, idea-sharing question: 'What is one community-led initiative you would love to see in your neighborhood (like a community garden or a street festival)?'"
 
@@ -141,7 +141,7 @@ Describe the show structure:
         - **In Neighborhoods:** A transient population, gentrification, and poor urban design can create fragmented communities.
         - **The Result:** All these factors can cause individuals to feel disconnected, leading to social isolation and alienation."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a critical thinking question: 'What do you think is the single biggest cause of the decline of community spirit in modern society?'"
 

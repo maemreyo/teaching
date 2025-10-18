@@ -88,7 +88,7 @@ Describe the show structure:
 
         Part 2 is 'The Actions of Change': Explain how this mindset translates into action. Young people use their powerful voice to question established norms, challenge the status quo, and drive social progress, positioning them as agents of change and the torchbearers of the future."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a forward-looking question: 'What is one major global issue where you think the fresh perspective of young people is needed the most right now?'"
 
@@ -114,7 +114,7 @@ Describe the show structure:
 
         Part 2 is 'The Actions of a Citizen': Cover the practical ways this mindset is expressed, from community involvement and volunteering for a cause to deeper civic engagement like social and political activism, participating in the political process, holding leaders accountable, and starting grassroots movements."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a practical question: 'What is one small way a young person can make a positive contribution to their local community? Share your ideas in the comments!'"
 
@@ -140,7 +140,7 @@ Describe the show structure:
 
         Part 2 is 'The Internal Consequences': Explain how these external barriers can make young people feel marginalized, disenfranchised, and disempowered. This can ultimately lead to political apathy, which is one of the biggest barriers to participation."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a question about solutions: 'What do you think is the single biggest barrier preventing young people from participating in politics today?'"
 

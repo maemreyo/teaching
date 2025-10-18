@@ -88,7 +88,7 @@ Describe the show structure:
 
         Part 2 is 'The Learning Process': Cover how we learn, from the science of second-language acquisition to how we pick up a language naturally when we are immersed in a culture. It's important to set clear learning goals to make steady progress and overcome moments when you reach a plateau."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a motivational question: 'What is one learning goal you have for your English this month?'"
 
@@ -114,7 +114,7 @@ Describe the show structure:
 
         Part 2 is 'Methods & Skills': Cover teaching philosophies like a communicative approach and task-based learning. Mention specific practice techniques like using spaced repetition to build vocabulary and shadowing to practice pronunciation and improve grammar."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a practical question: 'What is your favorite self-study method for learning English?'"
 
@@ -140,7 +140,7 @@ Describe the show structure:
 
         Part 2 is 'The Journey': The process involves practicing the four language skills, constantly trying to expand one's vocabulary, and working to improve accuracy and fluency. It's okay to make grammatical mistakes or have a thick accent along the way."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with an encouraging question: 'In your opinion, which is more important for a language learner: fluency or accuracy?'"
 

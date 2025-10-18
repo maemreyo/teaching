@@ -92,7 +92,7 @@ Describe the show structure:
 
         "The journey concludes when they graduate from university."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a personal question: 'If you could major in any subject at university, what would you choose and why? Share your dream major in the comments!'"
 
@@ -118,7 +118,7 @@ Describe the show structure:
 
         Part 2 is 'The Potential Solutions': Explore the different approaches to funding. This includes public investment, where education is state-funded or subsidized, leading to the ideal of tuition-free education. For individuals, the best option is to be awarded a scholarship."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a policy debate: 'Do you believe that higher education should be tuition-free for all students? Vote Yes or No and explain your reasoning.'"
 
@@ -144,7 +144,7 @@ Describe the show structure:
 
         Part 2 is 'The Personal & Intellectual Purpose': Cover the other side, which is about fostering intellectual development and cultivating critical thinking skills. This is the intrinsic value of a degree, where the goal is simply to acquire in-depth knowledge."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a personal opinion question: 'What do you believe is the most important outcome of a university education: better job prospects or intellectual development?'"
 

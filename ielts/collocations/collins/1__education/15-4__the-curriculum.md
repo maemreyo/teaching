@@ -89,7 +89,7 @@ Describe the show structure:
 
         "Finally, address the common criticism: that it can sometimes lead to the rote memorization of facts rather than true understanding."
 
-    "Then, create a compact review screen. Arrange the 9 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 9 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a personal reflection: 'What was your favorite core subject in school, and why did you enjoy it? Share in the comments!'"
 
@@ -115,7 +115,7 @@ Describe the show structure:
 
         Part 2 is 'Skills for Work': Explain how vocational training and hands-on learning can better prepare students for the modern workforce. The goal is to equip them with transferable skills, soft skills, digital competence, and even entrepreneurial skills. The key is to show the real-world applications of learning."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a practical question: 'If you could add one practical life skill to the school curriculum (like cooking, personal finance, or basic car repair), what would it be?'"
 
@@ -143,7 +143,7 @@ Describe the show structure:
 
         Part 3 is 'The Solution': Conclude that the two sides should complement each other to provide a well-rounded education."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a poll: 'If a school had to cut funding for one department, which should it be: the arts or the sciences? Make your difficult choice in the comments!'"
 

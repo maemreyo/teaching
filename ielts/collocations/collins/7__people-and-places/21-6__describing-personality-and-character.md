@@ -56,7 +56,7 @@ Describe the show structure:
 
         Part 3 is 'Personal Strengths': Discuss traits related to their mindset and abilities, like having a can-do attitude, being a good listener, having a thirst for knowledge, and being incredibly resilient."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a personal reflection: 'Think of a person you admire. Which of these qualities do they have?'"
 
@@ -84,6 +84,6 @@ Describe the show structure:
 
         Part 3 is 'Social Flaws': Discuss other negative social habits, like being a bit of a gossip, having a selfish streak, or being prone to exaggeration. Also mention internal challenges like being painfully shy."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a question that encourages nuanced thinking: 'Can a negative trait, like being brutally blunt, sometimes be a good thing?'"

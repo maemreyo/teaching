@@ -88,7 +88,7 @@ Describe the show structure:
 
         Part 2 is 'The Seamless Journey': Explain the technologies that streamline the travel process, such as biometric technology, the Internet of Things in smart hotels, and real-time translation devices. Mention futuristic ideas like VR tourism and high-speed transportation."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a tech-focused question: 'Which of these future travel technologies are you most excited to try? Share your pick in the comments!'"
 
@@ -114,7 +114,7 @@ Describe the show structure:
 
         Part 2 is 'The Sustainable Actions': Explain the practical applications of this mindset. This includes personal actions like minimizing one's footprint, offsetting emissions, reducing plastic waste, and joining the slow travel movement. Cover broader goals like combating overtourism, supporting biodiversity conservation, and the new idea of regenerative travel."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a personal commitment question: 'What is one small change you will make on your next trip to be a more eco-conscious traveler? Share your pledge!'"
 
@@ -140,7 +140,7 @@ Describe the show structure:
         - **The Outer Journey:** Cover travel focused on adventure and exploration, like adventure tourism, exploring uncharted territories, and the ultimate adventure: space tourism and commercial spaceflights.
         - **The Lifestyle Journey:** Mention the rise of the digital nomad lifestyle, where travel becomes a way of life."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a dream travel question: 'If you could choose one of these new travel styles for your next big trip, which would it be: wellness, adventure, culinary, or something else?'"
 

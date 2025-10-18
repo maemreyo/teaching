@@ -72,7 +72,7 @@ Describe the show structure:
 
         Part 2 is 'People & Principles': Cover the people involved, such as the civil service and the ministers who might be changed in a cabinet reshuffle. Discuss the principles of effective governance, which include government transparency and the ability to hold leaders accountable."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a critical thinking question: 'Which do you think is more effective: a centralized or a decentralized system of government?'"
 
@@ -96,7 +96,7 @@ Describe the show structure:
 
         'First, the government might decide to introduce a policy. To do this, they draft a bill, which is then debated and eventually, they hope, parliament will pass the legislation. After a law is passed, the government must enforce the regulations. The whole system depends on efforts to strengthen the rule of law and uphold justice. Sometimes, the system itself needs changing, through things like electoral reform or new anti-corruption measures.'"
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a debate question: 'What is the most important quality of a good legal system?'"
 

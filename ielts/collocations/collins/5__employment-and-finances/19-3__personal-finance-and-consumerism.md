@@ -88,7 +88,7 @@ Describe the show structure:
 
         Part 2 is 'The Actions and Goals': Discuss the practical steps, such as setting financial goals, practicing frugality, living within your means, building an emergency fund, and investing in a diversified portfolio to plan for retirement."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a practical call to action: 'What is one financial goal, big or small, that you are working towards right now? Share it in the comments!'"
 
@@ -114,7 +114,7 @@ Describe the show structure:
 
         Part 2 is 'The Burden of Debt': Discuss the consequences of being heavily in debt or burdened with debt, and the ultimate goal of cutting back on spending in order to pay off a debt."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a practical advice-sharing question: 'What is your best tip for cutting back on spending and avoiding impulse buying? Share your advice in the comments!'"
 
@@ -140,7 +140,7 @@ Describe the show structure:
 
         Part 2 is 'The Behaviors and Consequences': Discuss the specific behaviors like conspicuous consumption and the pressure to keep up with the Joneses. Cover the negative outcomes, such as a throw-away culture, which is often driven by planned obsolescence, and the endless chase for material possessions and status symbols."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a critical thinking question: 'How do advertising campaigns influence your own spending habits? Be honest! Share your thoughts in the comments.'"
 

@@ -54,7 +54,7 @@ Describe the show structure:
 
         Part 2 is 'Communication in Action': In practice, this means you can get a message across and engage the audience. Developing public speaking skills and assertiveness skills helps you become a confident communicator."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a self-reflection question: 'Which of these communication skills do you find the most challenging?'"
 
@@ -78,6 +78,6 @@ Describe the show structure:
 
         'The most obvious issue is a language barrier. But even in the same language, a failure to communicate can lead to a communication breakdown. This happens when people have a misunderstanding, misinterpret someone's intentions, or speak at cross-purposes. Sometimes, people just talk past each other. This is common when a phrase is lost in translation or when someone uses words that create ambiguity.'"
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a practical question: 'What is the best way to resolve a misunderstanding with someone?'"

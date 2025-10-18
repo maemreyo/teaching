@@ -88,7 +88,7 @@ Describe the show structure:
 
         Part 2 is 'The Traveler's Perspective': Discuss the experience of the traveler, from planning a travel itinerary to the difference between a typical tourist and a seasoned traveler who might go off the beaten track."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a personal travel style question: 'Are you the type of traveler who loves popular hotspots, or do you prefer to go off the beaten track? Share your style in the comments!'"
 
@@ -114,7 +114,7 @@ Describe the show structure:
 
         Part 2 is 'The Socio-Cultural Benefits': Cover how tourism can promote cross-cultural exchange, which fosters mutual understanding and tolerance. Explain how it can also provide the incentive to preserve cultural heritage, revitalize local traditions, and showcase a country's natural beauty."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a question about cultural preservation: 'Can you think of a local tradition or historic site in your area that is preserved because of tourism? Share an example!'"
 
@@ -142,7 +142,7 @@ Describe the show structure:
 
         Part 3 is 'Economic Impacts': Explain the economic downsides, such as a surge in the cost of living, the strain on local resources, and the instability of seasonal employment."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a critical thinking question: 'In your opinion, which negative impact of mass tourism is the most serious: environmental damage or cultural erosion? Explain your choice.'"
 

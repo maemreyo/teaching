@@ -72,7 +72,7 @@ Describe the show structure:
 
         Part 2 is 'Sustainable vs. Conventional': Contrast sustainable agriculture and organic farming with conventional methods like monoculture farming. Explain techniques like crop rotation and the importance of efficient irrigation systems."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a debate question: 'Which is more important for the future: increasing crop yield through technology or promoting sustainable agriculture?'"
 
@@ -98,7 +98,7 @@ Describe the show structure:
 
         Part 2 is 'The Scientific Solutions': Explain how science helps, through the development of high-yield varieties and climate-resilient crops like drought-resistant or genetically modified crops. Mention sustainable practices like biological control and good soil fertility management."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a critical thinking question: 'Do you believe the benefits of genetically modified (GM) crops outweigh the potential risks?'"
 

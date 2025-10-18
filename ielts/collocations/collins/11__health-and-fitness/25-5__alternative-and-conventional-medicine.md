@@ -90,7 +90,7 @@ Describe the show structure:
 
         "Finally, mention a key characteristic: treatments often focus on the symptoms and are acknowledged to have potential side effects."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a personal experience question: 'What is your opinion on the use of pharmaceutical drugs for common illnesses like colds or headaches?'"
 
@@ -116,7 +116,7 @@ Describe the show structure:
 
         Part 2 is 'The Practices': Give examples of time-honored healing practices like acupuncture and homeopathy. Mention that these are often non-invasive treatments, such as natural remedies, which proponents claim have minimal side effects."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a cultural question: 'Is there a popular form of traditional or herbal medicine in your culture? Share an example in the comments!'"
 
@@ -144,7 +144,7 @@ Describe the show structure:
 
         "Finally, discuss the solution: the idea of using therapies to complement conventional treatments, leading to an integrative approach to healthcare where patients can make an informed decision."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a policy-focused question: 'Do you believe complementary therapies should be offered in mainstream hospitals? Vote Yes or No and explain why.'"
 

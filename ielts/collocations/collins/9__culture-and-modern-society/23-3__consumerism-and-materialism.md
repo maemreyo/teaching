@@ -88,7 +88,7 @@ Describe the show structure:
 
         Part 2 is 'The Social Behaviors': Discuss how these concepts manifest in people's actions. Cover the desire to keep up with trends, brand consciousness, and the use of designer labels as a status symbol, which can lead to conspicuous consumption."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a personal reflection: 'What is one material possession you own that you feel is a status symbol in today's society? Share it in the comments!'"
 
@@ -114,7 +114,7 @@ Describe the show structure:
 
         Part 2 is 'The Psychological Drivers': Discuss the "demand side" factors. This includes persuasive advertising that bombards us and cultivates artificial needs. Cover the social pressures, like peer pressure, the desire to keep up with the Joneses, the influence of celebrity culture, and the underlying desire for social status."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a critical thinking question: 'Which do you think is a more powerful driver of consumerism today: advertising or peer pressure? Share your view.'"
 
@@ -142,7 +142,7 @@ Describe the show structure:
 
         "Finally, cover the social consequences: it encourages people to live beyond their means, leading to the accumulation of debt. It also causes the erosion of traditional values, the neglect of interpersonal relationships, and becomes a source of social competition and envy."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a philosophical question: 'What is one non-material thing that brings you a deep and lasting sense of fulfillment? Share it in the comments!'"
 

@@ -88,7 +88,7 @@ Describe the show structure:
 
         'If you travel to a coastal region, you might find a beach with crystal clear water. All of this combines to create breathtaking scenery.'"
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a personal practice question: 'Describe a place of natural beauty in your country using at least three of the collocations we learned today.'"
 
@@ -112,7 +112,7 @@ Describe the show structure:
 
         'Imagine a place that is remote and secluded. It's peaceful and tranquil. You breathe in the fresh mountain air and listen to the sounds of nature. This gives you a sense of serenity, a feeling of awe and wonder. From a high point, you see a panoramic view of the awe-inspiring beauty. In that moment, you feel at one with nature.'"
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a reflective question: 'Think of a time you felt a sense of awe and wonder in nature. Where were you and what did you see?'"
 
@@ -138,7 +138,7 @@ Describe the show structure:
 
         'What do they do there? They might go hiking or trekking, go camping, or simply have a picnic and watch the sunset. Even if a place is a popular tourist destination, you can still find quiet moments to enjoy.'"
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a personal choice question: 'Which activity do you prefer: going camping deep in the forest or having a relaxing picnic on a beach? Explain your preference.'"
 

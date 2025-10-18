@@ -88,7 +88,7 @@ Describe the show structure:
 
         Part 2 is 'The Key Channels': Detail the specific ways we communicate silently, including Facial expressions, Eye contact, Gestures, Posture, Tone of voice, Personal space, and even Physical appearance."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with an observational question: 'In your culture, is making a lot of eye contact considered polite or rude?'"
 
@@ -114,7 +114,7 @@ Describe the show structure:
 
         Part 2 is 'Enhancing the Conversation': Explain why these cues are an essential part of communication that helps complement or even contradict the verbal message, regulate the flow of conversation, and build rapport with someone."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a reflective question: 'Think about a time you knew how someone was feeling without them saying a word. What non-verbal cue told you?'"
 
@@ -140,7 +140,7 @@ Describe the show structure:
 
         Part 2 is 'The Risk of Misunderstanding': Cover the common pitfalls. People are often unaware of the unconscious signals they send. This can cause them to send mixed signals. If we jump to conclusions, we can misinterpret a gesture and make a social faux pas."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a relatable question: 'Have you ever misinterpreted someone's message because you couldn't see their face?'"
 

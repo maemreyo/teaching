@@ -86,7 +86,7 @@ Describe the show structure:
 
         'First, define the broad field of Information Technology (IT) that started a digital revolution, leading to the digital transformation of our world. Then, explain the key infrastructure that powers it all: the global network infrastructure, high-speed internet access, wireless connectivity, and cloud computing, which brings us things like Software as a Service through an intuitive user interface.'"
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a thought-provoking call to action: 'Which of these foundational technologies do you think has changed the world the most?'"
 
@@ -112,7 +112,7 @@ Describe the show structure:
 
         Part 2 is 'The Impact on Business': Discuss how these changes have created a globalized world with a new digital economy, where companies use IT to streamline business operations."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a personal reflection: 'What has been the biggest way technology has transformed your own daily life?'"
 
@@ -138,7 +138,7 @@ Describe the show structure:
 
         Part 2 is 'The Challenges of Information': Cover the downsides, such as information overload, the spread of misinformation, and the creation of echo chambers. This is why skills like digital literacy and the ability to verify the accuracy of information are so important."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a practical, skill-based call to action: 'What is your number one tip for verifying the accuracy of information you find online?'"
 

@@ -71,7 +71,7 @@ Describe the show structure:
 
         Part 2 is 'The Medical Potential': Show the amazing possibilities, explaining that this controversial science has enormous potential to use gene therapy to cure genetic disorders and one day maybe even eradicate diseases."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a hopeful, forward-looking question: 'Which potential benefit of genetic engineering do you think is the most exciting?'"
 
@@ -97,7 +97,7 @@ Describe the show structure:
 
         Part 2 is 'The Concerns': Explain the arguments against them, focusing on the debate over whether they are safe for human consumption, the unknown long-term effects on health, the risk of a loss of biodiversity, and the dependency on multinational corporations. Mention the need for stringent safety testing."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a balanced call to action: 'After hearing both sides, what is your opinion on GM foods?'"
 

@@ -54,7 +54,7 @@ Describe the show structure:
 
         Part 2 is 'The Struggling Student': Describe a student who starts to fall behind with their studies. They might even play truant, and if things get worse, they might drop out of school entirely."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a personal reflection question: 'What is the most important study habit for a student to have? Share your best tip in the comments!'"
 
@@ -80,6 +80,6 @@ Describe the show structure:
 
         Part 2 is 'The Student Experience': Describe the student journey. Before the test, some students might cram for an exam, while a few might even try to cheat. After they sit the exam, they wait for their exam results to see if they passed or failed. The ultimate goal is to meet the learning outcomes of the course."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a controversial question: 'Is it ever acceptable to cram for an exam, or is it always a bad study method? Share your opinion! '"

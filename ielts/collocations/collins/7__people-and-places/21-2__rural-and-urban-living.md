@@ -71,7 +71,7 @@ Describe the show structure:
 
         Part 2 is 'The Challenges and Criticisms': Cover the potential downsides, such as the feeling of being in a concrete jungle and the sometimes lonely anonymity of urban living."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a personal poll: 'What is the best thing about living in a big city? Is it the food, the culture, the opportunities, or something else? Share your favorite part!'"
 
@@ -97,7 +97,7 @@ Describe the show structure:
 
         Part 2 is 'The Potential Drawbacks': Acknowledge the challenges, such as a potential sense of isolation and the reality of limited access to specialized amenities."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a preference question: 'If you had to choose, what is the biggest advantage of countryside living for you: the peace and quiet or the strong sense of community? Let us know!'"
 

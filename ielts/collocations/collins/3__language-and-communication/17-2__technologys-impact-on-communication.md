@@ -71,7 +71,7 @@ Describe the show structure:
 
         Part 2 is 'The Power of Connection': Focus on the benefits these tools bring, allowing Instantaneous communication that helps us stay in touch with people, bridge geographical distances, foster global connections, and build online communities."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a simple, personal question: 'What is your favorite digital tool to stay in touch with friends and family?'"
 
@@ -97,7 +97,7 @@ Describe the show structure:
 
         Part 2 is 'Impact on Truth & Communication': Cover how our interactions can suffer, using A decline in the quality of communication, how we can misinterpret the tone of a message, the dangers of The spread of misinformation in an echo chamber, and An invasion of privacy."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a call to action: 'What is one thing you do to avoid information overload from social media? Share your tip!'"
 

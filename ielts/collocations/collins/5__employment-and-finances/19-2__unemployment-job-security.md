@@ -88,7 +88,7 @@ Describe the show structure:
 
         Part 2 is 'The Structural Shifts': Discuss the deeper, long-term changes like deindustrialization and technological disruption, which can cause structural unemployment. Mention specific challenges like youth and long-term unemployment."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a thought-provoking question: 'In the future, which do you think will be a bigger cause of unemployment: economic recessions or technological disruption? Share your prediction!'"
 
@@ -114,7 +114,7 @@ Describe the show structure:
 
         Part 2 is 'The New Reality': Explore the modern landscape, including the gig economy, contract-based employment, and other atypical work arrangements. Discuss the challenges this creates, such as precarious employment, underemployment, zero-hours contracts, and the need for high employability."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a poll: 'What do you personally value more in a career: the stability of a permanent job or the flexibility of freelance work? Let us know in the comments!'"
 
@@ -142,7 +142,7 @@ Describe the show structure:
 
         Part 3 is 'The Impact on the State': Explain the economic burden, including the strain on public finances, the need to rely on state benefits, and the increased burden on the welfare system."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a question that encourages empathy: 'Which consequence of unemployment do you think is the most difficult for a person to overcome? Share your thoughts.'"
 

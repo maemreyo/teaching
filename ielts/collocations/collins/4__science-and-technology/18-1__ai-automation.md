@@ -88,7 +88,7 @@ Describe the show structure:
 
         Part 2 is 'The Superpowers of AI': Explain what these technologies do, such as being trained on a dataset to process vast amounts of data, recognize patterns, and mimic human intelligence."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a fun, modern call to action: 'What is your favorite real-world example of Artificial Intelligence?'"
 
@@ -112,7 +112,7 @@ Describe the show structure:
 
         'Start by explaining that AI is a technological breakthrough. This allows us to automate repetitive tasks, which helps to streamline operations and optimize processes. We can analyze large datasets to gain actionable insights using predictive analytics. This enables data-driven decision-making, which ultimately helps to boost efficiency and productivity and enhance accuracy.'"
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a relatable call to action: 'What is one repetitive task you would love to automate?'"
 
@@ -138,7 +138,7 @@ Describe the show structure:
 
         Part 2 is 'The Path Forward': Discuss the other side, where AI can augment human capabilities and create new job opportunities. This requires the workforce of the future to address the skills gap through reskilling and upskilling, all part of AI's profound impact on society."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a forward-looking call to action: 'What is one new skill you think will be important for the workforce of the future?'"
 

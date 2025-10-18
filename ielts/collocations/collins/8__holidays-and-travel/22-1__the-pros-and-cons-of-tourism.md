@@ -71,7 +71,7 @@ Describe the show structure:
 
         Part 2 is 'The Cultural Bridge': Cover how tourism promotes cross-cultural understanding, provides the incentive to preserve cultural heritage, and can even revitalize local traditions. Mention how it can also raise a country's international profile."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a personal reflection: 'Which benefit of tourism do you think is the most important for a country: economic growth or cultural preservation? Share your view.'"
 
@@ -99,7 +99,7 @@ Describe the show structure:
 
         Part 3 is 'Economic Impacts': Explain the economic downsides, such as putting a severe strain on local resources, causing a surge in the cost of living, and the instability created by the rise of seasonal employment."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a critical thinking question: 'In your opinion, which negative impact of mass tourism is the most serious: environmental damage or cultural erosion? Explain your choice.'"
 

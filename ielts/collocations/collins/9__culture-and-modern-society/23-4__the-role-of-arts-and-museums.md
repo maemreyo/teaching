@@ -88,7 +88,7 @@ Describe the show structure:
 
         Part 2 is 'The Creative Impulse': Discuss the motivations behind art. Explain that it is a form of artistic expression and self-expression, driven by the creative process. Mention the role of the aspiring artist and the idea of aesthetic value."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a personal preference question: 'Which do you enjoy more: the performing arts (like music or theatre) or the visual arts (like painting or sculpture)? Share your choice!'"
 
@@ -114,7 +114,7 @@ Describe the show structure:
         - **The 'Present' Function (Reflection):** Discuss how art reflects the values of a society, challenges our perceptions, and promotes cultural understanding.
         - **The 'Future' Function (Inspiration):** Cover how the arts educate the public, foster creativity and critical thinking, provide a source of inspiration, and ultimately enrich our lives."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a thought-provoking question: 'In your opinion, what is the single most important role of a museum in society? Share your view in the comments.'"
 
@@ -140,7 +140,7 @@ Describe the show structure:
 
         Part 2 is 'The Argument For Public Funding': Present the counter-argument that art is an essential public service and a justifiable use of public funds. This side argues that charging admission fees can limit access and that not all valuable art can survive on philanthropic donations alone."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a poll: 'Do you believe the government has a responsibility to provide public funding for the arts? Vote Yes or No and explain your reasoning!'"
 

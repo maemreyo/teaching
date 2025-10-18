@@ -89,7 +89,7 @@ Describe the show structure:
         - **The Variety:** Discuss the different types, from a marine ecosystem to the importance of genetic diversity.
         - **The Value:** Introduce the ideas of a biodiversity hotspot and the crucial ecosystem services that nature provides."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a knowledge-based question: 'Can you name an animal that you think is a keystone species in its ecosystem? Share your example in the comments!'"
 
@@ -115,7 +115,7 @@ Describe the show structure:
 
         Part 2 is 'The Causes': Explain the main drivers. The biggest is habitat destruction and fragmentation. Other major threats include the illegal wildlife trade (poaching) and the introduction of invasive alien species. These factors cause a sharp decline in population numbers and push species towards extinction."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a critical thinking question: 'Of the threats we discussed, which do you believe is the most difficult to stop: habitat destruction, poaching, or invasive species? Explain your choice.'"
 
@@ -143,7 +143,7 @@ Describe the show structure:
 
         Part 3 is 'The Human Role': Explain the importance of human involvement through sustainable tourism, which can fund conservation, and the crucial need to raise public awareness about biodiversity loss."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a personal opinion question: 'Which conservation strategy do you find the most inspiring or hopeful? Share your pick in the comments!'"
 

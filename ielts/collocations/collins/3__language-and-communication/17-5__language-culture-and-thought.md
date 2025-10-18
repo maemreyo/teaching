@@ -73,7 +73,7 @@ Describe the show structure:
 
         'The theory of linguistic relativity suggests that the language we speak can shape our thought processes and influence how we see the world. Because each language has a unique way to categorize the world, speakers may perceive reality differently. Each language offers a unique worldview and the tools to articulate complex ideas. However, we are also constrained by the limits of our language, especially when trying to express subtle nuances of meaning for which we don't have a word.'"
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a reflective question: 'Can you think of a word in your native language that is difficult to translate into English?'"
 
@@ -97,7 +97,7 @@ Describe the show structure:
 
         'Language and cultural identity are inextricably linked. A shared language and culture acts as a marker of identity and fosters a sense of belonging. It allows us to express our cultural identity and maintain a connection to our roots. Because language is a reflection of culture and is integral to it, it is the primary way we transmit cultural values. This is why, when a language is lost, we risk losing our cultural heritage.'"
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a personal reflection: 'How important is your native language to your personal sense of identity?'"
 

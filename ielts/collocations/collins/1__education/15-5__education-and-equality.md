@@ -88,7 +88,7 @@ Describe the show structure:
 
         Part 2 is 'The Reality': Discuss the barriers. A child's socio-economic background can be a major hurdle, and some groups are denied access altogether. This creates an urban-rural educational gap and problems for students from disadvantaged backgrounds. The solution is to bridge this divide, overcome barriers, and ensure inclusivity."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a critical thinking question: 'In your opinion, what is the single biggest barrier to achieving equal access to education in the world today? Share your thoughts.'"
 
@@ -116,7 +116,7 @@ Describe the show structure:
 
         "Finally, mention how the problem is made worse by the prevalence of private tutoring."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a policy question: 'Do you believe governments should allocate the same amount of funding to every single school, regardless of its location? Explain your view.'"
 
@@ -144,7 +144,7 @@ Describe the show structure:
 
         Part 3 is 'The Alternative': Introduce the idea of comprehensive schooling as a more egalitarian model."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a personal opinion poll: 'Do you believe that elite private schools are good or bad for society as a whole? Share your reasoning in the comments!'"
 

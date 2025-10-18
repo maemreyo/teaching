@@ -88,7 +88,7 @@ Describe the show structure:
 
         Part 2 is 'The Conflict': Describe the results of this divide, which can be a clash of values and intergenerational conflict. This is often caused by a lack of mutual understanding and a communication breakdown."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a simple poll: 'Which generational cohort do you belong to (e.g., Gen Z, Millennial, Gen X, etc.)? Share in the comments!'"
 
@@ -114,7 +114,7 @@ Describe the show structure:
 
         Part 2 is 'Differences in Mindset and Experience': Cover the internal differences that result from these changes. This includes the contrast between holding traditional views and having a liberal outlook, which stems from vastly different life experiences and evolving attitudes. Mention specific areas of disagreement like political ideologies and work ethic."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a critical thinking question: 'What do you think is the single biggest cause of the generation gap today: technology, social values, or something else?'"
 
@@ -140,7 +140,7 @@ Describe the show structure:
 
         Part 2 is 'The Impact on Society': Cover the broader social problems, such as a lack of respect for elders, the loss of intergenerational knowledge transfer, social fragmentation, and the creation of a polarized society. This can lead to a collective failure to learn from the past."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a question about societal impact: 'Which of these consequences do you think is the most damaging to a society? Explain your choice.'"
 

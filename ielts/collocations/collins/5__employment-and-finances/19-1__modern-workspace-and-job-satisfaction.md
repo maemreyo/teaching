@@ -88,7 +88,7 @@ Describe the show structure:
 
         Part 2 is 'The New Work Models': Cover the major shifts, including remote working, flexible arrangements, the rise of the gig economy, digital nomads, and the impact of the automation of labor."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a personal question: 'What does your ideal modern workplace look like? Share your vision in the comments!'"
 
@@ -114,7 +114,7 @@ Describe the show structure:
 
         Part 2 is 'Extrinsic Motivation (The External Rewards)': Discuss the external factors, like a competitive salary, fringe benefits, and other perks. Explain how both types of motivation affect employee morale."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a reflective poll: 'What's ultimately more important to you in a job: Intrinsic motivation or extrinsic rewards? Let us know in the comments!'"
 
@@ -140,7 +140,7 @@ Describe the show structure:
 
         Part 2 is 'The Solutions for a Healthier Workplace': Discuss the positive responses, including a focus on work-life balance and employee well-being, creating a supportive environment, offering mental health support, and embracing concepts like the right to disconnect and the digital detox."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a practical, advice-sharing call to action: 'What is your best personal tip for maintaining a healthy work-life balance? Share your advice in the comments!'"
 

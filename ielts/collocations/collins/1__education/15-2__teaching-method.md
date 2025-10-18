@@ -88,7 +88,7 @@ Describe the show structure:
 
         Part 2 is 'The Changing Role of the Teacher': Contrast the old role with the new. While traditionally the focus was on covering the curriculum, the modern teacher is expected to also act as a facilitator and provide guidance."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a personal experience question: 'Did you experience more teacher-centered or student-centered learning in your own schooling? Share your experience!'"
 
@@ -116,7 +116,7 @@ Describe the show structure:
 
         Part 3 is 'The Role of Technology': Explain how technology is integrated into the curriculum through e-learning, distance learning, and blended learning models."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a preference question: 'Which of these modern learning methods do you find most appealing: collaborative, hands-on, or problem-based? Let us know!'"
 
@@ -144,7 +144,7 @@ Describe the show structure:
 
         Part 3 is 'The Future': Briefly mention new trends like the gamification of learning."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a 'this or that' question: 'For learning a new skill, would you prefer a self-paced online course or a traditional face-to-face class? Cast your vote!'"
 

@@ -69,7 +69,7 @@ Describe the show structure:
 
         'A job seeker will typically browse job listings to find suitable vacancies. To apply, they must tailor their resume and write a compelling cover letter. Once they submit an application, they hope to meet the minimum requirements and be shortlisted for an interview. The whole journey is managed by the company's recruitment process, which sometimes involves a recruitment agency.'"
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a practical question: 'What do you think is the most challenging part of the job application process?'"
 
@@ -93,7 +93,7 @@ Describe the show structure:
 
         'When you attend a job interview, your goal is to make a good first impression and demonstrate your skills. You might face a panel interview or a technical assessment. It's always good to ask insightful questions. If you are successful, the employer will check your references and you might receive a job offer. You can then negotiate your salary. Once you accept, you begin the onboarding process.'"
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a practical advice question: 'What is your number one tip for a successful job interview?'"
 

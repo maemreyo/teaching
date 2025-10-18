@@ -86,7 +86,7 @@ Describe the show structure:
 
         'A person's character is shaped during their formative years. The transition from childhood to adulthood is a key period where young people, who are at an impressionable age, develop a sense of identity. They might go through a rebellious phase as they seek to gain independence. Important milestones, or rites of passage, mark this journey. Eventually, they reach maturity and are ready to leave the nest.'"
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a personal reflection: 'What do you believe is the most important rite of passage for young people in your culture?'"
 
@@ -112,7 +112,7 @@ Describe the show structure:
 
         Part 2 is 'The Resolution': The solution is to bridge the generation gap through intergenerational dialogue. This fosters mutual respect and understanding, allowing both generations to learn from one another and pass down traditions in a healthy way."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a constructive question: 'What is the best way for different generations to learn from one another?'"
 
@@ -138,7 +138,7 @@ Describe the show structure:
 
         Part 2 is 'Personal & Social Responsibilities': This covers making major life decisions, the choice to start a family and provide for them, and the duty to be a responsible citizen."
 
-    "Then, create a compact review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
+    "Then, create a review screen. Arrange the 10 collocations in two columns to save space, showing only the term and its short English meaning. For example: `Term —— short meaning`."
 
     "End with a reflective question: 'Which responsibility of adulthood do you find the most daunting?'"
 
