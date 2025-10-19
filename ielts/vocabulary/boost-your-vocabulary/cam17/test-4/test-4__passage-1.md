@@ -82,9 +82,9 @@
 | **give sb a hand**    | help, support, aid                                                                                 | 'If we **give nature a hand**, we can speed up the process of regeneration.'                                                        |
 | **regeneration**      | renewal, rebirth, redevelopment                                                                    | ...we can speed up the process of **regeneration**.                                                                                 |
 
-### **Vocabulary Learning Plan: The Bats of Madagascar (6 Videos)**
+### **Vocabulary Learning Plan: The Bats of Madagascar (5 Videos)**
 
-Đây là kế hoạch chi tiết để học toàn bộ 81 từ vựng từ bài đọc, được chia thành 6 phần dễ quản lý hơn. Mỗi phần tương ứng với một video/buổi học và kể một chương của câu chuyện, giúp bạn học từ vựng một cách tự nhiên.
+Đây là kế hoạch chi tiết đã được tối ưu hóa để học toàn bộ 81 từ vựng từ bài đọc, chia thành 5 phần cân đối. Mỗi phần tương ứng với một video/buổi học, kể một chương của câu chuyện về những người hùng thầm lặng của Madagascar.
 
 ---
 
@@ -237,15 +237,15 @@
 
 ---
 
-#### **VIDEO 5: A Complicated Relationship (10 words)**
+#### **VIDEO 5: A Mutually Beneficial Future (16 words)**
 
 **Video Script Prompt**
 
 **Target a specific use case:**
-"Help learners understand the complex cultural and practical relationship between the local people and the bats."
+"Help learners understand the complex cultural relationship, the proposed solution, and the optimistic outlook for the future."
 
 **Focus on a specific source:**
-"Focus on the next 10 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+"Focus on the final 16 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
 1.  **point out**
 2.  **scarce**
@@ -257,40 +257,18 @@
 8.  **potential**
 9.  **mutually**
 10. **colleague**
+11. **yield**
+12. **sustainable**
+13. **livelihood**
+14. **quantify**
+15. **give sb a hand**
+16. **regeneration**
 
 **Describe the show structure:**
-"Start with the complexity: 'The scientist **points out** that the relationship is complicated. When other food is **scarce**, people hunt bats. The bats also **roost** in buildings, which people don't like.'"
+"Start with the complexity: 'A scientist **points out** that the relationship is complex. When food is **scarce**, bats are hunted. They also **roost** in buildings. Yet, they are also **associated with** **sacred** caves and the **ancestors**, making them culturally **significant**.'"
 
-"Next, explain the cultural view and a solution: 'At the same time, bats are **associated with** **sacred** caves and the **ancestors**, making them culturally **significant**. A **potential** problem is deforestation reducing places to **roost**. The scientist and his **colleagues** suggest a **mutually** beneficial solution: farmers can build bat houses.'"
+"Next, explain the solution and its goal: 'A **potential** problem is the loss of roosting sites. So, the scientist and his **colleagues** suggest a **mutually** beneficial solution: building bat houses to boost crop **yields** and promote **sustainable** **livelihoods**. They now want to **quantify** this benefit. The message is clear: if we **give nature a hand**, we can speed up **regeneration**.'"
 
-"Then, create a review screen. Arrange the 10 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
+"Then, create a review screen. Arrange the 16 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
 
-"End with a reflective question: 'How can something be both a food source and a **sacred** animal in a culture?'"
-
----
-
-#### **VIDEO 6: Giving Nature a Hand (5 words)**
-
-**Video Script Prompt**
-
-**Target a specific use case:**
-"Help learners understand the final conclusion of the study and its optimistic outlook for the future."
-
-**Focus on a specific source:**
-"Focus on the final 5 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
-
-1.  **yield**
-2.  **sustainable**
-3.  **livelihood**
-4.  **quantify**
-5.  **give sb a hand**
-6.  **regeneration**
-
-**Describe the show structure:**
-"Start with the main goal: 'Maximizing bat populations can boost crop **yields** and promote **sustainable** **livelihoods** for local farmers.'"
-
-"Next, describe the next steps: 'The team now wants to **quantify** this contribution. The main message is optimistic: if we **give nature a hand**, we can speed up the process of **regeneration**.'"
-
-"Then, create a review screen. Arrange the 6 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
-
-"End with a final thought: 'What is one small way you could **give nature a hand** to help with environmental **regeneration** in your area?'"
+"End with a final thought: 'How can understanding the **significant** cultural role of an animal help promote a **mutually** beneficial, **sustainable** future?'"

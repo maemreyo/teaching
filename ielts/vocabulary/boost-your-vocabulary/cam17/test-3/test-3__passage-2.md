@@ -98,9 +98,9 @@
 | **reptile**              | a type of animal whose body temperature changes according to the temperature around it | ...insects, amphibians, **reptiles** and even mammals.                                                     |
 | **mammal**               | a type of animal that drinks milk from its mother's body when it is young              | ...reptiles and even **mammals**.                                                                          |
 
-### **Vocabulary Learning Plan: The Palm Oil Dilemma (7 Videos)**
+### **Vocabulary Learning Plan: The Palm Oil Dilemma (6 Videos)**
 
-Đây là kế hoạch chi tiết để học toàn bộ 98 từ vựng từ bài đọc, được chia thành 7 phần dễ quản lý hơn. Mỗi phần tương ứng với một video/buổi học và kể một chương của câu chuyện, giúp bạn học từ vựng một cách tự nhiên.
+Đây là kế hoạch chi tiết để học toàn bộ 98 từ vựng từ bài đọc, được chia thành 6 phần cân đối và logic hơn. Mỗi phần tương ứng với một video/buổi học, kể một chương của câu chuyện về dầu cọ.
 
 ---
 
@@ -139,15 +139,15 @@
 
 ---
 
-#### **VIDEO 2: The Global Boom and its Consequences (16 words)**
+#### **VIDEO 2: The Boom and its Consequences (17 words)**
 
 **Video Script Prompt**
 
 **Target a specific use case:**
-"Help learners understand the rapid growth of palm oil production and its devastating impact on the environment and wildlife."
+"Help learners understand the rapid growth of palm oil production and its devastating impact on the environment."
 
 **Focus on a specific source:**
-"Focus on the next 16 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+"Focus on the next 17 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
 1.  **seize**
 2.  **devote**
@@ -165,19 +165,20 @@
 14. **habitat**
 15. **destruction**
 16. **dwindling**
+17. **monoculture**
 
 **Describe the show structure:**
-"Start with the industry's growth: 'Farmers have **seized** the opportunity, and land **devoted** to palm oil now **accounts for** 10% of global cropland. Production grew from a **mere** two million tonnes to 60 million tonnes **annually** **globally**.'"
+"Start with the industry's growth: 'Farmers **seized** the opportunity, and land **devoted** to palm oil now **accounts for** 10% of global cropland. Production grew from a **mere** two million tonnes to 60 million tonnes **annually** **globally**.'"
 
-"Next, describe the environmental cost: 'There are **multiple** reasons why **conservationists** **cite** the rapid **spread** of palm oil **plantations** as a concern. There are **countless** stories of **deforestation**, **habitat** **destruction**, and **dwindling** species populations.'"
+"Next, describe the environmental cost: 'There are **multiple** reasons why **conservationists** **cite** the rapid **spread** of **plantations** as a concern. There are **countless** stories of **deforestation**, **habitat** **destruction**, and **dwindling** species due to this industrial **monoculture**.'"
 
-"Then, create a review screen. Arrange the 16 words in two columns to show all the words/phrase clearly as much as possible, showing the word and its synonyms. For example: `word —— synonyms`."
+"Then, create a review screen. Arrange the 17 words in two or three columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
 
-"End with a reflective question: 'What is the connection between the **spread** of **plantations** and **habitat** **destruction**?'"
+"End with a reflective question: 'What is the connection between the **spread** of **monoculture** **plantations** and **habitat** **destruction**?'"
 
 ---
 
-#### **VIDEO 3: The Biodiversity Crisis (15 words)**
+#### **VIDEO 3: The Biodiversity Crisis (14 words)**
 
 **Video Script Prompt**
 
@@ -185,44 +186,43 @@
 "Help learners understand the specific threats to wildlife and the complex, nuanced debate surrounding a potential palm oil boycott."
 
 **Focus on a specific source:**
-"Focus on the next 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+"Focus on the next 14 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
-1.  **monoculture**
-2.  **endangered**
-3.  **orangutan**
-4.  **fauna**
-5.  **biodiversity**
-6.  **declare**
-7.  **rainforest**
-8.  **radical**
-9.  **environmentalist**
-10. **boycott**
-11. **entirely**
-12. **dramatic**
-13. **intuitive**
-14. **complexity**
-15. **nuanced**
+1.  **endangered**
+2.  **orangutan**
+3.  **fauna**
+4.  **biodiversity**
+5.  **declare**
+6.  **rainforest**
+7.  **radical**
+8.  **environmentalist**
+9.  **boycott**
+10. **entirely**
+11. **dramatic**
+12. **intuitive**
+13. **complexity**
+14. **nuanced**
 
 **Describe the show structure:**
-"Start with the cause of the problem: 'The establishment of palm tree **monoculture** has harmed **endangered** species like the **orangutan** and other **fauna**. Experts **declare** it one of the greatest threats to global **biodiversity** because it replaces the **rainforest**.'"
+"Start with the victims: '**Endangered** species like the **orangutan** and other **fauna** have suffered. Experts **declare** it a threat to **biodiversity** because it replaces the **rainforest**.'"
 
-"Next, introduce the debate: 'This has led **environmentalists** to ask **radical** questions, like whether to **boycott** palm oil **entirely**. While this makes for a **dramatic** and **intuitive** story, the **complexity** of the issue requires a more **nuanced** view.'"
+"Next, introduce the debate: 'This leads **environmentalists** to ask **radical** questions, like whether to **boycott** palm oil **entirely**. While this makes for a **dramatic** and **intuitive** story, the **complexity** of the issue requires a more **nuanced** view.'"
 
-"Then, create a review screen. Arrange the 15 words in two columns to show all the words/phrase clearly as much as possible, showing the word and its synonyms. For example: `word —— synonyms`."
+"Then, create a review screen. Arrange the 14 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
 
 "End with a discussion question: 'Why might a total **boycott** of palm oil not be the best solution, despite the threat to **biodiversity**?'"
 
 ---
 
-#### **VIDEO 4: The Human Side of the Debate (14 words)**
+#### **VIDEO 4: A Contentious Issue (16 words)**
 
 **Video Script Prompt**
 
 **Target a specific use case:**
-"Help learners explore the socio-economic arguments for palm oil and the concept of it being a 'bone of contention'."
+"Help learners explore the socio-economic arguments for palm oil and the counterintuitive ecological benefits of its high yield."
 
 **Focus on a specific source:**
-"Focus on the next 14 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+"Focus on the next 16 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
 1.  **vital**
 2.  **poverty**
@@ -238,113 +238,90 @@
 12. **immensely**
 13. **yield**
 14. **predominantly**
+15. **ecological**
+16. **patch**
+17. **volume**
+18. **competitor**
 
 **Describe the show structure:**
-"Start with the economic argument: 'Palm oil plays a **vital** role in lifting millions from **poverty**. Should it be **eliminated** from the global **supply chain** when so many depend on it for their **livelihood**?'"
+"Start with the human side: 'Palm oil plays a **vital** role in lifting millions from **poverty**. Should we **eliminate** it from the **supply chain** when it's their **livelihood**? How to **strike** a **utilitarian** balance between these **competing** factors is a **bone of contention**.'"
 
-"Next, explain the core conflict: 'How to **strike** a **utilitarian** balance between these **competing** factors has become a serious **bone of contention**. The issue isn't **straightforward**. Palm oil has an **immensely** high **yield**, which is **predominantly** what makes it so profitable and **potentially** beneficial.'"
+"Next, explain the complexity: 'The issue isn't **straightforward**. Palm oil has an **immensely** high **yield**, which is **predominantly** why it's profitable. This is **potentially** an **ecological** benefit, as you can get a larger **volume** from a smaller **patch** of land compared to a **competitor**.'"
+
+"Then, create a review screen. Arrange the 18 words in three columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
+
+"End with a reflective question: 'How can a high **yield** be both an economic benefit and an **ecological** benefit, making it a **bone of contention**?'"
+
+---
+
+#### **VIDEO 5: The Path to Sustainability (16 words)**
+
+**Video Script Prompt**
+
+**Target a specific use case:**
+"Help learners understand the issues of carbon emissions and the international efforts to regulate and certify sustainable palm oil."
+
+**Focus on a specific source:**
+"Focus on the next 16 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+
+1.  **emission**
+2.  **sequester**
+3.  **alternative**
+4.  **virgin forest**
+5.  **out of hand**
+6.  **regulate**
+7.  **party**
+8.  **agreement**
+9.  **gradually**
+10. **sustainable**
+11. **insist**
+12. **transparency**
+13. **assessment**
+14. **criterion**
+15. **certified**
+16. **equivalent**
+
+**Describe the show structure:**
+"Start with the carbon issue: 'Regarding carbon **emissions**, palm oil can **sequester** more carbon than **alternatives**. The real problem is clearing **virgin forest**, which got **out of hand**.'"
+
+"Next, discuss regulation: 'To **regulate** the industry, interested **parties** **gradually** reached an **agreement** on **sustainable** standards. They **insist** on **transparency** and regular **assessment** based on strict **criteria**. Only then can oil be **certified**, an amount now **equivalent** to 21% of production.'"
+
+"Then, create a review screen. Arrange the 16 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
+
+"End with a discussion question: 'What other **criteria** should be used to decide if palm oil is truly **sustainable**?'"
+
+---
+
+#### **VIDEO 6: A Keystone of Hope (14 words)**
+
+**Video Script Prompt**
+
+**Target a specific use case:**
+"Help learners understand a potential natural solution to restore biodiversity in plantations using a 'keystone species'."
+
+**Focus on a specific source:**
+"Focus on the final 14 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+
+1.  **roughly**
+2.  **sterile**
+3.  **hint**
+4.  **bird's nest fern**
+5.  **epiphytic**
+6.  **fashion**
+7.  **nutrient**
+8.  **keystone**
+9.  **manner**
+10. **fungi**
+11. **invertebrate**
+12. **amphibian**
+13. **reptile**
+14. **mammal**
+
+**Describe the show structure:**
+"Start with the problem: '**Roughly** 79% of palm oil is not certified, and plantations can be **sterile** environments.'"
+
+"Next, introduce the solution: 'But new research **hints** at a solution: the **bird's nest fern**. It grows in an **epiphytic** **fashion**, needing no soil for **nutrients**. It's a **keystone** species that can restore biodiversity, providing a home for all **manner** of life, from **fungi** and **invertebrates** to **amphibians**, **reptiles**, and **mammals**.'"
 
 "Then, create a review screen. Arrange the 14 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
 
-"End with a reflective question: 'How can a high **yield** be both an economic benefit and an environmental problem, making it a **bone of contention**?'"
-
----
-
-#### **VIDEO 5: The Ecological Calculation (14 words)**
-
-**Video Script Prompt**
-
-**Target a specific use case:**
-"Help learners understand the counterintuitive ecological arguments related to palm oil's high yield and carbon sequestration."
-
-**Focus on a specific source:**
-"Focus on the next 14 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
-
-1.  **ecological**
-2.  **patch**
-3.  **volume**
-4.  **competitor**
-5.  **emission**
-6.  **sequester**
-7.  **alternative**
-8.  **virgin forest**
-9.  **out of hand**
-10. **regulate**
-11. **party**
-12. **agreement**
-13. **gradually**
-14. **sustainable**
-
-**Describe the show structure:**
-"Start with the yield argument: 'The high yield can be an **ecological** benefit. If you can produce more oil from a small **patch** of land, you need less land to get the same **volume** compared to a **competitor** oil.'"
-
-"Next, discuss carbon and regulation: 'Regarding carbon **emissions**, palm oil can **sequester** more carbon than some **alternatives**. The problem is cutting down **virgin forest**, which has gotten **out of hand**. The industry is now **regulated** by interested **parties** who have **gradually** reached an **agreement** on what makes palm oil **sustainable**.'"
-
-"Then, create a review screen. Arrange the 14 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
-
-"End with a discussion question: 'What is the difference between growing palm oil on old farmland versus clearing **virgin forest**?'"
-
----
-
-#### **VIDEO 6: The Path to Sustainability (13 words)**
-
-**Video Script Prompt**
-
-**Target a specific use case:**
-"Help learners understand the standards for 'sustainable' palm oil and the certification process."
-
-**Focus on a specific source:**
-"Focus on the next 13 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
-
-1.  **insist**
-2.  **transparency**
-3.  **assessment**
-4.  **criterion**
-5.  **certified**
-6.  **equivalent**
-7.  **roughly**
-8.  **sterile**
-9.  **hint**
-10. **bird's nest fern**
-11. **epiphytic**
-12. **fashion**
-13. **nutrient**
-
-**Describe the show structure:**
-"Start with the rules: 'The regulatory group **insists** on **transparency** and regular **assessment** of carbon stocks, among other **criteria**. Only then can the oil be **certified** as sustainable.'"
-
-"Next, explain the impact and a new idea: 'This now accounts for an amount **equivalent** to **roughly** 21% of global production. But there's hope that plantations don't have to be **sterile** environments. Research **hints** that a plant called the **bird's nest fern**, which grows in an **epiphytic** **fashion** and doesn't need soil for **nutrients**, could help.'"
-
-"Then, create a review screen. Arrange the 13 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
-
-"End with a reflective question: 'What other **criteria** do you think should be required for palm oil to be **certified** as sustainable?'"
-
----
-
-#### **VIDEO 7: A Keystone for Biodiversity (7 words)**
-
-**Video Script Prompt**
-
-**Target a specific use case:**
-"Help learners understand the concept of a keystone species and how reintroducing one plant could restore an entire ecosystem."
-
-**Focus on a specific source:**
-"Focus on the final 7 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
-
-1.  **keystone**
-2.  **biodiversity**
-3.  **manner**
-4.  **fungi**
-5.  **invertebrate**
-6.  **amphibian**
-7.  **reptile**
-8.  **mammal**
-
-**Describe the show structure:**
-"Start with the special plant: 'The bird's nest fern is a **keystone** species, meaning it plays a vital role in its ecosystem.'"
-
-"Next, explain its potential impact: 'Reintroducing it could help plantations recover their **biodiversity**. It could provide a home for all **manner** of species, from **fungi** and bacteria to **invertebrates**, **amphibians**, **reptiles**, and even **mammals**.'"
-
-"Then, create a review screen. Arrange the 8 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
-
-"End with a final thought: 'How can introducing a single **keystone** species help restore **biodiversity** for all **manner** of creatures, from **fungi** to **mammals**?'"
+"End with a final thought: 'How can introducing a single **keystone** species help turn a **sterile** farm back into a living ecosystem?'"

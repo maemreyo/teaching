@@ -85,9 +85,9 @@
 | **suggestion**           | hint, proposal, implication                                                               | ...and makes policy **suggestions** for New York going forward.                                                      |
 | **forward**              | ahead, further, progress                                                                  | ...for New York going **forward**.                                                                                   |
 
-### **Vocabulary Learning Plan: The Story of the New York Skyline (6 Videos)**
+### **Vocabulary Learning Plan: The Story of the New York Skyline (5 Videos)**
 
-Đây là kế hoạch chi tiết để học toàn bộ 86 từ vựng từ bài đọc, được chia thành 6 phần dễ quản lý hơn. Mỗi phần tương ứng với một video/buổi học và kể một chương của câu chuyện, giúp bạn học từ vựng một cách tự nhiên.
+Đây là kế hoạch chi tiết đã được tối ưu hóa để học toàn bộ 86 từ vựng từ bài đọc, chia thành 5 phần cân đối. Mỗi phần tương ứng với một video/buổi học, kể một chương của câu chuyện về sự ra đời của các tòa nhà chọc trời.
 
 ---
 
@@ -207,7 +207,7 @@
 **Video Script Prompt**
 
 **Target a specific use case:**
-"Help learners understand the key technological innovations that made modern skyscrapers possible and the analytical methods used in the book."
+"Help learners understand the key technological innovations and the myths surrounding skyscraper construction."
 
 **Focus on a specific source:**
 "Focus on the next 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
@@ -231,7 +231,7 @@
 **Describe the show structure:**
 "Start with the technology: 'The **construction** of skyscrapers was enabled by steel **skeletal** frames. These made thick, **load-bearing** walls unnecessary, which increased usable **square footage** and the **availability** of natural light.'"
 
-"Next, describe the book's analysis: '**Throughout** the 20th century, data was collected. The book uses **regression analysis**, which is quite **technical** and **probably** not for a general **audience**. It **tackles** the **myth** that the **absence** of shallow **bedrock** is why skyscrapers weren't built in certain areas—a common **assumption**.'"
+"Next, describe the book's analysis: '**Throughout** the 20th century, data was collected. The book uses **regression analysis**, which is quite **technical** and **probably** not for a general **audience**. It uses this data to **tackle** the **myth** that the **absence** of shallow **bedrock** is why skyscrapers weren't built in certain areas—a common **assumption**.'"
 
 "Then, create a review screen. Arrange the 15 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
 
@@ -239,65 +239,40 @@
 
 ---
 
-#### **VIDEO 5: Digging Deep and Building High (15 words)**
+#### **VIDEO 5: Booms, Data, and the Future (18 words)**
 
 **Video Script Prompt**
 
 **Target a specific use case:**
-"Help learners understand the engineering challenges of building foundations and the economic theories behind urban booms."
+"Help learners understand the engineering solutions, the economics of building booms, and the book's final conclusions."
 
 **Focus on a specific source:**
-"Focus on the next 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+"Focus on the final 18 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
 1.  **prohibitively**
 2.  **caisson**
 3.  **dig**
 4.  **water table**
-5.  **reference**
-6.  **empirical**
-7.  **relatively**
-8.  **boom**
-9.  **lengthy**
-10. **undergraduate**
-11. **exuberance**
-12. **viability**
-13. **credit**
-14. **estimate**
-15. **impressive**
+5.  **empirical**
+6.  **boom**
+7.  **lengthy**
+8.  **exuberance**
+9.  **credit**
+10. **estimate**
+11. **impressive**
+12. **predict**
+13. **reverse**
+14. **epilogue**
+15. **suggestion**
+16. **forward**
+17. **undergraduate**
+18. **viability**
 
 **Describe the show structure:**
-"Start with the bedrock myth debunked: 'Foundation costs were not **prohibitively** high. The book describes **caissons**, which let workers **dig** deep, even below the **water table**. It **references** **empirical** research but is a **relatively** easy read.'"
+"Start with debunking the myth: 'Foundation costs were not **prohibitively** high. The book describes **caissons**, which let workers **dig** deep, even below the **water table**. This is based on **empirical** research.'"
 
-"Next, explain the 1920s building **boom**: 'The book has **lengthy** discussions perfect for an **undergraduate**. It explores two causes for the boom: financial **exuberance** and easy financing. The author assesses the **viability** of both and argues that cheap **credit** was not the main cause. The **impressive** data work used to **estimate** land values is a key feature.'"
+"Next, explain the building **boom**: 'The book has **lengthy** discussions, great for an **undergraduate**, on the **viability** of two causes for the boom: financial **exuberance** or easy **credit**. The **impressive** data used to **estimate** land values **predicts** building height, but the **reverse** is not true. The **epilogue** makes a **suggestion** for the city going **forward**.'"
 
-"Then, create a review screen. Arrange the 15 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
-
-"End with a discussion question: 'Do you think a building **boom** is caused more by economic **exuberance** or by the availability of cheap **credit**?'"
-
----
-
-#### **VIDEO 6: The Skyline's Future (6 words)**
-
-**Video Script Prompt**
-
-**Target a specific use case:**
-"Help learners understand the book's conclusion about the relationship between land value and building height, and its final look toward the future."
-
-**Focus on a specific source:**
-"Focus on the final 6 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
-
-1.  **predict**
-2.  **reverse**
-3.  **epilogue**
-4.  **suggestion**
-5.  **forward**
-6.  **cluster**
-
-**Describe the show structure:**
-"Start with the book's main finding: 'The author finds that land values can **predict** future building height, but the **reverse** is not true.'"
-
-"Next, describe the book's ending: 'The book ends with an **epilogue** that makes policy **suggestions** for New York going **forward**, considering future challenges like climate change and the continued growth of business **clusters**.'"
-
-"Then, create a review screen. Arrange the 6 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
+"Then, create a review screen. Arrange the 18 words in three columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
 
 "End with a final thought: 'What policy **suggestion** would you make for your city's development going **forward**?'"

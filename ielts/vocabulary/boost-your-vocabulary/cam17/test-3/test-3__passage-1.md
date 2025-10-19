@@ -83,9 +83,9 @@
 | **definitive**            | conclusive, ultimate, absolute                                                     | ...none of which has produced **definitive** evidence that thylacines still exist.              |
 | **declare**               | state, announce, pronounce                                                         | The species was **declared** extinct by the Tasmanian government in 1986.                       |
 
-### **Vocabulary Learning Plan: The Story of the Thylacine (6 Videos)**
+### **Vocabulary Learning Plan: The Story of the Thylacine (5 Videos)**
 
-Đây là kế hoạch chi tiết để học toàn bộ 84 từ vựng từ bài đọc, được chia thành 6 phần dễ quản lý hơn. Mỗi phần tương ứng với một video/buổi học và kể một chương của câu chuyện, giúp bạn học từ vựng một cách tự nhiên.
+Đây là kế hoạch chi tiết để học toàn bộ 84 từ vựng từ bài đọc, được chia thành 5 phần dễ quản lý hơn. Mỗi phần tương ứng với một video/buổi học và kể một chương của câu chuyện, giúp bạn học từ vựng một cách tự nhiên.
 
 ---
 
@@ -162,7 +162,7 @@
 
 ---
 
-#### **VIDEO 3: From Widespread to Wiped Out (15 words)**
+#### **VIDEO 3: From Widespread to Wiped Out (17 words)**
 
 **Video Script Prompt**
 
@@ -170,7 +170,7 @@
 "Help learners trace the thylacine's decline from a common animal to its extinction on the mainland."
 
 **Focus on a specific source:**
-"Focus on the next 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+"Focus on the next 17 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
 1.  **indication**
 2.  **throughout**
@@ -179,57 +179,62 @@
 5.  **lair**
 6.  **hollow**
 7.  **whilst**
-8.  **approximately**
-9.  **widespread**
-10. **mainland**
-11. **well-dated**
-12. **occurrence**
-13. **fossil**
-14. **extinction**
-15. **coincide**
+8.  **breeding**
+9.  **approximately**
+10. **widespread**
+11. **mainland**
+12. **well-dated**
+13. **occurrence**
+14. **fossil**
+15. **extinction**
+16. **coincide**
+17. **predator**
 
 **Describe the show structure:**
-"Start with its life cycle: 'There are **indications** that breeding occurred **throughout** the year. Newborns crawled into the mother's **pouch**, attached to a **teat**, and later stayed in a **lair**, like a **hollow** log, **whilst** the mother hunted.'"
+"Start with its life cycle: 'There are **indications** that **breeding** occurred **throughout** the year. Newborns crawled into the mother's **pouch**, attached to a **teat**, and later stayed in a **lair**, like a **hollow** log, **whilst** the mother hunted.'"
 
-"Next, explain its disappearance: '**Approximately** 4,000 years ago, the thylacine was **widespread** on the Australian **mainland**. The most recent **well-dated** **occurrence** is a 3,100-year-old **fossil**. Its **extinction** there seems to **coincide** with the arrival of dingoes.'"
+"Next, explain its disappearance: '**Approximately** 4,000 years ago, the thylacine was **widespread** on the Australian **mainland**. The most recent **well-dated** **occurrence** is a 3,100-year-old **fossil**. Its **extinction** there seems to **coincide** with the arrival of a new **predator**—the dingo.'"
 
-"Then, create a review screen. Arrange the 15 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
+"Then, create a review screen. Arrange the 17 words in two or three columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
 
 "End with a reflective question: 'Why do you think the thylacine's **extinction** on the **mainland** seemed to **coincide** with the arrival of a new **predator**?'"
 
 ---
 
-#### **VIDEO 4: The Human Factor (14 words)**
+#### **VIDEO 4: The Human Factor (17 words)**
 
 **Video Script Prompt**
 
 **Target a specific use case:**
-"Help learners understand the primary reasons for the thylacine's final extinction in Tasmania, focusing on human impact."
+"Help learners understand the primary reasons for the thylacine's final extinction in Tasmania, focusing on human impact and early warnings."
 
 **Focus on a specific source:**
-"Focus on the next 14 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+"Focus on the next 17 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
-1.  **predator**
-2.  **dramatic**
-3.  **attribute to**
-4.  **relentless**
-5.  **undoubtedly**
-6.  **eventual**
-7.  **introduce**
-8.  **settler**
-9.  **captivity**
-10. **particularly**
-11. **naturalist**
-12. **foresee**
-13. **demise**
-14. **singular**
+1.  **dramatic**
+2.  **attribute to**
+3.  **relentless**
+4.  **undoubtedly**
+5.  **eventual**
+6.  **introduce**
+7.  **settler**
+8.  **captivity**
+9.  **particularly**
+10. **naturalist**
+11. **foresee**
+12. **demise**
+13. **singular**
+14. **speedily**
+15. **diminish**
+16. **extermination**
+17. **sway**
 
 **Describe the show structure:**
-"Start with the arrival of a new **predator**: 'Dingoes never reached Tasmania, which is why the thylacine survived there. However, its **dramatic** decline in Tasmania is **attributed to** the **relentless** efforts of farmers. This **undoubtedly** led to its **eventual** extinction, along with competition from dogs **introduced** by European **settlers**.'"
+"Start with the cause of decline: 'The **dramatic** decline in Tasmania is **attributed to** the **relentless** efforts of farmers. This **undoubtedly** led to its **eventual** extinction, along with dogs **introduced** by European **settlers**.'"
 
-"Next, describe early warnings: 'Breeding in **captivity** was rarely successful, **particularly** at major zoos. A famous **naturalist** would **foresee** the animal's **demise**, calling it a **singular** animal whose numbers would soon diminish.'"
+"Next, describe the ignored warnings: 'Breeding in **captivity** was **particularly** unsuccessful. A famous **naturalist** would **foresee** the animal's **demise**, calling it a **singular** animal whose numbers would **speedily** **diminish**. He predicted **extermination** would have its full **sway**.'"
 
-"Then, create a review screen. Arrange the 14 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
+"Then, create a review screen. Arrange the 17 words in two or three columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
 
 "End with a discussion question: 'Besides the **relentless** hunting, how else might European **settlers** have contributed to the thylacine's **demise**?'"
 
@@ -240,60 +245,32 @@
 **Video Script Prompt**
 
 **Target a specific use case:**
-"Help learners understand the failed conservation efforts and the final moments of the thylacine's existence."
+"Help learners understand the failed conservation efforts, the thylacine's official extinction, and its lasting legacy."
 
 **Focus on a specific source:**
-"Focus on the next 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+"Focus on the final 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
-1.  **speedily**
-2.  **diminish**
-3.  **extermination**
-4.  **sway**
-5.  **preserve**
-6.  **notable**
-7.  **exception**
-8.  **sufficiently**
-9.  **scarcity**
-10. **capture**
-11. **edge**
-12. **motion**
-13. **prime**
-14. **breeding**
-15. **captive**
+1.  **preserve**
+2.  **notable**
+3.  **exception**
+4.  **sufficiently**
+5.  **scarcity**
+6.  **capture**
+7.  **edge**
+8.  **motion**
+9.  **prime**
+10. **captive**
+11. **specimen**
+12. **numerous**
+13. **expedition**
+14. **definitive**
+15. **declare**
 
 **Describe the show structure:**
-"Start with the grim prediction: 'The naturalist wrote that its numbers would **speedily** **diminish** and **extermination** would have its full **sway**. Yet there was little pressure to **preserve** it.'"
+"Start with the late efforts: 'There was little pressure to **preserve** the thylacine. A **notable** **exception** was a professor who was **sufficiently** concerned about its **scarcity** to suggest some be **captured**. But the species was on the **edge** of extinction. A **motion** was passed to protect it only during its **prime** breeding season, leaving just a few **captive** **specimens**.'"
 
-"Next, describe the late efforts: 'A **notable** **exception** was a professor who was **sufficiently** concerned about its **scarcity** to suggest some be **captured** for protection. But by then, the species was on the **edge** of extinction. A **motion** was passed to protect it only during its **prime** **breeding** season, leaving only a few **captive** specimens.'"
+"Next, describe the aftermath: 'After the last one died, **numerous** **expeditions** searched for it, but none found **definitive** evidence. The species was officially **declared** extinct in 1986.'"
 
 "Then, create a review screen. Arrange the 15 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
 
-"End with a reflective question: 'Why do you think conservation efforts often begin only when a species is on the **edge** of **extermination**?'"
-
----
-
-#### **VIDEO 6: The Ghost of Tasmania (6 words)**
-
-**Video Script Prompt**
-
-**Target a specific use case:**
-"Help learners understand the thylacine's official extinction and its legacy as a creature of myth and speculation."
-
-**Focus on a specific source:**
-"Focus on the final 6 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
-
-1.  **specimen**
-2.  **numerous**
-3.  **expedition**
-4.  **definitive**
-5.  **declare**
-6.  **extinct**
-
-**Describe the show structure:**
-"Start with the final individual: 'The last known **specimen** died in Hobart Zoo in 1936.'"
-
-"Next, describe the search and final declaration: 'Since then, there have been **numerous** **expeditions** to find it, but none have produced **definitive** evidence of its survival. The species was officially **declared** **extinct** in 1986.'"
-
-"Then, create a review screen. Arrange the 6 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
-
-"End with a final thought: 'Even without **definitive** evidence, why do you think people continue to launch **expeditions** to find animals **declared** **extinct**?'"
+"End with a final thought: 'Even without **definitive** evidence, why do you think people continue to launch **expeditions** to find animals **declared** extinct?'"
