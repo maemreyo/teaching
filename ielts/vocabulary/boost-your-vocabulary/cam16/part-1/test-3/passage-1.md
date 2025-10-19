@@ -100,21 +100,21 @@
 | **regularly**            | frequently, often, repeatedly, recurrently                                            | ...with large vessels **regularly** crossing the seas and bringing supplies...                          |
 | **supplies**             | food or other things necessary for living                                             | ...and bringing **supplies** from their Empire.                                                         |
 
-### **Vocabulary Learning Plan: The Ships of Ancient Rome (7 Videos)**
+### **Vocabulary Learning Plan: The Ships of Ancient Rome (6 Videos)**
 
-Đây là kế hoạch chi tiết để học toàn bộ 102 từ vựng từ bài đọc, được chia thành 7 phần dễ quản lý hơn. Mỗi phần tương ứng với một video/buổi học và kể một chương của câu chuyện, giúp bạn học từ vựng một cách tự nhiên.
+Đây là kế hoạch chi tiết đã được tối ưu hóa để học toàn bộ 102 từ vựng từ bài đọc, chia thành 6 phần cân đối và logic. Mỗi phần tương ứng với một video/buổi học, kể một chương của câu chuyện về kỹ thuật hàng hải của người La Mã.
 
 ---
 
-#### **VIDEO 1: An Inherited Art (15 words)**
+#### **VIDEO 1: An Inherited Art (17 words)**
 
 **Video Script Prompt**
 
 **Target a specific use case:**
-"Help learners contrast modern, science-based shipbuilding with the ancient Roman art, which was based on experience and tradition."
+"Help learners contrast modern shipbuilding with the ancient Roman art and understand how we know about their methods."
 
 **Focus on a specific source:**
-"Focus on the first 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+"Focus on the first 17 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
 1.  **based on**
 2.  **sophisticated**
@@ -131,19 +131,21 @@
 13. **documents**
 14. **descriptions**
 15. **representations**
+16. **rigging**
+17. **Excavated**
 
 **Describe the show structure:**
 "Start with the contrast: 'Modern shipbuilding is **based on** science, using **sophisticated** **tools**. But in **ancient** Rome, it was an art, **relying on** **estimation** and **inherited** **techniques**.'"
 
-"Next, explain their learning process and our sources of knowledge: 'Romans were not **traditionally** **sailors**; they learned from the people they **conquered**. A few **surviving** written **documents** give us **descriptions** and **representations** of their ships.'"
+"Next, explain their learning process and our sources: 'Romans were not **traditionally** **sailors**; they learned from the people they **conquered**. A few **surviving** **documents** give us **descriptions** and **representations** of details like their **rigging**. **Excavated** ships also provide clues.'"
 
-"Then, create a review screen. Arrange the 15 words in two columns to show all the words/phrase clearly as much as possible, showing only the word and its synonyms. For example: `word —— synonyms`."
+"Then, create a review screen. Arrange the 17 words in two or three columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
 
 "End with a discussion question: 'What are the pros and cons of **relying on** **inherited** **techniques** versus modern, **sophisticated** **tools**?'"
 
 ---
 
-#### **VIDEO 2: Building from the Outside In (15 words)**
+#### **VIDEO 2: The Evolution of Construction (17 words)**
 
 **Video Script Prompt**
 
@@ -151,206 +153,187 @@
 "Help learners understand the evolution of Roman shipbuilding methods, from 'shell-first' to 'frame-first' construction."
 
 **Focus on a specific source:**
-"Focus on the next 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+"Focus on the next 17 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
-1.  **rigging**
-2.  **Excavated**
-3.  **vessels**
-4.  **clues**
-5.  **outer**
-6.  **hull**
-7.  **proceeded**
-8.  **frame**
-9.  **Planks**
-10. **initially**
-11. **sewn**
-12. **fixed**
-13. **mortise and tenon**
-14. **stitching**
-15. **era**
+1.  **vessels**
+2.  **clues**
+3.  **outer**
+4.  **hull**
+5.  **proceeded**
+6.  **frame**
+7.  **Planks**
+8.  **initially**
+9.  **sewn**
+10. **fixed**
+11. **mortise and tenon**
+12. **stitching**
+13. **era**
+14. **shifted**
+15. **consisted of**
+16. **components**
+17. **systematic**
 
 **Describe the show structure:**
-"Start with the evidence: 'We learn about their ships from details like the sails and **rigging**. **Excavated** **vessels** give us **clues**. They built the **outer** **hull** first, then **proceeded** with the **frame**.'"
+"Start with the evidence: '**Excavated** **vessels** give us **clues**. They built the **outer** **hull** first, then **proceeded** with the **frame**. **Planks** were **initially** **sewn** together.'"
 
-"Next, explain the construction techniques: '**Planks** were **initially** **sewn** together. Later, they were **fixed** using a **mortise and tenon** joint, which didn't require **stitching**. In a later **era**, they shifted to building the frame first.'"
+"Next, explain the technical shift: 'Later, planks were **fixed** using a **mortise and tenon** joint, which required no **stitching**. In a later **era**, they **shifted** to a new method which **consisted of** building the frame first before other **components**. This was more **systematic**.'"
 
-"Then, create a review screen. Arrange the 15 words in two columns to show all the words/phrase clearly as much as possible, showing the word and its synonyms. For example: `word —— synonyms`."
+"Then, create a review screen. Arrange the 17 words in two or three columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
 
-"End with a creative question: 'Why was the invention of the **mortise and tenon** joint a major breakthrough in shipbuilding?'"
+"End with a creative question: 'Why was the shift to a **systematic**, frame-first method a major breakthrough in shipbuilding?'"
 
 ---
 
-#### **VIDEO 3: The Unrivalled Roman Fleet (15 words)**
+#### **VIDEO 3: The Unrivalled Roman Fleet (17 words)**
 
 **Video Script Prompt**
 
 **Target a specific use case:**
-"Help learners appreciate the scale and advanced technology of Roman ships, which were unmatched for centuries."
+"Help learners appreciate the scale and advanced design of Roman ships, particularly their specialized warships."
 
 **Focus on a specific source:**
-"Focus on the next 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+"Focus on the next 17 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
-1.  **shifted**
-2.  **consisted of**
-3.  **components**
-4.  **systematic**
-5.  **dramatically**
-6.  **construction**
-7.  **merchant**
-8.  **unequalled**
-9.  **lightweight**
-10. **speedy**
-11. **coast**
-12. **ballast**
-13. **excess**
-14. **load**
-15. **narrow**
+1.  **dramatically**
+2.  **construction**
+3.  **merchant**
+4.  **unequalled**
+5.  **lightweight**
+6.  **speedy**
+7.  **coast**
+8.  **ballast**
+9.  **excess**
+10. **load**
+11. **narrow**
+12. **sink**
+13. **crippled**
+14. **surface**
+15. **naval**
+16. **battles**
+17. **bronze battering ram**
 
 **Describe the show structure:**
-"Start with the new method: 'Shipbuilders **shifted** to a new method that **consisted of** building the frame first, then adding the hull and other **components**. This was more **systematic** and **dramatically** shortened **construction** time.'"
+"Start with the new method's impact: 'The new method **dramatically** shortened **construction** time. Romans built **merchant** ships and warships whose technology was **unequalled** for centuries.'"
 
-"Next, describe the ships themselves: 'They built large **merchant** ships and warships whose technology was **unequalled** for 1,500 years. Warships were **lightweight** and **speedy**. They could sail near the **coast** because they had no **ballast** or **excess** **load**, and had a long, **narrow** hull.'"
+"Next, describe the warships: 'They were **lightweight** and **speedy** for sailing near the **coast**, with no **ballast** or **excess** **load** and a **narrow** hull. They did not **sink** easily; they would lie **crippled** on the **surface** after **naval** **battles**. Their main weapon was a **bronze battering ram**.'"
 
-"Then, create a review screen. Arrange the 15 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
+"Then, create a review screen. Arrange the 17 words in two or three columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
 
-"End with a discussion question: 'Why would a **lightweight** warship need to sail near the **coast**?'"
+"End with a discussion question: 'Why was it an advantage for a warship to be **crippled** on the **surface** rather than **sink**?'"
 
 ---
 
-#### **VIDEO 4: The Art of Naval Warfare (15 words)**
+#### **VIDEO 4: The Trireme at War (17 words)**
 
 **Video Script Prompt**
 
 **Target a specific use case:**
-"Help learners understand the design and tactics of Roman warships, including their weapons and power sources."
+"Help learners understand the design of the dominant Roman warship, the trireme, and the reality of being a rower."
 
 **Focus on a specific source:**
-"Focus on the next 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+"Focus on the next 17 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
-1.  **sink**
-2.  **crippled**
-3.  **surface**
-4.  **naval**
-5.  **battles**
-6.  **bronze battering ram**
-7.  **pierce**
-8.  **timber**
-9.  **oars**
-10. **enemy**
-11. **powerful**
-12. **dominant**
-13. **rowers**
-14. **approximately**
-15. **exposed to**
+1.  **pierce**
+2.  **timber**
+3.  **oars**
+4.  **enemy**
+5.  **powerful**
+6.  **dominant**
+7.  **rowers**
+8.  **approximately**
+9.  **exposed to**
+10. **contrary to**
+11. **perception**
+12. **enrolled**
+13. **superseded**
+14. **transport**
+15. **cargo**
+16. **reasonable**
+17. **stability**
 
 **Describe the show structure:**
-"Start with the warship's resilience: 'They did not **sink** easily. Even when damaged, they would lie **crippled** on the sea's **surface** after **naval** **battles**.'"
+"Start with war tactics: 'The ram was used to **pierce** the **timber** hulls or break the **oars** of **enemy** ships. Rome's navy became very **powerful**. The **dominant** warship was the trireme, with three levels of **rowers**—**approximately** 150 men, who were **exposed to** incoming water.'"
 
-"Next, explain their weaponry and power: 'They had a **bronze battering ram** used to **pierce** the **timber** hulls or break the **oars** of **enemy** ships. Rome's navy became the most **powerful** in the Mediterranean. The **dominant** warship was the trireme, with three levels of **rowers**—**approximately** 150 in total. The bottom rowers were **exposed to** incoming water.'"
+"Next, correct a misconception and transition to merchant ships: '**Contrary to** popular **perception**, rowers were not slaves but citizens **enrolled** in the military. The trireme was later **superseded**. The other main ship type was built to **transport** **cargo** at a **reasonable** cost and required great **stability**.'"
 
-"Then, create a review screen. Arrange the 15 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
+"Then, create a review screen. Arrange the 17 words in two or three columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
 
-"End with a creative question: 'What do you think was the most uncomfortable part of being one of the bottom **rowers** on a trireme?'"
+"End with a reflective question: 'Why is it significant that, **contrary to** popular **perception**, rowers were **enrolled** citizens?'"
 
 ---
 
-#### **VIDEO 5: The Merchant Fleet (15 words)**
+#### **VIDEO 5: Supplying the Empire (17 words)**
 
 **Video Script Prompt**
 
 **Target a specific use case:**
-"Help learners contrast the design and purpose of merchant ships with warships and understand their role in the Roman Empire."
+"Help learners understand the features of Roman merchant ships and their vital role in supplying the gigantic city of Rome."
 
 **Focus on a specific source:**
-"Focus on the next 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+"Focus on the next 17 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
-1.  **contrary to**
-2.  **perception**
-3.  **enrolled**
-4.  **superseded**
-5.  **transport**
-6.  **cargo**
-7.  **reasonable**
-8.  **stability**
-9.  **rudders**
-10. **stern**
-11. **tiller**
-12. **masts**
-13. **standards**
-14. **granite**
-15. **inhabitants**
+1.  **rudders**
+2.  **stern**
+3.  **tiller**
+4.  **masts**
+5.  **standards**
+6.  **granite**
+7.  **inhabitants**
+8.  **gigantic**
+9.  **approach**
+10. **intercepted**
+11. **drag**
+12. **quay**
+13. **Navigation**
+14. **compasses**
+15. **observation**
+16. **phenomena**
+17. **visibility**
 
 **Describe the show structure:**
-"Start with a surprising fact about rowers: '**Contrary to** popular **perception**, rowers were not slaves, but citizens **enrolled** in the military. The trireme was later **superseded** by larger ships.'"
+"Start with merchant ship design: 'They had two large **rudders** at the **stern**, controlled by a **tiller**, and up to three **masts**. They supplied Rome—a huge city by ancient **standards** with a million **inhabitants**—with goods like **granite**.'"
 
-"Next, describe the merchant ships: 'They were built to **transport** **cargo** at a **reasonable** cost. They had a solid interior for **stability**, two large **rudders** at the **stern** controlled by a **tiller**, and up to three **masts**. They supplied Rome, a huge city by ancient **standards** with a million **inhabitants**, with goods like **granite**.'"
+"Next, describe their arrival and introduce navigation: 'As ships would **approach** the **gigantic** port, they were **intercepted** by towboats and **dragged** to the **quay**. **Navigation** didn't use **compasses** but relied on the **observation** of natural **phenomena**, especially in good **visibility**.'"
 
-"Then, create a review screen. Arrange the 15 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
+"Then, create a review screen. Arrange the 17 words in two or three columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
 
-"End with a discussion question: 'Why did merchant ships need more **stability** than warships?'"
+"End with a discussion question: 'Why would a **gigantic** port require towboats to **drag** ships to the **quay**?'"
 
 ---
 
-#### **VIDEO 6: The Art of Ancient Navigation (15 words)**
+#### **VIDEO 6: The Art of Ancient Navigation (17 words)**
 
 **Video Script Prompt**
 
 **Target a specific use case:**
-"Help learners understand how Roman sailors navigated the seas without modern instruments, relying on observation and experience."
+"Help learners understand how Roman sailors navigated without modern instruments and appreciate the similarities to modern shipping."
 
 **Focus on a specific source:**
-"Focus on the next 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+"Focus on the final 17 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
-1.  **gigantic**
-2.  **approach**
-3.  **intercepted**
-4.  **drag**
-5.  **quay**
-6.  **Navigation**
-7.  **compasses**
-8.  **observation**
-9.  **phenomena**
-10. **visibility**
-11. **facilitated**
-12. **position**
-13. **succession**
-14. **recognisable**
-15. **mariners**
-
-**Describe the show structure:**
-"Start with the arrival at port: 'Ships would **approach** the **gigantic** port of Ostia, be **intercepted** by towboats, and then **dragged** to the **quay**.'"
-
-"Next, explain their navigation methods: '**Navigation** did not rely on instruments like **compasses**. It was based on experience and the **observation** of natural **phenomena**. In good **visibility**, seeing land greatly **facilitated** their journey. They noted their **position** relative to a **succession** of **recognisable** landmarks. At night, Roman **mariners** used the stars.'"
-
-"Then, create a review screen. Arrange the 15 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
-
-"End with a reflective question: 'What natural **phenomena** could ancient **mariners** use for **navigation** besides the stars?'"
-
----
-
-#### **VIDEO 7: The Enduring Sea Lanes (7 words)**
-
-**Video Script Prompt**
-
-**Target a specific use case:**
-"Help learners appreciate the similarities between ancient Roman shipping and modern maritime trade."
-
-**Focus on a specific source:**
-"Focus on the final 7 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
-
-1.  **accuracy**
-2.  **swell**
-3.  **resembled**
-4.  **regularly**
-5.  **supplies**
-6.  **cargo**
-7.  **transport**
+1.  **facilitated**
+2.  **position**
+3.  **succession**
+4.  **recognisable**
+5.  **mariners**
+6.  **accuracy**
+7.  **swell**
+8.  **resembled**
+9.  **regularly**
+10. **supplies**
+11. **load**
+12. **cargo**
+13. **transport**
+14. **sailors**
+15. **enemy**
+16. **powerful**
+17. **dominant**
 
 **Describe the show structure:**
-"Start with their other navigation methods: 'With less **accuracy**, they used the sun at noon, and also the direction of the wind and the ocean **swell**.'"
+"Start with navigation techniques: 'Seeing land **facilitated** navigation. They noted their **position** relative to a **succession** of **recognisable** landmarks. At night, **mariners** used the stars, or with less **accuracy**, the sun and ocean **swell**.'"
 
-"Next, draw the final comparison: 'Overall, ancient shipping **resembled** shipping today. Large vessels **regularly** crossed the seas to **transport** **cargo** and bring **supplies** to the Empire.'"
+"Next, draw the final comparison: 'In many ways, ancient shipping **resembled** shipping today. Large vessels **regularly** crossed the seas to **transport** **cargo** and bring **supplies** to the Empire, making Rome a **powerful** and **dominant** force.'"
 
-"Then, create a review screen. Arrange the 7 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
+"Then, create a review screen. Arrange the 17 words in two or three columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
 
-"End with a final thought: 'In what ways has the need to **transport** **supplies** and **cargo** remained the same from ancient times to today?'"
+"End with a final thought: 'What **recognisable** landmarks do modern **sailors** use for navigation?'"

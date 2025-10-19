@@ -87,9 +87,9 @@
 | **biology**                  | the scientific study of living things                                                                                                | ...applied aspects of plant **biology**...                                                                                  |
 | **transfer**                 | move, transport, relocate, remove, shift                                                                                             | ...and can help us **transfer** this new knowledge into the field.'                                                         |
 
-### **Vocabulary Learning Plan: The Plant's Secret Thermometer (7 Videos)**
+### **Vocabulary Learning Plan: The Plant's Secret Thermometer (6 Videos)**
 
-Đây là kế hoạch chi tiết để học toàn bộ 92 từ vựng từ bài đọc, được chia thành 7 phần dễ quản lý hơn. Mỗi phần tương ứng với một video/buổi học và kể một chương của câu chuyện, giúp bạn học từ vựng một cách tự nhiên.
+Đây là kế hoạch chi tiết đã được tối ưu hóa để học toàn bộ 92 từ vựng từ bài đọc, chia thành 6 phần cân đối và logic. Mỗi phần tương ứng với một video/buổi học, giúp bạn khám phá bí mật về cách thực vật cảm nhận thế giới.
 
 ---
 
@@ -157,7 +157,7 @@
 
 "Next, connect it to traditional knowledge and new science: 'We've long known plants are **responsive** to temperature—warm winters make them **bud** early, which helps **predict** the harvest. New research **pinpoints** the **molecular** **mechanism** that **reacts** to heat, **triggering** spring growth.'"
 
-"Then, create a review screen. Arrange the 12 words in two columns to show all the words/phrase clearly as much as possible, showing the word and its synonyms. For example: `word —— synonyms`."
+"Then, create a review screen. Arrange the 12 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
 
 "End with a reflective question: 'How does this **molecular** **mechanism** explain the old wisdom that a warm winter leads to an early spring?'"
 
@@ -197,7 +197,7 @@
 
 ---
 
-#### **VIDEO 4: The Dance of Light and Dark (13 words)**
+#### **VIDEO 4: The Dance of Light and Dark (15 words)**
 
 **Video Script Prompt**
 
@@ -205,7 +205,7 @@
 "Help learners understand the detailed process of how phytochrome molecules control plant growth in response to both light and temperature."
 
 **Focus on a specific source:**
-"Focus on the next 13 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+"Focus on the next 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
 1.  **bind**
 2.  **restrict**
@@ -220,13 +220,15 @@
 11. **growth-suppressing**
 12. **dark reversion**
 13. **detach**
+14. **resume**
+15. **evolved**
 
 **Describe the show structure:**
 "Start with the daytime process: 'In their active state, these molecules **bind** to DNA to **restrict** growth. In the **shade**, they quickly inactivate, allowing plants to **compete** and grow to **escape** the shade.'"
 
-"Next, explain the night-time process: 'After **sundown**, the molecules **gradually** change back. The rate at which they **revert** to their inactive state is a direct **measure** of temperature. In the cold, they revert to **inactivity** slowly, spending more time in their **growth-suppressing** state. Warmth accelerates this '**dark reversion**', allowing them to **detach** from DNA.'"
+"Next, explain the night-time process: 'After **sundown**, the molecules **gradually** **revert** to their inactive state. This rate is a direct **measure** of temperature. In the cold, they stay in their **growth-suppressing** state longer. Warmth accelerates this '**dark reversion**', allowing them to **detach** from DNA so growth can **resume**. This ability likely **evolved** over time.'"
 
-"Then, create a review screen. Arrange the 13 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
+"Then, create a review screen. Arrange the 15 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
 
 "End with a creative question: 'How is the way plants **compete** for light a good example of a fast, responsive system?'"
 
@@ -242,25 +244,25 @@
 **Focus on a specific source:**
 "Focus on the next 14 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
-1.  **resume**
-2.  **evolved**
-3.  **co-opted**
-4.  **indicator**
-5.  **species**
-6.  **daffodils**
-7.  **considerable**
-8.  **in advance**
-9.  **dual**
-10. **well-known**
-11. **rhyme**
-12. **oak before ash**
-13. **rely on**
-14. **determine**
+1.  **co-opted**
+2.  **indicator**
+3.  **species**
+4.  **daffodils**
+5.  **considerable**
+6.  **in advance**
+7.  **dual**
+8.  **well-known**
+9.  **rhyme**
+10. **oak before ash**
+11. **rely on**
+12. **determine**
+13. **consequently**
+14. **likeliness**
 
 **Describe the show structure:**
-"Start with the result of warmth: 'When the molecules detach, growth can **resume**. This temperature-sensing ability probably **evolved** later and **co-opted** an existing system. Some plants use day length as an **indicator** of the season.'"
+"Start with the system's evolution: 'This temperature-sensing ability **co-opted** an existing system. Some plants use day length as an **indicator** of the season. Other **species**, like **daffodils**, have **considerable** temperature sensitivity and can flower months **in advance**.'"
 
-"Next, explain the rhyme: 'Other **species**, like **daffodils**, have **considerable** temperature sensitivity and can flower months **in advance**. This discovery of the **dual** role of phytochromes explains a **well-known** **rhyme**: "**oak before ash**". Oak trees **rely on** temperature to **determine** their timing, while ash trees rely on day length.'"
+"Next, explain the rhyme: 'This discovery of the **dual** role of phytochromes explains a **well-known** **rhyme**: "**oak before ash**". Oak trees **rely on** temperature to **determine** their timing, while ash trees rely on day length. **Consequently**, a warmer spring increases the **likeliness** of oak leafing first.'"
 
 "Then, create a review screen. Arrange the 14 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
 
@@ -268,61 +270,39 @@
 
 ---
 
-#### **VIDEO 6: From Lab to Field (13 words)**
+#### **VIDEO 6: From Lab to Field (17 words)**
 
 **Video Script Prompt**
 
 **Target a specific use case:**
-"Help learners understand the culmination of the research and the next steps in applying this knowledge to real-world agriculture."
+"Help learners understand the culmination of the research and the collaborative next steps in applying this knowledge to real-world agriculture."
 
 **Focus on a specific source:**
-"Focus on the next 13 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+"Focus on the final 17 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
-1.  **consequently**
-2.  **likeliness**
-3.  **findings**
-4.  **culmination**
-5.  **mustard**
-6.  **advances**
-7.  **rapidly**
-8.  **identify**
-9.  **processes**
-10. **alter**
-11. **precise**
-12. **uniquely well-positioned**
-13. **outstanding**
-
-**Describe the show structure:**
-"Start with the rhyme's logic: 'A warmer spring, and **consequently** a higher **likeliness** of a hot summer, means the oak will leaf before the ash. These new **findings** are the **culmination** of 12 years of research, much of it using a **mustard** plant.'"
-
-"Next, look to the future application: 'Recent **advances** in genetics mean scientists can **rapidly** **identify** the genes controlling these **processes**. They can even **alter** their activity with **precise** molecular tools. Cambridge is **uniquely well-positioned** for this work because of its **outstanding** collaborators.'"
-
-"Then, create a review screen. Arrange the 13 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
-
-"End with a reflective question: 'Why is it important for scientists to be able to not just **identify** genes, but also **alter** their activity with **precise** tools?'"
-
----
-
-#### **VIDEO 7: The Collaborative Future (4 words)**
-
-**Video Script Prompt**
-
-**Target a specific use case:**
-"Help learners appreciate the importance of collaboration in science to move discoveries from the laboratory to practical application."
-
-**Focus on a specific source:**
-"Focus on the final 4 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
-
-1.  **collaborators**
-2.  **nearby**
-3.  **biology**
-4.  **transfer**
+1.  **findings**
+2.  **culmination**
+3.  **mustard**
+4.  **advances**
+5.  **rapidly**
+6.  **identify**
+7.  **processes**
+8.  **alter**
+9.  **precise**
+10. **uniquely well-positioned**
+11. **outstanding**
+12. **collaborators**
+13. **nearby**
+14. **biology**
+15. **transfer**
+16. **yields**
+17. **resilient**
 
 **Describe the show structure:**
-"Start with the importance of teamwork: 'The research center has outstanding **collaborators** **nearby** who work on applied plant **biology**.'"
+"Start with the research journey: 'These new **findings** are the **culmination** of 12 years of research, much of it using a **mustard** plant. Recent **advances** in genetics mean scientists can **rapidly** **identify** the genes controlling these **processes** and even **alter** them with **precise** tools.'"
 
-"Next, state the final goal: 'These partners can help us **transfer** this new knowledge from the lab into the field, creating better crops for the future.'"
+"Next, look to the future application: 'Cambridge is **uniquely well-positioned** for this work because of its **outstanding** **collaborators** **nearby**. These experts in plant **biology** can help **transfer** this new knowledge into the field, creating **resilient** crops with higher **yields**.'"
 
-"Then, create a review screen. Arrange the 4 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
+"Then, create a review screen. Arrange the 17 words in two or three columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
 
 "End with a final thought: 'Why is it crucial for research scientists to have **collaborators** who can help **transfer** new knowledge into practical use?'"

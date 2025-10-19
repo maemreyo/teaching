@@ -105,13 +105,13 @@
 | **extracting**          | to remove an object from somewhere, especially with difficulty                               | That means archaeologists could be **extracting** some of those artefacts...                        |
 | **retreating**          | if an area of water, snow, or land retreats, it gradually gets smaller                       | ...from **retreating** ice in years to come.                                                        |
 
-### **Vocabulary Learning Plan: Treasures from the Ice (7 Videos)**
+### **Vocabulary Learning Plan: Treasures from the Ice (6 Videos)**
 
-Đây là kế hoạch chi tiết để học toàn bộ 111 từ vựng từ bài đọc, được chia thành 7 phần dễ quản lý hơn. Mỗi phần tương ứng với một video/buổi học và kể một chương của câu chuyện, giúp bạn học từ vựng một cách tự nhiên.
+Đây là kế hoạch chi tiết đã được tối ưu hóa để học toàn bộ 111 từ vựng từ bài đọc, chia thành 6 phần cân đối và logic. Mỗi phần tương ứng với một video/buổi học, kể một chương của câu chuyện về những khám phá đáng kinh ngạc từ băng tan.
 
 ---
 
-#### **VIDEO 1: The Melting Archives (15 words)**
+#### **VIDEO 1: The Melting Archives (17 words)**
 
 **Video Script Prompt**
 
@@ -119,7 +119,7 @@
 "Help learners understand the urgent situation caused by climate change, where melting ice is revealing fragile, ancient items."
 
 **Focus on a specific source:**
-"Focus on the first 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+"Focus on the first 17 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
 1.  **treeline**
 2.  **ancient**
@@ -136,13 +136,15 @@
 13. **textiles**
 14. **hides**
 15. **rare**
+16. **microorganisms**
+17. **decay**
 
 **Describe the show structure:**
 "Start with the setting: 'High above the **treeline**, **ancient** fields of ice are **shrinking**. As the ice has **vanished**, it has revealed **treasures** that were **preserved** for 6,000 years, like **arrows** and **skis**.'"
 
-"Next, explain the significance: 'These **artefacts** give **archaeologists** **surprising** **insights**. Organic materials like **textiles** and **hides** are usually **rare** finds because they decay easily.'"
+"Next, explain the significance: 'These **artefacts** give **archaeologists** **surprising** **insights**. Organic materials like **textiles** and **hides** are usually **rare** finds because they are destroyed by **microorganisms** that cause **decay**.'"
 
-"Then, create a review screen. Arrange the 15 words in two columns to show all the words/phrase clearly as much as possible, showing only the word and its synonyms. For example: `word —— synonyms`."
+"Then, create a review screen. Arrange the 17 words in two or three columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
 
 "End with a discussion question: 'What kind of **surprising** **insights** do you think **ancient** **artefacts** like **skis** can give **archaeologists**?'"
 
@@ -158,35 +160,35 @@
 **Focus on a specific source:**
 "Focus on the next 16 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
-1.  **microorganisms**
-2.  **decay**
-3.  **extreme**
-4.  **reliable**
-5.  **thawed**
-6.  **degradation**
-7.  **swiftly**
-8.  **glacial**
-9.  **race the clock**
-10. **revealed**
-11. **fragile**
-12. **exposed**
-13. **well-preserved**
-14. **unpredictability**
-15. **systematic**
-16. **approach**
+1.  **extreme**
+2.  **reliable**
+3.  **thawed**
+4.  **degradation**
+5.  **swiftly**
+6.  **glacial**
+7.  **race the clock**
+8.  **revealed**
+9.  **fragile**
+10. **exposed**
+11. **well-preserved**
+12. **unpredictability**
+13. **systematic**
+14. **approach**
+15. **surveyed**
+16. **patches**
 
 **Describe the show structure:**
-"Start with the preservation method: '**Microorganisms** cause **decay**, but **extreme** cold is a **reliable** way to keep things fresh. However, once **thawed**, these items experience **degradation** relatively **swiftly**.'"
+"Start with the preservation method: '**Extreme** cold is a **reliable** way to keep things fresh. However, once **thawed**, **fragile** items experience **degradation** relatively **swiftly**.'"
 
-"Next, describe the challenge: '**Glacial** archaeologists must **race the clock** to find newly **revealed** artefacts. A **fragile** item might be **exposed** one day and gone the next, while another remains **well-preserved**. This **unpredictability** means they need a **systematic** **approach** to their work.'"
+"Next, describe the challenge: '**Glacial** archaeologists must **race the clock** to find newly **revealed** artefacts. An item might be **exposed** one day and gone the next, while another remains **well-preserved**. This **unpredictability** means they need a **systematic** **approach** as they **surveyed** the ice **patches**.'"
 
-"Then, create a review screen. Arrange the 16 words in two columns to show all the words/phrase clearly as much as possible, showing the word and its synonyms. For example: `word —— synonyms`."
+"Then, create a review screen. Arrange the 16 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
 
 "End with a reflective question: 'Why is a **systematic** **approach** so important for **glacial** archaeologists given the **unpredictability** of their work?'"
 
 ---
 
-#### **VIDEO 3: Following the Reindeer (16 words)**
+#### **VIDEO 3: Following the Reindeer (17 words)**
 
 **Video Script Prompt**
 
@@ -194,74 +196,77 @@
 "Help learners visualize the ancient hunting grounds and trade routes that are now being uncovered by the melting ice."
 
 **Focus on a specific source:**
-"Focus on the next 16 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+"Focus on the next 17 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
-1.  **surveyed**
-2.  **patches**
-3.  **reindeer**
-4.  **congregated**
-5.  **escape**
-6.  **trade routes**
-7.  **threaded**
-8.  **settlements**
-9.  **steady**
-10. **destroy**
-11. **bases**
-12. **amid**
-13. **boulders**
-14. **bedrock**
-15. **buried**
-16. **beneath**
+1.  **reindeer**
+2.  **congregated**
+3.  **escape**
+4.  **trade routes**
+5.  **threaded**
+6.  **settlements**
+7.  **steady**
+8.  **destroy**
+9.  **bases**
+10. **amid**
+11. **boulders**
+12. **bedrock**
+13. **buried**
+14. **beneath**
+15. **permafrost**
+16. **rewarding**
+17. **unique**
 
 **Describe the show structure:**
-"Start with the research location: 'Archaeologists **surveyed** **patches** of ice in Norway. **Reindeer** once **congregated** there to **escape** insects, and ancient hunters followed them.'"
+"Start with the research location: '**Reindeer** once **congregated** on the ice to **escape** insects, and ancient hunters followed them. **Trade routes** also **threaded** through the mountains, linking **settlements**.'"
 
-"Next, describe the environment: '**Trade routes** also **threaded** through the mountains, linking **settlements**. The **steady** movement of glaciers can **destroy** artefacts at their **bases**, so the team focused on stationary ice **amid** fields of **boulders** and exposed **bedrock**, which is **buried** **beneath** snow most of the year.'"
+"Next, describe the environment: 'The **steady** movement of glaciers can **destroy** artefacts at their **bases**, so the team focused on stationary ice **amid** fields of **boulders** and exposed **bedrock**, which is **buried** **beneath** snow most of the year. Fieldwork means camping on **permafrost** but is very **rewarding**, revealing a **unique** history.'"
 
-"Then, create a review screen. Arrange the 16 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
+"Then, create a review screen. Arrange the 17 words in two or three columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
 
 "End with a discussion question: 'Why did ancient **trade routes** often follow the same paths as animal migrations?'"
 
 ---
 
-#### **VIDEO 4: The Hunter's Lost Belongings (15 words)**
+#### **VIDEO 4: The Hunter's Lost Belongings (17 words)**
 
 **Video Script Prompt**
 
 **Target a specific use case:**
-"Help learners understand the types of artefacts found and what they tell us about the people who used them."
+"Help learners understand the types of artefacts found and how they are analyzed to reveal historical patterns."
 
 **Focus on a specific source:**
-"Focus on the next 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+"Focus on the next 17 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
-1.  **permafrost**
-2.  **rewarding**
-3.  **unique**
-4.  **edges**
-5.  **contracting**
-6.  **material**
-7.  **associated with**
-8.  **misplaced**
-9.  **discarded**
-10. **bows**
-11. **traversing**
-12. **horse tack**
-13. **radiocarbon-dated**
-14. **timing**
-15. **region**
+1.  **edges**
+2.  **contracting**
+3.  **material**
+4.  **associated with**
+5.  **misplaced**
+6.  **discarded**
+7.  **bows**
+8.  **traversing**
+9.  **horse tack**
+10. **radiocarbon-dated**
+11. **timing**
+12. **region**
+13. **shifts**
+14. **farming settlements**
+15. **spread**
+16. **trade networks**
+17. **indicates**
 
 **Describe the show structure:**
-"Start with the fieldwork experience: 'Fieldwork involves camping on **permafrost** but is very **rewarding**, revealing a **unique** history. At the **edges** of **contracting** ice, they found a **material** record of the past.'"
+"Start with the finds: 'At the **edges** of **contracting** ice, they found a **material** record. Many items are **associated with** hunting; hunters **misplaced** arrows and **discarded** broken **bows**. Other items, like **horse tack**, were used by people **traversing** the mountains.'"
 
-"Next, describe the finds: 'Many items are **associated with** hunting. Hunters easily **misplaced** arrows and **discarded** broken **bows**. Other items, like **horse tack**, were used by people **traversing** the mountains. The team **radiocarbon-dated** the items to compare their age with the **timing** of environmental changes in the **region**.'"
+"Next, describe the analysis: 'The team **radiocarbon-dated** the items to compare their age with the **timing** of major **shifts** in the **region**, like the **spread** of **farming settlements** and **trade networks**. This **indicates** when people were most active.'"
 
-"Then, create a review screen. Arrange the 15 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
+"Then, create a review screen. Arrange the 17 words in two or three columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
 
-"End with a discussion question: 'What can **discarded** items like broken **bows** tell us about the people who were **traversing** these mountains?'"
+"End with a discussion question: 'What does the **spread** of **trade networks** tell us about the people **traversing** these mountains?'"
 
 ---
 
-#### **VIDEO 5: Hunting in the Ice Age (16 words)**
+#### **VIDEO 5: Hunting in the Ice Age (18 words)**
 
 **Video Script Prompt**
 
@@ -269,97 +274,69 @@
 "Help learners understand the surprising discovery that ancient people were active in the high mountains even during cold periods."
 
 **Focus on a specific source:**
-"Focus on the next 16 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+"Focus on the next 18 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
-1.  **shifts**
-2.  **farming settlements**
-3.  **spread**
-4.  **trade networks**
-5.  **indicates**
-6.  **daunting**
-7.  **terrain**
-8.  **block**
-9.  **passes**
-10. **assumed**
-11. **stick to**
-12. **elevations**
-13. **venturing**
-14. **apparently**
-15. **Remarkably**
-16. **supplement**
+1.  **daunting**
+2.  **terrain**
+3.  **block**
+4.  **passes**
+5.  **assumed**
+6.  **stick to**
+7.  **elevations**
+8.  **venturing**
+9.  **apparently**
+10. **Remarkably**
+11. **supplement**
+12. **failing**
+13. **harvests**
+14. **temperatures**
+15. **widespread**
+16. **crop failures**
+17. **depended on**
+18. **make up for**
 
 **Describe the show structure:**
-"Start with the data analysis: 'They compared the dates to social **shifts**, like the growth of **farming settlements** and the **spread** of **trade networks**. Lots of artefacts from certain periods **indicates** high activity.'"
+"Start with the puzzle: 'The mountains have **daunting** **terrain**, and cold could **block** the high **passes**. Archaeologists **assumed** people would **stick to** lower **elevations** during cold times.'"
 
-"Next, reveal the surprising finding: 'The mountains have **daunting** **terrain**, and cold could **block** the high **passes**. Archaeologists **assumed** people would **stick to** lower **elevations** during cold times. But hunters kept **venturing** into the mountains, **apparently** dropping a lot of stuff. **Remarkably**, this continued, perhaps to **supplement** failing harvests.'"
+"Next, reveal the surprising finding: '**Remarkably**, hunters kept **venturing** into the mountains, **apparently** dropping a lot of stuff. This was likely to **supplement** **failing** agricultural **harvests**. During low **temperatures**, **widespread** **crop failures** meant people **depended on** hunting to **make up for** their losses.'"
 
-"Then, create a review screen. Arrange the 16 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
+"Then, create a review screen. Arrange the 18 words in three columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
 
 "End with a reflective question: 'Why is it **remarkable** that people were **venturing** into **daunting** mountain **terrain** during an ice age?'"
 
 ---
 
-#### **VIDEO 6: The Viking Age Boom (15 words)**
+#### **VIDEO 6: The Viking Boom and the Future (15 words)**
 
 **Video Script Prompt**
 
 **Target a specific use case:**
-"Help learners connect the archaeological finds to the expansion of trade and economic activity during the Viking Age."
+"Help learners connect the finds to the Viking Age and understand that many more artefacts are likely still frozen."
 
 **Focus on a specific source:**
-"Focus on the next 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+"Focus on the final 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
-1.  **failing**
-2.  **harvests**
-3.  **temperatures**
-4.  **widespread**
-5.  **crop failures**
-6.  **depended on**
-7.  **make up for**
-8.  **recovered**
-9.  **expanding**
-10. **discoveries**
-11. **plenty of**
-12. **overland**
-13. **export**
-14. **booming**
-15. **demand**
+1.  **recovered**
+2.  **expanding**
+3.  **discoveries**
+4.  **plenty of**
+5.  **overland**
+6.  **export**
+7.  **booming**
+8.  **demand**
+9.  **antlers**
+10. **prehistory**
+11. **remote**
+12. **sample**
+13. **disintegrated**
+14. **extracting**
+15. **retreating**
 
 **Describe the show structure:**
-"Start with the reason for winter hunting: '**Failing** agricultural **harvests** during times of low **temperatures** likely meant **widespread** **crop failures**. People **depended on** hunting to **make up for** these losses.'"
+"Start with the Viking Age: 'Many artefacts **recovered** date to the Viking Age, when trade networks were **expanding**. These **discoveries** show **plenty of** goods travelled on **overland** routes. A **booming** **demand** for **exports** like hides and **antlers** drove this activity.'"
 
-"Next, connect to the Viking Age: 'Many artefacts the team **recovered** date to the Viking Age, when trade networks were **expanding**. These **discoveries** show that **plenty of** goods travelled on **overland** routes. Growing towns and **export** markets created a **booming** **demand** for hides and antlers.'"
+"Next, look to the future: 'The mountains still hide much **prehistory** in **remote** ice. The team's **sample** shows gaps, perhaps because items have **disintegrated** or are still frozen. Archaeologists will be **extracting** more treasures from **retreating** ice for years to come.'"
 
 "Then, create a review screen. Arrange the 15 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
-
-"End with a discussion question: 'How did a **booming** **demand** for goods in towns lead to more activity on **overland** mountain routes?'"
-
----
-
-#### **VIDEO 7: The Future of the Past (8 words)**
-
-**Video Script Prompt**
-
-**Target a specific use case:**
-"Help learners understand the final conclusion: there are likely many more artefacts still frozen, waiting to be discovered as the ice continues to melt."
-
-**Focus on a specific source:**
-"Focus on the final 8 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
-
-1.  **antlers**
-2.  **prehistory**
-3.  **remote**
-4.  **sample**
-5.  **disintegrated**
-6.  **extracting**
-7.  **retreating**
-8.  **rare**
-
-**Describe the show structure:**
-"Start with the trade goods: 'There was a high demand for hides and **antlers** to make things like combs. The mountains are still hiding a lot of history and **prehistory** in **remote** ice patches.'"
-
-"Next, explain the gap in the record: 'When the team looked at their **sample** of artefacts, they noticed a gap. Finds from that period are **rare** all over Norway. This could be because many artefacts have **disintegrated**, or are still frozen. Archaeologists could be **extracting** more of these treasures from **retreating** ice for years to come.'"
-
-"Then, create a review screen. Arrange the 8 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
 
 "End with a final thought: 'What is the most exciting potential discovery you think could still be **extracting** from the **retreating** ice?'"
