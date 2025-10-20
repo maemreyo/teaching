@@ -1,4 +1,4 @@
-Focus on explaining each words in the context of the reading passage with the clear, ease-to-understand explaination for each.
+Your primary goal is to explain each word in the context of the reading passage. Use simple, clear, and easy-to-understand English for all explanations. Avoid using complex vocabulary or jargon when explaining the words.
 At the end of the audio, create a natural vocabulary drill with two hosts:
 - Host A will state a target word clearly.
 - Add a 2-3 second pause for the listener and Host B to think.
