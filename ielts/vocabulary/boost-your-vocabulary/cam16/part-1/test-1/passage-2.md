@@ -79,19 +79,19 @@
 
 ### **Vocabulary Learning Plan: The First Pyramid (5 Videos)**
 
-Đây là kế hoạch chi tiết để học toàn bộ 78 từ vựng từ bài đọc, được chia thành 5 phần dễ quản lý hơn. Mỗi phần tương ứng với một video/buổi học và kể một chương của câu chuyện, giúp bạn học từ vựng một cách tự nhiên.
+Đây là kế hoạch chi tiết để học toàn bộ 72 từ vựng từ bài đọc, được chia thành 5 phần dễ quản lý hơn. Mỗi phần tương ứng với một video/buổi học và kể một chương của câu chuyện, giúp bạn học từ vựng một cách tự nhiên.
 
 ---
 
-#### **VIDEO 1: The Birth of an Icon (16 words)**
+#### **VIDEO 1: The Birth of an Icon (14 words)**
 
 **Video Script Prompt**
 
 **Target a specific use case:**
-"Help learners understand the historical significance of pyramids and the origin of the very first one in Egypt."
+"Help learners understand the historical significance of pyramids and the context for the first one in Egypt."
 
 **Focus on a specific source:**
-"Focus on the first 16 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+"Focus on the first 14 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
 1.  **pyramids**
 2.  **monuments**
@@ -107,158 +107,156 @@
 12. **architect**
 13. **Prior to**
 14. **reign**
-15. **tombs**
-16. **rectangular**
 
 **Describe the show structure:**
-"Start with the big picture: '**Pyramids** are famous **monuments** from **ancient** Egypt that still hold **enormous** **interest**. These **grand**, **impressive** **tributes** to kings have a long **evolution**. But **as far as** Egypt **is concerned**, it all began with one **brilliant** **architect**.'"
+"Start with the big picture: '**Pyramids** are famous **monuments** from **ancient** Egypt that still hold **enormous** **interest**. These **grand**, **impressive** **tributes** to kings have a long **evolution**. But **as far as** Egypt **is concerned**, it all began with one **brilliant** **architect**. **Prior to** King Djoser's **reign**, tombs were different.'"
 
-"Next, describe what came before: '**Prior to** King Djoser's **reign**, **tombs** were simple **rectangular** structures made of clay brick.'"
-
-"Then, create a review screen. Arrange the 16 words in two columns to show all the words/phrase clearly as much as possible, showing only the word and its synonyms. For example: `word —— synonyms`."
+"Then, create a review screen. Arrange the 14 words in two columns to show all the words/phrase clearly as much as possible, showing only the word and its synonyms. For example: `word —— synonyms`."
 
 "End with a discussion question: 'Why do you think these **ancient** **monuments** still hold such **enormous** **interest** for people today?'"
 
 ---
 
-#### **VIDEO 2: The Vision of an Architect (16 words)**
+#### **VIDEO 2: From Tombs to Pyramids (15 words)**
 
 **Video Script Prompt**
 
 **Target a specific use case:**
-"Help learners understand the innovative construction of the Step Pyramid and the challenges the builders faced."
+"Help learners understand the transition from simple tombs to the first pyramid and how it was studied."
 
 **Focus on a specific source:**
-"Focus on the next 16 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+"Focus on the next 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
-1.  **clay brick**
-2.  **underground**
-3.  **passages**
-4.  **deceased**
-5.  **conceived of**
-6.  **stacking**
-7.  **slabs**
-8.  **progressively**
-9.  **historians**
-10. **scholars**
-11. **attribute**
-12. **thoroughly**
-13. **examined**
-14. **experimentation**
-15. **construction**
-16. **complex**
+1.  **tombs**
+2.  **rectangular**
+3.  **clay brick**
+4.  **underground**
+5.  **passages**
+6.  **deceased**
+7.  **conceived of**
+8.  **stacking**
+9.  **slabs**
+10. **progressively**
+11. **historians**
+12. **scholars**
+13. **attribute**
+14. **thoroughly**
+15. **examined**
 
 **Describe the show structure:**
-"Start with the old tombs: 'Old tombs were made of **clay brick** and covered **underground** **passages** where the **deceased** was buried. But the architect Imhotep **conceived of** a new idea.'"
+"Start with the old tombs: 'Early **tombs** were **rectangular** structures of **clay brick** covering **underground** **passages** for the **deceased**. But an architect **conceived of** a new idea: **stacking** stone **slabs** and making them **progressively** smaller.'"
 
-"Next, explain the new design and its study: 'He started **stacking** stone **slabs**, making them **progressively** smaller. Some **historians** and **scholars** **attribute** a long reign to Djoser because of this work. The pyramid has been **thoroughly** **examined**, revealing that much **experimentation** was involved in the **construction** of the entire **complex**.'"
+"Next, explain the historical view: 'Some **historians** and **scholars** **attribute** a long reign to the king because of this work. The pyramid has been **thoroughly** **examined** over the last century.'"
 
-"Then, create a review screen. Arrange the 16 words in two columns to show all the words/phrase clearly as much as possible, showing the word and its synonyms. For example: `word —— synonyms`."
+"Then, create a review screen. Arrange the 15 words in two columns to show all the words/phrase clearly as much as possible, showing the word and its synonyms. For example: `word —— synonyms`."
 
-"End with a discussion question: 'What kind of **experimentation** do you think was needed for the **construction** of the first stone pyramid?'"
+"End with a discussion question: 'What might **historians** and **scholars** learn when a monument is **thoroughly** **examined**?'"
 
 ---
 
-#### **VIDEO 3: A City for the Dead (16 words)**
+#### **VIDEO 3: The Making of a Landmark (15 words)**
 
 **Video Script Prompt**
 
 **Target a specific use case:**
-"Help learners visualize the vast and elaborate complex surrounding the pyramid, designed to protect it and honor the king."
+"Help learners visualize the vast and elaborate complex surrounding the pyramid, designed for both function and defense."
 
 **Focus on a specific source:**
-"Focus on the next 16 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+"Focus on the next 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
-1.  **inward incline**
-2.  **courtyards**
-3.  **shrines**
-4.  **quarters**
-5.  **priests**
-6.  **entrance**
-7.  **trench**
-8.  **false**
-9.  **incorporated**
-10. **discourage**
-11. **accomplishment**
-12. **carved**
-13. **chamber**
-14. **beneath**
-15. **base**
-16. **surrounded**
+1.  **experimentation**
+2.  **construction**
+3.  **complex**
+4.  **inward incline**
+5.  **courtyards**
+6.  **shrines**
+7.  **quarters**
+8.  **priests**
+9.  **entrance**
+10. **trench**
+11. **false**
+12. **incorporated**
+13. **discourage**
+14. **accomplishment**
+15. **carved**
 
 **Describe the show structure:**
-"Start with the building technique: 'To support the weight, the stones were placed at an **inward incline**. The complex was like a city, with **courtyards**, **shrines**, and living **quarters** for the **priests**.'"
+"Start with the building process: 'Much **experimentation** was involved in the **construction** of the pyramid **complex**. The stones had an **inward incline** for stability. The site included **courtyards**, **shrines**, and living **quarters** for **priests**.'"
 
-"Next, describe the security features: 'There was only one true **entrance**. The wall was ringed by a deep **trench**, and **false** doors were **incorporated** into the design to **discourage** visitors. Djoser was so proud of this **accomplishment** that he had his architect's name **carved** on it. The burial **chamber** was dug deep **beneath** the **base** of the pyramid, **surrounded** by tunnels.'"
+"Next, describe the security features: 'There was only one true **entrance**. A deep **trench** and **false** doors were **incorporated** to **discourage** unwanted visitors. The king was so proud of this **accomplishment** that his architect's name was **carved** on it.'"
 
-"Then, create a review screen. Arrange the 16 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
+"Then, create a review screen. Arrange the 15 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
 
-"End with a discussion question: 'Why were **false** doors and a **trench** **incorporated** into the design to **discourage** visitors?'"
+"End with a discussion question: 'Why was it such a great **accomplishment** to build this pyramid **complex**?'"
 
 ---
 
-#### **VIDEO 4: The Mystery of the Stone Vessels (16 words)**
+#### **VIDEO 4: Secrets Beneath the Stone (14 words)**
 
 **Video Script Prompt**
 
 **Target a specific use case:**
-"Help learners explore the mysterious discoveries within the pyramid and the different theories about their purpose."
+"Help learners explore the mysterious discoveries within the pyramid's underground network."
 
 **Focus on a specific source:**
-"Focus on the next 16 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+"Focus on the next 14 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
-1.  **maze**
-2.  **robbers**
-3.  **mysterious**
-4.  **discoveries**
-5.  **inscribed**
-6.  **archaeologists**
-7.  **represent**
-8.  **excavated**
-9.  **honor**
-10. **predecessors**
-11. **shafts**
-12. **attempt**
-13. **precautions**
-14. **intricate**
-15. **network**
-16. **valuables**
+1.  **chamber**
+2.  **beneath**
+3.  **base**
+4.  **surrounded**
+5.  **maze**
+6.  **robbers**
+7.  **mysterious**
+8.  **discoveries**
+9.  **inscribed**
+10. **archaeologists**
+11. **represent**
+12. **excavated**
+13. **honor**
+14. **predecessors**
 
 **Describe the show structure:**
-"Start with the underground tunnels: 'A vast **maze** of tunnels was built to discourage **robbers**. One of the most **mysterious** **discoveries** was thousands of stone vessels **inscribed** with the names of earlier kings.'"
+"Start with the tomb itself: 'The burial **chamber** was dug deep **beneath** the **base** of the pyramid, **surrounded** by a vast **maze** of tunnels to discourage **robbers**.'"
 
-"Next, explain the different theories: '**Archaeologists** disagree on what these vessels **represent**. The man who **excavated** the pyramid believed they were buried to **honor** Djoser's **predecessors**. Others think they were dumped in the **shafts** as another **attempt** to stop robbers. But all these **precautions** and the **intricate** underground **network** failed to protect the king's **valuables**.'"
+"Next, explain the mystery: 'One of the most **mysterious** **discoveries** was thousands of stone vessels **inscribed** with names of past rulers. **Archaeologists** disagree on what they **represent**. The man who **excavated** the site believed they were to **honor** the king's **predecessors**.'"
 
-"Then, create a review screen. Arrange the 16 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
+"Then, create a review screen. Arrange the 14 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
 
-"End with a reflective question: 'Which theory do you believe: were the vessels placed to **honor** **predecessors** or as an **attempt** to stop **robbers**?'"
+"End with a reflective question: 'Why do you think the king would want to **honor** his **predecessors** in his own tomb?'"
 
 ---
 
-#### **VIDEO 5: A Revolutionary Milestone (8 words)**
+#### **VIDEO 5: A Revolutionary Legacy (14 words)**
 
 **Video Script Prompt**
 
 **Target a specific use case:**
-"Help learners understand the final assessment of the Step Pyramid's importance in the history of architecture."
+"Help learners understand the failure of the pyramid's security and its ultimate success as an architectural milestone."
 
 **Focus on a specific source:**
-"Focus on the final 8 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+"Focus on the final 14 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
-1.  **overlooked**
-2.  **thieves**
-3.  **astonish**
-4.  **exaggeration**
-5.  **constitutes**
-6.  **milestone**
-7.  **revolutionary**
-8.  **archetype**
+1.  **shafts**
+2.  **attempt**
+3.  **precautions**
+4.  **intricate**
+5.  **network**
+6.  **valuables**
+7.  **overlooked**
+8.  **thieves**
+9.  **astonish**
+10. **exaggeration**
+11. **constitutes**
+12. **milestone**
+13. **revolutionary**
+14. **archetype**
 
 **Describe the show structure:**
-"Start with the aftermath of the robbery: 'Only a few valuables were **overlooked** by the ancient **thieves**, but what was left was enough to **astonish** the archaeologists.'"
+"Start with the theories and failure: 'Another theory is the vessels were dumped in the **shafts** as an **attempt** to stop robbers. But all the **precautions** and the **intricate** underground **network** failed to protect the king's **valuables**. Most were not **overlooked** by the **thieves**.'"
 
-"Next, state the pyramid's legacy: 'It is no **exaggeration** to say this complex **constitutes** a major **milestone** in architecture. It was a **revolutionary** advance and became the **archetype** for all later pyramids.'"
+"Next, state the pyramid's legacy: 'What was left was enough to **astonish** archaeologists. It is no **exaggeration** to say this complex **constitutes** a major **milestone**. It was a **revolutionary** advance and became the **archetype** for all later pyramids.'"
 
-"Then, create a review screen. Arrange the 8 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
+"Then, create a review screen. Arrange the 14 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
 
 "End with a final thought: 'What makes the Step Pyramid a **revolutionary** **milestone** and an **archetype** for future buildings?'"

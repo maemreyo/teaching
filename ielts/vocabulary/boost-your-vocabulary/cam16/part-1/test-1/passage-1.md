@@ -97,21 +97,21 @@
 | **breakthroughs**   | an important new discovery in something you are studying                              | ...the loss of potential **breakthroughs** in human medicine...                                                   |
 | **majestic**        | very big, impressive, or beautiful                                                    | ...the disappearance of an intelligent, **majestic** animal.                                                      |
 
-### **Vocabulary Learning Plan: The Secrets of the Polar Bear (7 Videos)**
+### **Vocabulary Learning Plan: The Secrets of the Polar Bear (5 Videos)**
 
-Đây là kế hoạch chi tiết để học toàn bộ 101 từ vựng từ bài đọc, được chia thành 7 phần dễ quản lý hơn. Mỗi phần tương ứng với một video/buổi học và kể một chương của câu chuyện, giúp bạn học từ vựng một cách tự nhiên.
+Đây là kế hoạch chi tiết để học toàn bộ 92 từ vựng từ bài đọc, được chia thành 5 phần dễ quản lý hơn. Mỗi phần tương ứng với một video/buổi học và kể một chương của câu chuyện, giúp bạn học từ vựng một cách tự nhiên.
 
 ---
 
-#### **VIDEO 1: The Arctic Survivor (16 words)**
+#### **VIDEO 1: The Arctic Survivor's Secrets (18 words)**
 
 **Video Script Prompt**
 
 **Target a specific use case:**
-"Help learners understand the polar bear's unique adaptations to its harsh environment and the health paradox it presents."
+"Help learners understand the polar bear's unique adaptations and the health paradox it presents."
 
 **Focus on a specific source:**
-"Focus on the first 16 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+"Focus on the first 18 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
 1.  **threatened**
 2.  **climate**
@@ -129,220 +129,176 @@
 14. **suffer from**
 15. **diabetes**
 16. **disease**
+17. **colleagues**
+18. **sheds light on**
 
 **Describe the show structure:**
 "Start with the central threat: 'Polar bears are **threatened** by **climate** change, which could have **far-reaching** **consequences**. They are **uniquely** **adapted** to the **extreme** **temperatures** of the Arctic, which can **reach** -40°C.'"
 
-"Next, explain their amazing adaptation: 'They have thick fat **underneath** their skin. Humans with **comparative** levels of **adipose tissue** would be considered **obese** and likely **suffer from** **diabetes** or heart **disease**. Yet, polar bears do not.'"
+"Next, explain their amazing adaptation: 'They have thick fat **underneath** their skin. Humans with **comparative** levels of **adipose tissue** would be considered **obese** and likely **suffer from** **diabetes** or heart **disease**. Yet, polar bears do not. A study by a scientist and his **colleagues** **sheds light on** this mystery.'"
 
-"Then, create a review screen. Arrange the 16 words in two columns to show all the words/phrase clearly as much as possible, showing only the word and its synonyms. For example: `word —— synonyms`."
+"Then, create a review screen. Arrange the 18 words in two columns to show all the words/phrase clearly as much as possible, showing only the word and its synonyms. For example: `word —— synonyms`."
 
 "End with a discussion question: 'Why is it a paradox that polar bears can have so much **adipose tissue** without suffering from **disease**?'"
 
 ---
 
-#### **VIDEO 2: Genetic Secrets (15 words)**
+#### **VIDEO 2: Genetic Blueprint for Survival (18 words)**
 
 **Video Script Prompt**
 
 **Target a specific use case:**
-"Help learners explore the genetic research that begins to explain the polar bear's unique physiology."
+"Help learners explore the genetic research that explains the polar bear's unique physiology."
 
 **Focus on a specific source:**
-"Focus on the next 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+"Focus on the next 18 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
-1.  **colleagues**
-2.  **sheds light on**
-3.  **mystery**
-4.  **genetic**
-5.  **relatives**
-6.  **determine**
-7.  **survive**
-8.  **genes**
-9.  **toughest**
-10. **density**
-11. **lipoproteins**
-12. **cholesterol**
-13. **mutations**
-14. **associated with**
-15. **genome**
+1.  **mystery**
+2.  **genetic**
+3.  **relatives**
+4.  **determine**
+5.  **survive**
+6.  **genes**
+7.  **toughest**
+8.  **density**
+9.  **lipoproteins**
+10. **cholesterol**
+11. **mutations**
+12. **associated with**
+13. **genome**
+14. **solution**
+15. **osteoporosis**
+16. **insufficient**
+17. **calcium**
+18. **intake**
 
 **Describe the show structure:**
-"Start with the research: 'A study by a scientist and his **colleagues** **sheds light on** this **mystery**. They compared the **genetic** structure of polar bears to their closest **relatives**, brown bears, to **determine** the **genes** that help them **survive** in one of the **toughest** environments.'"
+"Start with the research: 'Let's uncover the **mystery**. Scientists compared the **genetic** structure of polar bears to their closest **relatives** to **determine** the **genes** that help them **survive** in the **toughest** environments.'"
 
-"Next, reveal the findings: 'They found a gene that reduces low-**density** **lipoproteins**, a form of bad **cholesterol**. In humans, **mutations** of this gene are **associated with** heart disease. The complete **genome** of the polar bear may hold more secrets.'"
+"Next, reveal the findings: 'They found a gene that reduces low-**density** **lipoproteins** (bad **cholesterol**). In humans, **mutations** of this gene are **associated with** heart disease. The polar bear's **genome** may also hold the **solution** to **osteoporosis**, a disease caused by **insufficient** **calcium** **intake**.'"
 
-"Then, create a review screen. Arrange the 15 words in two columns to show all the words/phrase clearly as much as possible, showing the word and its synonyms. For example: `word —— synonyms`."
+"Then, create a review screen. Arrange the 18 words in two columns to show all the words/phrase clearly as much as possible, showing the word and its synonyms. For example: `word —— synonyms`."
 
 "End with a reflective question: 'How can studying the **genome** of an animal help us understand human diseases?'"
 
 ---
 
-#### **VIDEO 3: The Bone Density Puzzle (15 words)**
+#### **VIDEO 3: The Bone Remodelling Marvel (18 words)**
 
 **Video Script Prompt**
 
 **Target a specific use case:**
-"Help learners understand the second major health mystery of polar bears: how they avoid osteoporosis despite long periods of inactivity."
+"Help learners understand the second major health mystery of polar bears: how they avoid osteoporosis."
 
 **Focus on a specific source:**
-"Focus on the next 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+"Focus on the next 18 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
-1.  **solution**
-2.  **osteoporosis**
-3.  **insufficient**
-4.  **calcium**
-5.  **intake**
-6.  **starvation**
-7.  **constantly**
-8.  **remodelled**
-9.  **nutrient**
-10. **availability**
-11. **undergo**
-12. **pregnancy**
-13. **maternity**
-14. **dens**
-15. **cubs**
+1.  **starvation**
+2.  **constantly**
+3.  **remodelled**
+4.  **nutrient**
+5.  **availability**
+6.  **undergo**
+7.  **pregnancy**
+8.  **maternity**
+9.  **dens**
+10. **cubs**
+11. **depleting**
+12. **reserves**
+13. **dense**
+14. **physiologists**
+15. **explanation**
+16. **paradox**
+17. **emerged**
+18. **significant**
 
 **Describe the show structure:**
-"Start with the second mystery: 'The polar bear's genome may also provide a **solution** for **osteoporosis**. This disease is often caused by **insufficient** exercise or low **calcium** **intake** during periods of **starvation**. Human bone is **constantly** being **remodelled** based on **nutrient** **availability**.'"
+"Start with the puzzle: 'During **starvation**, human bone is not **constantly** **remodelled** due to lack of **nutrient** **availability**. Female polar bears **undergo** extreme conditions during **pregnancy**, staying in **maternity** **dens** for months after their **cubs** are born, **depleting** their calorie **reserves**.'"
 
-"Next, describe the female bear's challenge: 'Female polar bears **undergo** extreme conditions during **pregnancy**. They dig **maternity** **dens** and fast for months, both before and after their **cubs** are born.'"
+"Next, reveal the marvel: 'Yet their bones remain **dense**. **Physiologists** found an **explanation** for this **paradox**. When the bears **emerged** from their dens, there was no **significant** bone loss.'"
 
-"Then, create a review screen. Arrange the 15 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
+"Then, create a review screen. Arrange the 18 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
 
-"End with a discussion question: 'What makes the female polar bear's ability to avoid **osteoporosis** during **pregnancy** so remarkable?'"
+"End with a discussion question: 'What makes the female polar bear's ability to avoid bone loss so remarkable?'"
 
 ---
 
-#### **VIDEO 4: A Medical Marvel (15 words)**
+#### **VIDEO 4: Lessons for Humanity (19 words)**
 
 **Video Script Prompt**
 
 **Target a specific use case:**
-"Help learners understand the physiological explanation for the polar bear's strong bones and the potential benefits for human health."
+"Help learners understand the potential benefits of polar bear research for human health and challenge common perceptions about their intelligence."
 
 **Focus on a specific source:**
-"Focus on the next 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+"Focus on the next 19 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
-1.  **depleting**
-2.  **reserves**
-3.  **dense**
-4.  **physiologists**
-5.  **explanation**
-6.  **paradox**
-7.  **emerged**
-8.  **significant**
-9.  **hibernate**
-10. **capacity**
-11. **resort to**
-12. **reformation**
-13. **following**
-14. **mechanism**
-15. **bedridden**
-
-**Describe the show structure:**
-"Start with the outcome: '**Depleting** their calcium **reserves** should weaken their bones, but they remain **dense**. **Physiologists** found an **explanation** for this **paradox**. When the bears **emerged** from their dens, there was no **significant** bone loss.'"
-
-"Next, explain the implications: 'Brown bears that **hibernate** don't have this **capacity** and must **resort to** bone **reformation** the **following** spring. If we can understand the **mechanism** in polar bears, it could help **bedridden** humans and even astronauts.'"
-
-"Then, create a review screen. Arrange the 15 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
-
-"End with a creative question: 'Besides helping **bedridden** people, what other human conditions could this **mechanism** potentially help?'"
-
----
-
-#### **VIDEO 5: More Than Just a Medical Subject (15 words)**
-
-**Video Script Prompt**
-
-**Target a specific use case:**
-"Help learners explore the reasons for protecting polar bears beyond their medical value, focusing on their intelligence and emotional capacity."
-
-**Focus on a specific source:**
-"Focus on the next 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
-
-1.  **conservation**
-2.  **possess**
-3.  **primates**
-4.  **perceived**
-5.  **anecdotal**
-6.  **assumptions**
-7.  **observed**
-8.  **manipulate**
-9.  **multiple**
-10. **dislodge**
-11. **barrels**
-12. **platform**
-13. **deliberate**
-14. **agile**
-15. **thought-out**
+1.  **hibernate**
+2.  **capacity**
+3.  **resort to**
+4.  **reformation**
+5.  **following**
+6.  **mechanism**
+7.  **bedridden**
+8.  **conservation**
+9.  **possess**
+10. **primates**
+11. **perceived**
+12. **anecdotal**
+13. **assumptions**
+14. **observed**
+15. **manipulate**
+16. **multiple**
+17. **dislodge**
+18. **barrels**
+19. **platform**
 
 **Describe the show structure:**
-"Start with the bigger picture: 'Medical benefits are important for **conservation**, but not the only reason. We protect animals that we think **possess** emotions, like elephants and **primates**. Bears are often **perceived** as stupid.'"
+"Start with the comparison: 'Bears that **hibernate** lack this **capacity** and must **resort to** bone **reformation** the **following** spring. Understanding this **mechanism** could help **bedridden** humans. This is a key reason for their **conservation**.'"
 
-"Next, challenge the perception: '**Anecdotal** evidence challenges these **assumptions**. A zoo bear was **observed** using a tool to **manipulate** his environment on **multiple** occasions to **dislodge** meat. A wild bear jumped onto **barrels** to reach a photographer on a **platform**. These are **deliberate**, **agile**, and **thought-out** behaviors.'"
+"Next, challenge perceptions: 'We tend to protect animals we think **possess** emotions, like **primates**. Bears are **perceived** as stupid, but **anecdotal** evidence challenges these **assumptions**. A bear was **observed** trying to **manipulate** its environment on **multiple** occasions to **dislodge** meat, even jumping on **barrels** to reach a **platform**.'"
 
-"Then, create a review screen. Arrange the 15 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
+"Then, create a review screen. Arrange the 19 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
 
 "End with a discussion question: 'Why do you think bears are often **perceived** as less intelligent than **primates**?'"
 
 ---
 
-#### **VIDEO 6: The Emotional World of the Polar Bear (10 words)**
+#### **VIDEO 5: The Intelligent & Emotional Bear (19 words)**
 
 **Video Script Prompt**
 
 **Target a specific use case:**
-"Help learners appreciate the evidence for complex emotions and social behaviors in polar bears."
+"Help learners appreciate the evidence for complex emotions and social behaviors in polar bears, and understand the stakes of their extinction."
 
 **Focus on a specific source:**
-"Focus on the next 10 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+"Focus on the final 19 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
-1.  **creativity**
-2.  **out of**
-3.  **frustration**
-4.  **missed out on**
-5.  **kill**
-6.  **unusual**
-7.  **sleds**
-8.  **remarkably**
-9.  **astonishing**
-10. **actively**
-
-**Describe the show structure:**
-"Start with their intelligence: 'These examples suggest bears have greater **creativity** than we thought. They have been seen hitting the ice, seemingly **out of** **frustration**, after they have **missed out on** a **kill**.'"
-
-"Next, describe their social side: 'They can form **unusual** relationships, even playing with dogs that pull **sleds**. **Remarkably**, one hand-raised bear formed a close bond with its owner. This is **astonishing**, since polar bears are known to **actively** hunt humans.'"
-
-"Then, create a review screen. Arrange the 10 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
-
-"End with a creative question: 'What does it tell us about an animal if it can form **unusual** friendships with other species?'"
-
----
-
-#### **VIDEO 7: A Majestic Animal at Risk (5 words)**
-
-**Video Script Prompt**
-
-**Target a specific use case:**
-"Help learners understand the ultimate stakes of polar bear extinction, framing it as a loss for both science and the planet."
-
-**Focus on a specific source:**
-"Focus on the final 5 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
-
-1.  **hunt**
-2.  **in the wild**
-3.  **extinction**
-4.  **potential**
-5.  **breakthroughs**
-6.  **majestic**
+1.  **deliberate**
+2.  **agile**
+3.  **thought-out**
+4.  **creativity**
+5.  **out of**
+6.  **frustration**
+7.  **missed out on**
+8.  **kill**
+9.  **unusual**
+10. **sleds**
+11. **remarkably**
+12. **astonishing**
+13. **actively**
+14. **hunt**
+15. **in the wild**
+16. **extinction**
+17. **potential**
+18. **breakthroughs**
+19. **majestic**
 
 **Describe the show structure:**
-"Start with the danger they pose: 'Polar bears are known to actively **hunt** humans **in the wild**.'"
+"Start with their intelligence: 'These were **deliberate**, **agile**, and **thought-out** behaviors, showing great **creativity**. Bears show emotion, seemingly **out of** **frustration** when they have **missed out on** a **kill**.'"
 
-"Next, conclude with the threat they face: 'If climate change leads to their **extinction**, we would lose not only **potential** medical **breakthroughs**, but also the chance to understand this intelligent and **majestic** animal.'"
+"Next, cover their social side and the final threat: 'They form **unusual** relationships, like playing with **sleds** dogs. **Remarkably**, a tame bear bonded with its owner, which is **astonishing** as they **actively** **hunt** humans **in the wild**. Their **extinction** would mean losing **potential** medical **breakthroughs** and a **majestic** animal.'"
 
-"Then, create a review screen. Arrange the 6 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
+"Then, create a review screen. Arrange the 19 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
 
 "End with a final thought: 'Besides losing **potential** scientific **breakthroughs**, why is the **extinction** of a **majestic** animal like the polar bear a tragedy?'"

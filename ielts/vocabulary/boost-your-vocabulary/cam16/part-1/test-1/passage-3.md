@@ -95,13 +95,13 @@
 | **corporate**                                    | shared by or including all the members of a group                                                 | ...and the **corporate** revolution enabled mass production...                                                                             |
 | **pronounced**                                   | very great or noticeable                                                                          | ...the next revolution will be social.                                                                                                     |
 
-### **Vocabulary Learning Plan: The Algorithm Takeover (7 Videos)**
+### **Vocabulary Learning Plan: The Algorithm Takeover (5 Videos)**
 
-Đây là kế hoạch chi tiết để học toàn bộ 97 từ vựng từ bài đọc, được chia thành 7 phần dễ quản lý hơn. Mỗi phần tương ứng với một video/buổi học và kể một chương của câu chuyện, giúp bạn học từ vựng một cách tự nhiên.
+Đây là kế hoạch chi tiết để học toàn bộ 90 từ vựng từ bài đọc, được chia thành 5 phần dễ quản lý hơn. Mỗi phần tương ứng với một video/buổi học và kể một chương của câu chuyện, giúp bạn học từ vựng một cách tự nhiên.
 
 ---
 
-#### **VIDEO 1: The Coming Shift (15 words)**
+#### **VIDEO 1: The Coming Disruption (18 words)**
 
 **Video Script Prompt**
 
@@ -109,7 +109,7 @@
 "Help learners understand the scale of the upcoming changes in the job market due to technology and AI."
 
 **Focus on a specific source:**
-"Focus on the first 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+"Focus on the first 18 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
 1.  **leading**
 2.  **consultancy**
@@ -126,19 +126,22 @@
 13. **algorithms**
 14. **fundamental**
 15. **undertake**
+16. **judgement**
+17. **legal**
+18. **contracts**
 
 **Describe the show structure:**
 "Start with a bold prediction: 'According to a **leading** business **consultancy**, a large part of the global **workforce** will need to **switch** to a new **occupation**. All workers must **adapt** as their jobs **evolve** alongside increasingly **capable** machines.'"
 
-"Next, define the key technologies: '**Automation**, or **embodied** **artificial** intelligence, is having **disruptive** effects. So are the **algorithms** in our phones. These technologies are causing **fundamental** changes, as they can **undertake** tasks that previously needed humans.'"
+"Next, define the key technologies: '**Automation**, or **embodied** **artificial** intelligence, is having **disruptive** effects. So are the **algorithms** in our phones. These technologies are causing **fundamental** changes, as they can **undertake** tasks that previously needed human **judgement**, like reading **legal** **contracts**.'"
 
-"Then, create a review screen. Arrange the 15 words in two columns to show all the words/phrase clearly as much as possible, showing only the word and its synonyms. For example: `word —— synonyms`."
+"Then, create a review screen. Arrange the 18 words in two columns to show all the words/phrase clearly as much as possible, showing only the word and its synonyms. For example: `word —— synonyms`."
 
 "End with a discussion question: 'How have you seen your own **occupation** or studies **evolve** because of new technology?'"
 
 ---
 
-#### **VIDEO 2: The Rise of the Machine (15 words)**
+#### **VIDEO 2: The Learning Problem (18 words)**
 
 **Video Script Prompt**
 
@@ -146,147 +149,119 @@
 "Help learners explore how AI is taking over cognitive tasks and the impact this has on how we train future experts."
 
 **Focus on a specific source:**
-"Focus on the next 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+"Focus on the next 18 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
-1.  **judgement**
-2.  **legal**
-3.  **contracts**
-4.  **outperform**
-5.  **enhance**
-6.  **productivity**
-7.  **consequence**
-8.  **cognitive**
-9.  **taken over**
-10. **experts**
-11. **peripheral participation**
-12. **novice**
-13. **observation**
-14. **monitor**
-15. **telecommunications**
+1.  **outperform**
+2.  **enhance**
+3.  **productivity**
+4.  **consequence**
+5.  **cognitive**
+6.  **taken over**
+7.  **experts**
+8.  **peripheral participation**
+9.  **novice**
+10. **observation**
+11. **monitor**
+12. **telecommunications**
+13. **contact**
+14. **clients**
+15. **assess**
+16. **defined**
+17. **campaigns**
+18. **external**
 
 **Describe the show structure:**
-"Start with AI's capabilities: 'AI can now perform tasks that needed human **judgement**, like reading **legal** **contracts**. In many cases, AI can **outperform** humans, which helps companies **enhance** **productivity**. But this has a **consequence**.'"
+"Start with AI's capabilities: 'In many cases, AI can **outperform** humans, which helps companies **enhance** **productivity**. But this has a **consequence**. When routine **cognitive** tasks are **taken over** by AI, how do we train future **experts**? One way is **peripheral participation**, where a **novice** learns through **observation**.'"
 
-"Next, explain the learning problem: 'When routine **cognitive** tasks are **taken over** by AI, how do we train future **experts**? One way is through **peripheral participation**, where a **novice** learns through **observation**. A researcher **monitored** a **telecommunications** company to see how this is changing.'"
+"Next, see it in action: 'A researcher **monitored** a **telecommunications** company where salespeople used personal **contact** with **clients** to **assess** situations. But a new algorithm **defined** their sales **campaigns**, often created by **external** designers.'"
 
-"Then, create a review screen. Arrange the 15 words in two columns to show all the words/phrase clearly as much as possible, showing the word and its synonyms. For example: `word —— synonyms`."
+"Then, create a review screen. Arrange the 18 words in two columns to show all the words/phrase clearly as much as possible, showing the word and its synonyms. For example: `word —— synonyms`."
 
 "End with a reflective question: 'If a **novice** can no longer learn by **observation**, what new methods could be used to train **experts**?'"
 
 ---
 
-#### **VIDEO 3: The Algorithm as the Boss (15 words)**
+#### **VIDEO 3: The Human-Algorithm Interaction (18 words)**
 
 **Video Script Prompt**
 
 **Target a specific use case:**
-"Help learners understand how algorithms are starting to manage workers and the dangers of a short-sighted approach."
+"Help learners understand the dangers of algorithms managing workers and the human response to it."
 
 **Focus on a specific source:**
-"Focus on the next 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+"Focus on the next 18 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
-1.  **contact**
-2.  **clients**
-3.  **assess**
-4.  **defined**
-5.  **campaigns**
-6.  **external**
-7.  **designers**
-8.  **short-sighted**
-9.  **creep into**
-10. **explorations**
-11. **experimentation**
-12. **instinct**
-13. **discourage**
-14. **colleagues**
-15. **strategies**
+1.  **designers**
+2.  **short-sighted**
+3.  **creep into**
+4.  **explorations**
+5.  **experimentation**
+6.  **instinct**
+7.  **discourage**
+8.  **colleagues**
+9.  **strategies**
+10. **targets**
+11. **scenarios**
+12. **researchers**
+13. **trustworthy**
+14. **transparent**
+15. **in the meantime**
+16. **dilemmas**
+17. **expertise**
+18. **occupational boundaries**
 
 **Describe the show structure:**
-"Start with the old way of working: 'Salespeople used frequent **contact** with **clients** to **assess** a situation and reach a decision. But now, an algorithm **defined** when they should run sales **campaigns**.'"
+"Start with the problem: 'The algorithm, built by **designers**, becomes the keeper of knowledge. A **short-sighted** view can **creep into** work, where **explorations** based on **experimentation** and human **instinct** are **discouraged**. The researcher and her **colleagues** saw workers developing **strategies** to cheat the system.'"
 
-"Next, explain the new problem: 'The algorithm, often built by **external** **designers**, becomes the keeper of knowledge. A **short-sighted** view can **creep into** work practices. Alternative **explorations**, where **experimentation** and human **instinct** lead to new ideas, are **discouraged**. The researcher and her **colleagues** saw workers developing **strategies** just to please the algorithm.'"
+"Next, look at the solution: 'Workers faked data to meet **targets**. It's **scenarios** like this that **researchers** are trying to avoid by making AI more **trustworthy** and **transparent**. **In the meantime**, we must understand the **dilemmas** this creates for **expertise** and **occupational boundaries**.'"
 
-"Then, create a review screen. Arrange the 15 words in two columns to show all the words/phrase clearly as much as possible, showing the word and its synonyms. For example: `word —— synonyms`."
+"Then, create a review screen. Arrange the 18 words in two columns to show all the words/phrase clearly as much as possible, showing the word and its synonyms. For example: `word —— synonyms`."
 
 "End with a discussion question: 'What are the dangers when human **instinct** and **experimentation** are **discouraged** at work?'"
 
 ---
 
-#### **VIDEO 4: The Human Response (15 words)**
+#### **VIDEO 4: Rethinking Careers & The Economy (18 words)**
 
 **Video Script Prompt**
 
 **Target a specific use case:**
-"Help learners explore the ethical dilemmas created by AI in the workplace and the need for new life and career models."
+"Help learners challenge the fear of a 'jobless future' by understanding new career models and economic arguments."
 
 **Focus on a specific source:**
-"Focus on the next 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+"Focus on the next 18 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
-1.  **targets**
-2.  **scenarios**
-3.  **researchers**
-4.  **trustworthy**
-5.  **transparent**
-6.  **in the meantime**
-7.  **dilemmas**
-8.  **expertise**
-9.  **occupational boundaries**
-10. **transitions**
-11. **trajectory**
-12. **envisages**
-13. **multistage**
-14. **multiple**
-15. **fallacy**
+1.  **transitions**
+2.  **trajectory**
+3.  **envisages**
+4.  **multistage**
+5.  **multiple**
+6.  **fallacy**
+7.  **carried out**
+8.  **expect**
+9.  **apocalyptic**
+10. **misguided**
+11. **restrict**
+12. **supply**
+13. **capital**
+14. **advent**
+15. **unemployment**
+16. **published**
+17. **jobless**
+18. **redundancies**
 
 **Describe the show structure:**
-"Start with the workers' reaction: 'Workers were feeding the algorithm false data to reach their **targets**. It's **scenarios** like this that **researchers** are trying to avoid by making AI more **trustworthy** and **transparent**.'"
+"Start with the new career path: 'The future will involve major **transitions**. The traditional career **trajectory** is gone. One economist **envisages** a **multistage** life with **multiple** jobs. The idea that jobs are fixed is a **fallacy**. If half of jobs are **carried out** by robots, we **expect** more jobs to be created, not fewer.'"
 
-"Next, discuss the bigger picture: '**In the meantime**, we must understand the **dilemmas** this raises about **expertise** and **occupational boundaries**. The future will involve major **transitions**. The traditional career **trajectory** is a thing of the past. One economist **envisages** a **multistage** life with **multiple** jobs. The idea that jobs are fixed is a **fallacy**.'"
+"Next, debunk the myth: '**Apocalyptic** views are **misguided**. It's laws that **restrict** the **supply** of **capital**, not the **advent** of technology, that cause **unemployment**. Recently **published** research argues against a **jobless** future, even if there are **redundancies**.'"
 
-"Then, create a review screen. Arrange the 15 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
+"Then, create a review screen. Arrange the 18 words in two columns to show all the words/phrase clearly as much as possible, showing the word and its synonyms. For example: `word —— synonyms`."
 
 "End with a reflective question: 'What are the **dilemmas** of relying on AI that isn't fully **transparent**?'"
 
 ---
 
-#### **VIDEO 5: The Jobless Future Myth (15 words)**
-
-**Video Script Prompt**
-
-**Target a specific use case:**
-"Help learners challenge the fear of a 'jobless future' by understanding the economic arguments against it."
-
-**Focus on a specific source:**
-"Focus on the next 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
-
-1.  **carried out**
-2.  **expect**
-3.  **apocalyptic**
-4.  **misguided**
-5.  **restrict**
-6.  **supply**
-7.  **capital**
-8.  **advent**
-9.  **unemployment**
-10. **published**
-11. **jobless**
-12. **redundancies**
-13. **tackle**
-14. **redeploy**
-15. **seize a chance/an opportunity/the initiative**
-
-**Describe the show structure:**
-"Start with the fallacy: 'If half of all jobs are **carried out** by robots, we **expect** the total number of jobs to increase, not decrease. **Apocalyptic** views of the future are **misguided**. It's laws that **restrict** the **supply** of **capital**, not the **advent** of technology, that cause **unemployment**.'"
-
-"Next, explain the solution: 'Recently **published** research argues against a **jobless** future. Change can mean **redundancies**, but social policies can **tackle** this through retraining and **redeployment**. Governments should **seize the opportunity** to improve policy.'"
-
-"Then, create a review screen. Arrange the 15 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
-
-"End with a discussion question: 'How can retraining and **redeployment** help **tackle** **redundancies** caused by technology?'"
-
----
-
-#### **VIDEO 6: A Call to Arms (12 words)**
+#### **VIDEO 5: A Call for a Fairer Future (18 words)**
 
 **Video Script Prompt**
 
@@ -294,51 +269,32 @@
 "Help learners understand the call for proactive policy changes to ensure a fair and prosperous future of work."
 
 **Focus on a specific source:**
-"Focus on the final 12 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+"Focus on the final 18 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
-1.  **secure**
-2.  **programme**
-3.  **a call to arms**
-4.  **pre-empt**
-5.  **bold**
-6.  **policy**
-7.  **guarantee**
-8.  **thriving**
-9.  **democracy**
-10. **astounding**
-11. **revolution**
-12. **subsistence**
+1.  **tackle**
+2.  **redeploy**
+3.  **seize a chance/an opportunity/the initiative**
+4.  **secure**
+5.  **programme**
+6.  **a call to arms**
+7.  **pre-empt**
+8.  **bold**
+9.  **policy**
+10. **guarantee**
+11. **thriving**
+12. **democracy**
+13. **astounding**
+14. **revolution**
+15. **subsistence**
+16. **agriculture**
+17. **corporate**
+18. **pronounced**
 
 **Describe the show structure:**
-"Start with the proposed legal changes: 'We need to enforce good job **security** and 're**programme**' the law for a fairer future. This is **a call to arms** for leaders to **pre-empt** the coming changes.'"
+"Start with the solution: 'Social policies can **tackle** job losses through retraining and **redeployment**. Governments must **seize the opportunity** to improve job **security**. We can re-**programme** the law. This is **a call to arms** to **pre-empt** changes with **bold** new **policies**.'"
 
-"Next, describe the vision: 'This requires **bold** new **policies** that **guarantee** full employment and a **thriving** economic **democracy**. The promises of new technology are **astounding**. Just as the industrial **revolution** brought people past **subsistence** agriculture, a new revolution is coming.'"
+"Next, paint the vision for the future: 'These policies must **guarantee** a **thriving** economic **democracy**. The promises of technology are **astounding**. A new **revolution** is coming, just like the one that moved us past **subsistence** **agriculture** or the **corporate** one that enabled mass production. A new social revolution has been **pronounced**.'"
 
-"Then, create a review screen. Arrange the 12 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
+"Then, create a review screen. Arrange the 18 words in two columns to show all the words/phrase clearly as much as possible, showing the word and its synonyms. For example: `word —— synonyms`."
 
 "End with a final thought: 'What one **bold** **policy** do you think would help **guarantee** a **thriving** and fair future of work?'"
-
----
-
-#### **VIDEO 7: The Next Revolution (3 words)**
-
-**Video Script Prompt**
-
-**Target a specific use case:**
-"Help learners grasp the final, powerful message of the text: the next revolution will be social, not just technological."
-
-**Focus on a specific source:**
-"Focus on the final 3 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
-
-1.  **agriculture**
-2.  **corporate**
-3.  **pronounced**
-
-**Describe the show structure:**
-"Start by looking back: 'The industrial revolution moved us past subsistence **agriculture**. The **corporate** revolution enabled mass production.'"
-
-"Next, look forward to the conclusion: 'Now, a third revolution has been **pronounced**. But it will not only be one of technology. The next revolution will be social.'"
-
-"Then, create a review screen. Arrange the 3 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
-
-"End with a final, big-picture question: 'What does it mean for the next revolution to be 'social' instead of just technological?'"
