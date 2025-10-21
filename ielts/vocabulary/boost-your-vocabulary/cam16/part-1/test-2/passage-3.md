@@ -122,18 +122,18 @@
 3.  **qualities**
 4.  **few and far between**
 5.  **empirical**
-6.  **research**
-7.  **examining**
+<!-- 6.  **research** -->
+<!-- 7.  **examining** -->
 8.  **exceptional**
 9.  **possessed**
 10. **handful of**
 11. **philosophers**
-12. **ability**
-13. **context**
+<!-- 12. **ability** -->
+<!-- 13. **context** -->
 14. **experiential**
 15. **cultural**
-16. **powerful**
-17. **previously**
+<!-- 16. **powerful** -->
+<!-- 17. **previously** -->
 
 **Describe the show structure:**
 "Start with the traditional view: '**Wisdom** has always been a **revered** human **quality**. The truly wise seem **few and far between**. But **empirical** **research** **examining** wisdom suggests it is not an **exceptional** trait **possessed** by a small **handful of** bearded **philosophers**.'"
@@ -159,20 +159,20 @@
 1.  **cognitive**
 2.  **psychology**
 3.  **cumulatively**
-4.  **reason**
-5.  **varies**
+<!-- 4.  **reason** -->
+<!-- 5.  **varies** -->
 6.  **dramatically**
 7.  **contextual**
-8.  **unique**
+<!-- 8.  **unique** -->
 9.  **insights**
-10. **enhanced**
+<!-- 10. **enhanced** -->
 11. **possess**
-12. **external**
-13. **impossible**
+<!-- 12. **external** -->
+<!-- 13. **impossible** -->
 14. **characterize**
 15. **attributed to**
-16. **role**
-17. **solely**
+<!-- 16. **role** -->
+<!-- 17. **solely** -->
 
 **Describe the show structure:**
 "Start with the science: 'Findings from **cognitive** **psychology** **cumulatively** suggest our ability to **reason** wisely **varies** **dramatically**. Understanding these **contextual** factors offers **unique** **insights** into how wisdom can be **enhanced**.'"
@@ -197,10 +197,10 @@
 
 1.  **inner**
 2.  **unfolds**
-3.  **promote**
-4.  **challenging**
-5.  **colleagues**
-6.  **framework**
+<!-- 3.  **promote** -->
+<!-- 4.  **challenging** -->
+<!-- 5.  **colleagues** -->
+<!-- 6.  **framework** -->
 7.  **intellectual humility**
 8.  **recognition**
 9.  **appreciation**
@@ -208,9 +208,9 @@
 11. **at hand**
 12. **social relations**
 13. **compromise**
-14. **integration**
-15. **reliable**
-16. **scenarios**
+<!-- 14. **integration** -->
+<!-- 15. **reliable** -->
+<!-- 16. **scenarios** -->
 17. **third-party perspective**
 
 **Describe the show structure:**
@@ -243,11 +243,11 @@
 7.  **expansive**
 8.  **foster**
 9.  **confronted**
-10. **spouse**
+<!-- 10. **spouse** -->
 11. **negotiating**
 12. **take a personal stake**
 13. **evaluate**
-14. **peak**
+<!-- 14. **peak** -->
 15. **recession**
 16. **reflect on**
 17. **prospects**
@@ -276,14 +276,14 @@
 1.  **instructed**
 2.  **distant observer**
 3.  **assigned**
-4.  **displayed**
-5.  **participants**
+<!-- 4.  **displayed** -->
+<!-- 5.  **participants** -->
 6.  **visualize**
 7.  **unresolved**
-8.  **conflict**
+<!-- 8.  **conflict** -->
 9.  **incident**
-10. **condition**
-11. **significantly**
+<!-- 10. **condition** -->
+<!-- 11. **significantly** -->
 12. **egocentric**
 13. **conceptual**
 14. **affording**
@@ -315,19 +315,19 @@
 1.  **openness**
 2.  **agreeableness**
 3.  **remarkable**
-4.  **judgment**
+<!-- 4.  **judgment** -->
 5.  **generalized**
-6.  **outcomes**
+<!-- 6.  **outcomes** -->
 7.  **behaves**
 8.  **informative**
 9.  **likelihood**
-10. **forgive**
+<!-- 10. **forgive** -->
 11. **retaliate**
 12. **social relations**
 13. **compromise**
-14. **integration**
-15. **reliable**
-16. **scenarios**
+<!-- 14. **integration** -->
+<!-- 15. **reliable** -->
+<!-- 16. **scenarios** -->
 
 **Describe the show structure:**
 "Start with the surprising finding: 'While personality traits like **openness** and **agreeableness** are related to wisdom, it's **remarkable** how much wise **judgment** varies compared to these **generalized** traits. The social **outcomes** are more important.'"

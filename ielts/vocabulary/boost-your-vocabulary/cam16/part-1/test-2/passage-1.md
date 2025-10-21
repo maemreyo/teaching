@@ -91,9 +91,9 @@
 | **gestures**          | acts, action, doing                                                                  | ...more than temporary **gestures**.                                                                                 |
 | **glimpse**           | a quick look at someone or something that does not allow you to see them clearly     | These giant carvings are a fascinating **glimpse** into the minds of their creators...                               |
 
-### **Vocabulary Learning Plan: The Ancient Figures of England (6 Videos)**
+### **Vocabulary Learning Plan: The Ancient Figures of England (5 Videos)**
 
-Đây là kế hoạch chi tiết để học toàn bộ 92 từ vựng từ bài đọc, được chia thành 6 phần dễ quản lý hơn. Mỗi phần tương ứng với một video/buổi học và kể một chương của câu chuyện, giúp bạn học từ vựng một cách tự nhiên.
+Đây là kế hoạch chi tiết để học 77 từ vựng từ bài đọc, được chia thành 5 phần dễ quản lý hơn. Mỗi phần tương ứng với một video/buổi học và kể một chương của câu chuyện, giúp bạn học từ vựng một cách tự nhiên.
 
 ---
 
@@ -107,34 +107,34 @@
 **Focus on a specific source:**
 "Focus on the first 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
-1.  **huge**
-2.  **figures**
-3.  **geoglyphs**
-4.  **hillsides**
-5.  **taken place**
-6.  **scattered**
-7.  **vast majority**
-8.  **downlands**
-9.  **counties**
-10. **crosses**
-11. **regimental badges**
-12. **mysterious**
-13. **re-dated**
-14. **previously**
-15. **assigned**
+1.  **geoglyphs**
+2.  **hillsides**
+3.  **taken place**
+4.  **scattered**
+5.  **vast majority**
+6.  **downlands**
+7.  **counties**
+8.  **crosses**
+9.  **regimental badges**
+10. **re-dated**
+11. **previously**
+12. **assigned**
+13. **controversial**
+14. **enigmatic**
+15. **historians**
 
 **Describe the show structure:**
-"Start with the ancient art form: 'For 3,000 years, **huge** **figures**, or **geoglyphs**, have been cut into English **hillsides**. This has **taken place** across the country, with 56 figures **scattered** around.'"
+"Start with the ancient art form: 'For 3,000 years, **geoglyphs** have been cut into English **hillsides**. This has **taken place** across the country, with 56 figures **scattered** around. The **vast majority** are on the chalk **downlands** of the southern **counties**, including **crosses** and **regimental badges**.'"
 
-"Next, describe their location and types: 'The **vast majority** are on the chalk **downlands** of the southern **counties**. They include giants, horses, **crosses**, and **regimental badges**. The most famous is the **mysterious** Uffington White Horse, which was recently **re-dated** to be older than its **previously** **assigned** date.'"
+"Next, describe the mystery: 'The famous Uffington White Horse was recently **re-dated** and found to be older than its **previously** **assigned** date. More **controversial** is the **enigmatic** Long Man of Wilmington, which many **historians** debate.'"
 
 "Then, create a review screen. Arrange the 15 words in two columns to show all the words/phrase clearly as much as possible, showing only the word and its synonyms. For example: `word —— synonyms`."
 
-"End with a discussion question: 'Why do you think ancient people created these **huge** **geoglyphs** on **hillsides**?'"
+"End with a discussion question: 'Why do you think ancient people created these **geoglyphs** on **hillsides**?'"
 
 ---
 
-#### **VIDEO 2: A Controversial History (15 words)**
+#### **VIDEO 2: A Labor of Love and Belief (15 words)**
 
 **Video Script Prompt**
 
@@ -144,146 +144,108 @@
 **Focus on a specific source:**
 "Focus on the next 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
-1.  **ancient**
-2.  **controversial**
-3.  **enigmatic**
-4.  **historians**
-5.  **convinced**
-6.  **artistic**
-7.  **monk**
-8.  **nearby**
-9.  **priory**
-10. **method**
-11. **overlying**
-12. **reveal**
-13. **gleaming**
-14. **scoured**
-15. **associated**
+1.  **convinced**
+2.  **artistic**
+3.  **monk**
+4.  **nearby**
+5.  **priory**
+6.  **overlying**
+7.  **reveal**
+8.  **gleaming**
+9.  **scoured**
+10. **faded**
+11. **bothered**
+12. **thus**
+13. **testament**
+14. **continuity**
+15. **stretch**
 
 **Describe the show structure:**
-"Start with the debate: 'The horse's **ancient** date is now confirmed, but the date of the **enigmatic** Long Man is more **controversial**. Many **historians** are **convinced** it's prehistoric, but others think it was the work of an **artistic** **monk** from a **nearby** **priory**.'"
+"Start with the debate: 'Many historians are **convinced** the Long Man is prehistoric, but others think it was the work of an **artistic** **monk** from a **nearby** **priory**. The method was to remove the **overlying** grass to **reveal** the **gleaming** white chalk, which had to be regularly **scoured**.'"
 
-"Next, explain the creation process: 'The **method** was simple: remove the **overlying** grass to **reveal** the **gleaming** white chalk. But the grass had to be regularly **scoured** away. When the traditions **associated** with the figures faded, people stopped maintaining them.'"
+"Next, explain their disappearance: 'When traditions **faded**, people no longer **bothered** to clean them, **thus** altering their shapes. The survival of any is a **testament** to the **continuity** of local customs that **stretch** back through time.'"
 
 "Then, create a review screen. Arrange the 15 words in two columns to show all the words/phrase clearly as much as possible, showing the word and its synonyms. For example: `word —— synonyms`."
 
-"End with a discussion question: 'Why would the date of an **ancient**, **enigmatic** figure be so **controversial** among **historians**?'"
+"End with a discussion question: 'What does the **continuity** of a tradition over a long time tell us about a community?'"
 
 ---
 
-#### **VIDEO 3: The Test of Time (15 words)**
+#### **VIDEO 3: The Stylised Horse (15 words)**
 
 **Video Script Prompt**
 
 **Target a specific use case:**
-"Help learners understand why so few of these ancient figures remain and what their survival says about local culture."
+"Help learners understand the unique artistic style of the Uffington Horse and its connection to the surrounding ancient landscape."
 
 **Focus on a specific source:**
 "Focus on the next 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
-1.  **faded**
-2.  **bothered**
-3.  **exactly**
-4.  **thus**
-5.  **original**
-6.  **survive**
-7.  **testament**
-8.  **continuity**
-9.  **stretch**
-10. **millennia**
-11. **unique**
-12. **stylised**
-13. **representation**
-14. **sleek**
-15. **disjointed**
+1.  **millennia**
+2.  **stylised**
+3.  **representation**
+4.  **sleek**
+5.  **disjointed**
+6.  **beaked**
+7.  **elegant**
+8.  **melts into**
+9.  **landscape**
+10. **steep**
+11. **track**
+12. **surrounded by**
+13. **mounds**
+14. **cemetery**
+15. **well-preserved**
 
 **Describe the show structure:**
-"Start with why they disappeared: 'When traditions **faded**, people no longer **bothered** to clean the figures. They didn't cut in **exactly** the same place, **thus** changing the **original** shape over time.'"
+"Start with its ancient roots: 'These customs stretch back for **millennia**. The Uffington Horse is a **stylised** **representation** with a **sleek** back, **disjointed** legs, and a **beaked** head. This **elegant** creature almost **melts into** the **landscape**.'"
 
-"Next, explain why some remain: 'The fact that any **survive** is a **testament** to the **continuity** of local customs that must **stretch** back for **millennia**. The Uffington Horse is a **unique**, **stylised** **representation** of a horse with a **sleek** back and thin, **disjointed** legs.'"
+"Next, describe its location: 'It sits on a **steep** slope near an ancient **track**. It is **surrounded by** burial **mounds** and is near a Bronze Age **cemetery** with many **well-preserved** tombs.'"
 
 "Then, create a review screen. Arrange the 15 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
 
-"End with a discussion question: 'What does the **continuity** of a tradition over **millennia** tell us about a community?'"
+"End with a discussion question: 'Why do you think the horse was designed in such a **stylised** way?'"
 
 ---
 
-#### **VIDEO 4: The Horse in the Landscape (15 words)**
+#### **VIDEO 4: The View from Above (15 words)**
 
 **Video Script Prompt**
 
 **Target a specific use case:**
-"Help learners visualize the Uffington White Horse in its geographical and historical context."
+"Help learners understand how the horse was designed to be seen and the evidence used to date it."
 
 **Focus on a specific source:**
 "Focus on the next 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
-1.  **beaked**
-2.  **elegant**
-3.  **melts into**
-4.  **landscape**
-5.  **steep**
-6.  **track**
-7.  **surrounded by**
-8.  **mounds**
-9.  **cemetery**
-10. **well-preserved**
-11. **carving**
-12. **close quarters**
-13. **appreciated**
-14. **valley**
-15. **adequate**
-
-**Describe the show structure:**
-"Start with the horse's appearance: 'It has a bird-like **beaked** head. The **elegant** creature almost **melts into** the **landscape**. It's on a **steep** slope below an ancient **track**.'"
-
-"Next, describe its surroundings: 'The horse is **surrounded by** burial **mounds** and is near a Bronze Age **cemetery** with many **well-preserved** tombs. The **carving** is hard to see from **close quarters** and is best **appreciated** from the air. From the nearby **valley**, you can get an **adequate** impression of it.'"
-
-"Then, create a review screen. Arrange the 15 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
-
-"End with a discussion question: 'Why would the creators place the **carving** where it is best **appreciated** from the air?'"
-
----
-
-#### **VIDEO 5: Dating the Horse God (16 words)**
-
-**Video Script Prompt**
-
-**Target a specific use case:**
-"Help learners understand the scientific and historical evidence used to date the horse and interpret its meaning."
-
-**Focus on a specific source:**
-"Focus on the next 16 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
-
-1.  **impression**
-2.  **evidence**
-3.  **reference**
-4.  **depictions**
-5.  **base**
-6.  **construction**
-7.  **tribal emblem**
-8.  **inhabitants**
-9.  **Alternatively**
-10. **researchers**
-11. **goddess**
-12. **worshipped**
-13. **protector**
+1.  **carving**
+2.  **close quarters**
+3.  **appreciated**
+4.  **valley**
+5.  **adequate**
+6.  **impression**
+7.  **depictions**
+8.  **base**
+9.  **construction**
+10. **tribal emblem**
+11. **inhabitants**
+12. **goddess**
+13. **worshipped**
 14. **fertility**
 15. **imported**
-16. **cult**
 
 **Describe the show structure:**
-"Start with the historical records: 'You can get an **impression** of the horse from far away. The first written **evidence** and **reference** to it are from the Middle Ages. Because it looks like horse **depictions** on ancient coins, it was thought to be from that time.'"
+"Start with its perspective: 'The **carving** is difficult to see from **close quarters**; it's best **appreciated** from the air. From the nearby **valley**, you can get an **adequate** **impression** of it. Its style is similar to horse **depictions** on ancient coins.'"
 
-"Next, explain the scientific dating and interpretation: 'But testing of soil from its **base** dated its **construction** to the Bronze Age. It might be a **tribal emblem** for the **inhabitants** of the nearby fort. **Alternatively**, **researchers** think it could represent a Celtic horse **goddess**. Epona was **worshipped** as a **protector** of horses, associated with **fertility**. However, her **cult** was **imported** to Britain much later.'"
+"Next, explain its origin and meaning: 'Soil testing from its **base** dated its **construction** to the Bronze Age. It could be a **tribal emblem** for the **inhabitants** of the hillfort, or it might represent a horse **goddess** who was **worshipped** for her connection to **fertility**. However, a similar cult was **imported** much later.'"
 
-"Then, create a review screen. Arrange the 16 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
+"Then, create a review screen. Arrange the 15 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
 
-"End with a discussion question: 'Do you think the horse is more likely a **tribal emblem** or a representation of a **goddess**?'"
+"End with a discussion question: 'Why place a **carving** where it's best **appreciated** from the air?'"
 
 ---
 
-#### **VIDEO 6: A Temporary Glimpse (11 words)**
+#### **VIDEO 5: A Glimpse into the Past (17 words)**
 
 **Video Script Prompt**
 
@@ -291,25 +253,31 @@
 "Help learners understand the final interpretation of the geoglyphs as temporary but significant cultural expressions."
 
 **Focus on a specific source:**
-"Focus on the final 11 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+"Focus on the final 17 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
-1.  **probably**
-2.  **ritual**
-3.  **significance**
-4.  **attested**
-5.  **jewellery**
-6.  **native**
-7.  **mythology**
-8.  **temporary**
-9.  **gestures**
-10. **glimpse**
-11. **landscape**
+1.  **cult**
+2.  **probably**
+3.  **ritual**
+4.  **significance**
+5.  **attested**
+6.  **jewellery**
+7.  **native**
+8.  **mythology**
+9.  **temporary**
+10. **gestures**
+11. **glimpse**
+12. **landscape**
+13. **faded**
+14. **bothered**
+15. **thus**
+16. **testament**
+17. **continuity**
 
 **Describe the show structure:**
-"Start with the horse's age: 'The horse was **probably** carved six centuries before the cult of Epona arrived. It had great **ritual** and economic **significance**, as **attested** by its image on **jewellery**.'"
+"Start with the horse's age and purpose: 'The **cult** of Epona arrived centuries after the horse was **probably** carved. The horse had great **ritual** and economic **significance**, as **attested** by its image on **jewellery**. It might represent a goddess from **native** **mythology**.'"
 
-"Next, explain its meaning and legacy: 'It might represent a goddess from **native** **mythology**. The fact that these figures disappear easily suggests they were meant to be **temporary** **gestures**. But they offer a fascinating **glimpse** into how their creators viewed the **landscape**.'"
+"Next, explain its legacy: 'The fact they disappear easily suggests they were **temporary** **gestures**. But they offer a fascinating **glimpse** into how their creators viewed the **landscape**. When traditions **faded**, people no longer **bothered** to maintain them, **thus** changing their shape. Their survival is a **testament** to the **continuity** of local beliefs.'"
 
-"Then, create a review screen. Arrange the 11 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
+"Then, create a review screen. Arrange the 17 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
 
-"End with a final thought: 'Why is a **temporary** creation still a valuable **glimpse** into a past culture's view of their **landscape**?'"
+"End with a final thought: 'Why is a **temporary** creation still a valuable **glimpse** into a past culture?'"

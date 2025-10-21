@@ -126,7 +126,7 @@
 1.  **bacteria**
 2.  **populated**
 3.  **outlive**
-4.  **invisible**
+<!-- 4.  **invisible** -->
 5.  **the naked eye**
 6.  **ubiquitous**
 7.  **inhabit**
@@ -134,10 +134,10 @@
 9.  **coral**
 10. **utterly**
 11. **absorbing**
-12. **hugely**
+<!-- 12. **hugely** -->
 13. **mess with**
 14. **peril**
-15. **species**
+<!-- 15. **species** -->
 
 **Describe the show structure:**
 "Start with the big idea: 'Microbes, mostly **bacteria**, have **populated** our planet for billions of years and will **outlive** us. They are **invisible** to **the naked eye** but are **ubiquitous**—they are everywhere.'"
@@ -162,15 +162,15 @@
 
 1.  **colony**
 2.  **microbes**
-3.  **vary**
+<!-- 3.  **vary** -->
 4.  **cells**
-5.  **trillion**
-6.  **informs**
-7.  **scientists**
-8.  **single**
+<!-- 5.  **trillion** -->
+<!-- 6.  **informs** -->
+<!-- 7.  **scientists** -->
+<!-- 8.  **single** -->
 9.  **dubbed**
 10. **armpit**
-11. **peacefully**
+<!-- 11. **peacefully** -->
 12. **contentedly**
 13. **gut**
 14. **deadly**
@@ -197,8 +197,8 @@
 **Focus on a specific source:**
 "Focus on the next 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
-1.  **communities**
-2.  **constantly**
+<!-- 1.  **communities** -->
+<!-- 2.  **constantly** -->
 3.  **surrounded by**
 4.  **swallow**
 5.  **at large**
@@ -348,7 +348,7 @@
 1.  **halted**
 2.  **luminescent**
 3.  **predators**
-4.  **overcome**
+<!-- 4.  **overcome** -->
 5.  **distaste**
 6.  **enthusiasm**
 7.  **spreading**
