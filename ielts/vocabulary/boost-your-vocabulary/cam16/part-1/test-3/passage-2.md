@@ -122,20 +122,20 @@
 "Focus on the first 17 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
 1.  **treeline**
-2.  **ancient**
+<!-- 2.  **ancient** -->
 3.  **shrinking**
-4.  **vanished**
-5.  **treasures**
-6.  **preserved**
-7.  **arrows**
+<!-- 4.  **vanished** -->
+<!-- 5.  **treasures** -->
+<!-- 6.  **preserved** -->
+<!-- 7.  **arrows** -->
 8.  **skis**
-9.  **artefacts**
+<!-- 9.  **artefacts** -->
 10. **archaeologists**
-11. **surprising**
+<!-- 11. **surprising** -->
 12. **insights**
 13. **textiles**
-14. **hides**
-15. **rare**
+<!-- 14. **hides** -->
+<!-- 15. **rare** -->
 16. **microorganisms**
 17. **decay**
 
@@ -160,8 +160,8 @@
 **Focus on a specific source:**
 "Focus on the next 16 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
-1.  **extreme**
-2.  **reliable**
+<!-- 1.  **extreme** -->
+<!-- 2.  **reliable** -->
 3.  **thawed**
 4.  **degradation**
 5.  **swiftly**
@@ -172,8 +172,8 @@
 10. **exposed**
 11. **well-preserved**
 12. **unpredictability**
-13. **systematic**
-14. **approach**
+<!-- 13. **systematic** -->
+<!-- 14. **approach** -->
 15. **surveyed**
 16. **patches**
 
@@ -200,13 +200,13 @@
 
 1.  **reindeer**
 2.  **congregated**
-3.  **escape**
+<!-- 3.  **escape** -->
 4.  **trade routes**
 5.  **threaded**
 6.  **settlements**
 7.  **steady**
-8.  **destroy**
-9.  **bases**
+<!-- 8.  **destroy** -->
+<!-- 9.  **bases** -->
 10. **amid**
 11. **boulders**
 12. **bedrock**
@@ -214,7 +214,7 @@
 14. **beneath**
 15. **permafrost**
 16. **rewarding**
-17. **unique**
+<!-- 17. **unique** -->
 
 **Describe the show structure:**
 "Start with the research location: '**Reindeer** once **congregated** on the ice to **escape** insects, and ancient hunters followed them. **Trade routes** also **threaded** through the mountains, linking **settlements**.'"
@@ -237,12 +237,12 @@
 **Focus on a specific source:**
 "Focus on the next 17 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
-1.  **edges**
+<!-- 1.  **edges** -->
 2.  **contracting**
-3.  **material**
+<!-- 3.  **material** -->
 4.  **associated with**
 5.  **misplaced**
-6.  **discarded**
+<!-- 6.  **discarded** -->
 7.  **bows**
 8.  **traversing**
 9.  **horse tack**
@@ -278,21 +278,21 @@
 
 1.  **daunting**
 2.  **terrain**
-3.  **block**
-4.  **passes**
-5.  **assumed**
+<!-- 3.  **block** -->
+<!-- 4.  **passes** -->
+<!-- 5.  **assumed** -->
 6.  **stick to**
 7.  **elevations**
 8.  **venturing**
 9.  **apparently**
 10. **Remarkably**
-11. **supplement**
+<!-- 11. **supplement** -->
 12. **failing**
 13. **harvests**
-14. **temperatures**
-15. **widespread**
+<!-- 14. **temperatures** -->
+<!-- 15. **widespread** -->
 16. **crop failures**
-17. **depended on**
+<!-- 17. **depended on** -->
 18. **make up for**
 
 **Describe the show structure:**
@@ -317,19 +317,19 @@
 "Focus on the final 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
 1.  **recovered**
-2.  **expanding**
-3.  **discoveries**
+<!-- 2.  **expanding** -->
+<!-- 3.  **discoveries** -->
 4.  **plenty of**
 5.  **overland**
-6.  **export**
+<!-- 6.  **export** -->
 7.  **booming**
-8.  **demand**
+<!-- 8.  **demand** -->
 9.  **antlers**
 10. **prehistory**
-11. **remote**
-12. **sample**
+<!-- 11. **remote** -->
+<!-- 12. **sample** -->
 13. **disintegrated**
-14. **extracting**
+<!-- 14. **extracting** -->
 15. **retreating**
 
 **Describe the show structure:**

@@ -107,13 +107,13 @@
 | **neonatal**        | relating to babies that have just been born                                                          | Just imagine a **neonatal** hospital ward coated in a specially mixed cocktail...            |
 | **ward**            | a room in a hospital which has beds for many people                                                  | ...a neonatal hospital **ward** coated in a specially mixed cocktail...                      |
 
-### **Vocabulary Learning Plan: The World Within Us (7 Videos)**
+### **Vocabulary Learning Plan: The World Within Us (5 Videos)**
 
-Đây là kế hoạch chi tiết để học toàn bộ 110 từ vựng từ bài đọc, được chia thành 7 phần dễ quản lý hơn. Mỗi phần tương ứng với một video/buổi học và kể một chương của câu chuyện, giúp bạn học từ vựng một cách tự nhiên.
+Đây là kế hoạch chi tiết để học 98 từ vựng từ bài đọc, được chia thành 5 phần dễ quản lý hơn. Mỗi phần tương ứng với một video/buổi học và kể một chương của câu chuyện, giúp bạn học từ vựng một cách tự nhiên.
 
 ---
 
-#### **VIDEO 1: The Invisible Rulers (15 words)**
+#### **VIDEO 1: The Invisible Rulers (20 words)**
 
 **Video Script Prompt**
 
@@ -121,73 +121,41 @@
 "Help learners understand the vast, ancient, and ubiquitous nature of microbes and the warning that we interfere with them at our own risk."
 
 **Focus on a specific source:**
-"Focus on the first 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+"Focus on the first 20 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
 1.  **bacteria**
 2.  **populated**
 3.  **outlive**
-<!-- 4.  **invisible** -->
-5.  **the naked eye**
-6.  **ubiquitous**
-7.  **inhabit**
-8.  **seaweed**
-9.  **coral**
-10. **utterly**
-11. **absorbing**
-<!-- 12. **hugely** -->
-13. **mess with**
-14. **peril**
-<!-- 15. **species** -->
+4.  **the naked eye**
+5.  **ubiquitous**
+6.  **inhabit**
+7.  **seaweed**
+8.  **coral**
+9.  **utterly**
+10. **absorbing**
+11. **mess with**
+12. **peril**
+13. **colony**
+14. **microbes**
+15. **cells**
+16. **dubbed**
+17. **armpit**
+18. **contentedly**
+19. **gut**
+20. **deadly**
 
 **Describe the show structure:**
-"Start with the big idea: 'Microbes, mostly **bacteria**, have **populated** our planet for billions of years and will **outlive** us. They are **invisible** to **the naked eye** but are **ubiquitous**—they are everywhere.'"
+"Start with the big idea: '**Bacteria** have **populated** our planet for billions of years and will **outlive** us. They are invisible to **the naked eye** but are **ubiquitous**—they **inhabit** everything from **seaweed** to **coral**. This book is **utterly** **absorbing** and warns that we **mess with** them at our **peril**.'"
 
-"Next, explain their presence and the book's warning: 'They **inhabit** everything from **seaweed** and **coral** to humans. The book is **utterly** **absorbing** and **hugely** important. It warns that we **mess with** them at our **peril**. Every **species** has its own community of microbes.'"
+"Next, explain the microbiome: 'Every species has its own **colony** of **microbes**. Our microbial **cells** outnumber our human ones. Some scientists have **dubbed** this a 'holobiont'. Microbes in your **armpit** or sitting **contentedly** in your **gut** can become **deadly** elsewhere.'"
 
-"Then, create a review screen. Arrange the 15 words in two columns to show all the words/phrase clearly as much as possible, showing only the word and its synonyms. For example: `word —— synonyms`."
+"Then, create a review screen. Arrange the 20 words in three columns to show all the words/phrase clearly as much as possible, showing only the word and its synonyms. For example: `word —— synonyms`."
 
-"End with a discussion question: 'Why do you think the author warns that we **mess with** these **invisible** creatures at our **peril**?'"
+"End with a discussion question: 'Why do we **mess with** these ubiquitous creatures at our **peril**?'"
 
 ---
 
-#### **VIDEO 2: The Human Holobiont (15 words)**
-
-**Video Script Prompt**
-
-**Target a specific use case:**
-"Help learners grasp the scale of the microbiome within the human body and the concept of a 'holobiont'."
-
-**Focus on a specific source:**
-"Focus on the next 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
-
-1.  **colony**
-2.  **microbes**
-<!-- 3.  **vary** -->
-4.  **cells**
-<!-- 5.  **trillion** -->
-<!-- 6.  **informs** -->
-<!-- 7.  **scientists** -->
-<!-- 8.  **single** -->
-9.  **dubbed**
-10. **armpit**
-<!-- 11. **peacefully** -->
-12. **contentedly**
-13. **gut**
-14. **deadly**
-15. **bloodstream**
-
-**Describe the show structure:**
-"Start with the microbiome concept: 'Each species has its own **colony** of **microbes**. These microbes **vary** between individuals. While we have 30 **trillion** human **cells**, we have 39 trillion microbes. The author **informs** us we are only 50% human.'"
-
-"Next, introduce the holobiont and the dual nature of microbes: '**Scientists** suggest we are a **single** unit, **dubbed** a 'holobiont'. Microbes in our **armpit** live **peacefully**. Those sitting **contentedly** in our **gut** can become **deadly** if they enter the **bloodstream**.'"
-
-"Then, create a review screen. Arrange the 15 words in two columns to show all the words/phrase clearly as much as possible, showing the word and its synonyms. For example: `word —— synonyms`."
-
-"End with a reflective question: 'How does it feel to know that you are only 50% human and that microbes in your **gut** outnumber the stars in the galaxy?'"
-
----
-
-#### **VIDEO 3: A Guide to the Microbe World (15 words)**
+#### **VIDEO 2: A Guide to the Microbe World (20 words)**
 
 **Video Script Prompt**
 
@@ -195,110 +163,83 @@
 "Help learners understand the dynamic nature of our microbiome and appreciate the author's skill in explaining this complex topic."
 
 **Focus on a specific source:**
-"Focus on the next 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+"Focus on the next 20 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
-<!-- 1.  **communities** -->
-<!-- 2.  **constantly** -->
-3.  **surrounded by**
-4.  **swallow**
-5.  **at large**
-6.  **extraordinarily**
-7.  **adept**
-8.  **lightness**
-9.  **panache**
-10. **knack of**
-11. **complex**
-12. **terms**
-13. **enthralling**
-14. **mission**
-15. **gently**
+1.  **bloodstream**
+2.  **surrounded by**
+3.  **swallow**
+4.  **at large**
+5.  **extraordinarily**
+6.  **adept**
+7.  **lightness**
+8.  **panache**
+9.  **knack of**
+10. **complex**
+11. **terms**
+12. **enthralling**
+13. **mission**
+14. **gently**
+15. **bizarre**
+16. **alien**
+17. **in a bid to**
+18. **persuade**
+19. **existed**
+20. **potent**
 
 **Describe the show structure:**
-"Start with the changing microbiome: 'These microbial **communities** are **constantly** changing. We are **surrounded by** microbes and **swallow** millions with our food. We swap them with pets and the world **at large**.'"
+"Start with our microbial interactions: 'If gut microbes get into the **bloodstream**, they can be deadly. We are **surrounded by** microbes and **swallow** millions of them. We swap them with the world **at large**. The author is an **extraordinarily** **adept** guide to this world.'"
 
-"Next, praise the author's style: 'The author is an **extraordinarily** **adept** guide. He writes with **lightness** and **panache**, and has a **knack of** explaining **complex** science in **terms** that are totally **enthralling**. He is on a **mission**, leading us **gently** into this world.'"
+"Next, praise the author's style: 'He writes with **lightness** and **panache**, with a **knack of** explaining **complex** science in **terms** that are **enthralling**. He is on a **mission**, leading us **gently** into this **bizarre**, **alien** planet **in a bid to** **persuade** us to love microbes we never knew **existed**. These creatures are incredibly **potent**.'"
 
-"Then, create a review screen. Arrange the 15 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
+"Then, create a review screen. Arrange the 20 words in three columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
 
-"End with a discussion question: 'Why is it a special skill for a writer to explain **complex** science with **lightness** and **panache**?'"
+"End with a discussion question: 'How can a writer make a **complex** topic **enthralling**?'"
 
 ---
 
-#### **VIDEO 4: Discovering the Invisible (15 words)**
+#### **VIDEO 3: Friends, Foes, and a Symbiotic Dance (20 words)**
 
 **Video Script Prompt**
 
 **Target a specific use case:**
-"Help learners trace the history of microbiology, from its discovery to the development of germ theory."
+"Help learners trace the history of microbiology and understand our complex, symbiotic relationship with bacteria."
 
 **Focus on a specific source:**
-"Focus on the next 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+"Focus on the next 20 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
-1.  **bizarre**
-2.  **alien**
-3.  **in a bid to**
-4.  **persuade**
-5.  **existed**
-6.  **potent**
-7.  **magnify**
-8.  **examined**
-9.  **nearby**
-10. **teeming with**
-11. **tiny**
-12. **endures**
-13. **plea**
-14. **tolerance**
-15. **acknowledges**
+1.  **magnify**
+2.  **examined**
+3.  **nearby**
+4.  **teeming with**
+5.  **tiny**
+6.  **endures**
+7.  **plea**
+8.  **tolerance**
+9.  **acknowledges**
+10. **supposedly**
+11. **nurture**
+12. **foe**
+13. **symbiotic**
+14. **mutually**
+15. **destructive**
+16. **unravelling**
+17. **aid**
+18. **digestion**
+19. **regulate**
+20. **immune**
 
 **Describe the show structure:**
-"Start with the author's goal: 'He takes us to a **bizarre**, **alien** planet **in a bid to** **persuade** us to love microbes. For most of history, we didn't know they **existed**.'"
+"Start with the discovery: 'The first person to see microbes used a microscope that could **magnify** 270 times. He **examined** water from a **nearby** lake and found it **teeming with** **tiny** creatures. But their bad image **endures**. The book is a **plea** for microbial **tolerance** and **acknowledges** our attitude is complex.'"
 
-"Next, describe the discovery: 'The first person to see these **potent** creatures used a microscope that could **magnify** 270 times. He **examined** water from a **nearby** lake and found it **teeming with** **tiny** creatures. Later, Pasteur's germ theory gave bacteria the poor image that **endures** today. The book is a **plea** for microbial **tolerance** and **acknowledges** our attitude is complex.'"
+"Next, explain our relationship: 'We buy drinks that **supposedly** **nurture** friendly bacteria, but we shouldn't see them as friend or **foe**. We have a **symbiotic** relationship that can be **mutually** beneficial or **destructive**. Research is **unravelling** how they **aid** **digestion** and **regulate** our **immune** systems.'"
 
-"Then, create a review screen. Arrange the 15 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
+"Then, create a review screen. Arrange the 20 words in three columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
 
-"End with a discussion question: 'How did the discovery of **tiny**, **potent** microbes change human history forever?'"
+"End with a discussion question: 'Why is our relationship with bacteria **symbiotic**?'"
 
 ---
 
-#### **VIDEO 5: Friends, Foes, and a Symbiotic Dance (15 words)**
-
-**Video Script Prompt**
-
-**Target a specific use case:**
-"Help learners understand the complex, symbiotic relationship we have with bacteria and the many vital roles they play in our bodies."
-
-**Focus on a specific source:**
-"Focus on the next 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
-
-1.  **supposedly**
-2.  **nurture**
-3.  **foe**
-4.  **symbiotic**
-5.  **mutually**
-6.  **destructive**
-7.  **unravelling**
-8.  **aid**
-9.  **digestion**
-10. **regulate**
-11. **immune**
-12. **eliminate**
-13. **toxins**
-14. **combat**
-15. **obsession**
-
-**Describe the show structure:**
-"Start with our mixed attitudes: 'We buy drinks that **supposedly** **nurture** 'friendly' bacteria. But we shouldn't see them as friends or **foes**. We have a **symbiotic** relationship that can be **mutually** beneficial or **destructive**.'"
-
-"Next, explain their functions: 'Research is **unravelling** how bacteria **aid** **digestion**, **regulate** our **immune** systems, **eliminate** **toxins**, and even **combat** obesity. But our **obsession** with hygiene is causing a problem.'"
-
-"Then, create a review screen. Arrange the 15 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
-
-"End with a discussion question: 'Why is it more accurate to describe our relationship with bacteria as **symbiotic** rather than as friends or **foes**?'"
-
----
-
-#### **VIDEO 6: The Modern Dilemma (15 words)**
+#### **VIDEO 4: The Modern Dilemma (19 words)**
 
 **Video Script Prompt**
 
@@ -306,36 +247,40 @@
 "Help learners understand how modern lifestyles are harming our microbiome and leading to new health problems."
 
 **Focus on a specific source:**
-"Focus on the next 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+"Focus on the next 19 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
-1.  **hygiene**
-2.  **antibiotics**
-3.  **disrupting**
-4.  **soaring**
-5.  **allergies**
-6.  **inflammatory**
-7.  **bowel**
-8.  **norms**
-9.  **excessive**
-10. **detergents**
-11. **at bay**
-12. **unglamorous**
-13. **appealing**
-14. **fungus**
-15. **wiping out**
+1.  **eliminate**
+2.  **toxins**
+3.  **combat**
+4.  **obsession**
+5.  **hygiene**
+6.  **antibiotics**
+7.  **disrupting**
+8.  **soaring**
+9.  **allergies**
+10. **inflammatory**
+11. **bowel**
+12. **norms**
+13. **excessive**
+14. **detergents**
+15. **at bay**
+16. **unglamorous**
+17. **appealing**
+18. **fungus**
+19. **wiping out**
 
 **Describe the show structure:**
-"Start with the problem: 'Our obsession with **hygiene** and overuse of **antibiotics** are **disrupting** our bacterial balance. This may be responsible for **soaring** rates of **allergies** and **inflammatory** **bowel** disease.'"
+"Start with their benefits: 'Microbes **eliminate** **toxins** and **combat** obesity. But our **obsession** with **hygiene** and overuse of **antibiotics** are **disrupting** this balance, leading to **soaring** rates of **allergies** and **inflammatory** **bowel** disease.'"
 
-"Next, explain the surprising research: 'New research is turning accepted **norms** upside down. The **excessive** use of household **detergents** can destroy good microbes that keep bad germs **at bay**. The book explores this **unglamorous** but important world. One less **appealing** story is about a **fungus** that is **wiping out** frog populations.'"
+"Next, explain the surprising research: 'New research turns accepted **norms** upside down. **Excessive** use of **detergents** can kill good microbes that keep germs **at bay**. The book explores this **unglamorous** but important world. One less **appealing** story is about a **fungus** that is **wiping out** frog populations.'"
 
-"Then, create a review screen. Arrange the 15 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
+"Then, create a review screen. Arrange the 19 words in three columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
 
-"End with a discussion question: 'How has our modern obsession with **hygiene** led to **soaring** rates of **allergies**?'"
+"End with a discussion question: 'How has our **obsession** with **hygiene** led to **soaring** rates of **allergies**?'"
 
 ---
 
-#### **VIDEO 7: A Future with Microbes (10 words)**
+#### **VIDEO 5: A Future with Microbes (19 words)**
 
 **Video Script Prompt**
 
@@ -343,26 +288,33 @@
 "Help learners explore the hopeful and futuristic applications of microbiology, from fighting disease to ensuring a healthy start in life."
 
 **Focus on a specific source:**
-"Focus on the final 10 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+"Focus on the final 19 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
 1.  **halted**
 2.  **luminescent**
 3.  **predators**
-<!-- 4.  **overcome** -->
-5.  **distaste**
-6.  **enthusiasm**
-7.  **spreading**
-8.  **dengue**
-9.  **infects**
-10. **manipulate**
-11. **neonatal**
-12. **ward**
+4.  **distaste**
+5.  **enthusiasm**
+6.  **spreading**
+7.  **dengue**
+8.  **infects**
+9.  **manipulate**
+10. **neonatal**
+11. **ward**
+12. **peacefully**
+13. **communities**
+14. **constantly**
+15. **overcome**
+16. **species**
+17. **vary**
+18. **trillion**
+19. **informs**
 
 **Describe the show structure:**
-"Start with a story of hope: 'The frog-killing fungus can be **halted** by another microbe. Another story is about squid with **luminescent** bacteria that protect them from **predators**. If you can **overcome** your **distaste**, the author's **enthusiasm** is contagious.'"
+"Start with stories of hope: 'The frog-killing fungus can be **halted** by another microbe. Squid use **luminescent** bacteria to hide from **predators**. If you can get over your **distaste**, the author's **enthusiasm** is clear. To stop mosquitoes **spreading** **dengue** fever, which **infects** millions, we can **manipulate** their microbes.'"
 
-"Next, look to the future: 'To stop mosquitoes from **spreading** **dengue** fever, a disease that **infects** millions, we are loading them with a bacterium. Our ability to **manipulate** microbes could lead to buildings that fight infection. Imagine a **neonatal** hospital **ward** coated with helpful microbes.'"
+"Next, look to the future: 'Imagine a **neonatal** hospital **ward** coated in helpful microbes. These microbial **communities** live with us **peacefully** but are **constantly** changing. We must **overcome** our fear. Each **species** has microbes that **vary** in their trillions, and this book **informs** us of their importance.'"
 
-"Then, create a review screen. Arrange the 12 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
+"Then, create a review screen. Arrange the 19 words in three columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
 
-"End with a final thought: 'What is the most exciting future possibility that our ability to **manipulate** microbes could unlock?'"
+"End with a final thought: 'What is the most exciting future possibility of our ability to **manipulate** microbes?'"

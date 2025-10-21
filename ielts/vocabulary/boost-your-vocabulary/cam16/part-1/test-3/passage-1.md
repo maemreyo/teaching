@@ -116,21 +116,21 @@
 **Focus on a specific source:**
 "Focus on the first 17 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
-1.  **based on**
+<!-- 1.  **based on** -->
 2.  **sophisticated**
-3.  **tools**
-4.  **ancient**
+<!-- 3.  **tools** -->
+<!-- 4.  **ancient** -->
 5.  **relying on**
-6.  **estimation**
+<!-- 6.  **estimation** -->
 7.  **inherited**
-8.  **techniques**
-9.  **traditionally**
+<!-- 8.  **techniques** -->
+<!-- 9.  **traditionally** -->
 10. **sailors**
-11. **conquered**
-12. **surviving**
-13. **documents**
-14. **descriptions**
-15. **representations**
+<!-- 11. **conquered** -->
+<!-- 12. **surviving** -->
+<!-- 13. **documents** -->
+<!-- 14. **descriptions** -->
+<!-- 15. **representations** -->
 16. **rigging**
 17. **Excavated**
 
@@ -164,14 +164,14 @@
 7.  **Planks**
 8.  **initially**
 9.  **sewn**
-10. **fixed**
+<!-- 10. **fixed** -->
 11. **mortise and tenon**
 12. **stitching**
-13. **era**
+<!-- 13. **era** -->
 14. **shifted**
-15. **consisted of**
-16. **components**
-17. **systematic**
+<!-- 15. **consisted of** -->
+<!-- 16. **components** -->
+<!-- 17. **systematic** -->
 
 **Describe the show structure:**
 "Start with the evidence: '**Excavated** **vessels** give us **clues**. They built the **outer** **hull** first, then **proceeded** with the **frame**. **Planks** were **initially** **sewn** together.'"
@@ -195,21 +195,21 @@
 "Focus on the next 17 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
 1.  **dramatically**
-2.  **construction**
+<!-- 2.  **construction** -->
 3.  **merchant**
 4.  **unequalled**
-5.  **lightweight**
-6.  **speedy**
-7.  **coast**
+<!-- 5.  **lightweight** -->
+<!-- 6.  **speedy** -->
+<!-- 7.  **coast** -->
 8.  **ballast**
 9.  **excess**
 10. **load**
 11. **narrow**
 12. **sink**
 13. **crippled**
-14. **surface**
+<!-- 14. **surface** -->
 15. **naval**
-16. **battles**
+<!-- 16. **battles** -->
 17. **bronze battering ram**
 
 **Describe the show structure:**
@@ -236,20 +236,20 @@
 1.  **pierce**
 2.  **timber**
 3.  **oars**
-4.  **enemy**
-5.  **powerful**
-6.  **dominant**
+<!-- 4.  **enemy** -->
+<!-- 5.  **powerful** -->
+<!-- 6.  **dominant** -->
 7.  **rowers**
-8.  **approximately**
+<!-- 8.  **approximately** -->
 9.  **exposed to**
 10. **contrary to**
 11. **perception**
-12. **enrolled**
+<!-- 12. **enrolled** -->
 13. **superseded**
-14. **transport**
+<!-- 14. **transport** -->
 15. **cargo**
 16. **reasonable**
-17. **stability**
+<!-- 17. **stability** -->
 
 **Describe the show structure:**
 "Start with war tactics: 'The ram was used to **pierce** the **timber** hulls or break the **oars** of **enemy** ships. Rome's navy became very **powerful**. The **dominant** warship was the trireme, with three levels of **rowers**—**approximately** 150 men, who were **exposed to** incoming water.'"
@@ -276,19 +276,19 @@
 2.  **stern**
 3.  **tiller**
 4.  **masts**
-5.  **standards**
+<!-- 5.  **standards** -->
 6.  **granite**
 7.  **inhabitants**
 8.  **gigantic**
-9.  **approach**
+<!-- 9.  **approach** -->
 10. **intercepted**
-11. **drag**
+<!-- 11. **drag** -->
 12. **quay**
-13. **Navigation**
+<!-- 13. **Navigation** -->
 14. **compasses**
 15. **observation**
 16. **phenomena**
-17. **visibility**
+<!-- 17. **visibility** -->
 
 **Describe the show structure:**
 "Start with merchant ship design: 'They had two large **rudders** at the **stern**, controlled by a **tiller**, and up to three **masts**. They supplied Rome—a huge city by ancient **standards** with a million **inhabitants**—with goods like **granite**.'"
@@ -312,7 +312,7 @@
 "Focus on the final 17 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
 1.  **facilitated**
-2.  **position**
+<!-- 2.  **position** -->
 3.  **succession**
 4.  **recognisable**
 5.  **mariners**
@@ -321,13 +321,13 @@
 8.  **resembled**
 9.  **regularly**
 10. **supplies**
-11. **load**
-12. **cargo**
-13. **transport**
+<!-- 11. **load** -->
+<!-- 12. **cargo** -->
+<!-- 13. **transport** -->
 14. **sailors**
-15. **enemy**
-16. **powerful**
-17. **dominant**
+<!-- 15. **enemy** -->
+<!-- 16. **powerful** -->
+<!-- 17. **dominant** -->
 
 **Describe the show structure:**
 "Start with navigation techniques: 'Seeing land **facilitated** navigation. They noted their **position** relative to a **succession** of **recognisable** landmarks. At night, **mariners** used the stars, or with less **accuracy**, the sun and ocean **swell**.'"

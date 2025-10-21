@@ -104,18 +104,18 @@
 "Focus on the first 14 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
 1.  **international**
-2.  **discovered**
+<!-- 2.  **discovered** -->
 3.  **'thermometer' molecule**
 4.  **seasonal**
-5.  **temperature**
-6.  **researchers**
+<!-- 5.  **temperature** -->
+<!-- 6.  **researchers** -->
 7.  **revealed**
-8.  **detect**
-9.  **function**
+<!-- 8.  **detect** -->
+<!-- 9.  **function** -->
 10. **cellular**
 11. **gauges**
-12. **genetic**
-13. **switches**
+<!-- 12. **genetic** -->
+<!-- 13. **switches** -->
 14. **dictate**
 
 **Describe the show structure:**
@@ -148,8 +148,8 @@
 7.  **predict**
 8.  **pinpoints**
 9.  **molecular**
-10. **mechanism**
-11. **reacts**
+<!-- 10. **mechanism** -->
+<!-- 11. **reacts** -->
 12. **triggering**
 
 **Describe the show structure:**
@@ -173,17 +173,17 @@
 **Focus on a specific source:**
 "Focus on the next 12 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
-1.  **unpredictable**
-2.  **internal**
+<!-- 1.  **unpredictable** -->
+<!-- 2.  **internal** -->
 3.  **breed**
-4.  **estimated**
+<!-- 4.  **estimated** -->
 5.  **yields**
-6.  **achieving**
-7.  **sensitive**
+<!-- 6.  **achieving** -->
+<!-- 7.  **sensitive** -->
 8.  **thermal**
 9.  **sense**
-10. **potential**
-11. **accelerate**
+<!-- 10. **potential** -->
+<!-- 11. **accelerate** -->
 12. **resilient**
 
 **Describe the show structure:**
@@ -211,16 +211,16 @@
 2.  **restrict**
 3.  **shade**
 4.  **compete**
-5.  **escape**
+<!-- 5.  **escape** -->
 6.  **sundown**
-7.  **gradually**
-8.  **revert**
-9.  **measure**
-10. **inactivity**
+<!-- 7.  **gradually** -->
+<!-- 8.  **revert** -->
+<!-- 9.  **measure** -->
+<!-- 10. **inactivity** -->
 11. **growth-suppressing**
 12. **dark reversion**
 13. **detach**
-14. **resume**
+<!-- 14. **resume** -->
 15. **evolved**
 
 **Describe the show structure:**
@@ -246,17 +246,17 @@
 
 1.  **co-opted**
 2.  **indicator**
-3.  **species**
+<!-- 3.  **species** -->
 4.  **daffodils**
 5.  **considerable**
-6.  **in advance**
+<!-- 6.  **in advance** -->
 7.  **dual**
 8.  **well-known**
 9.  **rhyme**
 10. **oak before ash**
-11. **rely on**
-12. **determine**
-13. **consequently**
+<!-- 11. **rely on** -->
+<!-- 12. **determine** -->
+<!-- 13. **consequently** -->
 14. **likeliness**
 
 **Describe the show structure:**
@@ -284,19 +284,19 @@
 2.  **culmination**
 3.  **mustard**
 4.  **advances**
-5.  **rapidly**
+<!-- 5.  **rapidly** -->
 6.  **identify**
 7.  **processes**
-8.  **alter**
+<!-- 8.  **alter** -->
 9.  **precise**
 10. **uniquely well-positioned**
-11. **outstanding**
-12. **collaborators**
-13. **nearby**
-14. **biology**
-15. **transfer**
+<!-- 11. **outstanding** -->
+<!-- 12. **collaborators** -->
+<!-- 13. **nearby** -->
+<!-- 14. **biology** -->
+<!-- 15. **transfer** -->
 16. **yields**
-17. **resilient**
+<!-- 17. **resilient** -->
 
 **Describe the show structure:**
 "Start with the research journey: 'These new **findings** are the **culmination** of 12 years of research, much of it using a **mustard** plant. Recent **advances** in genetics mean scientists can **rapidly** **identify** the genes controlling these **processes** and even **alter** them with **precise** tools.'"
