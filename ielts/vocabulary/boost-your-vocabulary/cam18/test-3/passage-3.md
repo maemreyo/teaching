@@ -6,8 +6,8 @@ Chắc chắn rồi. Dưới đây là danh sách toàn bộ từ vựng cho bà
 
 ## The case for mixed-ability classes
 
-| Vocabulary            | Synonyms / Explanation                                                                              | Context from the Passage                                                                                         |
-| :-------------------- | :-------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------- |
+| Vocabulary                  | Synonyms / Explanation                                                                              | Context from the Passage                                                                                            | Done? | Done? |
+| :-------------------------- | :-------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------ | :---: |
 | **picture**           | imagine, visualize, consider                                                                        | **Picture** this scene. It's an English literature lesson in a UK school...                                      |
 | **literature**        | written works, books, writings                                                                      | ...an English **literature** lesson in a UK school...                                                            |
 | **extract**           | excerpt, passage, selection                                                                         | ...the teacher has just read an **extract** from Shakespeare's Romeo and Juliet...                               |

@@ -6,8 +6,8 @@ Chắc chắn rồi. Dưới đây là danh sách toàn bộ từ vựng cho bà
 
 ## Forest management in Pennsylvania, USA
 
-| Vocabulary            | Synonyms / Explanation                                                          | Context from the Passage                                                                             |
-| :-------------------- | :------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------- |
+| Vocabulary            | Synonyms / Explanation                                                          | Context from the Passage                                                                             | Done? |
+| :-------------------- | :------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------- | :---: |
 | **management**        | supervision, administration, control                                            | How managing low-quality wood... can encourage sustainable forest **management**.                    |
 | **bioenergy**         | a source of energy from the green material that makes up plants                 | ...managing low-quality wood... for **bioenergy** can encourage sustainable forest management.       |
 | **sustainable**       | eco-friendly, environmentally friendly, green                                   | ...can encourage **sustainable** forest management.                                                  |

@@ -2,8 +2,8 @@
 
 ## Roman shipbuilding and navigation
 
-| Vocabulary               | Synonyms / Explanation                                                                | Context from the Passage                                                                                |
-| :----------------------- | :------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------ |
+| Vocabulary               | Synonyms / Explanation                                                                | Context from the Passage                                                                                | Done? |
+| :----------------------- | :------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------ | :---: |
 | **based on**             | to use something as the thing from which something else is developed                  | Shipbuilding today is **based on** science and ships are built using computers...                       |
 | **sophisticated**        | complex, complicated, difficult                                                       | ...built using computers and **sophisticated** tools.                                                   |
 | **tools**                | instrument, implement, device, means                                                  | ...built using computers and sophisticated **tools**.                                                   |

@@ -2,8 +2,8 @@
 
 ## The steam car
 
-| Vocabulary                     | Synonyms / Explanation                                                         | Context from the Passage                                                                                          |
-| :----------------------------- | :----------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------- |
+| Vocabulary                     | Synonyms / Explanation                                                         | Context from the Passage                                                                                          | Done? |
+| :----------------------------- | :----------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------- | :---: |
 | **primitive**                  | basic, simple, rudimentary                                                     | When **primitive** automobiles first began to appear in the 1800s...                                              |
 | **automobiles**                | car, vehicle, motorcar                                                         | When primitive **automobiles** first began to appear in the 1800s...                                              |
 | **engines**                    | the part of a vehicle that produces power to make it move                      | ...their **engines** were based on steam power.                                                                   |

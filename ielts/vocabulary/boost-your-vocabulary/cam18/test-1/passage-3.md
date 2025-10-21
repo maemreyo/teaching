@@ -6,8 +6,8 @@ Chắc chắn rồi. Dưới đây là danh sách toàn bộ từ vựng cho bà
 
 ## Conquering Earth's space junk problem
 
-| Vocabulary                | Synonyms / Explanation                                                                     | Context from the Passage                                                                                                              |
-| :------------------------ | :----------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------ |
+| Vocabulary                | Synonyms / Explanation                                                                     | Context from the Passage                                                                                                              | Done? |
+| :------------------------ | :----------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------ | :---: |
 | **shards**                | a piece of broken metal, glass, or rock, typically having sharp edges; broken parts        | Satellites, rocket **shards** and collision debris are creating major traffic risks...                                                |
 | **collision**             | crash, impact, accident                                                                    | ...rocket shards and **collision** debris are creating major traffic risks...                                                         |
 | **debris**                | rubbish, trash, wreckage                                                                   | ...and collision **debris** are creating major traffic risks in orbit around the planet.                                              |

@@ -2,8 +2,8 @@
 
 ## Why we need to protect polar bears?
 
-| Vocabulary          | Synonyms / Explanation                                                                | Context from the Passage                                                                                          |
-| :------------------ | :------------------------------------------------------------------------------------ | :---------------------------------------------------------------------------------------------------------------- |
+| Vocabulary          | Synonyms / Explanation                                                                | Context from the Passage                                                                                          | Done? |
+| :------------------ | :------------------------------------------------------------------------------------ | :---------------------------------------------------------------------------------------------------------------- | :---: |
 | **threatened**      | to be likely to harm or destroy something                                             | Polar bears are being increasingly **threatened** by the effects of climate change...                             |
 | **climate**         | the typical weather conditions in a particular area                                   | ...threatened by the effects of **climate** change...                                                             |
 | **far-reaching**    | having a great influence or effect                                                    | ...but their disappearance could have **far-reaching** consequences.                                              |

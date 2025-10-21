@@ -2,48 +2,48 @@
 
 ## Attitude towards Artificial Intelligence
 
-| Vocabulary                  | Synonyms / Explanation                                                                    | Context from the Passage                                                                                                             |
-| :-------------------------- | :---------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------- |
+| Vocabulary                  | Synonyms / Explanation                                                                    | Context from the Passage                                                                                                             | Done? |
+| :-------------------------- | :---------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------- | :---: |
 | **Artificial intelligence** | false, fake (artificial); smartness, cleverness (intelligence)                            | **Artificial intelligence** (AI) can already predict the future.                                                                     |
-| **predict**                 | forecast, foresee, envisage, expect                                                       | Artificial intelligence (AI) can already **predict** the future.                                                                     |
+| **predict**                 | forecast, foresee, envisage, expect                                                       | Artificial intelligence (AI) can already **predict** the future.                                                                     |x
 | **police forces**           | an organized organization of police officers responsible for a country, district, or town | **Police forces** are using it to map when and where crime is likely to occur.                                                       |
 | **map**                     | chart, plot, plan, draw, represent                                                        | Police forces are using it to **map** when and where crime is likely to occur.                                                       |
-| **occur**                   | take place, happen, have effect                                                           | ...when and where crime is likely to **occur**.                                                                                      |
-| **patient**                 | someone who is receiving medical treatment from a doctor or in a hospital                 | ...predict when a **patient** is most likely to have a heart attack or stroke.                                                       |
+| **occur**                   | take place, happen, have effect                                                           | ...when and where crime is likely to **occur**.                                                                                      |x
+| **patient**                 | someone who is receiving medical treatment from a doctor or in a hospital                 | ...predict when a **patient** is most likely to have a heart attack or stroke.                                                       |x
 | **stroke**                  | when an artery in the brain suddenly bursts or becomes blocked                            | ...most likely to have a heart attack or **stroke**.                                                                                 |
-| **researchers**             | someone who studies a subject in detail                                                   | **Researchers** are even trying to give AI imagination...                                                                            |
-| **imagination**             | creativity, originality, inventiveness                                                    | ...to give AI **imagination** so it can plan for unexpected consequences.                                                            |
-| **unexpected**              | surprising, unpredicted, unanticipated                                                    | ...so it can plan for **unexpected** consequences.                                                                                   |
-| **consequences**            | result, effect, outcome                                                                   | ...plan for unexpected **consequences**.                                                                                             |
-| **require**                 | demand, expect, necessitate                                                               | Many decisions in our lives **require** a good forecast...                                                                           |
-| **advances**                | development, improvement, spread, progress                                                | Yet for all these technological **advances**, we still seem to deeply lack confidence...                                             |
-| **lack confidence**         | not have, be short of (lack); sureness, self-assurance (confidence)                       | ...we still seem to deeply **lack confidence** in AI predictions.                                                                    |
-| **relying on**              | depend on, count on, trust, be sure of                                                    | Recent cases show that people don't like **relying on** AI and prefer to trust human experts...                                      |
-| **trust**                   | believe, have faith in, confide in                                                        | ...and prefer to **trust** human experts, even if these experts are wrong.                                                           |
-| **experts**                 | specialist, professional, authority                                                       | ...prefer to trust human **experts**, even if these **experts** are wrong.                                                           |
-| **benefit**                 | help, promote, profit, aid                                                                | If we want AI to really **benefit** people, we need to find a way to get people to trust it.                                         |
+| **researchers**             | someone who studies a subject in detail                                                   | **Researchers** are even trying to give AI imagination...                                                                            |x
+| **imagination**             | creativity, originality, inventiveness                                                    | ...to give AI **imagination** so it can plan for unexpected consequences.                                                            |x
+| **unexpected**              | surprising, unpredicted, unanticipated                                                    | ...so it can plan for **unexpected** consequences.                                                                                   |x
+| **consequences**            | result, effect, outcome                                                                   | ...plan for unexpected **consequences**.                                                                                             |x
+| **require**                 | demand, expect, necessitate                                                               | Many decisions in our lives **require** a good forecast...                                                                           |x
+| **advances**                | development, improvement, spread, progress                                                | Yet for all these technological **advances**, we still seem to deeply lack confidence...                                             |x
+| **lack confidence**         | not have, be short of (lack); sureness, self-assurance (confidence)                       | ...we still seem to deeply **lack confidence** in AI predictions.                                                                    |x
+| **relying on**              | depend on, count on, trust, be sure of                                                    | Recent cases show that people don't like **relying on** AI and prefer to trust human experts...                                      |x
+| **trust**                   | believe, have faith in, confide in                                                        | ...and prefer to **trust** human experts, even if these experts are wrong.                                                           |x
+| **experts**                 | specialist, professional, authority                                                       | ...prefer to trust human **experts**, even if these **experts** are wrong.                                                           |x
+| **benefit**                 | help, promote, profit, aid                                                                | If we want AI to really **benefit** people, we need to find a way to get people to trust it.                                         |x
 | **reluctant**               | unwilling, unenthusiastic, disinclined, hesitant                                          | ...why people are so **reluctant** to trust AI in the first place.                                                                   |
-| **promote**                 | encourage, help, stimulate, support                                                       | Their attempt to **promote** this program to cancer doctors was a PR disaster.                                                       |
-| **disaster**                | failure, tragedy, ruin, adversity, catastrophe                                            | ...was a PR **disaster**.                                                                                                            |
-| **deliver**                 | give out, bring, transport, carry, send                                                   | The AI promised to **deliver** top-quality recommendations on the treatment of 12 cancers...                                         |
-| **recommendations**         | advice, proposal, suggestion                                                              | ...top-quality **recommendations** on the treatment of 12 cancers...                                                                 |
-| **treatment**               | cure, healing, care, medicine, remedy                                                     | ...recommendations on the **treatment** of 12 cancers that accounted for 80% of the world's cases.                                   |
+| **promote**                 | encourage, help, stimulate, support                                                       | Their attempt to **promote** this program to cancer doctors was a PR disaster.                                                       |x
+| **disaster**                | failure, tragedy, ruin, adversity, catastrophe                                            | ...was a PR **disaster**.                                                                                                            |x
+| **deliver**                 | give out, bring, transport, carry, send                                                   | The AI promised to **deliver** top-quality recommendations on the treatment of 12 cancers...                                         |x
+| **recommendations**         | advice, proposal, suggestion                                                              | ...top-quality **recommendations** on the treatment of 12 cancers...                                                                 |x
+| **treatment**               | cure, healing, care, medicine, remedy                                                     | ...recommendations on the **treatment** of 12 cancers that accounted for 80% of the world's cases.                                   |x
 | **accounted for**           | comprise, make up, represent, constitute                                                  | ...that **accounted for** 80% of the world's cases.                                                                                  |
-| **interacted**              | relate, cooperate, interrelate, work together                                             | But when doctors first **interacted** with Watson, they found themselves in a rather difficult situation.                            |
-| **guidance**                | help, assistance, support, direction                                                      | ...if Watson provided **guidance** about a treatment that coincided with their own opinions...                                       |
+| **interacted**              | relate, cooperate, interrelate, work together                                             | But when doctors first **interacted** with Watson, they found themselves in a rather difficult situation.                            |x
+| **guidance**                | help, assistance, support, direction                                                      | ...if Watson provided **guidance** about a treatment that coincided with their own opinions...                                       |x
 | **coincided**               | happen together, concur, overlap, agree, match                                            | ...a treatment that **coincided** with their own opinions...                                                                         |
-| **actual**                  | real, definite, genuine, authentic                                                        | ...did not change the **actual** treatment.                                                                                          |
-| **generated**               | make, produce, create, cause                                                              | On the other hand, if Watson **generated** a recommendation that contradicted the experts' opinion...                                |
+| **actual**                  | real, definite, genuine, authentic                                                        | ...did not change the **actual** treatment.                                                                                          |x
+| **generated**               | make, produce, create, cause                                                              | On the other hand, if Watson **generated** a recommendation that contradicted the experts' opinion...                                |x
 | **contradicted**            | deny, reverse, oppose, challenge                                                          | ...a recommendation that **contradicted** the experts' opinion...                                                                    |
 | **typically**               | characteristically, classically, naturally, stereotypically                               | ...doctors would **typically** conclude that Watson wasn't competent.                                                                |
 | **competent**               | capable, able, knowledgeable, experienced                                                 | ...conclude that Watson wasn't **competent**.                                                                                        |
 | **plausible**               | reasonable, believable, credible, probable                                                | ...why its treatment was **plausible** because its machine-learning algorithms were simply too complex...                            |
-| **algorithms**              | a set of instructions that are followed in a fixed order                                  | ...its machine-learning **algorithms** were simply too complex to be fully understood...                                             |
-| **complex**                 | difficult, complicated, intricate                                                         | ...algorithms were simply too **complex** to be fully understood by humans.                                                          |
+| **algorithms**              | a set of instructions that are followed in a fixed order                                  | ...its machine-learning **algorithms** were simply too complex to be fully understood...                                             |x
+| **complex**                 | difficult, complicated, intricate                                                         | ...algorithms were simply too **complex** to be fully understood by humans.                                                          |x
 | **Consequently**            | so, thus, therefore, accordingly, as a result                                             | **Consequently**, this has caused even more suspicion and disbelief...                                                               |
 | **suspicion**               | doubt, misgiving, thought, distrust                                                       | ...caused even more **suspicion** and disbelief...                                                                                   |
 | **disbelief**               | doubt, distrust, skepticism, incredulity                                                  | ...caused even more suspicion and **disbelief**...                                                                                   |
-| **ignore**                  | pay no attention to, take no notice of, overlook, disregard                               | ...leading many doctors to **ignore** the seemingly outlandish AI recommendations...                                                 |
+| **ignore**                  | pay no attention to, take no notice of, overlook, disregard                               | ...leading many doctors to **ignore** the seemingly outlandish AI recommendations...                                                 |x
 | **seemingly**               | apparently, outwardly, ostensibly                                                         | ...to ignore the **seemingly** outlandish AI recommendations...                                                                      |
 | **outlandish**              | unusual, bizarre, strange, weird                                                          | ...the seemingly **outlandish** AI recommendations and stick to their own expertise.                                                 |
 | **stick to**                | attach, glue, fix, join                                                                   | ...and **stick to** their own expertise.                                                                                             |
@@ -52,63 +52,63 @@
 | **reliability**             | dependability, consistency, steadfastness, trustworthiness                                | ...having experience of their **reliability**.                                                                                       |
 | **psychological**           | mental                                                                                    | This helps create a **psychological** feeling of safety.                                                                             |
 | **fairly**                  | quite, moderately, rather, relatively                                                     | AI, on the other hand, is still **fairly** new and unfamiliar to most people.                                                        |
-| **unfamiliar**              | new, untried, unknown, strange, alien                                                     | ...still fairly new and **unfamiliar** to most people.                                                                               |
-| **technically**             | precisely, exactly, theoretically, officially                                             | Even if it can be **technically** explained...                                                                                       |
-| **process**                 | procedure, course, development, progression                                               | ...AI's decision-making **process** is usually too difficult for most people to comprehend.                                          |
+| **unfamiliar**              | new, untried, unknown, strange, alien                                                     | ...still fairly new and **unfamiliar** to most people.                                                                               |x
+| **technically**             | precisely, exactly, theoretically, officially                                             | Even if it can be **technically** explained...                                                                                       |x
+| **process**                 | procedure, course, development, progression                                               | ...AI's decision-making **process** is usually too difficult for most people to comprehend.                                          |x
 | **comprehend**              | understand, know, grasp                                                                   | ...too difficult for most people to **comprehend**.                                                                                  |
 | **anxiety**                 | worry, nervousness, concern, unease                                                       | And interacting with something we don't understand can cause **anxiety**...                                                          |
-| **control**                 | power, domination, management                                                             | ...and give us a sense that we're losing **control**.                                                                                |
+| **control**                 | power, domination, management                                                             | ...and give us a sense that we're losing **control**.                                                                                |x
 | **instances**               | example, illustration, representative                                                     | Many people are also simply not familiar with many **instances** of AI actually working...                                           |
 | **acutely**                 | very, intensely, highly, deeply                                                           | Instead, they are **acutely** aware of instances where AI goes wrong.                                                                |
 | **disproportionate**        | uneven, unequal, inconsistent, unbalanced                                                 | Embarrassing AI failures receive a **disproportionate** amount of media attention...                                                 |
 | **emphasising**             | stress, highlight, accentuate, underline                                                  | ...**emphasising** the message that we cannot rely on technology.                                                                    |
 | **foolproof**               | safe, guaranteed, infallible, perfect                                                     | Machine learning is not **foolproof**, in part because the humans who design it aren't.                                              |
-| **various**                 | numerous, many, several, countless                                                        | ...people from a range of backgrounds were given **various** sci-fi films about AI to watch...                                       |
-| **automation**              | mechanization, computerization, robotics                                                  | ...and then asked questions about **automation** in everyday life.                                                                   |
+| **various**                 | numerous, many, several, countless                                                        | ...people from a range of backgrounds were given **various** sci-fi films about AI to watch...                                       |x
+| **automation**              | mechanization, computerization, robotics                                                  | ...and then asked questions about **automation** in everyday life.                                                                   |x
 | **regardless of**           | irrespective of, despite, notwithstanding, no matter                                      | It was found that, **regardless of** whether the film they watched depicted AI in a positive or negative light...                    |
 | **depicted**                | show, represent, describe, illustrate                                                     | ...whether the film they watched **depicted** AI in a positive or negative light...                                                  |
 | **cinematic**               | filmic, movielike, photographic                                                           | ...simply watching a **cinematic** vision of our technological future polarised the participants' attitudes.                         |
-| **vision**                  | foresight, imagination, prediction                                                        | ...a cinematic **vision** of our technological future...                                                                             |
+| **vision**                  | foresight, imagination, prediction                                                        | ...a cinematic **vision** of our technological future...                                                                             |x
 | **polarised**               | separate, differentiate, divide, split                                                    | ...**polarised** the participants' attitudes.                                                                                        |
-| **attitudes**               | position, stance, manner, viewpoint                                                       | ...polarised the participants' **attitudes**.                                                                                        |
+| **attitudes**               | position, stance, manner, viewpoint                                                       | ...polarised the participants' **attitudes**.                                                                                        |x
 | **Optimists**               | hoper, idealist, romantic, utopian                                                        | **Optimists** became more extreme in their enthusiasm for AI...                                                                      |
-| **extreme**                 | great, tremendous, severe, intense                                                        | Optimists became more **extreme** in their enthusiasm for AI...                                                                      |
+| **extreme**                 | great, tremendous, severe, intense                                                        | Optimists became more **extreme** in their enthusiasm for AI...                                                                      |x
 | **enthusiasm**              | eagerness, interest, passion, keenness                                                    | ...more extreme in their **enthusiasm** for AI...                                                                                    |
-| **sceptics**                | doubter, disbeliever, questioner                                                          | ...and **sceptics** became even more guarded.                                                                                        |
+| **sceptics**                | doubter, disbeliever, questioner                                                          | ...and **sceptics** became even more guarded.                                                                                        |x
 | **guarded**                 | cautious, hesitant, careful                                                               | ...sceptics became even more **guarded**.                                                                                            |
-| **relevant**                | related, applicable, pertinent                                                            | This suggests people use **relevant** evidence about AI in a biased manner...                                                        |
-| **evidence**                | proof, sign, indication                                                                   | ...use relevant **evidence** about AI in a biased manner to support their existing attitudes...                                      |
+| **relevant**                | related, applicable, pertinent                                                            | This suggests people use **relevant** evidence about AI in a biased manner...                                                        |x
+| **evidence**                | proof, sign, indication                                                                   | ...use relevant **evidence** about AI in a biased manner to support their existing attitudes...                                      |x
 | **biased**                  | unfair, partial, prejudiced, influenced                                                   | ...in a **biased** manner to support their existing attitudes...                                                                     |
 | **tendency**                | trend, movement, drive, inclination                                                       | ...a deep-rooted human **tendency** known as “confirmation bias”.                                                                    |
-| **confirmation**            | validation, authorization, approval                                                       | ...a deep-rooted human tendency known as “**confirmation** bias”.                                                                    |
+| **confirmation**            | validation, authorization, approval                                                       | ...a deep-rooted human tendency known as “**confirmation** bias”.                                                                    |x
 | **represented**             | portray, depict, show                                                                     | As AI is **represented** more and more in media and entertainment...                                                                 |
 | **pertinently**             | relevantly, appositely, appropriately, suitably                                           | More **pertinently**, refusing to accept the advantages offered by AI could place a large group of people at a serious disadvantage. |
-| **disadvantage**            | difficulty, drawback, shortcoming, weakness                                               | ...at a serious **disadvantage**.                                                                                                    |
-| **Fortunately**             | luckily, providentially, opportunely                                                      | **Fortunately**, we already have some ideas about how to improve trust in AI.                                                        |
-| **improve**                 | enhance, increase, boost, develop                                                         | ...some ideas about how to **improve** trust in AI.                                                                                  |
-| **previous**                | earlier, prior, former, aforementioned                                                    | Simply having **previous** experience with AI can significantly improve people's opinions...                                         |
-| **experience**              | knowledge, involvement, skill, practice                                                   | ...having previous **experience** with AI can significantly improve people's opinions...                                             |
-| **significantly**           | considerably, appreciably, drastically, notably                                           | ...can **significantly** improve people's opinions about the technology...                                                           |
-| **solution**                | answer, key, resolution                                                                   | Another **solution** may be to reveal more about the algorithms...                                                                   |
-| **reveal**                  | expose, uncover, show, bare                                                               | ...to **reveal** more about the algorithms which AI uses...                                                                          |
-| **purposes**                | intention, aim, objective                                                                 | ...and the **purposes** they serve.                                                                                                  |
-| **serve**                   | function, work, operate, act                                                              | ...and the purposes they **serve**.                                                                                                  |
+| **disadvantage**            | difficulty, drawback, shortcoming, weakness                                               | ...at a serious **disadvantage**.                                                                                                    |x
+| **Fortunately**             | luckily, providentially, opportunely                                                      | **Fortunately**, we already have some ideas about how to improve trust in AI.                                                        |x
+| **improve**                 | enhance, increase, boost, develop                                                         | ...some ideas about how to **improve** trust in AI.                                                                                  |x
+| **previous**                | earlier, prior, former, aforementioned                                                    | Simply having **previous** experience with AI can significantly improve people's opinions...                                         |x
+| **experience**              | knowledge, involvement, skill, practice                                                   | ...having previous **experience** with AI can significantly improve people's opinions...                                             |x
+| **significantly**           | considerably, appreciably, drastically, notably                                           | ...can **significantly** improve people's opinions about the technology...                                                           |x
+| **solution**                | answer, key, resolution                                                                   | Another **solution** may be to reveal more about the algorithms...                                                                   |x
+| **reveal**                  | expose, uncover, show, bare                                                               | ...to **reveal** more about the algorithms which AI uses...                                                                          |x
+| **purposes**                | intention, aim, objective                                                                 | ...and the **purposes** they serve.                                                                                                  |x
+| **serve**                   | function, work, operate, act                                                              | ...and the purposes they **serve**.                                                                                                  |x
 | **high-profile**            | prominent, prestigious, conspicuous                                                       | Several **high-profile** social media companies and online marketplaces...                                                           |
-| **release**                 | announce, publish, circulate, issue                                                       | ...already **release** transparency reports about government requests...                                                             |
+| **release**                 | announce, publish, circulate, issue                                                       | ...already **release** transparency reports about government requests...                                                             |x
 | **transparency**            | openness, clearness, unmistakability, unambiguousness                                     | ...release **transparency** reports about government requests and surveillance disclosures.                                          |
-| **requests**                | demand, appeal, wish, want                                                                | ...about government **requests** and surveillance disclosures.                                                                       |
+| **requests**                | demand, appeal, wish, want                                                                | ...about government **requests** and surveillance disclosures.                                                                       |x
 | **surveillance**            | observation, watch, scrutiny                                                              | ...government requests and **surveillance** disclosures.                                                                             |
 | **disclosures**             | revelation, expose, discovery                                                             | ...and surveillance **disclosures**.                                                                                                 |
-| **enable**                  | allow, permit, empower, qualify, aid                                                      | ...improve trust and **enable** AI to learn from human experience.                                                                   |
-| **freedom**                 | liberty, autonomy, self-determination, choice                                             | ...when people were allowed the **freedom** to slightly modify an algorithm...                                                       |
-| **slightly**                | a little, marginally, faintly                                                             | ...the freedom to **slightly** modify an algorithm...                                                                                |
-| **modify**                  | change, adapt, adjust, alter                                                              | ...to slightly **modify** an algorithm, they felt more satisfied with its decisions...                                               |
-| **satisfied**               | pleased, fulfilled, contented, happy                                                      | ...they felt more **satisfied** with its decisions...                                                                                |
+| **enable**                  | allow, permit, empower, qualify, aid                                                      | ...improve trust and **enable** AI to learn from human experience.                                                                   |x
+| **freedom**                 | liberty, autonomy, self-determination, choice                                             | ...when people were allowed the **freedom** to slightly modify an algorithm...                                                       |x
+| **slightly**                | a little, marginally, faintly                                                             | ...the freedom to **slightly** modify an algorithm...                                                                                |x
+| **modify**                  | change, adapt, adjust, alter                                                              | ...to slightly **modify** an algorithm, they felt more satisfied with its decisions...                                               |x
+| **satisfied**               | pleased, fulfilled, contented, happy                                                      | ...they felt more **satisfied** with its decisions...                                                                                |x
 | **superior**                | excellent, high-class, top-quality, exclusive                                             | ...more likely to believe it was **superior** and more likely to use it in the future.                                               |
 | **intricate**               | complicated, complex, sophisticated, tricky                                               | We don't need to understand the **intricate** inner workings of AI systems...                                                        |
 | **inner workings**          | internal, innermost (inner); mechanisms, machineries (workings)                           | ...the intricate **inner workings** of AI systems...                                                                                 |
 | **degree**                  | amount, quantity, level, scale, extent                                                    | ...if people are given a **degree** of responsibility for how they are implemented...                                                |
-| **implemented**             | apply, realize, execute, employ                                                           | ...for how they are **implemented**, they will be more willing to accept AI into their lives.                                        |
+| **implemented**             | apply, realize, execute, employ                                                           | ...for how they are **implemented**, they will be more willing to accept AI into their lives.                                        |x
 | **willing**                 | agreeable, eager, keen, ready                                                             | ...they will be more **willing** to accept AI into their lives.                                                                      |
 
 ### **Vocabulary Learning Plan: The AI Trust Problem (8 Videos)**
@@ -128,7 +128,7 @@
 "Focus on the first 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
 1.  **Artificial intelligence**
-3.  **police forces**
+2.  **police forces**
 
 **Describe the show structure:**
 "Start with AI's power: '**Artificial intelligence** can **predict** the future. **Police forces** use it to **map** where crime might **occur**. Doctors use it to predict if a **patient** might have a **stroke**. **Researchers** are even giving it **imagination** to plan for **unexpected** **consequences**.'"
@@ -152,7 +152,7 @@
 "Focus on the next 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
 4.  **reluctant**
-13. **coincided**
+5.  **coincided**
 
 **Describe the show structure:**
 "Start with the core issue: 'We prefer to **trust** human **experts**. If we want AI to **benefit** people, we must understand why we are **reluctant** to use it. An attempt to **promote** IBM's Watson to doctors was a PR **disaster**.'"
@@ -180,14 +180,14 @@
 3.  **competent**
 4.  **plausible**
 5.  **algorithms**
-7.  **Consequently**
-8.  **suspicion**
-9.  **disbelief**
-11. **seemingly**
-12. **outlandish**
-13. **stick to**
-14. **expertise**
-15. **reluctance**
+6.  **Consequently**
+7.  **suspicion**
+8.  **disbelief**
+9.  **seemingly**
+10. **outlandish**
+11. **stick to**
+12. **expertise**
+13. **reluctance**
 
 **Describe the show structure:**
 "Start with the doctors' reaction: 'If Watson's advice **contradicted** the expert, doctors would **typically** conclude the AI wasn't **competent**. The AI couldn't explain why its advice was **plausible** because its **algorithms** were too **complex** for humans to understand.'"
@@ -212,13 +212,13 @@
 
 2.  **psychological**
 3.  **fairly**
-7.  **comprehend**
-8.  **anxiety**
-10. **instances**
-11. **acutely**
-12. **disproportionate**
-13. **emphasising**
-14. **foolproof**
+4.  **comprehend**
+5.  **anxiety**
+6.  **instances**
+7.  **acutely**
+8.  **disproportionate**
+9.  **emphasising**
+10. **foolproof**
 
 **Describe the show structure:**
 "Start with how we trust humans: 'Trust in people is based on experience of their **reliability**, which creates a **psychological** feeling of safety. But AI is still **fairly** new and **unfamiliar**.'"
@@ -244,14 +244,14 @@
 2.  **regardless of**
 3.  **depicted**
 4.  **cinematic**
-6.  **polarised**
-7.  **attitudes**
-8.  **Optimists**
-11. **sceptics**
-12. **guarded**
-13. **relevant**
-15. **biased**
-16. **tendency**
+5.  **polarised**
+6.  **attitudes**
+7.  **Optimists**
+8.  **sceptics**
+9.  **guarded**
+10. **relevant**
+11. **biased**
+12. **tendency**
 
 **Describe the show structure:**
 "Start with the experiment: 'People were asked about **automation** after watching sci-fi films. **Regardless of** whether the film **depicted** AI positively or negatively, this **cinematic** **vision** **polarised** their **attitudes**.'"
@@ -276,10 +276,10 @@
 
 2.  **represented**
 3.  **pertinently**
-5.  **Fortunately**
-7.  **previous**
-11. **reveal**
-14. **high-profile**
+4.  **Fortunately**
+5.  **previous**
+6.  **reveal**
+7.  **high-profile**
 
 **Describe the show structure:**
 "Start with the danger of bias: '**Confirmation** bias is a problem as AI is **represented** more in media. More **pertinently**, rejecting AI could put people at a serious **disadvantage**. **Fortunately**, we have ideas to **improve** trust.'"
@@ -303,15 +303,15 @@
 "Focus on the next 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
 1.  **transparency**
-3.  **surveillance**
-4.  **disclosures**
-6.  **freedom**
-9.  **satisfied**
-10. **superior**
-11. **intricate**
-12. **inner workings**
-13. **degree**
-15. **willing**
+2.  **surveillance**
+3.  **disclosures**
+4.  **freedom**
+5.  **satisfied**
+6.  **superior**
+7.  **intricate**
+8.  **inner workings**
+9.  **degree**
+10. **willing**
 
 **Describe the show structure:**
 "Start with transparency: '**Transparency** reports about government **requests** for **surveillance** **disclosures** are one model. For AI, control could also **enable** trust.'"

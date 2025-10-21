@@ -2,8 +2,8 @@
 
 ## An ideal city
 
-| Vocabulary                      | Synonyms / Explanation                                                          | Context from the Passage                                                                               |
-| :------------------------------ | :------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------- |
+| Vocabulary                      | Synonyms / Explanation                                                          | Context from the Passage                                                                               | Done? |
+| :------------------------------ | :------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------- | :---: |
 | **ideal**                       | perfect, flawless, faultless                                                    | Leonardo da Vinci's **ideal** city was centuries ahead of its time.                                    |
 | **associated with**             | linked to, connected to, related to                                             | The word 'genius' is universally **associated with** the name of Leonardo da Vinci.                    |
 | **embodied**                    | reflect, exemplify, represent, personify                                        | A true Renaissance man, he **embodied** scientific spirit, artistic talent and humanist sensibilities. |

@@ -2,8 +2,8 @@
 
 ## The white horse of Uffington
 
-| Vocabulary            | Synonyms / Explanation                                                               | Context from the Passage                                                                                             |
-| :-------------------- | :----------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------- |
+| Vocabulary            | Synonyms / Explanation                                                               | Context from the Passage                                                                                             | Done? |
+| :-------------------- | :----------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------- | :---: |
 | **huge**              | giant, enormous, vast, massive                                                       | The cutting of **huge** figures or 'geoglyphs' into the earth of English hillsides...                                |
 | **figures**           | shape, design                                                                        | The cutting of huge **figures** or 'geoglyphs' into the earth...                                                     |
 | **geoglyphs**         | a large-scale design or image created on the ground                                  | ...huge figures or '**geoglyphs**' into the earth of English hillsides...                                            |

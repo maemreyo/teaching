@@ -2,8 +2,8 @@
 
 ## Green roofs
 
-| Vocabulary                   | Synonyms / Explanation                                                              | Context from the Passage                                                                                            |
-| :--------------------------- | :---------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------ |
+| Vocabulary                   | Synonyms / Explanation                                                              | Context from the Passage                                                                                            | Done? | Done? |
+| :--------------------------- | :---------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------ | :---: | :---: |
 | **rooftop**                  | top, upper level                                                                    | **Rooftops** covered with grass, vegetable gardens and lush foliage...                                              |
 | **lush foliage**             | green, verdant (lush); leaves, greenery (foliage)                                   | ...and **lush foliage** are now a common sight in many cities around the world.                                     |
 | **authorities**              | official, administrator, governing body                                             | More and more private companies and city **authorities** are investing in green roofs...                            |

@@ -6,8 +6,8 @@ Chắc chắn rồi. Dưới đây là danh sách toàn bộ từ vựng cho bà
 
 ## Stonehenge
 
-| Vocabulary                 | Synonyms / Explanation                                                            | Context from the Passage                                                                                       |
-| :------------------------- | :-------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------- |
+| Vocabulary                 | Synonyms / Explanation                                                            | Context from the Passage                                                                                       | Done? |
+| :------------------------- | :-------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------- | :---: |
 | **archaeologists**         | a person who studies ancient human history by examining old things                | For centuries, historians and **archaeologists** have puzzled over the many mysteries of Stonehenge...         |
 | **puzzled over**           | think about, ponder, contemplate                                                  | ...historians and archaeologists have **puzzled over** the many mysteries of Stonehenge...                     |
 | **mysteries**              | puzzle, enigma, riddle                                                            | ...puzzled over the many **mysteries** of Stonehenge, a prehistoric monument...                                |

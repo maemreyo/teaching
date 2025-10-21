@@ -2,8 +2,8 @@
 
 ## The growth mindset
 
-| Vocabulary                  | Synonyms / Explanation                                                                              | Context from the Passage                                                                                            |
-| :-------------------------- | :-------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------ |
+| Vocabulary                  | Synonyms / Explanation                                                                              | Context from the Passage                                                                                            | Done? |
+| :-------------------------- | :-------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------ | :---: |
 | **taken root**              | establish, root, settle                                                                             | ...a powerful idea has **taken root** in the educational landscape.                                                 |
 | **landscape**               | setting, background, situation                                                                      | ...in the educational **landscape**.                                                                                |
 | **intelligence**            | intellect, smarts, mental capacity                                                                  | The concept of **intelligence** as something innate has been supplanted...                                          |

@@ -2,8 +2,8 @@
 
 ## I contain Multitudes
 
-| Vocabulary          | Synonyms / Explanation                                                                               | Context from the Passage                                                                     |
-| :------------------ | :--------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------- |
+| Vocabulary          | Synonyms / Explanation                                                                               | Context from the Passage                                                                     | Done? |
+| :------------------ | :--------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------- | :---: |
 | **bacteria**        | very small living things, some of which cause illness or disease                                     | Microbes, most of them **bacteria**, have populated this planet...                           |
 | **populated**       | if an area is populated by a particular group of people, they live there                             | ...have **populated** this planet since long before animal life developed...                 |
 | **outlive**         | to remain alive after someone else has died                                                          | ...and they will **outlive** us.                                                             |

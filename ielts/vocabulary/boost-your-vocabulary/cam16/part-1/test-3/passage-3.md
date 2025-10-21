@@ -2,8 +2,8 @@
 
 ## Plant 'Thermometer' triggers springtime growth
 
-| Vocabulary                   | Synonyms / Explanation                                                                                                               | Context from the Passage                                                                                                    |
-| :--------------------------- | :----------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------- |
+| Vocabulary                   | Synonyms / Explanation                                                                                                               | Context from the Passage                                                                                                    | Done? |
+| :--------------------------- | :----------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------- | :---: |
 | **international**            | global, worldwide, universal, transnational                                                                                          | An **international** team of scientists led by the University of Cambridge...                                               |
 | **discovered**               | find, uncover, realize                                                                                                               | ...has **discovered** that the 'thermometer' molecule in plants enables them to develop...                                  |
 | **'thermometer' molecule**   | a piece of equipment that measures temperature (thermometer); the simplest unit of a chemical substance (molecule)                   | ...the '**thermometer' molecule** in plants enables them to develop according to seasonal temperature changes.              |

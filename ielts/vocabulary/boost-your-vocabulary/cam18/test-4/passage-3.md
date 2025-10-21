@@ -2,8 +2,8 @@
 
 ## Alfred Wegener: Science, Exploration and the Theory of continental drift
 
-| Vocabulary                    | Synonyms / Explanation                                                                 | Context from the Passage                                                                                           |
-| :---------------------------- | :------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------- |
+| Vocabulary                    | Synonyms / Explanation                                                                 | Context from the Passage                                                                                           | Done? |
+| :---------------------------- | :------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------- | :---: |
 | **reputation**                | standing, image, fame                                                                  | ...Alfred Wegener, whose **reputation** today rests with his theory of continental displacements...                |
 | **rests with**                | depend on                                                                              | ...whose reputation today **rests with** his theory of continental displacements...                                |
 | **theory**                    | hypothesis, concept, idea                                                              | ...rests with his **theory** of continental displacements, better known as 'continental drift'.                    |

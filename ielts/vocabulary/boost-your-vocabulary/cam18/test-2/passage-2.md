@@ -2,8 +2,8 @@
 
 ## Living with Artificial Intelligence
 
-| Vocabulary                        | Synonyms / Explanation                                                             | Context from the Passage                                                                                      |
-| :-------------------------------- | :--------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------ |
+| Vocabulary                        | Synonyms / Explanation                                                             | Context from the Passage                                                                                      | Done? |
+| :-------------------------------- | :--------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------ | :---: |
 | **powerful**                      | strong, potent, mighty                                                             | **Powerful** artificial intelligence (AI) needs to be reliably aligned with human values...                   |
 | **artificial**                    | synthetic, man-made, created                                                       | Powerful **artificial** intelligence (AI) needs to be reliably aligned with human values...                   |
 | **reliably**                      | dependably, consistently, trustworthily                                            | ...needs to be **reliably** aligned with human values...                                                      |

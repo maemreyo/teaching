@@ -2,8 +2,8 @@
 
 ## Urban farming
 
-| Vocabulary                | Synonyms / Explanation                                                                      | Context from the Passage                                                                                         |
-| :------------------------ | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------- |
+| Vocabulary                | Synonyms / Explanation                                                                      | Context from the Passage                                                                                         | Done? |
+| :------------------------ | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------- | :---: |
 | **urban**                 | metropolitan, city-related, municipal                                                       | In Paris, **urban** farmers are trying a soil-free approach to agriculture...                                    |
 | **approach**              | method, technique, strategy                                                                 | ...a soil-free **approach** to agriculture that uses less space and fewer resources.                             |
 | **agriculture**           | farming, cultivation, horticulture                                                          | ...a soil-free approach to **agriculture** that uses less space and fewer resources.                             |

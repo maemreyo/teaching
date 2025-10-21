@@ -2,8 +2,8 @@
 
 ## Climate change reveals ancient artefacts in Norway's glaciers
 
-| Vocabulary              | Synonyms / Explanation                                                                       | Context from the Passage                                                                            |
-| :---------------------- | :------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------- |
+| Vocabulary              | Synonyms / Explanation                                                                       | Context from the Passage                                                                            | Done? |
+| :---------------------- | :------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------- | :---: |
 | **treeline**            | the line or altitude above which no trees grow                                               | Well above the **treeline** in Norway's highest mountains...                                        |
 | **ancient**             | antique, old-fashioned, obsolete, outdated, prehistoric                                      | ...**ancient** fields of ice are shrinking as Earth's climate warms.                                |
 | **shrinking**           | to become smaller, or to make something smaller                                              | ...ancient fields of ice are **shrinking** as Earth's climate warms.                                |

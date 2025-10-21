@@ -2,8 +2,8 @@
 
 ## Materials to take us beyond concrete
 
-| Vocabulary            | Synonyms / Explanation                                                         | Context from the Passage                                                                                    |
-| :-------------------- | :----------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------- |
+| Vocabulary            | Synonyms / Explanation                                                         | Context from the Passage                                                                                    | Done? |
+| :-------------------- | :----------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------- | :---: |
 | **concrete**          | a very hard building material made by mixing together                          | **Concrete** is everywhere, but it's bad for the planet, generating large amounts of carbon dioxide...      |
 | **alternatives**      | substitute, option, choice                                                     | ...generating large amounts of carbon dioxide — **alternatives** are being developed.                       |
 | **substance**         | material, matter, element                                                      | Concrete is the second most used **substance** in the global economy, after water...                        |

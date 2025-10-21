@@ -2,8 +2,8 @@
 
 ## How to make wise decisions
 
-| Vocabulary                  | Synonyms / Explanation                                                              | Context from the Passage                                                                                                 |
-| :-------------------------- | :---------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------- |
+| Vocabulary                  | Synonyms / Explanation                                                              | Context from the Passage                                                                                                 | Done? |
+| :-------------------------- | :---------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------- | :---: |
 | **wisdom**                  | understanding, knowledge, sense                                                     | Across cultures, **wisdom** has been considered one of the most revered human qualities.                                 |
 | **revered**                 | respected, admired, valued                                                          | ...one of the most **revered** human qualities.                                                                          |
 | **qualities**               | feature, characteristic, attribute, trait                                           | ...one of the most revered human **qualities**.                                                                          |

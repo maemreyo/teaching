@@ -2,8 +2,8 @@
 
 ## The future of work
 
-| Vocabulary                                       | Synonyms / Explanation                                                                            | Context from the Passage                                                                                                                   |
-| :----------------------------------------------- | :------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| Vocabulary                                       | Synonyms / Explanation                                                                            | Context from the Passage                                                                                                                   | Done? |
+| :----------------------------------------------- | :------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- | :---: |
 | **leading**                                      | best, most important, or most successful                                                          | According to a **leading** business consultancy...                                                                                         |
 | **consultancy**                                  | a company that gives advice on a particular subject                                               | ...a leading business **consultancy**...                                                                                                   |
 | **workforce**                                    | all the people who work in a particular industry or company                                       | ...3-14% of the global **workforce** will need to switch to a different occupation...                                                      |

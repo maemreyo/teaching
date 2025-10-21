@@ -2,8 +2,8 @@
 
 ## The Step Pyramid of Djoser
 
-| Vocabulary                    | Synonyms / Explanation                                                                    | Context from the Passage                                                                                 |
-| :---------------------------- | :---------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------- |
+| Vocabulary                    | Synonyms / Explanation                                                                    | Context from the Passage                                                                                 | Done? |
+| :---------------------------- | :---------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------- | :---: |
 | **pyramids**                  | a large stone building with four triangular walls that slope in to a point                | The **pyramids** are the most famous monuments of ancient Egypt...                                       |
 | **monuments**                 | a building, statue, or other large structure built to remind people of an event or person | The pyramids are the most famous **monuments** of ancient Egypt...                                       |
 | **ancient**                   | early, antique, olden                                                                     | ...the most famous monuments of **ancient** Egypt...                                                     |
