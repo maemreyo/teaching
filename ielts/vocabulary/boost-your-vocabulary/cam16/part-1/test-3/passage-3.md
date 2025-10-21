@@ -87,13 +87,15 @@
 | **biology**                  | the scientific study of living things                                                                                                | ...applied aspects of plant **biology**...                                                                                  |
 | **transfer**                 | move, transport, relocate, remove, shift                                                                                             | ...and can help us **transfer** this new knowledge into the field.'                                                         |
 
-### **Vocabulary Learning Plan: The Plant's Secret Thermometer (3 Videos)**
+---
 
-Đây là kế hoạch chi tiết đã được tối ưu hóa để học 58 từ vựng từ bài đọc, chia thành 3 phần cân đối và logic. Mỗi phần tương ứng với một video/buổi học, giúp bạn khám phá bí mật về cách thực vật cảm nhận thế giới.
+### **Vocabulary Learning Plan: The Plant's Secret Thermometer (4 Videos)**
+
+This is an optimized plan to learn the vocabulary from the reading passage, divided into four balanced and logical parts. Each part corresponds to a video, helping you explore the secret of how plants sense the world.
 
 ---
 
-#### **VIDEO 1: The Molecular Thermometer (19 words)**
+#### **VIDEO 1: The Molecular Thermometer (15 words)**
 
 **Video Script Prompt**
 
@@ -101,81 +103,112 @@
 "Help learners understand the groundbreaking discovery of a molecule in plants that acts like a thermometer, sensing seasonal changes."
 
 **Focus on a specific source:**
-"Focus on the first 19 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+"Focus on the first 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
 1.  **international**
-2.  **'thermometer' molecule**
-3.  **seasonal**
-4.  **revealed**
-5.  **cellular**
-6.  **gauges**
-7.  **dictate**
-8.  **pace**
-9.  **proportional**
-10. **mercury**
-11. **stimulating**
-12. **responsive**
-13. **bud**
-14. **predict**
-15. **pinpoints**
-16. **molecular**
-17. **triggering**
-18. **breed**
-19. **yields**
+2.  **discovered**
+3.  **thermometer**
+4.  **molecule**
+5.  **seasonal**
+6.  **temperature**
+7.  **researchers**
+8.  **revealed**
+9.  **detect**
+10. **function**
+11. **cellular**
+12. **gauges**
+13. **genetic**
+14. **switches**
+15. **dictate**
 
 **Describe the show structure:**
-"Start with the big news: 'An **international** team has discovered a '**thermometer' molecule** in plants that helps them respond to **seasonal** temperature changes. Researchers have **revealed** that a molecule changes its function in the dark to become **cellular** temperature **gauges** that **dictate** plant development.'"
+"Start with the big news: 'An **international** team has **discovered** a **thermometer** **molecule** in plants that helps them sense **seasonal** **temperature** changes. **Researchers** have **revealed** that molecules used to **detect** light change their **function** in darkness to become **cellular** temperature **gauges**.'"
 
-"Next, explain the details: 'At night, the **pace** of the molecule's change is directly **proportional** to temperature, like **mercury** in a thermometer. Warmer temperatures mean a faster change, **stimulating** growth. Plants are **responsive** to temperature. Warm winters make plants **bud** early, which helps **predict** the harvest. New research **pinpoints** the **molecular** mechanism that **triggering** spring growth. This discovery can help us **breed** tougher crops. Agricultural **yields** are threatened by climate change.'"
+"Next, explain the mechanism: 'These molecules control **genetic** **switches** in response to temperature as well as light to **dictate** plant development.'"
 
-"Then, create a review screen. Arrange the 19 words in two columns to show all the words/phrase clearly as much as possible, showing only the word and its synonyms. For example: `word —— synonyms`."
+"Then, create a review screen. Arrange the 15 words in two or three columns to show all the words/phrases clearly. For example: `word —— synonyms`."
 
 "End with a discussion question: 'How does the idea of a **cellular** **thermometer** change the way you think about plants?'"
 
 ---
 
-#### **VIDEO 2: Breeding for a Changing Climate (19 words)**
+#### **VIDEO 2: How Plants Sense Heat (16 words)**
 
 **Video Script Prompt**
 
 **Target a specific use case:**
-"Help learners understand the urgent, real-world application of this discovery for improving crop resilience in the face of climate change."
+"Help learners understand how the phytochrome molecule works at night and its importance for agriculture in a changing climate."
 
 **Focus on a specific source:**
-"Focus on the next 19 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+"Focus on the next 16 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
-1.  **thermal**
-2.  **sense**
-3.  **resilient**
-4.  **bind**
-5.  **restrict**
-6.  **shade**
-7.  **compete**
-8.  **sundown**
-9.  **growth-suppressing**
-10. **dark reversion**
-11. **detach**
-12. **evolved**
-13. **co-opted**
-14. **indicator**
-15. **daffodils**
-16. **considerable**
-17. **dual**
-18. **well-known**
-19. **rhyme**
+1.  **pace**
+2.  **proportional**
+3.  **mercury**
+4.  **stimulating**
+5.  **growth**
+6.  **responsive**
+7.  **bud**
+8.  **predict**
+9.  **pinpoints**
+10. **molecular**
+11. **mechanism**
+12. **reacts**
+13. **triggering**
+14. **unpredictable**
+15. **internal**
+16. **breed**
 
 **Describe the show structure:**
-"Start with the problem: 'Key crops are sensitive to high temperatures, and **thermal** stress reduces yields. Discovering how plants **sense** temperature has the potential to accelerate the breeding of crops that are **resilient** to heat. These molecules **bind** to DNA to **restrict** plant growth.'"
+"Start with the process: 'At night, the **pace** at which these molecules change is directly **proportional** to temperature, just like **mercury** in a thermometer. Warmer temperatures mean a faster change, **stimulating** plant **growth**.'"
 
-"Next, explain the solution: 'If a plant finds itself in **shade**, phytochromes are quickly inactivated, allowing plants to **compete** and grow to escape the shade. After **sundown**, the molecules gradually revert to their inactive state. In the cold, they stay in their **growth-suppressing** state longer. Warmth accelerates this '**dark reversion**', allowing them to **detach** from DNA so growth can resume. This ability likely **evolved** over time. This temperature-sensing ability **co-opted** an existing system. Some plants use day length as an **indicator** of the season. Other species, like **daffodils**, have **considerable** temperature sensitivity. The discovery of the **dual** role of phytochromes explains a **well-known** **rhyme**.'"
+"Next, explain the application: 'Plants are very **responsive**; warm winters cause them to **bud** early, which helps **predict** harvests. This research **pinpoints** the **molecular** **mechanism** that **reacts** to temperature, **triggering** spring growth. With **unpredictable** weather, this **internal** thermometer can help us **breed** tougher crops.'"
 
-"Then, create a review screen. Arrange the 19 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
+"Then, create a review screen. Arrange the 16 words in two or three columns to show all the words/phrases clearly. For example: `word —— synonyms`."
 
-"End with a discussion question: 'Why is it so important to accelerate the breeding of **resilient** crops in an **unpredictable** climate?'"
+"End with a discussion question: 'Why is it so important to **breed** more resilient crops in an **unpredictable** climate?'"
 
 ---
 
-#### **VIDEO 3: From Lab to Field (20 words)**
+#### **VIDEO 3: The Science of Dark Reversion (16 words)**
+
+**Video Script Prompt**
+
+**Target a specific use case:**
+"Help learners understand the detailed process of 'dark reversion' and how it allows plants to adapt their growth to winter and summer temperatures."
+
+**Focus on a specific source:**
+"Focus on the next 16 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+
+1.  **estimated**
+2.  **yields**
+3.  **sensitive**
+4.  **thermal**
+5.  **sense**
+6.  **potential**
+7.  **resilient**
+8.  **bind**
+9.  **restrict**
+10. **shade**
+11. **compete**
+12. **sundown**
+13. **gradually**
+14. **revert**
+15. **measure**
+16. **inactivity**
+
+**Describe the show structure:**
+"Start with the problem: 'It is **estimated** that crop **yields** must double by 2050. But key crops are **sensitive** to **thermal** stress. Discovering how plants **sense** temperature has the **potential** to help breed **resilient** crops.'"
+
+"Next, explain the science: 'In their active state, these molecules **bind** to DNA to **restrict** growth. In **shade**, they deactivate so plants can **compete** for light. After **sundown**, they **gradually** **revert** to their inactive state. The rate of this change is a direct **measure** of temperature. In winter, they revert slowly, staying in a state of **inactivity**.'"
+
+"Then, create a review screen. Arrange the 16 words in two or three columns to show all the words/phrases clearly. For example: `word —— synonyms`."
+
+"End with a discussion question: 'How does the ability to **restrict** growth in winter help a plant survive?'"
+
+---
+
+#### **VIDEO 4: From Lab to Field (16 words)**
 
 **Video Script Prompt**
 
@@ -183,29 +216,30 @@
 "Help learners understand the culmination of the research and the collaborative next steps in applying this knowledge to real-world agriculture."
 
 **Focus on a specific source:**
-"Focus on the final 20 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+"Focus on the final 16 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
-1.  **oak before ash**
-2.  **likeliness**
-3.  **findings**
-4.  **culmination**
-5.  **mustard**
-6.  **advances**
-7.  **identify**
-8.  **processes**
-9.  **precise**
-10.  **uniquely well-positioned**
-11.  **outstanding**
-12.  **collaborators**
-13.  **transfer**
+1.  **suppress**
+2.  **accelerate**
+3.  **detach**
+4.  **resume**
+5.  **evolved**
+6.  **co-opted**
+7.  **indicator**
+8.  **species**
+9.  **considerable**
+10. **determine**
+11. **findings**
+12. **culmination**
+13. **advances**
+14. **identify**
+15. **precise**
+16. **transfer**
 
 **Describe the show structure:**
-"Start with the rhyme: 'The **well-known** **rhyme**: "**oak before ash**". Oak trees rely on temperature to determine their timing, while ash trees rely on day length. A warmer spring increases the **likeliness** of oak leafing first.'"
+"Start with the growth switch: 'In winter, the molecules **suppress** growth. Warm temperatures **accelerate** their change, so they **detach** from DNA and growth can **resume**. This thermo-sensing ability **evolved** and was **co-opted** into the plant's existing light-sensing network.'"
 
-"Next, explain the research: 'These new **findings** are the **culmination** of 12 years of research, much of it using a **mustard** plant. Recent **advances** in genetics mean scientists can **rapidly** **identify** the genes controlling these **processes** and even **alter** them with **precise** tools.'"
+"Next, explain the research journey: 'Some plants use day length as an **indicator** of the season, while other **species** have **considerable** temperature sensitivity, which helps **determine** their timing. These new **findings** are the **culmination** of 12 years of work. Recent **advances** in genetics allow scientists to **identify** and alter genes with **precise** tools, helping to **transfer** this knowledge to the field.'"
 
-"Next, look to the future application: 'Cambridge is **uniquely well-positioned** for this work because of its **outstanding** **collaborators** **nearby**. These experts in plant **biology** can help **transfer** this new knowledge into the field. An international team of scientists has **discovered** that the 'thermometer' molecule in plants enables them to develop according to seasonal **temperature** changes. Researchers have revealed that molecules used by plants to detect light during the day actually change their function in darkness to become cellular temperature gauges.'"
+"Then, create a review screen. Arrange the 16 words in two or three columns to show all the words/phrases clearly. For example: `word —— synonyms`."
 
-"Then, create a review screen. Arrange the 20 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
-
-"End with a final thought: 'Why is it crucial for research scientists to have **collaborators** who can help **transfer** new knowledge into practical use?'"
+"End with a final thought: 'Why is it crucial for scientists to **transfer** new knowledge from the lab into practical use?'"

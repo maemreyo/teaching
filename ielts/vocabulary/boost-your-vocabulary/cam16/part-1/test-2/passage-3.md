@@ -20,7 +20,7 @@
 | **experiential**            | based on experience or related to experience                                        | 'It appears that **experiential**, situational, and cultural factors are even more powerful...                           |
 | **cultural**                | belonging or relating to a particular society and its way of life                   | ...experiential, situational, and **cultural** factors are even more powerful...                                         |
 | **powerful**                | influential, controlling, dominant, great                                           | ...are even more **powerful** in shaping wisdom than previously imagined...                                              |
-| **previously**              | before, beforehand, formerly, earlier                                               | ...than **previously** imagined,' says Associate Professor Igor Grossmann...                                              |
+| **previously**              | before, beforehand, formerly, earlier                                               | ...than **previously** imagined,' says Associate Professor Igor Grossmann...                                             |
 | **cognitive**               | reasoning, mental, intellectual                                                     | 'Recent empirical findings from **cognitive**, developmental, social, and personality psychology...                      |
 | **psychology**              | mind, thinking, mindset                                                             | ...from cognitive, developmental, social, and personality **psychology**...                                              |
 | **cumulatively**            | in a way that increases by one addition after another                               | ...**cumulatively** suggest that people's ability to reason wisely varies dramatically...                                |
@@ -43,7 +43,7 @@
 | **promote**                 | encourage, help, stimulate, support                                                 | Some situations are more likely to **promote** wisdom than others.'                                                      |
 | **challenging**             | demanding, difficult, tough                                                         | Coming up with a definition of wisdom is **challenging**...                                                              |
 | **colleagues**              | coworker, associate, partner, collaborator                                          | ...Grossmann and his **colleagues** have identified four key characteristics...                                          |
-| **framework**               | system, network, structure                                                          | ...as part of a **framework** of wise reasoning.                                                                          |
+| **framework**               | system, network, structure                                                          | ...as part of a **framework** of wise reasoning.                                                                         |
 | **intellectual humility**   | intelligent, knowledgeable (intellectual); modesty, shyness (humility)              | One is **intellectual humility** or recognition of the limits of our own knowledge...                                    |
 | **recognition**             | acknowledgement, acceptance, admission                                              | ...or **recognition** of the limits of our own knowledge...                                                              |
 | **appreciation**            | gratitude, gratefulness, obligation, thankfulness                                   | ...and another is **appreciation** of perspectives wider than the issue at hand.                                         |
@@ -93,7 +93,7 @@
 | **agreeableness**           | friendliness, kindness, sociability, pleasantness                                   | ...the personality traits of openness and **agreeableness**.                                                             |
 | **remarkable**              | notable, amazing, outstanding, extraordinary                                        | 'It is **remarkable** how much people can vary in their wisdom from one situation to the next...                         |
 | **judgment**                | an opinion that you form, especially after thinking carefully                       | ...the relationship between wise **judgment** and its social and affective outcomes...                                   |
-| **generalized**             | global, universal, widespread, sweeping, comprehensive                              | ...as compared to the **generalized** "traits,' Grossmann explains.                                                     |
+| **generalized**             | global, universal, widespread, sweeping, comprehensive                              | ...as compared to the **generalized** "traits,' Grossmann explains.                                                      |
 | **outcomes**                | result, consequence, effect, conclusion                                             | ...its social and affective **outcomes** as compared to the generalized "traits"...                                      |
 | **behaves**                 | act, perform, work, deport yourself                                                 | ...knowing how wisely a person **behaves** in a given situation is more informative...                                   |
 | **informative**             | educational, revealing, enlightening, useful, instructive                           | ...is more **informative** for understanding their emotions...                                                           |
@@ -101,9 +101,11 @@
 | **forgive**                 | pardon, excuse, absolve, exonerate, let off                                         | ...likelihood to **forgive** [or] retaliate as compared to knowing whether the person may be wise...                     |
 | **retaliate**               | react, hit back, strike back, get even, get revenge                                 | ...likelihood to forgive [or] **retaliate** as compared to knowing whether the person may be wise...                     |
 
+---
+
 ### **Vocabulary Learning Plan: The Science of Wisdom (5 Videos)**
 
-Đây là kế hoạch chi tiết để học 73 từ vựng từ bài đọc, được chia thành 5 phần cân đối và logic. Mỗi phần tương ứng với một video/buổi học, giúp bạn khám phá khoa học đằng sau một trong những phẩm chất đáng kính nhất của con người.
+This is a detailed plan to learn the vocabulary from the reading passage, divided into five balanced and logical parts. Each part corresponds to a video, helping you explore the science behind one of humanity's most respected qualities.
 
 ---
 
@@ -134,22 +136,22 @@
 15. **dramatically**
 
 **Describe the show structure:**
-"Start with the traditional view: '**Wisdom** has always been a **revered** human **quality**. The truly wise seem **few and far between**. But **empirical** research suggests it is not an **exceptional** trait **possessed** by a small **handful of** bearded **philosophers**.'"
+"Start with the traditional view: 'For centuries, **wisdom** has been a **revered** human **quality**. The truly wise may seem **few and far between**. But **empirical** research shows it isn't an **exceptional** trait **possessed** by a **handful of** **philosophers**.'"
 
-"Next, introduce the modern view: '**Experiential** and **cultural** factors are important. Recent findings from **cognitive** **psychology** **cumulatively** suggest our ability to reason wisely varies **dramatically**.'"
+"Next, introduce the modern view: 'Instead, **experiential** and **cultural** factors are key. Findings from **cognitive** **psychology** **cumulatively** show our ability to be wise can change **dramatically**.'"
 
-"Then, create a review screen. Arrange the 15 words in two or three columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
+"Then, create a review screen. Arrange the 15 words in two or three columns to show all the words/phrases clearly. For example: `word —— synonyms`."
 
 "End with a discussion question: 'What **experiential** or **cultural** factors do you think are important for wisdom?'"
 
 ---
 
-#### **VIDEO 2: Wisdom in Context (15 words)**
+#### **VIDEO 2: The Framework of Wise Reasoning (15 words)**
 
 **Video Script Prompt**
 
 **Target a specific use case:**
-"Help learners understand that wisdom is not a fixed inner quality but something that changes dramatically with the situation."
+"Help learners understand that wisdom is not a fixed inner quality but something that depends on the situation and specific reasoning skills."
 
 **Focus on a specific source:**
 "Focus on the next 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
@@ -166,22 +168,22 @@
 10. **at hand**
 11. **social relations**
 12. **compromise**
-13. **third-party perspective**
-14. **focal**
-15. **'observer' viewpoint**
+13. **integration**
+14. **reliable**
+15. **scenarios**
 
 **Describe the show structure:**
-"Start with the science: 'Understanding **contextual** factors offers **insights** into wisdom. It's not that some people **possess** wisdom; it's not an "**inner** quality" but rather **unfolds** as a function of situations. Key characteristics include **intellectual humility** or **recognition** of our limits, and **appreciation** of **perspectives** wider than the issue **at hand**.'"
+"Start with the core idea: 'Understanding **contextual** factors offers new **insights**. It's not an **inner** quality that people **possess**; it **unfolds** based on the situation. Wise reasoning includes **intellectual humility**—the **recognition** of our limits—and an **appreciation** of different **perspectives** on the issue **at hand**.'"
 
-"Next, explain the new understanding: 'Sensitivity to **social relations** and **compromise** are also key. One way to support wisdom is to look at scenarios from a **third-party perspective**. When we adopt an "**observer' viewpoint**", we reason more broadly, focusing on the **focal** features.'"
+"Next, define the key skills: 'It also involves sensitivity in **social relations** and a willingness to **compromise** or seek **integration** of different beliefs. One of the most **reliable** ways to encourage wisdom is to look at **scenarios** from a distance.'"
 
-"Then, create a review screen. Arrange the 15 words in two or three columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
+"Then, create a review screen. Arrange the 15 words in two or three columns to show all the words/phrases clearly. For example: `word —— synonyms`."
 
-"End with a reflective question: 'How does adopting an "**observer' viewpoint**" help you gain **insights** into a **contextual** problem?'"
+"End with a reflective question: 'How can **intellectual humility** help you better handle a problem **at hand**?'"
 
 ---
 
-#### **VIDEO 3: The Power of the Observer (15 words)**
+#### **VIDEO 3: The Power of the Observer (16 words)**
 
 **Video Script Prompt**
 
@@ -189,36 +191,37 @@
 "Help learners understand how the 'observer' viewpoint fosters wisdom and how this applies to real-life personal challenges."
 
 **Focus on a specific source:**
-"Focus on the next 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+"Focus on the next 16 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
-1.  **interpersonal**
-2.  **moral**
-3.  **justice**
-4.  **impartiality**
-5.  **expansive**
-6.  **foster**
-7.  **confronted**
-8.  **negotiating**
-9.  **take a personal stake**
-10. **evaluate**
-11. **recession**
-12. **reflect on**
-13. **visualize**
-14. **unresolved**
-15. **incident**
+1.  **third-party perspective**
+2.  **focal**
+3.  **'observer' viewpoint**
+4.  **interpersonal**
+5.  **moral**
+6.  **justice**
+7.  **impartiality**
+8.  **expansive**
+9.  **foster**
+10. **confronted**
+11. **negotiating**
+12. **take a personal stake**
+13. **evaluate**
+14. **peak**
+15. **recession**
+16. **reflect on**
 
 **Describe the show structure:**
-"Start with how it works: 'An observer viewpoint helps us focus on **interpersonal** and **moral** ideals like **justice** and **impartiality**. This **expansive** view can **foster** wisdom when we are **confronted** with difficult situations, such as **negotiating** a contract where you **take a personal stake**. You can still **evaluate** these experiences.'"
+"Start with the technique: 'Adopting a **third-party perspective** helps us see beyond the **focal** features. This **'observer' viewpoint** lets us focus on **interpersonal** and **moral** ideals like **justice** and **impartiality**. This **expansive** view appears to **foster** wisdom.'"
 
-"Next, apply it to life: 'During a **recession**, students were asked to **reflect on** job prospects. Couples were asked to **visualize** an **unresolved** **incident** with their partner.'"
+"Next, apply it to life: 'So, what happens when you're **confronted** with a problem where you must **take a personal stake**, like **negotiating** a contract? You can still **evaluate** the experience from a distance. In one study during the **peak** of a **recession**, students were asked to **reflect on** their job prospects.'"
 
-"Then, create a review screen. Arrange the 15 words in two or three columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
+"Then, create a review screen. Arrange the 16 words in two or three columns to show all the words/phrases clearly. For example: `word —— synonyms`."
 
-"End with a creative question: 'How does an **expansive** viewpoint help you **evaluate** an **unresolved** **incident** more wisely?'"
+"End with a creative question: 'How does an **expansive** viewpoint help you **evaluate** a personal problem with more **impartiality**?'"
 
 ---
 
-#### **VIDEO 4: Wisdom Under Pressure (14 words)**
+#### **VIDEO 4: Evidence from Experiments (15 words)**
 
 **Video Script Prompt**
 
@@ -226,31 +229,32 @@
 "Help learners see how the 'distant observer' technique has been tested and proven effective in real-world experiments."
 
 **Focus on a specific source:**
-"Focus on the next 14 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+"Focus on the next 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
 1.  **instructed**
 2.  **distant observer**
 3.  **assigned**
-4.  **egocentric**
-5.  **conceptual**
-6.  **affording**
-7.  **associate**
-8.  **crystallized**
-9.  **traits**
-10. **openness**
-11. **agreeableness**
-12. **remarkable**
-13. **retaliate**
-14. **social relations**
+4.  **displayed**
+5.  **participants**
+6.  **visualize**
+7.  **unresolved**
+8.  **conflict**
+9.  **incident**
+10. **condition**
+11. **significantly**
+12. **egocentric**
+13. **conceptual**
+14. **affording**
+15. **associate**
 
 **Describe the show structure:**
-"Start with the experiments: 'Students **instructed** to imagine their career as if they were a **distant observer** showed more wisdom. Couples in the 'other's eyes' group were less **egocentric**, promoting a bigger, more **conceptual** view, **affording** greater humility.'"
+"Start with the experiments: 'Students were **instructed** to imagine their career as a **distant observer**. The group **assigned** this role **displayed** more wisdom than other **participants**. In another study, couples had to **visualize** an **unresolved** **conflict**.'"
 
-"Next, explain the concept: 'We often **associate** wisdom with **crystallized** intelligence or personality **traits** like **openness** and **agreeableness**. But it's **remarkable** how much wisdom varies. Knowing how someone behaves is more informative for understanding their likelihood to **retaliate** or their **social relations**.'"
+"Next, explain the results: 'After discussing the **incident**, couples in the 'other's eyes' **condition** were **significantly** less **egocentric**. This promotes a **conceptual** view, **affording** greater humility. This is important, as we often **associate** wisdom with fixed traits.'"
 
-"Then, create a review screen. Arrange the 14 words in two or three columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
+"Then, create a review screen. Arrange the 15 words in two or three columns to show all the words/phrases clearly. For example: `word —— synonyms`."
 
-"End with a discussion question: 'How does visualizing a conflict from an outside view help you move from an **egocentric** to a **conceptual** perspective?'"
+"End with a discussion question: 'How does moving from an **egocentric** to a **conceptual** perspective change how you see a **conflict**?'"
 
 ---
 
@@ -264,26 +268,26 @@
 **Focus on a specific source:**
 "Focus on the final 14 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
-1.  **compromise**
-2.  **behaves**
-3.  **informative**
-4.  **likelihood**
-5.  **justice**
-6.  **impartiality**
-7.  **expansive**
-8.  **foster**
-9.  **confronted**
-10. **negotiating**
-11. **take a personal stake**
-12. **evaluate**
-13. **recession**
-14. **reflect on**
+1.  **crystallized**
+2.  **traits**
+3.  **openness**
+4.  **agreeableness**
+5.  **remarkable**
+6.  **judgment**
+7.  **generalized**
+8.  **outcomes**
+9.  **behaves**
+10. **informative**
+11. **likelihood**
+12. **forgive**
+13. **retaliate**
+14. **powerful**
 
 **Describe the show structure:**
-"Start with the surprising finding: 'Knowing how a person **behaves** in a given situation is more **informative** for understanding their **likelihood** to **compromise** or their sense of **justice** and **impartiality**. This **expansive** view can **foster** wisdom when **confronted** with situations like **negotiating** a contract where you **take a personal stake**.'"
+"Start with the surprising finding: 'We might link wisdom to **crystallized** intelligence or personality **traits** like **openness** and **agreeableness**. But the connection is weak. It is **remarkable** how much wise **judgment** can change.'"
 
-"Next, state the key conclusion: 'You can still **evaluate** these experiences. For example, during a **recession**, students were asked to **reflect on** their job prospects.'"
+"Next, state the key conclusion: 'Wise judgment is not a **generalized** trait; its social **outcomes** depend on the situation. Knowing how a person **behaves** is more **informative** for understanding their **likelihood** to **forgive** or **retaliate**. Contextual factors are more **powerful** than we thought.'"
 
-"Then, create a review screen. Arrange the 14 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
+"Then, create a review screen. Arrange the 14 words in two columns to show all the words/phrases clearly. For example: `word —— synonyms`."
 
-"End with a final thought: 'Why is knowing how someone **behaves** in one instance more **informative** than knowing their general personality?'"
+"End with a final thought: 'Why is knowing how someone **behaves** in one instance more **informative** than knowing their general personality **traits**?'"
