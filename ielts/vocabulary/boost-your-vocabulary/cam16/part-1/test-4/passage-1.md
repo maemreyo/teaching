@@ -89,86 +89,57 @@
 | **visible**              | noticeable, observable, perceptible, evident                                                                    | ...on the entrance, still **visible** today...                                                       |
 | **indicate**             | specify, show, signpost, direct, point to                                                                       | ...that also **indicate** that the tunnel was started in 69 CE and was completed in 81 CE.           |
 
-### **Vocabulary Learning Plan: The Tunnels of Rome (6 Videos)**
+### **Vocabulary Learning Plan: The Tunnels of Rome (3 Videos)**
 
-Đây là kế hoạch chi tiết đã được tối ưu hóa để học toàn bộ 92 từ vựng từ bài đọc, chia thành 6 phần cân đối và logic. Mỗi phần tương ứng với một video/buổi học, kể một chương của câu chuyện về kỹ thuật xây dựng đáng kinh ngạc của người La Mã.
+Đây là kế hoạch chi tiết đã được tối ưu hóa để học 59 từ vựng từ bài đọc, chia thành 3 phần cân đối và logic. Mỗi phần tương ứng với một video/buổi học, kể một chương của câu chuyện về kỹ thuật xây dựng đáng kinh ngạc của người La Mã.
 
 ---
 
-#### **VIDEO 1: The Persian Qanat (15 words)**
+#### **VIDEO 1: The Persian Qanat and Roman Adaptation (20 words)**
 
 **Video Script Prompt**
 
 **Target a specific use case:**
-"Help learners understand the ancient Persian method of tunnel construction for supplying water."
+"Help learners understand the ancient Persian method of tunnel construction for supplying water and how the Romans adapted this technology."
 
 **Focus on a specific source:**
-"Focus on the first 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+"Focus on the first 20 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
 1.  **Persians**
 2.  **civilizations**
-3.  **tunnels**
-4.  **reliable**
-5.  **settlements**
-6.  **millennium**
-7.  **BCE**
-8.  **qanat**
-9.  **method**
-10. **construction**
-11. **consisted of**
-12. **posts**
-13. **route**
-14. **vertical shafts**
-15. **at regular intervals**
+3.  **settlements**
+4.  **millennium**
+5.  **BCE**
+6.  **qanat**
+7.  **posts**
+8.  **vertical shafts**
+9.  **at regular intervals**
+10. **ventilation**
+11. **flow**
+12. **canal**
+13. **supplied**
+14. **Remarkably**
+15. **passed on**
+16. **agriculture**
+17. **handholds**
+18. **footholds**
+19. **lid**
+20. **plumb line**
 
 **Describe the show structure:**
-"Start with the inventors: 'The **Persians** were one of the first **civilizations** to build **tunnels** for a **reliable** water supply to their **settlements**. In the first **millennium** **BCE**, they invented the **qanat** **method** of **construction**.'"
+"Start with the inventors: 'The **Persians** were one of the first **civilizations** to build tunnels for a reliable water supply to their **settlements**. In the first **millennium** **BCE**, they invented the **qanat** method of tunnel construction.'"
 
-"Next, explain the method: 'This method **consisted of** placing **posts** to keep a straight **route**, then digging **vertical shafts** into the ground **at regular intervals**.'"
+"Next, explain the method: 'This method consisted of placing **posts** to keep a straight route, then digging **vertical shafts** down into the ground **at regular intervals**. These shafts also provided **ventilation**. Once completed, it allowed water to **flow** to a **canal**, which **supplied** human settlements. **Remarkably**, some are still in use.'"
 
-"Then, create a review screen. Arrange the 15 words in two columns to show all the words/phrase clearly as much as possible, showing only the word and its synonyms. For example: `word —— synonyms`."
+"Next, describe the Roman adaptation: 'The Persians **passed on** this knowledge to the Romans, who used it for **agriculture**. Their shafts were equipped with **handholds** and **footholds** and covered with a stone **lid**. To ensure verticality, Romans hung a **plumb line**.'"
 
-"End with a discussion question: 'Why was digging **vertical shafts** **at regular intervals** a key part of the **qanat** **method**?'"
+"Then, create a review screen. Arrange the 20 words in two columns to show all the words/phrase clearly as much as possible, showing only the word and its synonyms. For example: `word —— synonyms`."
+
+"End with a discussion question: 'Why was digging **vertical shafts** **at regular intervals** a key part of the **qanat** method?'"
 
 ---
 
-#### **VIDEO 2: From Persia to Rome (14 words)**
-
-**Video Script Prompt**
-
-**Target a specific use case:**
-"Help learners understand how the qanat method was completed and how the Romans adapted this technology."
-
-**Focus on a specific source:**
-"Focus on the next 14 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
-
-1.  **underground**
-2.  **excavated**
-3.  **surface**
-4.  **ventilation**
-5.  **flow**
-6.  **canal**
-7.  **supplied**
-8.  **Remarkably**
-9.  **passed on**
-10. **agriculture**
-11. **equipped**
-12. **handholds**
-13. **footholds**
-14. **lid**
-
-**Describe the show structure:**
-"Start with finishing the qanat: '**Underground**, workers **excavated** earth, which was brought to the **surface** through shafts that also provided **ventilation**. This allowed water to **flow** to a **canal**, which **supplied** human settlements. **Remarkably**, some are still in use.'"
-
-"Next, describe the Roman adaptation: 'The Persians **passed on** this knowledge to the Romans, who used it for **agriculture**. Their shafts were **equipped** with **handholds** and **footholds** and covered with a stone **lid**.'"
-
-"Then, create a review screen. Arrange the 14 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
-
-"End with a discussion question: 'Besides water, what other purpose did the shafts serve during **construction**?'"
-
----
-
-#### **VIDEO 3: A More Advanced Method (15 words)**
+#### **VIDEO 2: Advanced Roman Tunneling (20 words)**
 
 **Video Script Prompt**
 
@@ -176,137 +147,77 @@
 "Help learners understand the second, more advanced method of Roman tunnel building and the challenges it involved."
 
 **Focus on a specific source:**
-"Focus on the next 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+"Focus on the next 20 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
-1.  **ensure**
-2.  **plumb line**
-3.  **rod**
-4.  **determine**
-5.  **slope**
-6.  **measure**
-7.  **drain**
-8.  **appeared**
-9.  **ends**
-10. **alternative**
-11. **advanced**
-12. **geometry**
-13. **adjustments**
-14. **direction**
-15. **encountered**
+1.  **rod**
+2.  **slope**
+3.  **drain**
+4.  **appeared**
+5.  **ends**
+6.  **advanced**
+7.  **geometry**
+8.  **adjustments**
+9.  **encountered**
+10. **deviated**
+11. **penetrated**
+12. **inscription**
+13. **aqueduct**
+14. **lateral**
+15. **corridors**
+16. **obstacles**
+17. **mineral extraction**
+18. **locate**
+19. **vein**
+20. **mine**
 
 **Describe the show structure:**
-"Start with Roman precision: 'To **ensure** shafts were vertical, Romans used a **plumb line** hanging from a **rod** to **determine** the **slope** and **measure** depth. One famous tunnel was built to **drain** a lake.'"
+"Start with Roman precision: 'Romans used a **plumb line** hanging from a **rod** to determine the **slope** and measure depth. One famous tunnel was built to **drain** a lake.'"
 
-"Next, introduce the new method: 'A second method **appeared**, where the tunnel was built from both **ends**. This was an **alternative** for high mountains and required **advanced** knowledge of **geometry**. **Adjustments** to the **direction** had to be made if they **encountered** problems.'"
+"Next, introduce the new method: 'A second method **appeared**, where the tunnel was built from both **ends**. This required **advanced** knowledge of **geometry**. **Adjustments** had to be made if they **encountered** problems or if the path **deviated**. Builders checked their direction by looking at the light that **penetrated** the tunnel mouth. An **inscription** on an **aqueduct** tells of an initial error where two **corridors** missed each other and needed a **lateral** link.'"
 
-"Then, create a review screen. Arrange the 15 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
+"Next, describe other tunnel types: 'Tunnels were also built to get past **obstacles** and for **mineral extraction**. Miners would **locate** a mineral **vein** and **mine** it.'"
+
+"Then, create a review screen. Arrange the 20 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
 
 "End with a discussion question: 'Why did the counter-excavation method require more **advanced** knowledge of **geometry**?'"
 
 ---
 
-#### **VIDEO 4: Risks and Other Uses (15 words)**
+#### **VIDEO 3: The Challenge of Hard Rock and Historical Records (19 words)**
 
 **Video Script Prompt**
 
 **Target a specific use case:**
-"Help learners understand the risks of the advanced method and the other purposes for which Romans built tunnels."
+"Help learners understand the factors affecting construction time, especially the ingenious 'fire quenching' technique, and how we know so much about these tunnels."
 
 **Focus on a specific source:**
-"Focus on the next 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+"Focus on the final 19 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
-1.  **deviated**
-2.  **constantly**
-3.  **penetrated**
-4.  **usable**
-5.  **inscription**
-6.  **aqueduct**
-7.  **lateral**
-8.  **corridors**
-9.  **initial error**
-10. **obstacles**
-11. **mineral extraction**
-12. **locate**
-13. **vein**
-14. **mine**
-15. **sole**
-
-**Describe the show structure:**
-"Start with the guidance system: 'Builders **constantly** checked their direction by looking at the light that **penetrated** the tunnel mouth. If the path **deviated**, one end might not be **usable**. An **inscription** on an **aqueduct** tells of an **initial error** where two **corridors** missed each other and needed a **lateral** link.'"
-
-"Next, describe other tunnel types: 'Tunnels were also built to get past **obstacles** and for **mineral extraction**. Miners would **locate** a mineral **vein** and **mine** it. When this was the **sole** purpose, less planning was needed.'"
-
-"Then, create a review screen. Arrange the 15 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
-
-"End with a reflective question: 'What does the **inscription** about the **initial error** tell us about Roman engineering?'"
-
----
-
-#### **VIDEO 5: The Challenge of Hard Rock (15 words)**
-
-**Video Script Prompt**
-
-**Target a specific use case:**
-"Help learners understand the factors affecting construction time, especially the ingenious 'fire quenching' technique."
-
-**Focus on a specific source:**
-"Focus on the next 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
-
-1.  **carefully**
+1.  **sole**
 2.  **carried out**
-3.  **construct**
-4.  **depended on**
-5.  **straightforward**
-6.  **influence**
-7.  **employed**
-8.  **technique**
-9.  **fire quenching**
-10. **crack**
-11. **suddenly**
-12. **progress**
-13. **uncommon**
-14. **rate of advance**
-15. **solid**
+3.  **employed**
+4.  **fire quenching**
+5.  **crack**
+6.  **rate of advance**
+7.  **Claudius**
+8.  **patrons**
+9.  **ordered**
+10. **divert**
+11. **threatening**
+12. **inscription**
+13. **aqueduct**
+14. **lateral**
+15. **corridors**
+16. **initial error**
+17. **obstacles**
+18. **mineral extraction**
+19. **locate**
 
 **Describe the show structure:**
-"Start with construction planning: 'Roman tunnel projects were **carefully** planned and **carried out**. The time to **construct** a tunnel **depended on** the method; the qanat method was more **straightforward**.'"
+"Start with construction planning: 'When **mineral extraction** was the **sole** purpose, less planning was needed. Roman tunnel projects were carefully planned and **carried out**. For hard rock, Romans **employed** a technique called **fire quenching**: heating the rock, then cooling it with cold water to make it **crack**. **Progress** was slow; the **rate of advance** through solid rock could be very slow.'"
 
-"Next, explain the rock problem: 'The type of rock could also **influence** construction time. For hard rock, Romans **employed** a **technique** called **fire quenching**: heating the rock, then **suddenly** cooling it with water to make it **crack**. **Progress** was slow; it was not **uncommon** for tunnels to take decades. The **rate of advance** through **solid** rock could be very slow.'"
+"Next, explain the historical records: 'The rate of advance of the **Claudius** tunnel can be calculated at 1.4 meters per day. Most tunnels had an **inscription** naming the **patrons** who **ordered** the construction. An **aqueduct** tunnel in Turkey, built to **divert** floodwater **threatening** a harbor, has an **inscription** on its entrance. This **inscription** also indicates that the tunnel was started in 69 CE and was completed in 81 CE.'"
 
-"Then, create a review screen. Arrange the 15 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
-
-"End with a discussion question: 'Why was the **fire quenching** **technique** both clever and very slow?'"
-
----
-
-#### **VIDEO 6: The Historical Record (12 words)**
-
-**Video Script Prompt**
-
-**Target a specific use case:**
-"Help learners understand how we know so much about these tunnels, through the inscriptions left by their creators."
-
-**Focus on a specific source:**
-"Focus on the final 12 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
-
-1.  **Claudius**
-2.  **calculated**
-3.  **patrons**
-4.  **ordered**
-5.  **architect**
-6.  **divert**
-7.  **threatening**
-8.  **entrance**
-9.  **visible**
-10. **indicate**
-11. **inscription**
-12. **aqueduct**
-
-**Describe the show structure:**
-"Start with a speed comparison: 'The rate of advance of the **Claudius** tunnel can be **calculated** at 1.4 meters per day, much faster than through solid rock.'"
-
-"Next, explain the historical records: 'Most tunnels had an **inscription** naming the **patrons** who **ordered** the construction and sometimes the **architect**. An **aqueduct** tunnel in Turkey, built to **divert** floodwater **threatening** a harbor, has an inscription on its **entrance**. Still **visible** today, it **indicates** that the tunnel took 12 years to complete.'"
-
-"Then, create a review screen. Arrange the 12 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
+"Then, create a review screen. Arrange the 19 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
 
 "End with a final thought: 'Why was it important for the **patrons** who **ordered** these tunnels to leave their names on them?'"

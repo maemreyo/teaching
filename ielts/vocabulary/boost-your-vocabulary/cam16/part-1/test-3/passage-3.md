@@ -87,13 +87,13 @@
 | **biology**                  | the scientific study of living things                                                                                                | ...applied aspects of plant **biology**...                                                                                  |
 | **transfer**                 | move, transport, relocate, remove, shift                                                                                             | ...and can help us **transfer** this new knowledge into the field.'                                                         |
 
-### **Vocabulary Learning Plan: The Plant's Secret Thermometer (6 Videos)**
+### **Vocabulary Learning Plan: The Plant's Secret Thermometer (3 Videos)**
 
-Đây là kế hoạch chi tiết đã được tối ưu hóa để học toàn bộ 92 từ vựng từ bài đọc, chia thành 6 phần cân đối và logic. Mỗi phần tương ứng với một video/buổi học, giúp bạn khám phá bí mật về cách thực vật cảm nhận thế giới.
+Đây là kế hoạch chi tiết đã được tối ưu hóa để học 58 từ vựng từ bài đọc, chia thành 3 phần cân đối và logic. Mỗi phần tương ứng với một video/buổi học, giúp bạn khám phá bí mật về cách thực vật cảm nhận thế giới.
 
 ---
 
-#### **VIDEO 1: The Molecular Thermometer (14 words)**
+#### **VIDEO 1: The Molecular Thermometer (19 words)**
 
 **Video Script Prompt**
 
@@ -101,69 +101,40 @@
 "Help learners understand the groundbreaking discovery of a molecule in plants that acts like a thermometer, sensing seasonal changes."
 
 **Focus on a specific source:**
-"Focus on the first 14 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+"Focus on the first 19 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
 1.  **international**
-<!-- 2.  **discovered** -->
-3.  **'thermometer' molecule**
-4.  **seasonal**
-<!-- 5.  **temperature** -->
-<!-- 6.  **researchers** -->
-7.  **revealed**
-<!-- 8.  **detect** -->
-<!-- 9.  **function** -->
-10. **cellular**
-11. **gauges**
-<!-- 12. **genetic** -->
-<!-- 13. **switches** -->
-14. **dictate**
+2.  **'thermometer' molecule**
+3.  **seasonal**
+4.  **revealed**
+5.  **cellular**
+6.  **gauges**
+7.  **dictate**
+8.  **pace**
+9.  **proportional**
+10. **mercury**
+11. **stimulating**
+12. **responsive**
+13. **bud**
+14. **predict**
+15. **pinpoints**
+16. **molecular**
+17. **triggering**
+18. **breed**
+19. **yields**
 
 **Describe the show structure:**
-"Start with the big news: 'An **international** team has **discovered** a '**thermometer' molecule** in plants that helps them respond to **seasonal** **temperature** changes.'"
+"Start with the big news: 'An **international** team has discovered a '**thermometer' molecule** in plants that helps them respond to **seasonal** temperature changes. Researchers have **revealed** that a molecule changes its function in the dark to become **cellular** temperature **gauges** that **dictate** plant development.'"
 
-"Next, explain the details: '**Researchers** have **revealed** that a molecule used to **detect** light changes its **function** in the dark. It becomes one of many **cellular** temperature **gauges**. These control **genetic** **switches** that **dictate** plant development.'"
+"Next, explain the details: 'At night, the **pace** of the molecule's change is directly **proportional** to temperature, like **mercury** in a thermometer. Warmer temperatures mean a faster change, **stimulating** growth. Plants are **responsive** to temperature. Warm winters make plants **bud** early, which helps **predict** the harvest. New research **pinpoints** the **molecular** mechanism that **triggering** spring growth. This discovery can help us **breed** tougher crops. Agricultural **yields** are threatened by climate change.'"
 
-"Then, create a review screen. Arrange the 14 words in two columns to show all the words/phrase clearly as much as possible, showing only the word and its synonyms. For example: `word —— synonyms`."
+"Then, create a review screen. Arrange the 19 words in two columns to show all the words/phrase clearly as much as possible, showing only the word and its synonyms. For example: `word —— synonyms`."
 
 "End with a discussion question: 'How does the idea of a **cellular** **thermometer** change the way you think about plants?'"
 
 ---
 
-#### **VIDEO 2: The Rhythm of the Night (12 words)**
-
-**Video Script Prompt**
-
-**Target a specific use case:**
-"Help learners understand how this molecular thermometer works, comparing it to mercury and explaining its role in stimulating growth."
-
-**Focus on a specific source:**
-"Focus on the next 12 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
-
-1.  **pace**
-2.  **proportional**
-3.  **mercury**
-4.  **stimulating**
-5.  **responsive**
-6.  **bud**
-7.  **predict**
-8.  **pinpoints**
-9.  **molecular**
-<!-- 10. **mechanism** -->
-<!-- 11. **reacts** -->
-12. **triggering**
-
-**Describe the show structure:**
-"Start with the night-time process: 'At night, the **pace** of the molecule's change is directly **proportional** to the temperature, like **mercury** in a thermometer. Warmer temperatures mean a faster change, **stimulating** growth.'"
-
-"Next, connect it to traditional knowledge and new science: 'We've long known plants are **responsive** to temperature—warm winters make them **bud** early, which helps **predict** the harvest. New research **pinpoints** the **molecular** **mechanism** that **reacts** to heat, **triggering** spring growth.'"
-
-"Then, create a review screen. Arrange the 12 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
-
-"End with a reflective question: 'How does this **molecular** **mechanism** explain the old wisdom that a warm winter leads to an early spring?'"
-
----
-
-#### **VIDEO 3: Breeding for a Changing Climate (12 words)**
+#### **VIDEO 2: Breeding for a Changing Climate (19 words)**
 
 **Video Script Prompt**
 
@@ -171,106 +142,40 @@
 "Help learners understand the urgent, real-world application of this discovery for improving crop resilience in the face of climate change."
 
 **Focus on a specific source:**
-"Focus on the next 12 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+"Focus on the next 19 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
-<!-- 1.  **unpredictable** -->
-<!-- 2.  **internal** -->
-3.  **breed**
-<!-- 4.  **estimated** -->
-5.  **yields**
-<!-- 6.  **achieving** -->
-<!-- 7.  **sensitive** -->
-8.  **thermal**
-9.  **sense**
-<!-- 10. **potential** -->
-<!-- 11. **accelerate** -->
-12. **resilient**
+1.  **thermal**
+2.  **sense**
+3.  **resilient**
+4.  **bind**
+5.  **restrict**
+6.  **shade**
+7.  **compete**
+8.  **sundown**
+9.  **growth-suppressing**
+10. **dark reversion**
+11. **detach**
+12. **evolved**
+13. **co-opted**
+14. **indicator**
+15. **daffodils**
+16. **considerable**
+17. **dual**
+18. **well-known**
+19. **rhyme**
 
 **Describe the show structure:**
-"Start with the problem: 'With weather becoming more **unpredictable**, understanding this **internal** thermometer can help us **breed** tougher crops. It's **estimated** that agricultural **yields** must double by 2050, but **achieving** this is threatened by climate change.'"
+"Start with the problem: 'Key crops are sensitive to high temperatures, and **thermal** stress reduces yields. Discovering how plants **sense** temperature has the potential to accelerate the breeding of crops that are **resilient** to heat. These molecules **bind** to DNA to **restrict** plant growth.'"
 
-"Next, explain the solution: 'Key crops are **sensitive** to high temperatures, and **thermal** stress reduces yields. Discovering how plants **sense** temperature has the **potential** to **accelerate** the breeding of crops that are **resilient** to heat.'"
+"Next, explain the solution: 'If a plant finds itself in **shade**, phytochromes are quickly inactivated, allowing plants to **compete** and grow to escape the shade. After **sundown**, the molecules gradually revert to their inactive state. In the cold, they stay in their **growth-suppressing** state longer. Warmth accelerates this '**dark reversion**', allowing them to **detach** from DNA so growth can resume. This ability likely **evolved** over time. This temperature-sensing ability **co-opted** an existing system. Some plants use day length as an **indicator** of the season. Other species, like **daffodils**, have **considerable** temperature sensitivity. The discovery of the **dual** role of phytochromes explains a **well-known** **rhyme**.'"
 
-"Then, create a review screen. Arrange the 12 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
+"Then, create a review screen. Arrange the 19 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
 
-"End with a discussion question: 'Why is it so important to **accelerate** the breeding of **resilient** crops in an **unpredictable** climate?'"
+"End with a discussion question: 'Why is it so important to accelerate the breeding of **resilient** crops in an **unpredictable** climate?'"
 
 ---
 
-#### **VIDEO 4: The Dance of Light and Dark (15 words)**
-
-**Video Script Prompt**
-
-**Target a specific use case:**
-"Help learners understand the detailed process of how phytochrome molecules control plant growth in response to both light and temperature."
-
-**Focus on a specific source:**
-"Focus on the next 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
-
-1.  **bind**
-2.  **restrict**
-3.  **shade**
-4.  **compete**
-<!-- 5.  **escape** -->
-6.  **sundown**
-<!-- 7.  **gradually** -->
-<!-- 8.  **revert** -->
-<!-- 9.  **measure** -->
-<!-- 10. **inactivity** -->
-11. **growth-suppressing**
-12. **dark reversion**
-13. **detach**
-<!-- 14. **resume** -->
-15. **evolved**
-
-**Describe the show structure:**
-"Start with the daytime process: 'In their active state, these molecules **bind** to DNA to **restrict** growth. In the **shade**, they quickly inactivate, allowing plants to **compete** and grow to **escape** the shade.'"
-
-"Next, explain the night-time process: 'After **sundown**, the molecules **gradually** **revert** to their inactive state. This rate is a direct **measure** of temperature. In the cold, they stay in their **growth-suppressing** state longer. Warmth accelerates this '**dark reversion**', allowing them to **detach** from DNA so growth can **resume**. This ability likely **evolved** over time.'"
-
-"Then, create a review screen. Arrange the 15 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
-
-"End with a creative question: 'How is the way plants **compete** for light a good example of a fast, responsive system?'"
-
----
-
-#### **VIDEO 5: The Ancient Weather Rhyme (14 words)**
-
-**Video Script Prompt**
-
-**Target a specific use case:**
-"Help learners see how this scientific discovery provides a modern explanation for a piece of traditional folklore about predicting the weather."
-
-**Focus on a specific source:**
-"Focus on the next 14 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
-
-1.  **co-opted**
-2.  **indicator**
-<!-- 3.  **species** -->
-4.  **daffodils**
-5.  **considerable**
-<!-- 6.  **in advance** -->
-7.  **dual**
-8.  **well-known**
-9.  **rhyme**
-10. **oak before ash**
-<!-- 11. **rely on** -->
-<!-- 12. **determine** -->
-<!-- 13. **consequently** -->
-14. **likeliness**
-
-**Describe the show structure:**
-"Start with the system's evolution: 'This temperature-sensing ability **co-opted** an existing system. Some plants use day length as an **indicator** of the season. Other **species**, like **daffodils**, have **considerable** temperature sensitivity and can flower months **in advance**.'"
-
-"Next, explain the rhyme: 'This discovery of the **dual** role of phytochromes explains a **well-known** **rhyme**: "**oak before ash**". Oak trees **rely on** temperature to **determine** their timing, while ash trees rely on day length. **Consequently**, a warmer spring increases the **likeliness** of oak leafing first.'"
-
-"Then, create a review screen. Arrange the 14 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
-
-"End with a discussion question: 'Can you think of any other **well-known** sayings or rhymes about nature that science might be able to explain?'"
-
----
-
-#### **VIDEO 6: From Lab to Field (17 words)**
+#### **VIDEO 3: From Lab to Field (20 words)**
 
 **Video Script Prompt**
 
@@ -278,31 +183,29 @@
 "Help learners understand the culmination of the research and the collaborative next steps in applying this knowledge to real-world agriculture."
 
 **Focus on a specific source:**
-"Focus on the final 17 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+"Focus on the final 20 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
-1.  **findings**
-2.  **culmination**
-3.  **mustard**
-4.  **advances**
-<!-- 5.  **rapidly** -->
-6.  **identify**
-7.  **processes**
-<!-- 8.  **alter** -->
+1.  **oak before ash**
+2.  **likeliness**
+3.  **findings**
+4.  **culmination**
+5.  **mustard**
+6.  **advances**
+7.  **identify**
+8.  **processes**
 9.  **precise**
-10. **uniquely well-positioned**
-<!-- 11. **outstanding** -->
-<!-- 12. **collaborators** -->
-<!-- 13. **nearby** -->
-<!-- 14. **biology** -->
-<!-- 15. **transfer** -->
-16. **yields**
-<!-- 17. **resilient** -->
+10.  **uniquely well-positioned**
+11.  **outstanding**
+12.  **collaborators**
+13.  **transfer**
 
 **Describe the show structure:**
-"Start with the research journey: 'These new **findings** are the **culmination** of 12 years of research, much of it using a **mustard** plant. Recent **advances** in genetics mean scientists can **rapidly** **identify** the genes controlling these **processes** and even **alter** them with **precise** tools.'"
+"Start with the rhyme: 'The **well-known** **rhyme**: "**oak before ash**". Oak trees rely on temperature to determine their timing, while ash trees rely on day length. A warmer spring increases the **likeliness** of oak leafing first.'"
 
-"Next, look to the future application: 'Cambridge is **uniquely well-positioned** for this work because of its **outstanding** **collaborators** **nearby**. These experts in plant **biology** can help **transfer** this new knowledge into the field, creating **resilient** crops with higher **yields**.'"
+"Next, explain the research: 'These new **findings** are the **culmination** of 12 years of research, much of it using a **mustard** plant. Recent **advances** in genetics mean scientists can **rapidly** **identify** the genes controlling these **processes** and even **alter** them with **precise** tools.'"
 
-"Then, create a review screen. Arrange the 17 words in two or three columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
+"Next, look to the future application: 'Cambridge is **uniquely well-positioned** for this work because of its **outstanding** **collaborators** **nearby**. These experts in plant **biology** can help **transfer** this new knowledge into the field. An international team of scientists has **discovered** that the 'thermometer' molecule in plants enables them to develop according to seasonal **temperature** changes. Researchers have revealed that molecules used by plants to detect light during the day actually change their function in darkness to become cellular temperature gauges.'"
+
+"Then, create a review screen. Arrange the 20 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
 
 "End with a final thought: 'Why is it crucial for research scientists to have **collaborators** who can help **transfer** new knowledge into practical use?'"

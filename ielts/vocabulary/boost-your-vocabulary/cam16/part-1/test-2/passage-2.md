@@ -177,13 +177,9 @@
 10. **complex**
 11. **terms**
 12. **enthralling**
-13. **mission**
 14. **gently**
 15. **bizarre**
-16. **alien**
 17. **in a bid to**
-18. **persuade**
-19. **existed**
 20. **potent**
 
 **Describe the show structure:**
@@ -208,10 +204,7 @@
 "Focus on the next 20 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
 1.  **magnify**
-2.  **examined**
-3.  **nearby**
 4.  **teeming with**
-5.  **tiny**
 6.  **endures**
 7.  **plea**
 8.  **tolerance**
@@ -226,7 +219,6 @@
 17. **aid**
 18. **digestion**
 19. **regulate**
-20. **immune**
 
 **Describe the show structure:**
 "Start with the discovery: 'The first person to see microbes used a microscope that could **magnify** 270 times. He **examined** water from a **nearby** lake and found it **teeming with** **tiny** creatures. But their bad image **endures**. The book is a **plea** for microbial **tolerance** and **acknowledges** our attitude is complex.'"
@@ -249,14 +241,11 @@
 **Focus on a specific source:**
 "Focus on the next 19 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
-1.  **eliminate**
 2.  **toxins**
-3.  **combat**
 4.  **obsession**
 5.  **hygiene**
 6.  **antibiotics**
 7.  **disrupting**
-8.  **soaring**
 9.  **allergies**
 10. **inflammatory**
 11. **bowel**
@@ -292,7 +281,6 @@
 
 1.  **halted**
 2.  **luminescent**
-3.  **predators**
 4.  **distaste**
 5.  **enthusiasm**
 6.  **spreading**
@@ -301,14 +289,6 @@
 9.  **manipulate**
 10. **neonatal**
 11. **ward**
-12. **peacefully**
-13. **communities**
-14. **constantly**
-15. **overcome**
-16. **species**
-17. **vary**
-18. **trillion**
-19. **informs**
 
 **Describe the show structure:**
 "Start with stories of hope: 'The frog-killing fungus can be **halted** by another microbe. Squid use **luminescent** bacteria to hide from **predators**. If you can get over your **distaste**, the author's **enthusiasm** is clear. To stop mosquitoes **spreading** **dengue** fever, which **infects** millions, we can **manipulate** their microbes.'"

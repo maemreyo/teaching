@@ -128,20 +128,20 @@
 "Focus on the first 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
 1.  **Artificial intelligence**
-2.  **predict**
+<!-- 2.  **predict** -->
 3.  **police forces**
-4.  **map**
-5.  **occur**
-6.  **patient**
-7.  **stroke**
-8.  **researchers**
-9.  **imagination**
-10. **unexpected**
-11. **consequences**
-12. **require**
-13. **advances**
-14. **lack confidence**
-15. **relying on**
+<!-- 4.  **map** -->
+<!-- 5.  **occur** -->
+<!-- 6.  **patient** -->
+<!-- 7.  **stroke** -->
+<!-- 8.  **researchers** -->
+<!-- 9.  **imagination** -->
+<!-- 10. **unexpected** -->
+<!-- 11. **consequences** -->
+<!-- 12. **require** -->
+<!-- 13. **advances** -->
+<!-- 14. **lack confidence** -->
+<!-- 15. **relying on** -->
 
 **Describe the show structure:**
 "Start with AI's power: '**Artificial intelligence** can **predict** the future. **Police forces** use it to **map** where crime might **occur**. Doctors use it to predict if a **patient** might have a **stroke**. **Researchers** are even giving it **imagination** to plan for **unexpected** **consequences**.'"
@@ -164,21 +164,21 @@
 **Focus on a specific source:**
 "Focus on the next 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
-1.  **trust**
-2.  **experts**
-3.  **benefit**
+<!-- 1.  **trust** -->
+<!-- 2.  **experts** -->
+<!-- 3.  **benefit** -->
 4.  **reluctant**
-5.  **promote**
-6.  **disaster**
-7.  **deliver**
-8.  **recommendations**
-9.  **treatment**
-10. **accounted for**
-11. **interacted**
-12. **guidance**
+<!-- 5.  **promote** -->
+<!-- 6.  **disaster** -->
+<!-- 7.  **deliver** -->
+<!-- 8.  **recommendations** -->
+<!-- 9.  **treatment** -->
+<!-- 10. **accounted for** -->
+<!-- 11. **interacted** -->
+<!-- 12. **guidance** -->
 13. **coincided**
-14. **actual**
-15. **generated**
+<!-- 14. **actual** -->
+<!-- 15. **generated** -->
 
 **Describe the show structure:**
 "Start with the core issue: 'We prefer to **trust** human **experts**. If we want AI to **benefit** people, we must understand why we are **reluctant** to use it. An attempt to **promote** IBM's Watson to doctors was a PR **disaster**.'"
@@ -206,11 +206,11 @@
 3.  **competent**
 4.  **plausible**
 5.  **algorithms**
-6.  **complex**
+<!-- 6.  **complex** -->
 7.  **Consequently**
 8.  **suspicion**
 9.  **disbelief**
-10. **ignore**
+<!-- 10. **ignore** -->
 11. **seemingly**
 12. **outlandish**
 13. **stick to**
@@ -238,21 +238,21 @@
 **Focus on a specific source:**
 "Focus on the next 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
-1.  **reliability**
+<!-- 1.  **reliability** -->
 2.  **psychological**
 3.  **fairly**
-4.  **unfamiliar**
-5.  **technically**
-6.  **process**
+<!-- 4.  **unfamiliar** -->
+<!-- 5.  **technically** -->
+<!-- 6.  **process** -->
 7.  **comprehend**
 8.  **anxiety**
-9.  **control**
+<!-- 9.  **control** -->
 10. **instances**
 11. **acutely**
 12. **disproportionate**
 13. **emphasising**
 14. **foolproof**
-15. **various**
+<!-- 15. **various** -->
 
 **Describe the show structure:**
 "Start with how we trust humans: 'Trust in people is based on experience of their **reliability**, which creates a **psychological** feeling of safety. But AI is still **fairly** new and **unfamiliar**.'"
@@ -275,20 +275,20 @@
 **Focus on a specific source:**
 "Focus on the next 16 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
-1.  **automation**
+<!-- 1.  **automation** -->
 2.  **regardless of**
 3.  **depicted**
 4.  **cinematic**
-5.  **vision**
+<!-- 5.  **vision** -->
 6.  **polarised**
 7.  **attitudes**
 8.  **Optimists**
-9.  **extreme**
-10. **enthusiasm**
+<!-- 9.  **extreme** -->
+<!-- 10. **enthusiasm** -->
 11. **sceptics**
 12. **guarded**
 13. **relevant**
-14. **evidence**
+<!-- 14. **evidence** -->
 15. **biased**
 16. **tendency**
 
@@ -313,21 +313,21 @@
 **Focus on a specific source:**
 "Focus on the next 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
-1.  **confirmation**
+<!-- 1.  **confirmation** -->
 2.  **represented**
 3.  **pertinently**
-4.  **disadvantage**
+<!-- 4.  **disadvantage** -->
 5.  **Fortunately**
-6.  **improve**
+<!-- 6.  **improve** -->
 7.  **previous**
-8.  **experience**
-9.  **significantly**
-10. **solution**
+<!-- 8.  **experience** -->
+<!-- 9.  **significantly** -->
+<!-- 10. **solution** -->
 11. **reveal**
-12. **purposes**
-13. **serve**
+<!-- 12. **purposes** -->
+<!-- 13. **serve** -->
 14. **high-profile**
-15. **release**
+<!-- 15. **release** -->
 
 **Describe the show structure:**
 "Start with the danger of bias: '**Confirmation** bias is a problem as AI is **represented** more in media. More **pertinently**, rejecting AI could put people at a serious **disadvantage**. **Fortunately**, we have ideas to **improve** trust.'"
@@ -351,19 +351,19 @@
 "Focus on the next 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
 1.  **transparency**
-2.  **requests**
+<!-- 2.  **requests** -->
 3.  **surveillance**
 4.  **disclosures**
-5.  **enable**
+<!-- 5.  **enable** -->
 6.  **freedom**
-7.  **slightly**
-8.  **modify**
+<!-- 7.  **slightly** -->
+<!-- 8.  **modify** -->
 9.  **satisfied**
 10. **superior**
 11. **intricate**
 12. **inner workings**
 13. **degree**
-14. **implemented**
+<!-- 14. **implemented** -->
 15. **willing**
 
 **Describe the show structure:**

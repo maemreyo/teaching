@@ -102,18 +102,18 @@
 | **implies**                        | suggest, infer, hint at, point toward                                                    | ...because it **implies** choice.                                                                                                           |
 | **possess**                        | have, own, hold, keep                                                                    | We **possess** both the science and the technology to identify and redress the changes...                                                   |
 | **identify**                       | classify, recognize, find, detect                                                        | ...to **identify** and redress the changes in how we read...                                                                                |
-| **redress**                        | make it right, set right, remedy                                                         | ...to identify and **redress** the changes in how we read before they become entrenched.                                                    |
+| **redress**                        | make it right, set right, remedy                                                         | ...to **identify** and **redress** the changes in how we read before they become entrenched.                                                    |
 | **entrenched**                     | fixed, rooted, engrained, ingrained                                                      | ...before they become **entrenched**.                                                                                                       |
 | **exactly**                        | accurately, closely, correctly                                                           | If we work to understand **exactly** what we will lose...                                                                                   |
 | **extraordinary**                  | notable, amazing, outstanding, remarkable                                                | ...alongside the **extraordinary** new capacities that the digital world has brought us...                                                  |
 
-### **Vocabulary Learning Plan: The Changing Reading Brain (8 Videos)**
+### **Vocabulary Learning Plan: The Changing Reading Brain (4 Videos)**
 
-Đây là kế hoạch chi tiết để học toàn bộ 116 từ vựng từ bài đọc, được chia thành 8 phần dễ quản lý hơn. Mỗi phần tương ứng với một video/buổi học và kể một chương của câu chuyện, giúp bạn học từ vựng một cách tự nhiên.
+Đây là kế hoạch chi tiết đã được tối ưu hóa để học 79 từ vựng từ bài đọc, chia thành 4 phần cân đối và logic. Mỗi phần tương ứng với một video/buổi học và kể một chương của câu chuyện, giúp bạn học từ vựng một cách tự nhiên.
 
 ---
 
-#### **VIDEO 1: The New Digital Pacifier (16 words)**
+#### **VIDEO 1: The New Digital Pacifier (20 words)**
 
 **Video Script Prompt**
 
@@ -121,7 +121,7 @@
 "Help learners observe and understand the widespread shift in reading habits across all age groups due to digital devices."
 
 **Focus on a specific source:**
-"Focus on the first 16 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+"Focus on the first 20 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
 1.  **pacifier**
 2.  **toddlers**
@@ -130,66 +130,32 @@
 5.  **passengers**
 6.  **skim**
 7.  **Unbeknown to**
-8.  **invisible**
-9.  **game-changing**
-10. **transformation**
-11. **neuronal circuit**
-12. **underlies**
-13. **subtly**
-14. **rapidly**
-15. **implications**
-16. **expert**
+8.  **neuronal circuit**
+9.  **underlies**
+10. **subtly**
+11. **implications**
+12. **neurosciences**
+13. **acquisition**
+14. **literacy**
+15. **necessitated**
+16. **evolved**
+17. **herd**
+18. **depicts**
+19. **intellectual**
+20. **affective**
 
 **Describe the show structure:**
-"Start with a scene from a plane: 'The iPad is the new **pacifier** for **toddlers**. **School-aged** kids **hunch over** video games. Adult **passengers** **skim** emails. **Unbeknown to** us, an **invisible**, **game-changing** **transformation** is happening.'"
+"Start with a scene from a plane: 'The iPad is the new **pacifier** for **toddlers**. **School-aged** kids **hunch over** video games. Adult **passengers** **skim** emails. **Unbeknown to** us, an invisible, game-changing transformation is happening.'"
 
-"Next, explain the core issue: 'The **neuronal circuit** that **underlies** our ability to read is **subtly** and **rapidly** changing. This has **implications** for everyone, from the toddler to the **expert** adult.'"
+"Next, explain the core issue: 'The **neuronal circuit** that **underlies** our ability to read is **subtly** changing. This has **implications** for everyone. Work in **neurosciences** shows the **acquisition** of **literacy** **necessitated** a new brain circuit. This circuit **evolved** from a simple mechanism for decoding basic information, like the number of goats in a **herd**. My research **depicts** how the present reading brain enables the development of some of our most important **intellectual** and **affective** processes.'"
 
-"Then, create a review screen. Arrange the 16 words in two columns to show all the words/phrase clearly as much as possible, showing only the word and its synonyms. For example: `word —— synonyms`."
+"Then, create a review screen. Arrange the 20 words in two columns to show all the words/phrase clearly as much as possible, showing only the word and its synonyms. For example: `word —— synonyms`."
 
-"End with a discussion question: 'What **implications** might this **game-changing** **transformation** have for the future of reading?'"
+"End with a discussion question: 'What **implications** might this game-changing transformation have for the future of reading?'"
 
 ---
 
-#### **VIDEO 2: The Evolution of the Reading Brain (16 words)**
-
-**Video Script Prompt**
-
-**Target a specific use case:**
-"Help learners understand the origin of the brain's reading circuit and the complex 'deep reading' skills it enables."
-
-**Focus on a specific source:**
-"Focus on the next 16 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
-
-1.  **neurosciences**
-2.  **indicates**
-3.  **acquisition**
-4.  **literacy**
-5.  **necessitated**
-6.  **evolved**
-7.  **mechanism**
-8.  **decoding**
-9.  **herd**
-10. **depicts**
-11. **enables**
-12. **intellectual**
-13. **affective**
-14. **internalized**
-15. **reasoning**
-16. **inference**
-
-**Describe the show structure:**
-"Start with the brain's adaptation: 'Work in **neurosciences** **indicates** that the **acquisition** of **literacy** **necessitated** a new brain circuit. This circuit **evolved** from a simple **mechanism** for **decoding** basic information, like the number of goats in a **herd**.'"
-
-"Next, describe what this circuit does: 'Research **depicts** how this circuit **enables** important **intellectual** and **affective** processes, like **internalized** knowledge, analogical **reasoning**, and **inference**.'"
-
-"Then, create a review screen. Arrange the 16 words in two columns to show all the words/phrase clearly as much as possible, showing the word and its synonyms. For example: `word —— synonyms`."
-
-"End with a discussion question: 'How is the **acquisition** of **literacy** different from learning to speak?'"
-
----
-
-#### **VIDEO 3: The Hinge Moment (15 words)**
+#### **VIDEO 2: The Hinge Moment (20 words)**
 
 **Video Script Prompt**
 
@@ -197,73 +163,41 @@
 "Help learners understand the current critical point in our cultural shift from print to digital and the risks involved."
 
 **Focus on a specific source:**
-"Focus on the next 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+"Focus on the next 20 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
-1.  **empathy**
-2.  **critical**
-3.  **generation**
-4.  **insight**
-5.  **cautions**
-6.  **binary**
-7.  **innovation**
-8.  **err**
-9.  **ignore**
-10. **disrupt**
-11. **diminish**
-12. **hinge moment**
-13. **digital**
-14. **confront**
-15. **genetic blueprint**
+1.  **internalized**
+2.  **inference**
+3.  **empathy**
+4.  **generation**
+5.  **binary**
+6.  **disrupt**
+7.  **diminish**
+8.  **hinge moment**
+9.  **confront**
+10. **genetic blueprint**
+11. **characteristics**
+12. **multi-task**
+13. **volumes**
+14. **humanities**
+15. **scholar**
+16. **denser**
+17. **cognitive**
+18. **underlie**
+19. **sufficient**
+20. **comprehend**
 
 **Describe the show structure:**
-"Start with the skills under threat: 'Deep reading develops **empathy**, **critical** analysis, and the **generation** of **insight**. Research now **cautions** these skills are at risk. This isn't a simple, **binary** issue of print versus digital.'"
+"Start with the skills under threat: 'Deep reading develops **internalized** knowledge, analogical reasoning, and **inference**; perspective-taking and **empathy**; critical analysis and the **generation** of insight. Research now cautions that these skills are at risk. This isn't a simple, **binary** issue of print versus digital.'"
 
-"Next, explain the critical choice we face: 'Technological **innovation** is good. We **err** when we **ignore** what we **disrupt** or **diminish**. We are in a **hinge moment** between print and **digital** cultures. We must **confront** what is being lost. Reading is not a **genetic blueprint**; it must be taught.'"
+"Next, explain the critical choice we face: 'We do not err as a society when we innovate but when we ignore what we **disrupt** or **diminish**. We are in a **hinge moment** between print and digital cultures. We must **confront** what is diminishing. Reading is not a **genetic blueprint**; it needs an environment to develop. It will adapt to that environment's requirements and **characteristics** of whatever medium is used. If the dominant medium advantages processes that are fast, **multi-task** oriented and well-suited for large **volumes** of information, less attention and time will be allocated to slower, time-demanding deep reading processes. Researchers in psychology and the **humanities** bear this out. English literature **scholar** and teacher Mark Edmundson describes how many college students no longer have the patience to read longer, **denser**, more difficult texts. We should be less concerned with students' impatience than by what may **underlie** it: the potential inability of large numbers of students to read with a level of critical analysis **sufficient** to **comprehend** the complexity of thought and argument found in more demanding texts.'"
 
-"Then, create a review screen. Arrange the 15 words in two columns to show all the words/phrase clearly as much as possible, showing the word and its synonyms. For example: `word —— synonyms`."
+"Then, create a review screen. Arrange the 20 words in two columns to show all the words/phrase clearly as much as possible, showing the word and its synonyms. For example: `word —— synonyms`."
 
-"End with a reflective question: 'In this **hinge moment**, what do you think we **disrupt** or **diminish** when we move from print to **digital** reading?'"
+"End with a reflective question: 'In this **hinge moment**, what do you think we **disrupt** or **diminish** when we move from print to digital reading?'"
 
 ---
 
-#### **VIDEO 4: The Plasticity of the Reading Brain (15 words)**
-
-**Video Script Prompt**
-
-**Target a specific use case:**
-"Help learners understand that the brain's reading circuit is adaptable and will change based on the demands of the primary reading medium."
-
-**Focus on a specific source:**
-"Focus on the next 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
-
-1.  **vision**
-2.  **adapt**
-3.  **requirements**
-4.  **characteristics**
-5.  **medium**
-6.  **dominant**
-7.  **multi-task**
-8.  **volumes**
-9.  **allocated**
-10. **humanities**
-11. **scholar**
-12. **patience**
-13. **denser**
-14. **cognitive**
-15. **underlie**
-
-**Describe the show structure:**
-"Start with the brain's adaptability: 'Unlike **vision**, the reading circuit is not innate. It will **adapt** to the **requirements** and **characteristics** of whatever **medium** is used.'"
-
-"Next, explain the effect of the digital medium: 'If the **dominant** **medium** favors fast, **multi-task** processing of large **volumes** of information, less time will be **allocated** to deep reading. Researchers in the **humanities** and a literature **scholar** note that students lack the **patience** for longer, **denser** texts. We must look at the **cognitive** issues that **underlie** this impatience.'"
-
-"Then, create a review screen. Arrange the 15 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
-
-"End with a discussion question: 'How do the **requirements** of a digital **medium** differ from those of a printed book?'"
-
----
-
-#### **VIDEO 5: The Downstream Effects (15 words)**
+#### **VIDEO 3: The Downstream Effects (19 words)**
 
 **Video Script Prompt**
 
@@ -271,73 +205,38 @@
 "Help learners understand the negative consequences of screen reading on comprehension, as shown by scientific studies."
 
 **Focus on a specific source:**
-"Focus on the next 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+"Focus on the next 19 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
-1.  **sufficient**
-2.  **comprehend**
-3.  **demanding**
-4.  **troubling**
-5.  **downstream effects**
-6.  **colleagues**
-7.  **plot**
-8.  **universal**
-9.  **appeal**
-10. **superior**
-11. **sequence**
-12. **chronological**
-13. **norm**
-14. **browsing**
-15. **sample**
+1.  **demanding**
+2.  **troubling**
+3.  **downstream effects**
+4.  **universal**
+5.  **appeal**
+6.  **superior**
+7.  **sequence**
+8.  **chronological**
+9.  **norm**
+10. **browsing**
+11. **spot**
+12. **grasp complexity**
+13. **perceive**
+14. **critical analysis**
+15. **unintended 'collateral damage'**
+16. **various**
+17. **subtle atrophy**
+18. **constant bombardment**
+19. **incentivizes**
 
 **Describe the show structure:**
-"Start with the core problem: 'Students may lack a **sufficient** level of critical analysis to **comprehend** more **demanding** texts. This has **troubling** **downstream effects** on comprehension.'"
+"Start with the core problem: 'Students may lack a sufficient level of critical analysis to comprehend more **demanding** texts. This has **troubling** **downstream effects** on comprehension. Multiple studies show that digital screen use may be causing a variety of troubling downstream effects on reading comprehension. In Stavanger, Norway, psychologist Anne Mangen and her colleagues studied how high school students comprehend the same material in different mediums. Mangen's group asked subjects questions about a short story whose plot had **universal** **appeal**. The print readers were **superior** in their ability to **sequence** details and reconstruct the plot in **chronological** order. The new **norm** in reading is skimming, involving word-spotting and **browsing** through the text. Many readers now use a pattern when reading in which they sample the first line and then word-**spot** through the rest of the text. When the reading brain skims like this, it reduces time allocated to deep reading processes. In other words, we don't have time to **grasp complexity**, to **perceive** beauty, and to create thoughts of the reader's own. The **possibility** that **critical analysis**, empathy and other deep reading processes could become the **unintended 'collateral damage'** of our digital culture is not a straightforward binary issue about print versus digital reading. It is about how we all have begun to read on **various** mediums and how that changes not only what we read, but also the purposes for which we read. The **subtle atrophy** of critical analysis and empathy affects us all equally. It affects our ability to navigate a **constant bombardment** of information. It **incentivizes** a retreat to the most familiar stores of unchecked information.'"
 
-"Next, describe a key study: 'A psychologist and her **colleagues** studied students reading a story with a **plot** that had **universal** **appeal**. The print readers were **superior** in their ability to **sequence** details and reconstruct the **plot** in **chronological** order. The new **norm** in reading is skimming, **browsing**, and using a pattern where readers **sample** the first line.'"
-
-"Then, create a review screen. Arrange the 15 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
+"Then, create a review screen. Arrange the 19 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
 
 "End with a discussion question: 'Why do you think print readers were **superior** at reconstructing the **plot** in **chronological** order?'"
 
 ---
 
-#### **VIDEO 6: The Collateral Damage of Digital Culture (15 words)**
-
-**Video Script Prompt**
-
-**Target a specific use case:**
-"Help learners understand the concept of 'collateral damage' in the context of reading, and how skimming affects our ability to think and feel deeply."
-
-**Focus on a specific source:**
-"Focus on the next 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
-
-1.  **spot**
-2.  **grasp complexity**
-3.  **perceive**
-4.  **possibility**
-5.  **critical analysis**
-6.  **unintended 'collateral damage'**
-7.  **various**
-8.  **purposes**
-9.  **subtle atrophy**
-10. **equally**
-11. **navigate**
-12. **constant bombardment**
-13. **incentivizes**
-14. **susceptible**
-15. **irrational**
-
-**Describe the show structure:**
-"Start with the skimming pattern: 'Readers sample the first line and then word-**spot** through the text. This means we don't have time to **grasp complexity** or **perceive** beauty.'"
-
-"Next, explain the consequences: 'There is a **possibility** that **critical analysis** and empathy could become the **unintended 'collateral damage'** of our digital culture. We read on **various** mediums for different **purposes**. The **subtle atrophy** of these skills affects us all **equally**. It harms our ability to **navigate** the **constant bombardment** of information, **incentivizes** retreat, and leaves us **susceptible** to **irrational** ideas.'"
-
-"Then, create a review screen. Arrange the 15 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
-
-"End with a reflective question: 'What does the phrase **unintended 'collateral damage'** mean in the context of our reading habits?'"
-
----
-
-#### **VIDEO 7: Use It or Lose It (10 words)**
+#### **VIDEO 4: Use It or Lose It (20 words)**
 
 **Video Script Prompt**
 
@@ -345,24 +244,34 @@
 "Help learners understand the hopeful principle that our reading brain can be strengthened through conscious choice and effort."
 
 **Focus on a specific source:**
-"Focus on the final 10 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+"Focus on the final 20 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
 
-1.  **alter**
-2.  **hopeful principle**
-3.  **applied**
+1.  **susceptible**
+2.  **irrational**
+3.  **hopeful principle**
 4.  **implies**
-5.  **possess**
-6.  **identify**
-7.  **redress**
-8.  **entrenched**
-9.  **exactly**
-10. **extraordinary**
+5.  **redress**
+6.  **entrenched**
+7.  **extraordinary**
+8.  **invisible**
+9.  **game-changing**
+10. **transformation**
+11. **rapidly**
+12. **expert**
+13. **indicates**
+14. **mechanism**
+15. **decoding**
+16. **enables**
+17. **reasoning**
+18. **critical**
+19. **insight**
+20. **cautions**
 
 **Describe the show structure:**
-"Start with the rule of neuroscience: 'There's a rule that does not **alter** with age: use it or lose it. This is a **hopeful principle** when **applied** to the reading brain because it **implies** choice.'"
+"Start with the rule of neuroscience: '...leaving us **susceptible** to false information and **irrational** ideas. There's an old rule in neuroscience that does not alter with age: use it or lose it. It is a very **hopeful principle** when applied to critical thought in the reading brain because it **implies** choice. The story of the changing reading brain is hardly finished. We possess both the science and the technology to identify and **redress** the changes in how we read before they become **entrenched**. If we work to understand exactly what we will lose, alongside the **extraordinary** new capacities that the digital world has brought us, there is as much reason for excitement as caution.'"
 
-"Next, explain the path forward: 'We **possess** the science to **identify** and **redress** these changes before they become **entrenched**. We need to understand **exactly** what we will lose, alongside the **extraordinary** new capacities of the digital world.'"
+"Next, explain the path forward: '**Unbeknown to** most of us, an **invisible**, **game-changing** **transformation** links everyone in this picture: the neuronal circuit that underlies the brain's ability to read is subtly, **rapidly** changing and this has implications for everyone from the pre-reading toddler to the **expert** adult. As work in **neurosciences** **indicates**, the acquisition of literacy necessitated a new circuit in our species' brain. That circuit evolved from a very simple **mechanism** for **decoding** basic information, like the number of goats in one's herd, to the present, highly elaborated reading brain. My research depicts how the present reading brain **enables** the development of some of our most important intellectual and affective processes: internalized knowledge, analogical **reasoning**, and inference; perspective-taking and empathy; **critical** analysis and the **generation** of **insight**. Research surfacing in many parts of the world now **cautions** that each of these essential 'deep reading' processes may be under threat as we move into digital-based modes of reading.'"
 
-"Then, create a review screen. Arrange the 10 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
+"Then, create a review screen. Arrange the 20 words in two columns to show all the words/phrase clearly as much as possible. For example: `word —— synonyms`."
 
 "End with a final thought: 'How does the **hopeful principle** of 'use it or lose it' empower you to take control of your own reading habits?'"
