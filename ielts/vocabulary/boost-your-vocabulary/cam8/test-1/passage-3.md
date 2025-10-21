@@ -2,8 +2,8 @@
 
 ## Telepathy
 
-| Vocabulary | Synonyms / Explanation | Context from the Passage |
-| :--- | :--- | :--- |
+| Vocabulary | Synonyms / Explanation | Context from the Passage | Done? |
+| :--- | :--- | :--- | :---: |
 | **telepathy** | mind-reading, thought transference | ...the issue of **telepathy** has divided the scientific community... |
 | **spark** | provoke, cause, trigger | ...it still **sparks** bitter controversy... |
 | **controversy** | argument, disagreement, debate | ...it still sparks bitter **controversy** among top academics. |

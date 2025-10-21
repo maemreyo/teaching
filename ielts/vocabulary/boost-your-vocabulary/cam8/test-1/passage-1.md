@@ -2,8 +2,8 @@
 
 ## A Chronicle of Timekeeping
 
-| Vocabulary | Synonyms / Explanation | Context from the Passage |
-| :--- | :--- | :--- |
+| Vocabulary | Synonyms / Explanation | Context from the Passage | Done? |
+| :--- | :--- | :--- | :---: |
 | **chronicle** | a written record, history, story of historical events | A **Chronicle** of Timekeeping |
 | **timekeeping** | the activity of recording the time something takes | A Chronicle of **Timekeeping** |
 | **advent** | coming, start, arrival | ...long before the **advent** of the Roman Empire... |

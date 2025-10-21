@@ -2,8 +2,8 @@
 
 ## Sheet glass manufacture: the float process
 
-| Vocabulary | Synonyms / Explanation | Context from the Passage |
-| :--- | :--- | :--- |
+| Vocabulary | Synonyms / Explanation | Context from the Passage | Done? |
+| :--- | :--- | :--- | :---: |
 | **mixture** | combination, blend, hybrid | ...is little more than a **mixture** of sand, soda ash and lime. |
 | **molten** | made liquid by heat | When heated to about 1500 degrees Celsius (°C) this becomes a **molten** mass... |
 | **harden** | solidify, freeze, consolidate | ...a molten mass that **hardens** when slowly cooled. |

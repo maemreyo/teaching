@@ -2,8 +2,8 @@
 
 ## Air traffic control in the USA
 
-| Vocabulary | Synonyms / Explanation | Context from the Passage |
-| :--- | :--- | :--- |
+| Vocabulary | Synonyms / Explanation | Context from the Passage | Done? |
+| :--- | :--- | :--- | :---: |
 | **establishment** | founding, launch, creation | ...resulted in the **establishment** of the Federal Aviation Administration (FAA)... |
 | **Federal Aviation Administration (FAA)** | national authority to regulate flying | ...the **Federal Aviation Administration (FAA)** to regulate and oversee... |
 | **congested** | full of traffic, overfilled, blocked | ...skies over the United States, which were becoming quite **congested**. |
