@@ -89,157 +89,151 @@
 
 ---
 
-### **Vocabulary Learning Plan: The Plant's Secret Thermometer (4 Videos)**
+### **Vocabulary Learning Plan: The Plant's Secret Thermometer (4-Part Video Series)**
 
-This is an optimized plan to learn the vocabulary from the reading passage, divided into four balanced and logical parts. Each part corresponds to a video, helping you explore the secret of how plants sense the world.
-
----
-
-#### **VIDEO 1: The Molecular Thermometer (15 words)**
-
-**Video Script Prompt**
-
-**Target a specific use case:**
-"Help learners understand the groundbreaking discovery of a molecule in plants that acts like a thermometer, sensing seasonal changes."
-
-**Focus on a specific source:**
-"Focus on the first 15 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
-
-1.  **international**
-2.  **discovered**
-3.  **thermometer**
-4.  **molecule**
-5.  **seasonal**
-6.  **temperature**
-7.  **researchers**
-8.  **revealed**
-9.  **detect**
-10. **function**
-11. **cellular**
-12. **gauges**
-13. **genetic**
-14. **switches**
-15. **dictate**
-
-**Describe the show structure:**
-"Start with the big news: 'An **international** team has **discovered** a **thermometer** **molecule** in plants that helps them sense **seasonal** **temperature** changes. **Researchers** have **revealed** that molecules used to **detect** light change their **function** in darkness to become **cellular** temperature **gauges**.'"
-
-"Next, explain the mechanism: 'These molecules control **genetic** **switches** in response to temperature as well as light to **dictate** plant development.'"
-
-"Then, create a review screen. Arrange the 15 words in two or three columns to show all the words/phrases clearly. For example: `word —— synonyms`."
-
-"End with a discussion question: 'How does the idea of a **cellular** **thermometer** change the way you think about plants?'"
+This revised plan consolidates the vocabulary into four dense, logical videos. Each video is maximized to the 16-word limit to ensure an efficient learning experience while covering the entire scientific narrative of the article.
 
 ---
 
-#### **VIDEO 2: How Plants Sense Heat (16 words)**
+#### **VIDEO 1: The Groundbreaking Discovery (16 words)**
 
-**Video Script Prompt**
+**Objective:**
+"To introduce the core scientific breakthrough: a dual-function molecule that acts as a plant's internal thermometer, controlling its growth based on both light and temperature."
 
-**Target a specific use case:**
-"Help learners understand how the phytochrome molecule works at night and its importance for agriculture in a changing climate."
+**Target Vocabulary:**
+"This video covers the foundational concepts, explaining _what_ was discovered."
 
-**Focus on a specific source:**
-"Focus on the next 16 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+1.  **'thermometer' molecule**
+2.  **seasonal**
+3.  **revealed**
+4.  **detect**
+5.  **function**
+6.  **cellular**
+7.  **gauges**
+8.  **genetic switches**
+9.  **dictate**
+10. **pace**
+11. **proportional**
+12. **mercury**
+13. **stimulating**
+14. **responsive**
+15. **bud**
+16. **predict**
 
-1.  **pace**
-2.  **proportional**
-3.  **mercury**
-4.  **stimulating**
-5.  **growth**
-6.  **responsive**
-7.  **bud**
-8.  **predict**
-9.  **pinpoints**
-10. **molecular**
-11. **mechanism**
-12. **reacts**
-13. **triggering**
-14. **unpredictable**
-15. **internal**
-16. **breed**
+**Suggested Script Structure:**
+"**Start with the discovery:** 'Scientists have **revealed** a '**thermometer' molecule** in plants that helps them react to **seasonal** changes. Originally known to **detect** light, its **function** changes in the dark, becoming a **cellular** temperature **gauge**.'
 
-**Describe the show structure:**
-"Start with the process: 'At night, the **pace** at which these molecules change is directly **proportional** to temperature, just like **mercury** in a thermometer. Warmer temperatures mean a faster change, **stimulating** plant **growth**.'"
+**Next, explain the mechanism:** 'This molecule controls **genetic switches** to **dictate** growth. The **pace** of its change is directly **proportional** to temperature, just like **mercury**. Warmer temperatures mean a faster change, **stimulating** growth. This is why plants are so **responsive** and **bud** early in warm winters, allowing us to **predict** the harvest.'
 
-"Next, explain the application: 'Plants are very **responsive**; warm winters cause them to **bud** early, which helps **predict** harvests. This research **pinpoints** the **molecular** **mechanism** that **reacts** to temperature, **triggering** spring growth. With **unpredictable** weather, this **internal** thermometer can help us **breed** tougher crops.'"
+**Review:** Create a summary screen displaying all 16 words.
 
-"Then, create a review screen. Arrange the 16 words in two or three columns to show all the words/phrases clearly. For example: `word —— synonyms`."
-
-"End with a discussion question: 'Why is it so important to **breed** more resilient crops in an **unpredictable** climate?'"
+**Engagement Question:** 'How does knowing that plants have **cellular gauges** to **predict** seasons change your perspective on them?'"
 
 ---
 
-#### **VIDEO 3: The Science of Dark Reversion (16 words)**
+#### **VIDEO 2: The Science of Survival (16 words)**
 
-**Video Script Prompt**
+**Objective:**
+"To explain the detailed molecular mechanism that allows plants to survive and compete, especially in response to climate change and environmental challenges like shade."
 
-**Target a specific use case:**
-"Help learners understand the detailed process of 'dark reversion' and how it allows plants to adapt their growth to winter and summer temperatures."
+**Target Vocabulary:**
+"This video dives into the biological processes of how plants adapt."
 
-**Focus on a specific source:**
-"Focus on the next 16 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+1.  **pinpoints**
+2.  **molecular mechanism**
+3.  **reacts**
+4.  **triggering**
+5.  **unpredictable**
+6.  **internal**
+7.  **breed**
+8.  **yields**
+9.  **sensitive**
+10. **thermal**
+11. **sense**
+12. **potential**
+13. **resilient**
+14. **bind**
+15. **restrict**
+16. **shade**
 
-1.  **estimated**
-2.  **yields**
-3.  **sensitive**
-4.  **thermal**
-5.  **sense**
-6.  **potential**
-7.  **resilient**
-8.  **bind**
-9.  **restrict**
-10. **shade**
-11. **compete**
-12. **sundown**
-13. **gradually**
-14. **revert**
-15. **measure**
-16. **inactivity**
+**Suggested Script Structure:**
+"**Start with the application:** 'New research **pinpoints** the **molecular mechanism** that **reacts** to heat, **triggering** spring growth. In our **unpredictable** climate, understanding this **internal** system can help us **breed** tougher crops to protect agricultural **yields**.'
 
-**Describe the show structure:**
-"Start with the problem: 'It is **estimated** that crop **yields** must double by 2050. But key crops are **sensitive** to **thermal** stress. Discovering how plants **sense** temperature has the **potential** to help breed **resilient** crops.'"
+**Next, explain the threat and the science:** 'Crops are **sensitive** to **thermal** stress. Discovering how they **sense** temperature has the **potential** to create more **resilient** plants. The science is fascinating: in their active state, these molecules **bind** to DNA to **restrict** growth. This is especially important when a plant is in the **shade** and needs to adapt.'
 
-"Next, explain the science: 'In their active state, these molecules **bind** to DNA to **restrict** growth. In **shade**, they deactivate so plants can **compete** for light. After **sundown**, they **gradually** **revert** to their inactive state. The rate of this change is a direct **measure** of temperature. In winter, they revert slowly, staying in a state of **inactivity**.'"
+**Review:** Create a summary screen with all 16 words.
 
-"Then, create a review screen. Arrange the 16 words in two or three columns to show all the words/phrases clearly. For example: `word —— synonyms`."
-
-"End with a discussion question: 'How does the ability to **restrict** growth in winter help a plant survive?'"
+**Engagement Question:** 'Why is breeding **resilient** crops so critical when facing **unpredictable thermal** stress?'"
 
 ---
 
-#### **VIDEO 4: From Lab to Field (16 words)**
+#### **VIDEO 3: The Wisdom of Night (16 words)**
 
-**Video Script Prompt**
+**Objective:**
+"To focus on the crucial night-time process of 'dark reversion' and connect this modern scientific understanding to ancient folklore, like the oak and ash rhyme."
 
-**Target a specific use case:**
-"Help learners understand the culmination of the research and the collaborative next steps in applying this knowledge to real-world agriculture."
+**Target Vocabulary:**
+"This video explains the night cycle and links it to traditional wisdom."
 
-**Focus on a specific source:**
-"Focus on the final 16 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+1.  **compete**
+2.  **escape**
+3.  **sundown**
+4.  **gradually**
+5.  **revert**
+6.  **measure**
+7.  **inactivity**
+8.  **growth-suppressing**
+9.  **dark reversion**
+10. **detach**
+11. **resume**
+12. **evolved**
+13. **co-opted**
+14. **indicator**
+15. **species**
+16. **daffodils**
 
-1.  **suppress**
-2.  **accelerate**
-3.  **detach**
-4.  **resume**
-5.  **evolved**
-6.  **co-opted**
-7.  **indicator**
-8.  **species**
-9.  **considerable**
-10. **determine**
-11. **findings**
-12. **culmination**
-13. **advances**
-14. **identify**
-15. **precise**
-16. **transfer**
+**Suggested Script Structure:**
+"**Start with the daytime struggle:** 'During the day, plants **compete** to **escape** each other's shade. But the real magic happens after **sundown**. The molecules **gradually** **revert** to an inactive state, and the rate at which they do this is a direct **measure** of temperature.'
 
-**Describe the show structure:**
-"Start with the growth switch: 'In winter, the molecules **suppress** growth. Warm temperatures **accelerate** their change, so they **detach** from DNA and growth can **resume**. This thermo-sensing ability **evolved** and was **co-opted** into the plant's existing light-sensing network.'"
+**Next, explain the night mechanism:** 'In cold, this leads to **inactivity** due to their **growth-suppressing** state. In warmth, this process, called **dark reversion**, speeds up. The molecules **detach** from DNA, and growth can **resume**. This ability **evolved** and was **co-opted** into the plant's network.'
 
-"Next, explain the research journey: 'Some plants use day length as an **indicator** of the season, while other **species** have **considerable** temperature sensitivity, which helps **determine** their timing. These new **findings** are the **culmination** of 12 years of work. Recent **advances** in genetics allow scientists to **identify** and alter genes with **precise** tools, helping to **transfer** this knowledge to the field.'"
+**Finally, connect to different plants:** 'Day length is an **indicator** for some **species**, while others, like **daffodils**, rely more on temperature.'
 
-"Then, create a review screen. Arrange the 16 words in two or three columns to show all the words/phrases clearly. For example: `word —— synonyms`."
+**Review:** Create a summary screen with all 16 words.
 
-"End with a final thought: 'Why is it crucial for scientists to **transfer** new knowledge from the lab into practical use?'"
+**Engagement Question:** 'How does the process of **dark reversion** demonstrate the incredible way plants have **evolved** to survive?'"
+
+---
+
+#### **VIDEO 4: From Research to Reality (15 words)**
+
+**Objective:**
+"To conclude by summarizing the culmination of the research, the advanced tools being used, and the collaborative effort needed to transfer this knowledge into practical, real-world solutions."
+
+**Target Vocabulary:**
+"This final video covers the application of the science and the future of the research."
+
+1.  **considerable**
+2.  **in advance**
+3.  **dual**
+4.  **well-known rhyme**
+5.  **oak before ash**
+6.  **determine**
+7.  **consequently**
+8.  **likeliness**
+9.  **findings**
+10. **culmination**
+11. **advances**
+12. **precise**
+13. **uniquely well-positioned**
+14. **outstanding collaborators**
+15. **transfer**
+
+**Suggested Script Structure:**
+"**Start with the rhyme's science:** '**Considerable** temperature sensitivity allows some plants to flower months **in advance**. This **dual** role of phytochromes explains the **well-known rhyme**, '**oak before ash**.' Oaks use temperature to **determine** their timing; **consequently**, a warm spring increases the **likeliness** of a hot summer.'
+
+**Next, explain the research's conclusion:** 'These **findings** are the **culmination** of 12 years of work. Modern **advances** in genetics allow scientists to use **precise** molecular tools. This makes Cambridge **uniquely well-positioned**, thanks to **outstanding collaborators**, to **transfer** this knowledge from the lab to the field.'
+
+**Review:** Create a summary screen with all 15 words.
+
+**Engagement Question:** 'Why is the ability to **transfer** scientific **findings** into the real world the most important step in any research?'"

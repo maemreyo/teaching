@@ -102,158 +102,145 @@
 
 ---
 
-### **Vocabulary Learning Plan: The Ships of Ancient Rome (4 Videos)**
+### **Vocabulary Learning Plan: Roman Shipbuilding and Navigation (4-Part Video Series)**
 
-This is an optimized plan to learn the vocabulary from the reading passage, divided into four balanced and logical parts. Each part corresponds to a video, telling a chapter of the story of Roman maritime engineering.
-
----
-
-#### **VIDEO 1: The Art of Roman Shipbuilding (16 words)**
-
-**Video Script Prompt**
-
-**Target a specific use case:**
-"Help learners contrast modern shipbuilding with the ancient Roman art and understand how we know about their methods."
-
-**Focus on a specific source:**
-"Focus on the first 16 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
-
-1.  **based on**
-2.  **sophisticated**
-3.  **ancient**
-4.  **relying on**
-5.  **estimation**
-6.  **inherited**
-7.  **techniques**
-8.  **surviving**
-9.  **documents**
-10. **descriptions**
-11. **Excavated**
-12. **vessels**
-13. **clues**
-14. **outer**
-15. **hull**
-16. **frame**
-
-**Describe the show structure:**
-"Start with the contrast: 'Modern shipbuilding is **based on** science and **sophisticated** tools. But in **ancient** Rome, it was an art, **relying on** **estimation** and **inherited** **techniques**.'"
-
-"Next, explain our sources: 'We know about their ships from **surviving** **documents** that give **descriptions** of them. **Excavated** **vessels** also provide **clues**. They built the **outer** **hull** first, then the inner **frame**.'"
-
-"Then, create a review screen. Arrange the 16 words in two or three columns to show all the words/phrases clearly. For example: `word —— synonyms`."
-
-"End with a discussion question: 'What are the pros and cons of **relying on** **inherited** **techniques** versus modern, **sophisticated** tools?'"
+This is a revised, compact plan that covers all 51 vocabulary words you need to learn. Each video is maximized with a word count between 12 and 13 to ensure an efficient and comprehensive learning experience, telling the complete story of Roman maritime technology.
 
 ---
 
-#### **VIDEO 2: From Planks to Power (16 words)**
+#### **VIDEO 1: The Shipbuilder's Craft (13 words)**
 
 **Video Script Prompt**
 
-**Target a specific use case:**
-"Help learners understand the evolution of Roman construction methods and the resulting scale of their fleet."
+**Objective:**
+"To understand the sources of our knowledge about Roman ships and the evolution of their fundamental construction techniques, from sewing planks to the mortise and tenon joint."
 
-**Focus on a specific source:**
-"Focus on the next 16 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+**Target Vocabulary:**
+"This video covers the foundational concepts of Roman shipbuilding."
 
-1.  **Planks**
-2.  **initially**
-3.  **sewn**
-4.  **fixed**
-5.  **mortise and tenon**
-6.  **stitching**
-7.  **era**
-8.  **shifted**
-9.  **consisted of**
-10. **systematic**
-11. **construction**
-12. **merchant**
-13. **unequalled**
-14. **lightweight**
-15. **speedy**
-16. **powerful**
+1.  **sailors**
+2.  **documents**
+3.  **rigging**
+4.  **vessels**
+5.  **clues**
+6.  **outer**
+7.  **hull**
+8.  **proceeded**
+9.  **frame**
+10. **Planks**
+11. **sewn**
+12. **mortise and tenon**
+13. **stitching**
 
-**Describe the show structure:**
-"Start with construction evolution: '**Planks** were **initially** **sewn** together. Later, they were **fixed** using a **mortise and tenon** joint, which needed no **stitching**. In a later **era**, shipbuilders **shifted** to a new method which **consisted of** building the frame first.'"
+**Suggested Script Structure:**
+"**Start with the sources:** 'We learn about ancient Roman **sailors** from surviving **documents** and excavated **vessels**. These give us **clues** about their sails and **rigging**.'
 
-"Next, describe the result: 'This method was more **systematic** and shortened **construction** time. Romans built large **merchant** ships and warships whose technology was **unequalled**. They were **lightweight**, **speedy**, and made the navy very **powerful**.'"
+**Next, explain the construction process:** 'The Romans built the **outer** **hull** first, and then **proceeded** with the inner **frame**. **Planks** were initially **sewn** together. Later, they developed the **mortise and tenon** joint, which locked planks together without any **stitching**.'
 
-"Then, create a review screen. Arrange the 16 words in two or three columns to show all the words/phrases clearly. For example: `word —— synonyms`."
+**Review:** Create a summary screen displaying all 13 words.
 
-"End with a creative question: 'Why was the shift to a frame-first method a major breakthrough in shipbuilding?'"
+**Engagement Question:** 'How did the invention of the **mortise and tenon** joint change the way ancient **vessels** were built?'"
 
 ---
 
-#### **VIDEO 3: Warships and Merchant Ships (16 words)**
+#### **VIDEO 2: The Warship Revolution (13 words)**
 
 **Video Script Prompt**
 
-**Target a specific use case:**
-"Help learners compare the specialized design of Roman warships with the practical design of their merchant ships."
+**Objective:**
+"To explore the major shift in shipbuilding that made construction faster and to detail the specialized, lightweight design of Roman warships built for battle."
 
-**Focus on a specific source:**
-"Focus on the next 16 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+**Target Vocabulary:**
+"This video explains the technological leap and the design of their naval fleet."
 
-1.  **coast**
-2.  **ballast**
-3.  **narrow**
-4.  **naval**
-5.  **battles**
-6.  **bronze battering ram**
-7.  **pierce**
-8.  **timber**
-9.  **dominant**
-10. **rowers**
-11. **transport**
-12. **cargo**
-13. **reasonable**
-14. **stability**
-15. **rudders**
-16. **stern**
+1.  **shifted**
+2.  **dramatically**
+3.  **construction**
+4.  **merchant**
+5.  **unequalled**
+6.  **ballast**
+7.  **excess load**
+8.  **narrow**
+9.  **sink**
+10. **crippled**
+11. **naval**
+12. **bronze battering ram**
+13. **pierce**
 
-**Describe the show structure:**
-"Start with warships: 'Warships sailed near the **coast**, had no **ballast**, and a **narrow** hull for speed in **naval** **battles**. Their main weapon was a **bronze battering ram** used to **pierce** the **timber** hulls of enemies. The **dominant** warship was the trireme, powered by many **rowers**.'"
+**Suggested Script Structure:**
+"**Start with the revolution:** 'Roman shipbuilders later **shifted** their methods, **dramatically** shortening **construction** time. They built huge **merchant** ships and warships with **unequalled** technology.'
 
-"Next, describe merchant ships: 'Merchant ships were designed to **transport** **cargo** at a **reasonable** cost. They were built for **stability**, with two large **rudders** at the **stern**.'"
+**Next, describe the warship:** 'Warships had no **ballast** or **excess load**, and a long, **narrow** hull for speed. They would not **sink** when damaged but would be left **crippled** on the water after **naval** battles. Their main weapon was a **bronze battering ram** used to **pierce** enemy ships.'
 
-"Then, create a review screen. Arrange the 16 words in two or three columns to show all the words/phrases clearly. For example: `word —— synonyms`."
+**Review:** Create a summary screen with all 13 words.
 
-"End with a reflective question: 'How did the different purposes of warships and merchant ships lead to their different designs?'"
+**Engagement Question:** 'Why was having no **ballast** or **excess load** an advantage in a **naval** battle?'"
 
 ---
 
-#### **VIDEO 4: The Art of Navigation (16 words)**
+#### **VIDEO 3: The Power of the Fleet (13 words)**
 
 **Video Script Prompt**
 
-**Target a specific use case:**
-"Help learners understand how Roman sailors navigated without modern instruments and appreciate the similarities to modern shipping."
+**Objective:**
+"To detail the human power behind the Roman navy and contrast the design of warships with the practical features of large merchant vessels."
 
-**Focus on a specific source:**
-"Focus on the final 16 vocabulary words. For each, provide a short English meaning and a simple example sentence from the text."
+**Target Vocabulary:**
+"This video focuses on the people who powered the ships and the design of cargo vessels."
 
-1.  **gigantic**
-2.  **approach**
-3.  **intercepted**
-4.  **drag**
-5.  **quay**
-6.  **Navigation**
-7.  **compasses**
-8.  **observation**
-9.  **phenomena**
-10. **visibility**
-11. **facilitated**
-12. **position**
-13. **succession**
-14. **recognisable**
-15. **mariners**
-16. **swell**
+1.  **timber**
+2.  **oars**
+3.  **rowers**
+4.  **exposed to**
+5.  **contrary to perception**
+6.  **superseded**
+7.  **rudders**
+8.  **stern**
+9.  **tiller**
+10. **masts**
+11. **inhabitants**
+12. **gigantic**
+13. **intercepted**
 
-**Describe the show structure:**
-"Start with arrival: 'Ships supplied Rome's **gigantic** port. As they would **approach**, they were **intercepted** by towboats and **dragged** to the **quay**. But how did they get there?'"
+**Suggested Script Structure:**
+"**Start with the rowers:** 'The ram would pierce **timber** hulls, while powerful **oars** were used by hundreds of **rowers**. These men were constantly **exposed to** danger. **Contrary to perception**, they were not slaves. Eventually, the famous trireme was **superseded** by even larger ships.'
 
-"Next, explain their methods: '**Navigation** did not use **compasses** but relied on **observation** of natural **phenomena**. Good **visibility** **facilitated** this, as they noted their **position** relative to a **succession** of **recognisable** landmarks. **Mariners** also used the stars, the sun, and the sea **swell**.'"
+**Next, describe merchant ships:** 'Merchant ships had two huge side **rudders** off the **stern**, controlled by a **tiller**, and from one to three **masts**. They were essential for feeding the one million **inhabitants** of the **gigantic** city of Rome. As they approached port, they would be **intercepted** by towboats.'
 
-"Then, create a review screen. Arrange the 16 words in two columns to show all the words/phrases clearly. For example: `word —— synonyms`."
+**Review:** Create a summary screen with all 13 words.
 
-"End with a final thought: 'Without **compasses**, what natural **phenomena** would be most useful for **navigation** today?'"
+**Engagement Question:** 'How did features like **rudders** and **masts** make merchant ships effective for long-distance trade?'"
+
+---
+
+#### **VIDEO 4: The Art of Ancient Navigation (12 words)**
+
+**Video Script Prompt**
+
+**Objective:**
+"To explain how Roman sailors navigated the vast Mediterranean without modern instruments, relying on skill, observation, and natural signs."
+
+**Target Vocabulary:**
+"This final video covers the journey's end and the methods used to get there."
+
+1.  **quay**
+2.  **compasses**
+3.  **phenomena**
+4.  **succession**
+5.  **recognisable**
+6.  **mariners**
+7.  **accuracy**
+8.  **swell**
+9.  **resembled**
+10. **sailors**
+11. **documents**
+12. **rigging**
+
+**Suggested Script Structure:**
+"**Start with the arrival:** 'Towboats would drag the massive ships to the **quay**. But how did they navigate their long journey? Roman navigation did not rely on **compasses**.'
+
+**Next, explain their methods:** 'Instead, they depended on observing natural **phenomena**. **Mariners** would follow a **succession** of **recognisable** landmarks along the coast. In open water, they used the sun and stars, though with less **accuracy**, and read the direction of the sea **swell**. In many ways, Roman shipping **resembled** modern shipping in its scale and regularity.'
+
+**Review:** Create a final summary screen with all 12 words.
+
+**Engagement Question:** 'Without **compasses**, which natural **phenomena** do you think would be the most reliable for ancient **mariners** to follow?'"
