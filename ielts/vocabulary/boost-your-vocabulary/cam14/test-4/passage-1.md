@@ -2,8 +2,8 @@
 
 ## The Secret of Staying Young
 
-| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) |
-| :--- | :--- | :--- |
+| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) | Done? |
+| :--- | :--- | :--- | :---: |
 | **native** | resident, local, aboriginal | Pheidole dentata, a **native** ant of the south-eastern U.S., isn't immortal. |
 | **ant** | a small insect that lives in large groups | ...a native **ant** of the south-eastern U.S., isn't immortal. |
 | **immortal** | eternal, undying, endless | ...isn't **immortal**. |

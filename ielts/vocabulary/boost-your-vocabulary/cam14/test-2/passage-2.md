@@ -2,8 +2,8 @@
 
 ## Back To The Future Of Skyscraper Design
 
-| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) |
-| :--- | :--- | :--- |
+| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) | Done? | Done? |
+| :--- | :--- | :--- | :---: | :---: |
 | **excessive** | extreme, too much, unnecessary | Answers to the problem of **excessive** electricity use by skyscrapers... |
 | **skyscraper** | tower, multistory building, high-rise building | ...electricity use by **skyscrapers** and large public buildings... |
 | **ingenious** | skillful, creative, effective, clever | ...can be found in **ingenious** but forgotten architectural designs... |

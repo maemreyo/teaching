@@ -2,8 +2,8 @@
 
 ## Why Zoos Are Good
 
-| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) |
-| :--- | :--- | :--- |
+| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) | Done? | Done? |
+| :--- | :--- | :--- | :---: | :---: |
 | **makes the case for**| to argue that something is the best thing to do | Scientist David Hone **makes the case for** zoos. |
 | **species** | type, kind, sort, class, group | ...for many **species** of animals living in zoos... |
 | **wildlife** | nature, natural world, environment | ...in zoos or **wildlife** parks to have a quality of life as high as...in the wild. |

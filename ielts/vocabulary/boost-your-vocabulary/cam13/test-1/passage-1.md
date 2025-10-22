@@ -2,8 +2,8 @@
 
 ## Case study: Tourism New Zealand website
 
-| Từ vựng (Vocabulary)         | Từ đồng nghĩa / Giải thích (Synonyms / Explanation)                      | Ngữ cảnh từ bài đọc (Context from the Passage)                                                          |
-| :--------------------------- | :----------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------ |
+| Từ vựng (Vocabulary)         | Từ đồng nghĩa / Giải thích (Synonyms / Explanation)                      | Ngữ cảnh từ bài đọc (Context from the Passage)                                                          | Done? |
+| :--------------------------- | :----------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------ | :---: |
 | **inhabitants**              | resident, dweller                                                        | New Zealand is a small country of four million **inhabitants**...                                       |
 | **long-haul**                | travelling a long distance                                               | ...a **long-haul** flight from all the major tourist-generating markets...                              |
 | **gross domestic product**   | the total value of goods and services produced by a country in one year  | Tourism currently makes up 9% of the country's **gross domestic product**...                            |

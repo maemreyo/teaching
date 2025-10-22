@@ -2,8 +2,8 @@
 
 ## Crop-growing skyscrapers
 
-| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) |
-| :--- | :--- | :--- |
+| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) | Done? | Done? |
+| :--- | :--- | :--- | :---: | :---: |
 | **urban** | city, inner-city, metropolitan, town | ...nearly 80% of the Earth's population will live in **urban** centres. |
 | **conservative**| likely to be less than the real amount | Applying the most **conservative** estimates to current demographic trends... |
 | **current** | present, existing, recent | ...to **current** demographic trends... |

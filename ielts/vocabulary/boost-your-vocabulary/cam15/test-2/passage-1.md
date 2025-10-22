@@ -2,8 +2,8 @@
 
 ## Could urban engineers learn from dance?
 
-| Từ vựng (Vocabulary)      | Từ đồng nghĩa / Giải thích (Synonyms / Explanation)          | Ngữ cảnh từ bài đọc (Context from the Passage)                                                                                       |
-| :------------------------ | :----------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------- |
+| Từ vựng (Vocabulary)      | Từ đồng nghĩa / Giải thích (Synonyms / Explanation)          | Ngữ cảnh từ bài đọc (Context from the Passage)                                                                                       | Done? |
+| :------------------------ | :----------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------- | :---: |
 | **major impact**          | significant, profound effect or influence                    | The way we travel around cities has a **major impact** on whether they are sustainable.                                              |
 | **sustainable**           | able to continue without causing damage to the environment   | ...whether they are **sustainable**.                                                                                                 |
 | **estimated**             | guess, approximate, assess                                   | Transportation is **estimated** to account for 30% of energy consumption...                                                          |

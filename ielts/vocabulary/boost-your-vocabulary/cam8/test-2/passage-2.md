@@ -2,8 +2,8 @@
 
 ## The Little Ice Age
 
-| Vocabulary | Synonyms / Explanation | Context from the Passage | Done? |
-| :--- | :--- | :--- | :---: |
+| Vocabulary | Synonyms / Explanation | Context from the Passage | Done? | Done? |
+| :--- | :--- | :--- | :---: | :---: |
 | **climatic** | relating to the weather | ...other **climatic** shifts... |
 | **shift** | change, alteration, modification | ...other climatic **shifts**... |
 | **embark on** | start, begin, get on | ...before I **embark on** that... |

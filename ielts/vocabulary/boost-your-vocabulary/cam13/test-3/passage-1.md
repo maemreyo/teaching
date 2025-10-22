@@ -2,8 +2,8 @@
 
 ## The coconut palm
 
-| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) |
-| :--- | :--- | :--- |
+| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) | Done? |
+| :--- | :--- | :--- | :---: |
 | **palm** | a tree growing in warm regions with a tall, straight trunk and pointed leaves | The coconut **palm** |
 | **peoples** | a society | ...central to the lives of Polynesian and Asian **peoples**. |
 | **exotic** | unusual, different, nonnative | ...coconuts have always been **exotic** and unusual... |

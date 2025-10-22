@@ -2,8 +2,8 @@
 
 ## How to make wise decisions
 
-| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) |
-| :--- | :--- | :--- |
+| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) | Done? | Done? |
+| :--- | :--- | :--- | :---: | :---: |
 | **ecologist** | a scientist who studies ecology, environment | Chelsea Rochman, an **ecologist** at the University of California... |
 | **dismal** | miserable, gloomy, depressing | ...has been trying to answer a **dismal** question... |
 | **terrible** | awful, dreadful, appalling | Is everything **terrible**, or are things just very, very bad? |

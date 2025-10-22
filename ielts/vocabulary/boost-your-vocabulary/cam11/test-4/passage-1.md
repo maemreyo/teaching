@@ -2,8 +2,8 @@
 
 ## Research using twins
 
-| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) |
-| :--- | :--- | :--- |
+| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) | Done? | Done? |
+| :--- | :--- | :--- | :---: | :---: |
 | **biomedical** | relating to how biology affects medicine | To **biomedical** researchers all over the world, twins offer a precious opportunity... |
 | **twins** | one of two children born at the same time to the same mother | Research using **twins** |
 | **precious** | valuable, cherished, treasured | ...twins offer a **precious** opportunity to untangle the influence of genes... |

@@ -2,8 +2,8 @@
 
 ## Striking Back at Lightning With Lasers
 
-| Vocabulary | Synonyms / Explanation | Context from the Passage |
-| :--- | :--- | :--- |
+| Vocabulary | Synonyms / Explanation | Context from the Passage | Done? |
+| :--- | :--- | :--- | :---: |
 | **seldom** | rarely, infrequently, occasionally | **Seldom** is the weather more dramatic than when thunderstorms strike. |
 | **strike** | hit, attack, crash into | ...when thunderstorms **strike**. |
 | **fury** | extreme anger, rage, violence | Their electrical **fury** inflicts death or serious injury... |

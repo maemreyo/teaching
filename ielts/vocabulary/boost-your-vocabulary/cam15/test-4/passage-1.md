@@ -2,8 +2,8 @@
 
 ## The return of huarango
 
-| Từ vựng (Vocabulary)   | Từ đồng nghĩa / Giải thích (Synonyms / Explanation)                                                        | Ngữ cảnh từ bài đọc (Context from the Passage)                                                       |
-| :--------------------- | :--------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------- |
+| Từ vựng (Vocabulary)   | Từ đồng nghĩa / Giải thích (Synonyms / Explanation)                                                        | Ngữ cảnh từ bài đọc (Context from the Passage)                                                       | Done? |
+| :--------------------- | :--------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------- | :---: |
 | **huarango**           | A tree (Prosopis pallida) native to semi-arid areas of Colombia, Ecuador and Peru                          | The return of **huarango**                                                                           |
 | **arid**               | dry, parched, waterless                                                                                    | The **arid** valleys of southern Peru are welcoming the return of a native plant.                    |
 | **return**             | reappearance, reoccurrence                                                                                 | ...welcoming the **return** of a native plant.                                                       |

@@ -2,8 +2,8 @@
 
 ## Book Review: The Happiness Industry
 
-| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) |
-| :--- | :--- | :--- |
+| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) | Done? |
+| :--- | :--- | :--- | :---: |
 | **ultimate goal** | main and most important aim | Happiness is the **ultimate goal** because it is self-evidently good. |
 | **self-evidently**| clear, obvious without needing any proof or explanation | ...because it is **self-evidently** good. |
 | **matters** | to be important | If we are asked why happiness **matters** we can give no further external reason. |

@@ -2,8 +2,8 @@
 
 ## How baby talk gives infant brains a boost
 
-| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) |
-| :--- | :--- | :--- |
+| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) | Done? |
+| :--- | :--- | :--- | :---: |
 | **high-pitched** | (of sounds) higher than usual | ...the typical way of talking to a baby - **high-pitched**, exaggerated and repetitious... |
 | **exaggerated** | being described as better, larger etc than it really is | ...**exaggerated** and repetitious - is a source of fascination... |
 | **repetitious** | involving something that is often repeated | ...exaggerated and **repetitious** - is a source of fascination... |

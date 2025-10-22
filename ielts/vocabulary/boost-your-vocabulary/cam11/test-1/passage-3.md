@@ -2,8 +2,8 @@
 
 ## Reducing the effects of climate change
 
-| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) |
-| :--- | :--- | :--- |
+| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) | Done? |
+| :--- | :--- | :--- | :---: |
 | **ambitious** | determined to be successful, rich, powerful, etc. | ...the increasingly **ambitious** geo-engineering projects being explored by scientists. |
 | **geo-engineering**| the study of finding ways to change the earth's atmosphere in order to reduce global warming | ...**geo-engineering** projects being explored by scientists. |
 | **dependence on** | the situation in which you need something all the time to continue existing | Such is our **dependence on** fossil fuels... |

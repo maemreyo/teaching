@@ -2,8 +2,8 @@
 
 ## UK companies need more effective boards of directors
 
-| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) |
-| :--- | :--- | :--- |
+| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) | Done? | Done? |
+| :--- | :--- | :--- | :---: | :---: |
 | **governance** | the act or process of governing | ...a number of serious failures of **governance**... |
 | **meltdown** | a situation in which prices fall by a very large amount or an industry or economic situation becomes much weaker | Following the 2008 financial **meltdown**... |
 | **resulted in** | cause, bring about | ...which **resulted in** a deeper and more prolonged period of economic downturn... |

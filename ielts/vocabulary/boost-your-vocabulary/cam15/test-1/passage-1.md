@@ -2,8 +2,8 @@
 
 ## Nutmeg - A valuable spice
 
-| Từ vựng (Vocabulary)     | Từ đồng nghĩa / Giải thích (Synonyms / Explanation)       | Ngữ cảnh từ bài đọc (Context from the Passage)                                                    |
-| :----------------------- | :-------------------------------------------------------- | :------------------------------------------------------------------------------------------------ |
+| Từ vựng (Vocabulary)     | Từ đồng nghĩa / Giải thích (Synonyms / Explanation)       | Ngữ cảnh từ bài đọc (Context from the Passage)                                                    | Done? |
+| :----------------------- | :-------------------------------------------------------- | :------------------------------------------------------------------------------------------------ | :---: |
 | **nutmeg**               | a brown powder from a tropical tree seed, used as a spice | The **nutmeg** tree, Myristica fragrans, is a large evergreen tree...                             |
 | **valuable**             | important, beneficial, worthy                             | ...Nutmeg - A **valuable** spice                                                                  |
 | **spice**                | a powder/seed from plants for flavouring food             | These are the sources of the two **spices** nutmeg and mace...                                    |

@@ -2,8 +2,8 @@
 
 ## Collecting ant specimens
 
-| Vocabulary | Synonyms / Explanation | Context from the Passage |
-| :--- | :--- | :--- |
+| Vocabulary | Synonyms / Explanation | Context from the Passage | Done? | Done? |
+| :--- | :--- | :--- | :---: | :---: |
 | **ancient** | prehistoric, very old, earliest | **Ancient** voyagers who settled the far-flung... |
 | **voyager** | traveler, explorer, adventurer | Ancient **voyagers** who settled the far-flung... |
 | **far-flung** | far, distant, remote | ...who settled the **far-flung** islands... |

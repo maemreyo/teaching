@@ -2,8 +2,8 @@
 
 ## Motivational Factors And The Hospitality Industry
 
-| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) |
-| :--- | :--- | :--- |
+| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) | Done? |
+| :--- | :--- | :--- | :---: |
 | **hospitality** | welcome, friendly, kindness, warmth | Motivational Factors And The **Hospitality** Industry |
 | **critical** | crucial, significant, vital, important | A **critical** ingredient in the success of hotels is developing... |
 | **superior** | excellent, high-class, top-quality, first-class | ...and maintaining **superior** performance from their employees. |

@@ -2,8 +2,8 @@
 
 ## Driverless cars
 
-| Từ vựng (Vocabulary)        | Từ đồng nghĩa / Giải thích (Synonyms / Explanation)  | Ngữ cảnh từ bài đọc (Context from the Passage)                                                   |
-| :-------------------------- | :--------------------------------------------------- | :----------------------------------------------------------------------------------------------- |
+| Từ vựng (Vocabulary)        | Từ đồng nghĩa / Giải thích (Synonyms / Explanation)  | Ngữ cảnh từ bài đọc (Context from the Passage)                                                   | Done? |
+| :-------------------------- | :--------------------------------------------------- | :----------------------------------------------------------------------------------------------- | :---: |
 | **driverless**              | controlled by equipment, not a human driver          | **Driverless** cars                                                                              |
 | **automotive**              | motorized, relating to cars                          | The **automotive** sector is well used to adapting to automation...                              |
 | **sector**                  | area, part, division                                 | The automotive **sector** is well used to adapting to automation...                              |

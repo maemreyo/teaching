@@ -2,8 +2,8 @@
 
 ## The Falkirk Wheel
 
-| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) |
-| :--- | :--- | :--- |
+| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) | Done? | Done? |
+| :--- | :--- | :--- | :---: | :---: |
 | **rotating** | turning in a circle, especially around a fixed point | The Falkirk Wheel in Scotland is the world's first and only **rotating** boat lift. |
 | **central** | vital, essential, chief, most important, crucial | ...it is **central** to the ambitious £84.5m Millennium Link project... |
 | **restore** | repair, rebuild | ...to **restore** navigability across Scotland... |

@@ -2,8 +2,8 @@
 
 ## Cork
 
-| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) |
-| :--- | :--- | :--- |
+| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) | Done? |
+| :--- | :--- | :--- | :---: |
 | **remarkable** | extraordinary, outstanding, significant, incredible | ...the cork oak tree...is a **remarkable** material. |
 | **tough** | strong | It is **tough**, elastic, buoyant, and fire-resistant... |
 | **elastic** | stretchy, flexible | It is tough, **elastic**, buoyant, and fire-resistant... |

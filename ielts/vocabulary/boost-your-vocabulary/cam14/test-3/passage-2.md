@@ -2,8 +2,8 @@
 
 ## Saving Bugs To Find New Drugs
 
-| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) |
-| :--- | :--- | :--- |
+| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) | Done? | Done? |
+| :--- | :--- | :--- | :---: | :---: |
 | **bug** | insect, pest | Saving **Bugs** To Find New Drugs |
 | **potential** | prospect, possibility, capability | Zoologist Ross Piper looks at the **potential** of insects in pharmaceutical research. |
 | **pharmaceutical**| medicinal, medical, therapeutic, curative | ...in **pharmaceutical** research. |

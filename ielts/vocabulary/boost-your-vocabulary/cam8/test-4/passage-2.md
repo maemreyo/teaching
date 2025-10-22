@@ -2,8 +2,8 @@
 
 ## Biological control of pests
 
-| Vocabulary | Synonyms / Explanation | Context from the Passage |
-| :--- | :--- | :--- |
+| Vocabulary | Synonyms / Explanation | Context from the Passage | Done? |
+| :--- | :--- | :--- | :---: |
 | **pest** | bug, insect, vermin | ...for the control of **pests** which pose a threat... |
 | **reckless** | irresponsible, thoughtless, careless | The continuous and **reckless** use of synthetic chemicals... |
 | **synthetic** | artificial, manmade, manufactured | ...the reckless use of **synthetic** chemicals... |

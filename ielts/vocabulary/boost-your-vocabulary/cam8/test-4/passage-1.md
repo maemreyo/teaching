@@ -2,8 +2,8 @@
 
 ## Land of the rising sun
 
-| Vocabulary | Synonyms / Explanation | Context from the Passage |
-| :--- | :--- | :--- |
+| Vocabulary | Synonyms / Explanation | Context from the Passage | Done? |
+| :--- | :--- | :--- | :---: |
 | **significantly** | considerably, noticeably | Japan has a **significantly** better record... |
 | **average** | typical, standard, normal | ...in terms of **average** mathematical attainment... |
 | **attainment** | achievement, accomplishment | ...in terms of average mathematical **attainment**... |

@@ -2,8 +2,8 @@
 
 ## Whatever happened to the Harappan Civilisation?
 
-| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) |
-| :--- | :--- | :--- |
+| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) | Done? |
+| :--- | :--- | :--- | :---: |
 | **sheds light on** | to explain a situation | New research **sheds light on** the disappearance of an ancient society. |
 | **disappearance**| loss, vanishing | ...the **disappearance** of an ancient society. |
 | **flourished** | grow, thrive, prosper | The Harappan Civilisation...**flourished** 5,000 years ago... |

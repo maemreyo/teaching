@@ -2,8 +2,8 @@
 
 ## Music and the emotions
 
-| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) |
-| :--- | :--- | :--- |
+| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) | Done? | Done? |
+| :--- | :--- | :--- | :---: | :---: |
 | **abstract** | existing as an idea, not as a physical thing | ...music is a purely **abstract**_art form... |
 | **devoid of** | to be completely lacking in something | ...**devoid of** language or explicit ideas. |
 | **explicit** | clear and exact | ...devoid of language or **explicit** ideas. |

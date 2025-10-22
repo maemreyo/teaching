@@ -2,8 +2,8 @@
 
 ## Why fairy tales are really scary tales
 
-| Từ vựng (Vocabulary)    | Từ đồng nghĩa / Giải thích (Synonyms / Explanation)                                                          | Ngữ cảnh từ bài đọc (Context from the Passage)                                                |
-| :---------------------- | :----------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------- |
+| Từ vựng (Vocabulary)    | Từ đồng nghĩa / Giải thích (Synonyms / Explanation)                                                          | Ngữ cảnh từ bài đọc (Context from the Passage)                                                | Done? |
+| :---------------------- | :----------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------- | :---: |
 | **fairy tales**         | a children's story in which magical things happen                                                            | Some people think that **fairy tales** are just stories to amuse children...                  |
 | **amuse**               | entertain, interest, fascinate                                                                               | ...stories to **amuse** children...                                                           |
 | **universal**           | worldwide, widespread, general                                                                               | ...but their **universal** and enduring appeal may be due to more serious reasons.            |

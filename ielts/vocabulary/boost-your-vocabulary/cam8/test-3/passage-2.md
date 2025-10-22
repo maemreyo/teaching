@@ -2,8 +2,8 @@
 
 ## The Nature of Genius
 
-| Vocabulary | Synonyms / Explanation | Context from the Passage |
-| :--- | :--- | :--- |
+| Vocabulary | Synonyms / Explanation | Context from the Passage | Done? | Done? |
+| :--- | :--- | :--- | :---: | :---: |
 | **genius** | talent, gift, flair, expertise | There has always been an interest in **geniuses** and prodigies. |
 | **prodigy** | a young genius | There has always been an interest in geniuses and **prodigies**. |
 | **cult** | a system of religious beliefs | ...from the early Roman **cult** of a divinity... |

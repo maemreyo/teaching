@@ -2,8 +2,8 @@
 
 ## Why Companies Should Welcome Disorder
 
-| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) |
-| :--- | :--- | :--- |
+| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) | Done? |
+| :--- | :--- | :--- | :---: |
 | **disorder** | chaos, disarrange, mess-up | Why Companies Should Welcome **Disorder** |
 | **structured** | arrange, organize, build up | ...or how companies are **structured**... |
 | **strategy** | plan, scheme, approach, policy | We have more **strategies** for time management... |

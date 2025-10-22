@@ -2,8 +2,8 @@
 
 ## This marvelous invention
 
-| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) |
-| :--- | :--- | :--- |
+| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) | Done? |
+| :--- | :--- | :--- | :---: |
 | **marvelous** | amazing, awesome | This **marvelous** invention |
 | **manifold** | various, many and different | Of all mankinds **manifold** creations, language must take pride of place. |
 | **take pride of place**| to be put in the best place for people to see because it is the thing you are most proud of | ...language must **take pride of place**. |

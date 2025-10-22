@@ -2,8 +2,8 @@
 
 ## Preface to ‘how the other half think: adventures in Mathematical reasoning’
 
-| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) |
-| :--- | :--- | :--- |
+| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) | Done? | Done? |
+| :--- | :--- | :--- | :---: | :---: |
 | **reasoning** | the process of thinking about something in order to make a decision | ...adventures in Mathematical **reasoning**’ |
 | **compositions**| work of art, piece of music, etc | ...in some difficult musical **compositions**, there are beautiful, but easy parts... |
 | **advanced** | higher | ...some discoveries in **advanced** mathematics that do not depend on specialized knowledge... |

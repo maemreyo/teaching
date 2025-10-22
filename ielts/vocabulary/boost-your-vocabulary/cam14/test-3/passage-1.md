@@ -2,8 +2,8 @@
 
 ## The Concept of Intelligence
 
-| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) |
-| :--- | :--- | :--- |
+| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) | Done? |
+| :--- | :--- | :--- | :---: |
 | **unconscious** | unaware, insensible, senseless | ...people all have **unconscious** notions - known as 'implicit theories' of intelligence... |
 | **notions** | idea, thought, concept, perception | ...people all have unconscious **notions** - known as 'implicit theories'... |
 | **implicit** | unspoken, indirect, implied | ...known as '**implicit** theories' of intelligence... |

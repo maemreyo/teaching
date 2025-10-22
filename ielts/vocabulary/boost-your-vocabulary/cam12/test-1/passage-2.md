@@ -2,8 +2,8 @@
 
 ## Collecting as a hobby
 
-| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) |
-| :--- | :--- | :--- |
+| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) | Done? |
+| :--- | :--- | :--- | :---: |
 | **fascinating** | charming, attractive, interesting | ...it's one that many of us psychologists find **fascinating**. |
 | **dignified with**| distinguish | Many forms of collecting have been **dignified with** a technical_name... |
 | **productive** | practical, useful, helpful, valuable | ...money that could surely to much more **productive** use. |

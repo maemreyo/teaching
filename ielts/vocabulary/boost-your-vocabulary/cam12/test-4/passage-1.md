@@ -2,8 +2,8 @@
 
 ## The History of Glass
 
-| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) |
-| :--- | :--- | :--- |
+| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) | Done? | Done? |
+| :--- | :--- | :--- | :---: | :---: |
 | **eruption** | if a volcano erupts, it explodes and sends smoke, fire, and rock into the sky | ...as a result of the intense heat of an **eruption** melting sand... |
 | **spears** | a pole with a sharp pointed blade at one end, used as a weapon in the past | ...was first used as tips for **spears**. |
 | **evidence** | proof | Archaeologists have even found **evidence** of man-made glass... |

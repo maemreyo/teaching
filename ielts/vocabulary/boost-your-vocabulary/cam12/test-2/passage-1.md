@@ -2,8 +2,8 @@
 
 ## The risks agriculture faces in developing countries
 
-| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) |
-| :--- | :--- | :--- |
+| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) | Done? |
+| :--- | :--- | :--- | :---: |
 | **synthesis** | mixture, combination | **Synthesis** of an online debate |
 | **distinguish** | differentiate | Two things **distinguish** food production from all other productive activities... |
 | **dependent on** | reliant | ...it is hugely **dependent on** nature. |

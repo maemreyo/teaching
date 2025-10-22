@@ -2,8 +2,8 @@
 
 ## The story of silk
 
-| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) |
-| :--- | :--- | :--- |
+| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) | Done? | Done? |
+| :--- | :--- | :--- | :---: | :---: |
 | **luxurious** | expensive, costly | The history of the world's most **luxurious** fabric... |
 | **fabric** | material, cloth | ...the world's most luxurious **fabric**, from ancient China to the present day. |
 | **fine** | well, excellent, top quality | Silk is a **fine**, smooth material produced from the cocoons... |

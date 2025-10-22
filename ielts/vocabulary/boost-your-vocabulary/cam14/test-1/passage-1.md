@@ -2,8 +2,8 @@
 
 ## The Importance of Children's Play
 
-| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) |
-| :--- | :--- | :--- |
+| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) | Done? |
+| :--- | :--- | :--- | :---: |
 | **brick by brick** | steadily in a step-by-step manner | **Brick by brick**, six-year-old Alice is building a a magical kingdom. |
 | **fairy-tale** | enchanted, magical, fabulous | Imagining **fairy-tale** turrets and fire-breathing dragons... |
 | **turrets** | a small tower on a large building, especially a castle | ...fairy-tale **turrets** and fire-breathing dragons... |

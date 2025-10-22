@@ -2,8 +2,8 @@
 
 ## The Benefits of Being Bilingual
 
-| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) |
-| :--- | :--- | :--- |
+| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) | Done? |
+| :--- | :--- | :--- | :---: |
 | **bilingual** | able to speak two languages equally well | The Benefits of Being **Bilingual** |
 | **multilingual** | using, speaking, or written in several different languages | ...the world's population is now bilingual or **multilingual**... |
 | **monolingual** | speaking or using only one language | ...a disadvantage compared with their **monolingual** peers. |

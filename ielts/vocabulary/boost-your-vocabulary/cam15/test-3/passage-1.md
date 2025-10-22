@@ -2,8 +2,8 @@
 
 ## Henry Moore (1898-1986)
 
-| Từ vựng (Vocabulary)           | Từ đồng nghĩa / Giải thích (Synonyms / Explanation)                | Ngữ cảnh từ bài đọc (Context from the Passage)                                               |
-| :----------------------------- | :----------------------------------------------------------------- | :------------------------------------------------------------------------------------------- |
+| Từ vựng (Vocabulary)           | Từ đồng nghĩa / Giải thích (Synonyms / Explanation)                | Ngữ cảnh từ bài đọc (Context from the Passage)                                               | Done? |
+| :----------------------------- | :----------------------------------------------------------------- | :------------------------------------------------------------------------------------------- | :---: |
 | **sculptor**                   | someone who creates sculptures                                     | The British **sculptor** Henry Moore was a leading figure...                                 |
 | **leading**                    | important, foremost, chief, top                                    | ...was a **leading** figure in the 20th-century art world.                                   |
 | **figure**                     | person, celebrity, individual                                      | ...was a leading **figure** in the 20th-century art world.                                   |

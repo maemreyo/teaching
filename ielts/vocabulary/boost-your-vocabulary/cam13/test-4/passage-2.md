@@ -2,8 +2,8 @@
 
 ## Saving the soil
 
-| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) |
-| :--- | :--- | :--- |
+| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) | Done? |
+| :--- | :--- | :--- | :---: |
 | **at risk** | in a situation where you may be harmed | More than a third of the Earth's top layer is **at risk**. |
 | **precious** | valued, cherished, treasured | Is there hope for our planet's most **precious** resource? |
 | **resource** | something such as useful land, or minerals such as oil or coal | ...our planet's most precious **resource**? |

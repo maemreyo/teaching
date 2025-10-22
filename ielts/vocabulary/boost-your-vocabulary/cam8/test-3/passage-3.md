@@ -2,8 +2,8 @@
 
 ## How does the biological clock tick
 
-| Vocabulary | Synonyms / Explanation | Context from the Passage |
-| :--- | :--- | :--- |
+| Vocabulary | Synonyms / Explanation | Context from the Passage | Done? | Done? |
+| :--- | :--- | :--- | :---: | :---: |
 | **biological clock** | body clock, internal clock | How does the **biological clock** tick? |
 | **tick** | make a short repeated sound | How does the biological clock **tick**? |
 | **life span** | lifetime, life expectancy | Our **life span** is restricted. |

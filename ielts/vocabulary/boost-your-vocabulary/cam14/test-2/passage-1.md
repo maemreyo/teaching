@@ -2,8 +2,8 @@
 
 ## Alexander Henderson (1831-1913)
 
-| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) |
-| :--- | :--- | :--- |
+| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) | Done? |
+| :--- | :--- | :--- | :---: |
 | **emigrated** | migrate, relocate, move, abroad | Born in Scotland, Henderson **emigrated** to Canada in 1855... |
 | **well-known** | famous, celebrated, renowned, legendary | ...and became a **well-known** landscape photographer. |
 | **merchant** | seller, trader, wholesaler, dealer | ...was the son of a successful **merchant**. |

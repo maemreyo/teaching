@@ -2,8 +2,8 @@
 
 ## The Growth of Bike-Sharing Schemes Around The World
 
-| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) |
-| :--- | :--- | :--- |
+| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) | Done? | Done? |
+| :--- | :--- | :--- | :---: | :---: |
 | **devise** | invent, create, plan, conceive | ...Luud Schimmelpennink helped to **devise** urban bike-sharing schemes... |
 | **schemes** | program, plan, system, strategy | ...urban bike-sharing **schemes**... |
 | **came up with** | think of, create, produce | Provo, the organisation that **came up with** the idea... |

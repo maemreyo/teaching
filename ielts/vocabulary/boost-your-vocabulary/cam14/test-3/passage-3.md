@@ -2,8 +2,8 @@
 
 ## The power of play
 
-| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) |
-| :--- | :--- | :--- |
+| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) | Done? |
+| :--- | :--- | :--- | :---: |
 | **virtually** | almost, nearly, practically | **Virtually** every child, the world over, plays. |
 | **the world over**| everywhere in the world | Virtually every child, **the world over**, plays. |
 | **drive** | urge, desire, need, instinct, passion | The **drive** to play is so intense that children will do so in any circumstances... |

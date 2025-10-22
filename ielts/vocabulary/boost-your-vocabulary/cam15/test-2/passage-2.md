@@ -2,8 +2,8 @@
 
 ## Should we try to bring extinct species back to life?
 
-| Từ vựng (Vocabulary)     | Từ đồng nghĩa / Giải thích (Synonyms / Explanation)                  | Ngữ cảnh từ bài đọc (Context from the Passage)                                                        |
-| :----------------------- | :------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------- |
+| Từ vựng (Vocabulary)     | Từ đồng nghĩa / Giải thích (Synonyms / Explanation)                  | Ngữ cảnh từ bài đọc (Context from the Passage)                                                        | Done? |
+| :----------------------- | :------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------- | :---: |
 | **bring back to life**   | cause someone/something to live again                                | Should we try to **bring** extinct species **back to life**?                                          |
 | **extinct**              | nonexistent, dead, vanished                                          | ...try to bring **extinct** species back to life?                                                     |
 | **species**              | class, type, kind, sort                                              | The passenger pigeon was a legendary **species**.                                                     |

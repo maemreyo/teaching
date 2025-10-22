@@ -2,8 +2,8 @@
 
 ## The Lost City
 
-| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) |
-| :--- | :--- | :--- |
+| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) | Done? | Done? |
+| :--- | :--- | :--- | :---: | :---: |
 | **ruined** | damage, destroy, devastate | ...an explorer's encounter with the **ruined** city of Machu Picchu... |
 | **civilization** | society | ...the most famous icon of the Inca **civilization**. |
 | **exploration** | discovery | ...the **exploration** of the remote hinterland to the west of Cusco... |

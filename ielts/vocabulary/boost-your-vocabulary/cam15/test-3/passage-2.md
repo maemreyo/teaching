@@ -2,8 +2,8 @@
 
 ## The Desolenator: Producing clean water
 
-| Từ vựng (Vocabulary)      | Từ đồng nghĩa / Giải thích (Synonyms / Explanation)                        | Ngữ cảnh từ bài đọc (Context from the Passage)                                    |
-| :------------------------ | :------------------------------------------------------------------------- | :-------------------------------------------------------------------------------- |
+| Từ vựng (Vocabulary)      | Từ đồng nghĩa / Giải thích (Synonyms / Explanation)                        | Ngữ cảnh từ bài đọc (Context from the Passage)                                    | Done? |
+| :------------------------ | :------------------------------------------------------------------------- | :-------------------------------------------------------------------------------- | :---: |
 | **impressed with**        | excite, amaze, astonish                                                    | William Janssen was **impressed with** the basic rooftop solar heating systems... |
 | **rooftop**               | the upper surface of a roof                                                | ...the basic **rooftop** solar heating systems...                                 |
 | **solar**                 | using the power of the sun's light and heat                                | ...basic rooftop **solar** heating systems...                                     |

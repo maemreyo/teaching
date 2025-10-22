@@ -2,8 +2,8 @@
 
 ## Environmental practices of big businesses
 
-| Từ vựng (Vocabulary)     | Từ đồng nghĩa / Giải thích (Synonyms / Explanation)                                       | Ngữ cảnh từ bài đọc (Context from the Passage)                                                                  |
-| :----------------------- | :---------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------- |
+| Từ vựng (Vocabulary)     | Từ đồng nghĩa / Giải thích (Synonyms / Explanation)                                       | Ngữ cảnh từ bài đọc (Context from the Passage)                                                                  | Done? |
+| :----------------------- | :---------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------- | :---: |
 | **practices**            | habit, custom, way, method                                                                | The environmental **practices** of big businesses are shaped by a fundamental fact...                           |
 | **businesses**           | company, corporation, organization                                                        | ...of big **businesses** are shaped by a fundamental fact...                                                    |
 | **shaped by**            | influence, affect, form                                                                   | ...are **shaped by** a fundamental fact...                                                                      |

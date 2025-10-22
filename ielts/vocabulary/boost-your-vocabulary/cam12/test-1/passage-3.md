@@ -2,8 +2,8 @@
 
 ## What's the purpose of gaining knowledge?
 
-| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) |
-| :--- | :--- | :--- |
+| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) | Done? |
+| :--- | :--- | :--- | :---: |
 | **found** | create, establish | ...I would **found** an institution where any person can find instruction... |
 | **institution** | a large organization that has a particular kind of work or purpose | ...I would found an **institution** where any person can find instruction... |
 | **motto** | slogan, saying | That was the founders **motto** for Cornell University... |

@@ -2,8 +2,8 @@
 
 ## Bring back the big cats
 
-| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) |
-| :--- | :--- | :--- |
+| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) | Done? | Done? | Done? | Done? |
+| :--- | :--- | :--- | :---: | :---: | :---: | :---: |
 | **vanished** | missing | It's time to start returning **vanished** native animals to Britain... |
 | **mystery** | unknown, unidentified | ...describes hunting a **mystery** animal called a llewyn. |
 | **presumed** | assume, guess, suppose | ...the lynx...was **presumed** to have died out in Britain at least 6,000 years ago... |

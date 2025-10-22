@@ -2,8 +2,8 @@
 
 ## Silbo Gomero: The whistle ‘language’ of the Canary Islands
 
-| Từ vựng (Vocabulary)    | Từ đồng nghĩa / Giải thích (Synonyms / Explanation)                            | Ngữ cảnh từ bài đọc (Context from the Passage)                                          |
-| :---------------------- | :----------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------- |
+| Từ vựng (Vocabulary)    | Từ đồng nghĩa / Giải thích (Synonyms / Explanation)                            | Ngữ cảnh từ bài đọc (Context from the Passage)                                          | Done? |
+| :---------------------- | :----------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------- | :---: |
 | **whistle**             | a high sound made by blowing air through your lips or a whistle                | The **whistle** ‘language’ of the Canary Islands                                        |
 | **situated**            | position, place, locate                                                        | La Gomera is one of the Canary Islands **situated** in the Atlantic Ocean...            |
 | **coast**               | shore, seaside                                                                 | ...off the northwest **coast** of Africa.                                               |

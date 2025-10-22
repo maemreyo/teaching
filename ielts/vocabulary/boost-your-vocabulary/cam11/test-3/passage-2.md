@@ -2,8 +2,8 @@
 
 ## Great Migrations
 
-| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) |
-| :--- | :--- | :--- |
+| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) | Done? | Done? |
+| :--- | :--- | :--- | :---: | :---: |
 | **migration** | relocation, resettlement, movement | Animal **migration**, however it is defined, is far more than just the movement of animals. |
 | **defined** | describe correctly and thoroughly | ...however it is **defined**, is far more than just the movement of animals. |
 | **inherited** | inborn, innate | It suggests **inherited** instinct. |

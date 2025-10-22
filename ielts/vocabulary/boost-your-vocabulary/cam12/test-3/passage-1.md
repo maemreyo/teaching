@@ -2,8 +2,8 @@
 
 ## Flying tortoises
 
-| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) |
-| :--- | :--- | :--- |
+| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) | Done? |
+| :--- | :--- | :--- | :---: |
 | **reintroduction**| bring back | An airborne **reintroduction** programme has helped conservationists... |
 | **significant** | important, notable, worthy of attention | ...take **significant** steps to protect the endangered Galapagos tortoise. |
 | **spiny** | a spiny animal or plant has lots of stiff sharp points | Forests of **spiny** cacti cover much of the uneven lava plains... |

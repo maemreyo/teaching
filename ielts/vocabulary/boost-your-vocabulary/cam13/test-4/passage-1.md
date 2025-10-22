@@ -2,8 +2,8 @@
 
 ## Cutty Sark: the fastest sailing ship of all time
 
-| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) |
-| :--- | :--- | :--- |
+| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) | Done? |
+| :--- | :--- | :--- | :---: |
 | **shipping** | the delivery of goods, especially by ship | ...and for **shipping** the major changes were from wind to steam power... |
 | **commercial** | related to business and the buying and selling of goods and services | The fastest **commercial** sailing vessels of all time were clippers... |
 | **vessels** | boat, sailing boat, ship, craft | ...sailing **vessels** of all time were clippers... |

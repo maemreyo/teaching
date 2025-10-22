@@ -2,8 +2,8 @@
 
 ## The meaning and power of smell
 
-| Vocabulary | Synonyms / Explanation | Context from the Passage |
-| :--- | :--- | :--- |
+| Vocabulary | Synonyms / Explanation | Context from the Passage | Done? |
+| :--- | :--- | :--- | :---: |
 | **olfaction** | the action of smelling | The sense of smell, or **olfaction**, is powerful. |
 | **odour** | smell, whiff, scent, fragrance | **Odours** affect us on a physical, psychological and social level. |
 | **aroma** | a pleasant smell | ...we breathe in the **aromas** which surround us... |

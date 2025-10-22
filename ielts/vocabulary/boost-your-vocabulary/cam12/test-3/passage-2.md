@@ -2,8 +2,8 @@
 
 ## The Intersection of Health Sciences and Geography
 
-| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) |
-| :--- | :--- | :--- |
+| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) | Done? |
+| :--- | :--- | :--- | :---: |
 | **eradicated** | eliminate, get rid of, wipe out, destroy, remove | ...many diseases that affect_humans have been **eradicated** due to improvements in vaccinations... |
 | **vaccinations** | immunization | ...improvements in **vaccinations** and the availability of healthcare... |
 | **prevalent** | common | ...certain health issues are more **prevalent**. |

@@ -2,8 +2,8 @@
 
 ## Having a laugh
 
-| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation)                          | Ngữ cảnh từ bài đọc (Context from the Passage)                                                    |
-| :------------------- | :--------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------ |
+| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation)                          | Ngữ cảnh từ bài đọc (Context from the Passage)                                                    | Done? |
+| :------------------- | :--------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------ | :---: |
 | **findings**         | discovery, conclusion, result                                                | The **findings** of psychological scientists reveal the importance of humour.                     |
 | **psychological**    | relating to the way your mind works                                          | The findings of **psychological** scientists reveal the importance of humour.                     |
 | **scientists**       | someone who works or is trained in science                                   | ...of psychological **scientists** reveal the importance of humour.                               |

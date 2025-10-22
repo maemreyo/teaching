@@ -2,8 +2,8 @@
 
 ## An introduction to film sound
 
-| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) |
-| :--- | :--- | :--- |
+| Từ vựng (Vocabulary) | Từ đồng nghĩa / Giải thích (Synonyms / Explanation) | Ngữ cảnh từ bài đọc (Context from the Passage) | Done? |
+| :--- | :--- | :--- | :---: |
 | **visual** | relating to seeing | ...we might think of film as an essentially **visual** experience... |
 | **underestimate** | underrate, undervalue | ...we really cannot afford to **underestimate** the importance of film sound. |
 | **complicated** | complex | A meaningful sound track is often as **complicated** as the image on the screen... |
