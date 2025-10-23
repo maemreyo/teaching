@@ -1,7 +1,3 @@
-Chắc chắn rồi. Dưới đây là danh sách toàn bộ từ vựng cho bài đọc "Conquering Earth's space junk problem", được trình bày dưới dạng một file markdown hoàn chỉnh.
-
----
-
 # **Cambridge IELTS 18 - Test 1 - Reading Passage 3**
 
 ## Conquering Earth's space junk problem
@@ -99,3 +95,156 @@ Chắc chắn rồi. Dưới đây là danh sách toàn bộ từ vựng cho bà
 | **cross-correlate**       | compare, match, align                                                                      | ...unless a third source of information made it possible to **cross-correlate**.                                                      |
 | **environmentalist**      | conservationist, green advocate, nature protector                                          | Jah describes himself as a space **environmentalist**: 'I want to make space a place that is safe to operate...'                      |   x   |
 | **devolving**             | deteriorating, declining, regressing                                                       | ...the space community will continue **devolving** into a tragedy in which all spaceflight operators are polluting a common resource. |
+
+---
+
+### **Vocabulary Learning Plan: The Space Junk Problem (4-Part Video Series)**
+
+This is a revised, compact plan that covers all 55 vocabulary words you need to learn. Each video is maximized to the 16-word limit to ensure an efficient and contextual learning experience, telling the complete story of the space junk crisis.
+
+---
+
+#### **VIDEO 1: The Crowded Sky (16 words)**
+
+**Video Script Prompt**
+
+**Objective:**
+"To introduce the rapidly growing problem of space junk, explaining what it is, where it comes from, and why it's becoming an urgent threat."
+
+**Target Vocabulary:**
+"This video covers the foundational concepts of the space junk problem."
+
+1.  **shards**
+2.  **debris**
+3.  **orbit**
+4.  **threats**
+5.  **commercial**
+6.  **civil**
+7.  **amateurs**
+8.  **sharply**
+9.  **leading**
+10. **follow through on**
+11. **deploy**
+12. **constellations**
+13. **satellites**
+14. **smashed into**
+15. **shrapnel**
+16. **altitude**
+
+**Suggested Script Structure:**
+"**Start with the problem:** 'Rocket **shards** and collision **debris** are creating major **threats** in Earth's **orbit**. Last year, **commercial**, **civil**, and even **amateur** groups sent up over 400 satellites.'
+
+**Explain the future risk:** 'Numbers could rise **sharply** if **leading** space companies **follow through on** plans to **deploy** huge **constellations** of **satellites**. This is dangerous. Ten years ago, one satellite **smashed into** another, creating thousands of pieces of space **shrapnel** that now threaten everything up to a high **altitude**.'
+
+**Review:** Create a summary screen displaying all 16 words.
+
+**Engagement Question:** 'What is the biggest danger when large **constellations** of **satellites** are deployed into orbit?'"
+
+---
+
+#### **VIDEO 2: The Point of No Return (15 words)**
+
+**Video Script Prompt**
+
+**Objective:**
+"To explore the serious consequences of inaction and the methods researchers are developing to assess and manage the growing crisis."
+
+**Target Vocabulary:**
+"This video explains the stakes and the scientific response."
+
+1.  **operators**
+2.  **steer away**
+3.  **otherwise**
+4.  **Concern**
+5.  **junk**
+6.  **objects**
+7.  **assessing**
+8.  **ever-more-crowded**
+9.  **compile**
+10. **taxonomies**
+11. **properties**
+12. **coming their way**
+13. **unthinkable**
+14. **uncontrolled**
+15. **crashes**
+
+**Suggested Script Structure:**
+"**Start with the challenge:** 'Satellite **operators** can't **steer away** from every potential crash, because that uses fuel that could **otherwise** be used for the mission. **Concern** about space **junk** is growing as the number of **objects** in orbit rises.'
+
+**Explain the research:** 'Scientists are improving methods for **assessing** what is in our **ever-more-crowded** space. They **compile** massive data sets and develop **taxonomies** based on the **properties** of debris so operators know what's **coming their way**.'
+
+**Describe the ultimate risk:** 'The alternative is **unthinkable**. Just a few **uncontrolled** **crashes** could make space unusable.'
+
+**Review:** Create a summary screen with all 15 words.
+
+**Engagement Question:** 'Why is developing **taxonomies** of space **junk** so important for satellite **operators**?'"
+
+---
+
+#### **VIDEO 3: Rules for a Cleaner Space (14 words)**
+
+**Video Script Prompt**
+
+**Objective:**
+"To explain the international guidelines designed to prevent more space junk and the challenges in getting companies to follow them."
+
+**Target Vocabulary:**
+"This video focuses on the proposed solutions and their real-world problems."
+
+1.  **set off**
+2.  **runaway cascade**
+3.  **fragments**
+4.  **rendering**
+5.  **point of no return**
+6.  **collaborating**
+7.  **shared**
+8.  **pressurized**
+9.  **leftover**
+10. **burn up**
+11. **disintegrate**
+12. **abided by**
+13. **stewards**
+14. **enterprises**
+
+**Suggested Script Structure:**
+"**Start with the worst-case scenario:** 'A few crashes could **set off** a **runaway cascade** of **fragments**, **rendering** space unusable and taking us past a **point of no return**. To avoid this **shared** threat, international groups are **collaborating** on guidelines.'
+
+**Explain the guidelines:** 'These include venting **pressurized** materials and **leftover** fuel. They also advise lowering satellites so they **burn up** or **disintegrate** in the atmosphere. But so far, only half of all missions have **abided by** these rules.'
+
+**Describe the challenge:** 'Companies promise to be responsible **stewards** in their space **enterprises**, but the rules are not enforced.'
+
+**Review:** Create a summary screen with all 14 words.
+
+**Engagement Question:** 'What do you think should happen to space **enterprises** that have not **abided by** the guidelines to **burn up** their satellites?'"
+
+---
+
+#### **VIDEO 4: The Traffic Management Challenge (10 words)**
+
+**Video Script Prompt**
+
+**Objective:**
+"To highlight the immense difficulty of tracking space debris accurately and introduce the concept of 'space traffic management' as the ultimate goal."
+
+**Target Vocabulary:**
+"This final video explains the data problem and the future vision."
+
+1.  **bankrupt**
+2.  **vastness**
+3.  **tackling**
+4.  **precision**
+5.  **alleviate**
+6.  **maneuvers**
+7.  **astrodynamicist**
+8.  **choreographed**
+9.  **tracked**
+10. **consistently**
+
+**Suggested Script Structure:**
+"**Start with the problem of failed companies:** 'What happens if a company goes **bankrupt**? They won't pay to remove their satellites. Despite the **vastness** of space, scientists are **tackling** this problem by trying to locate debris with a high degree of **precision**. This would **alleviate** the need for unnecessary avoidance **maneuvers**.'
+
+**Introduce the vision:** 'The field is called space traffic management. An **astrodynamicist** compares it to a carefully **choreographed** airport routine. But unlike planes, not all space objects are **tracked consistently**.'
+
+**Review:** Create a summary screen with all 10 words.
+
+**Engagement Question:** 'Why is it so much harder for an **astrodynamicist** to create a **choreographed** routine for space than it is for an air traffic controller?'"

@@ -1,7 +1,3 @@
-Chắc chắn rồi. Dưới đây là danh sách toàn bộ từ vựng cho bài đọc "Forest management in Pennsylvania, USA", được trình bày dưới dạng một file markdown hoàn chỉnh.
-
----
-
 # **Cambridge IELTS 18 - Test 1 - Reading Passage 2**
 
 ## Forest management in Pennsylvania, USA
@@ -66,17 +62,101 @@ Chắc chắn rồi. Dưới đây là danh sách toàn bộ từ vựng cho bà
 | **seedlings**         | young trees, baby plants, new growths                                           | ...when other **seedlings** have become established.                                                 |
 | **established**       | settled, formed, founded                                                        | ...when other seedlings have become **established**.                                                 |
 | **regenerated**       | renewed, replenished, restored                                                  | This then allows the forester to decide which tree species are **regenerated**.                      |
-| **growth**            | development, progress, advancement                                              | ...all trees are at a similar point in their **growth**.                                             |
-| **harvests**          | gathering, collection, crop                                                     | ...so that there are two **harvests** and the money that comes in is spread out...                   |
-| **spread out**        | dispersed, scattered, distributed                                               | ...the money that comes in is **spread out** over a decade or more.                                  |
+| **growth**            | development, progress, advancement                                              | ...all trees are at a similar point in their **growth**.                                             |   x   |
+| **harvests**          | gathering, collection, crop                                                     | ...so that there are two **harvests** and the money that comes in is spread out...                   |   x   |
+| **spread out**        | dispersed, scattered, distributed                                               | ...the money that comes in is **spread out** over a decade or more.                                  |   x   |
 | **dense**             | thick, compact, crowded                                                         | Thinnings and **dense** and dead wood removal for fire prevention...                                 |
-| **low-use**           | underutilized, infrequently used, rarely utilized                               | ...center on the production of **low-use** wood.                                                     |
+| **low-use**           | underutilized, infrequently used, rarely utilized                               | ...center on the production of **low-use** wood.                                                     |   x   |
 | **retention**         | preservation, conservation, keeping                                             | ...some **retention** of what many would classify as low-use wood is very important.                 |
 | **classify**          | categorize, group, sort                                                         | ...what many would **classify** as low-use wood is very important.                                   |   x   |
-| **soil**              | earth, ground, dirt                                                             | ...so that their nutrients cycle back into the **soil**.                                             |
+| **soil**              | earth, ground, dirt                                                             | ...so that their nutrients cycle back into the **soil**.                                             |   x   |
 | **cavities**          | holes, openings, hollows                                                        | ...trees with many **cavities** are extremely important habitats for insect predators...             |
 | **habitats**          | environment, ecosystem, surroundings                                            | ...extremely important **habitats** for insect predators like woodpeckers, bats...                   |   x   |
 | **insect predators**  | insect-eating, insect-hunting, insect-consuming                                 | ...important habitats for **insect predators** like woodpeckers, bats and small mammals.             |   x   |
 | **resilience**        | resistance, endurance, flexibility                                              | ...increase the health and **resilience** of the forest.                                             |
 | **wildlife**          | animals, creatures, fauna                                                       | ...many species like hawthorn provide food for **wildlife**.                                         |   x   |
 | **rare**              | endangered, scarce, uncommon                                                    | Finally, **rare** species of trees in a forest should also stay behind...                            |   x   |
+
+---
+
+### **Vocabulary Learning Plan: Sustainable Forests in Pennsylvania (2-Part Video Series)**
+
+This is a revised, compact plan that covers all 32 vocabulary words you need to learn. Each video is maximized to the 16-word limit to ensure an efficient and contextual learning experience, telling the complete story of forest management.
+
+---
+
+#### **VIDEO 1: The Value of a Tree (16 words)**
+
+**Video Script Prompt**
+
+**Objective:**
+"To understand how the 'value' of a tree is subjective and to explore the legacy of 'high-grading' which has left Pennsylvania's forests with abundant low-quality wood."
+
+**Target Vocabulary:**
+"This video covers the foundational concepts of tree value and the historical problems in forest management."
+
+1.  **bioenergy**
+2.  **'value'**
+3.  **valued**
+4.  **timber**
+5.  **logs**
+6.  **landowner**
+7.  **wildlife habitat**
+8.  **Likewise**
+9.  **woodworker**
+10. **solely**
+11. **legacy**
+12. **abundant**
+13. **shade out**
+14. **stand**
+15. **combustion**
+16. **incorporate**
+
+**Suggested Script Structure:**
+"**Start with the concept of value:** 'Managing forests for **bioenergy** is a new approach. A tree's **'value'** is subjective; it can be **valued** differently by many people. It might be high-value **timber** to be cut into **logs**, or a **landowner** may value it for the **wildlife habitat** it provides. **Likewise**, a **woodworker** sees it as a unique piece of art.'
+
+**Next, explain the historical problem:** 'In the past, landowners were **solely** interested in high-quality timber. This practice left a **legacy** of low-use "junk trees" that are now **abundant**. These trees **shade out** new growth and weaken the entire forest **stand**.'
+
+**Introduce the new use:** 'Now, this low-quality wood is used for energy through **combustion**, and some power plants even **incorporate** it with coal.'
+
+**Review:** Create a summary screen displaying all 16 words.
+
+**Engagement Question:** 'How does the idea that a tree's **'value'** is subjective change how we should approach forest management?'"
+
+---
+
+#### **VIDEO 2: Techniques for a Healthier Forest (16 words)**
+
+**Video Script Prompt**
+
+**Objective:**
+"To explore modern forest management techniques like TSI and Salvage Cuts, which aim to improve forest health, manage pests, and support wildlife."
+
+**Target Vocabulary:**
+"This video explains the practical solutions for restoring and maintaining healthy forests."
+
+1.  **gasified**
+2.  **generation**
+3.  **liquid**
+4.  **lorries**
+5.  **stems**
+6.  **invasive**
+7.  **foliage**
+8.  **crowns**
+9.  **tailored**
+10. **pests**
+11. **pathogens**
+12. **hemlock**
+13. **longhorned beetle**
+14. **emerald ash borer**
+15. **gypsy moth**
+16. **ease**
+
+**Suggested Script Structure:**
+"**Start with modern solutions:** 'Low-use wood can be **gasified** for electricity **generation** or turned into **liquid** fuels for **lorries**. A key technique is the TSI Cut, where low-quality **stems** and **invasive** plants are removed. This allows remaining trees to develop more **foliage** and larger **crowns**.'
+
+**Next, explain how these techniques are adapted:** 'These cuts can be **tailored** to a farmer's specific goals. Another technique is the Salvage Cut, which is used to manage **pests** and **pathogens** like **hemlock** adelgid, the Asian **longhorned beetle**, the **emerald ash borer**, and the **gypsy moth**. These procedures help **ease** the pressure on forests.'
+
+**Review:** Create a summary screen with all 16 words.
+
+**Engagement Question:** 'How does removing **invasive** plants and low-quality **stems** help the entire forest ecosystem?'"

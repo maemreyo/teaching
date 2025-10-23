@@ -8,19 +8,19 @@ Chắc chắn rồi. Dưới đây là danh sách toàn bộ từ vựng cho bà
 
 | Vocabulary                 | Synonyms / Explanation                                                            | Context from the Passage                                                                                       | Done? |
 | :------------------------- | :-------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------- | :---: |
-| **archaeologists**         | a person who studies ancient human history by examining old things                | For centuries, historians and **archaeologists** have puzzled over the many mysteries of Stonehenge...         |x
+| **archaeologists**         | a person who studies ancient human history by examining old things                | For centuries, historians and **archaeologists** have puzzled over the many mysteries of Stonehenge...         |   x   |
 | **puzzled over**           | think about, ponder, contemplate                                                  | ...historians and archaeologists have **puzzled over** the many mysteries of Stonehenge...                     |
-| **mysteries**              | puzzle, enigma, riddle                                                            | ...puzzled over the many **mysteries** of Stonehenge, a prehistoric monument...                                |x
+| **mysteries**              | puzzle, enigma, riddle                                                            | ...puzzled over the many **mysteries** of Stonehenge, a prehistoric monument...                                |   x   |
 | **prehistoric**            | ancient, primitive, primeval                                                      | ...a **prehistoric** monument that took an estimated 1,500 years to erect.                                     |
-| **monument**               | landmark, structure, edifice                                                      | ...a prehistoric **monument** that took an estimated 1,500 years to erect.                                     |x
-| **estimated**              | approximated, calculated, gauged                                                  | ...that took an **estimated** 1,500 years to erect.                                                            |x
+| **monument**               | landmark, structure, edifice                                                      | ...a prehistoric **monument** that took an estimated 1,500 years to erect.                                     |   x   |
+| **estimated**              | approximated, calculated, gauged                                                  | ...that took an **estimated** 1,500 years to erect.                                                            |   x   |
 | **erect**                  | construct, build, raise                                                           | ...that took an estimated 1,500 years to **erect**.                                                            |
 | **comprised of**           | include, make up of, compose of                                                   | ...it is **comprised of** roughly 100 massive upright stones...                                                |
-| **roughly**                | approximately, about, around                                                      | ...it is comprised of **roughly** 100 massive upright stones...                                                |x
-| **massive**                | big, enormous, grand                                                              | ...comprised of roughly 100 **massive** upright stones placed in a circular layout.                            |x
+| **roughly**                | approximately, about, around                                                      | ...it is comprised of **roughly** 100 massive upright stones...                                                |   x   |
+| **massive**                | big, enormous, grand                                                              | ...comprised of roughly 100 **massive** upright stones placed in a circular layout.                            |   x   |
 | **upright**                | standing or sitting in a straight/vertical position                               | ...100 massive **upright** stones placed in a circular layout.                                                 |
 | **circular layout**        | round, rounded (circular); arrangement, design (layout)                           | ...placed in a **circular layout**.                                                                            |
-| **ruin**                   | a historic site or structure that was once in use but is now decaying             | Archaeologists believe England's most iconic prehistoric **ruin** was built in several stages...               |
+| **ruin**                   | a historic site or structure that was once in use but is now decaying             | Archaeologists believe England's most iconic prehistoric **ruin** was built in several stages...               |   x   |
 | **Britons**                | people from Britain                                                               | First, Neolithic **Britons** used primitive tools... to dig a massive circular ditch...                        |
 | **primitive**              | ancient, early, basic                                                             | ...Neolithic Britons used **primitive** tools, which may have been fashioned out of deer antlers...            |
 | **fashioned out of**       | to make something by using specific materials or resources                        | ...which may have been **fashioned out of** deer antlers, to dig a massive circular ditch...                   |
@@ -72,10 +72,10 @@ Chắc chắn rồi. Dưới đây là danh sách toàn bộ từ vựng cho bà
 | **distinct**               | different, separate, unique                                                       | ...several **distinct** tribes of people contributed to Stonehenge...                                          |
 | **undertaking**            | be responsible for, take on, perform                                              | ...each **undertaking** a different phase of its construction.                                                 |
 | **construction**           | building, creation, formation                                                     | ...a different phase of its **construction**.                                                                  |
-| **artefacts**              | an object such as a tool, weapon etc that was made in the past                    | Bones, tools and other **artefacts** found on the site seem to support this hypothesis.                        |
+| **artefacts**              | an object such as a tool, weapon etc that was made in the past                    | Bones, tools and other **artefacts** found on the site seem to support this hypothesis.                        |   x   |
 | **agrarians**              | farmer, agriculturist, rural people                                               | The first stage was achieved by Neolithic **agrarians** who were likely to have been indigenous...             |
 | **indigenous**             | native, aboriginal, original                                                      | ...who were likely to have been **indigenous** to the British Isles.                                           |
-| **advanced**               | sophisticated, developed, progressive                                             | Later, it is believed, groups with **advanced** tools and a more communal way of life...                       |
+| **advanced**               | sophisticated, developed, progressive                                             | Later, it is believed, groups with **advanced** tools and a more communal way of life...                       |   x   |
 | **communal**               | shared, collective, community-based                                               | ...and a more **communal** way of life left their mark on the site.                                            |
 | **immigrants**             | people who move from one country to another country to live there permanently     | Some believe that they were **immigrants** from the European continent...                                      |
 | **descended**              | originated, came from, stemmed from                                               | ...while others maintain that they were probably native Britons, **descended** from the original builders.     |
@@ -87,16 +87,178 @@ Chắc chắn rồi. Dưới đây là danh sách toàn bộ từ vựng cho bà
 | **burial ground**          | a place where deceased people are buried or laid to rest                          | ...the function of **burial ground**, they have yet to determine what other purposes it had.                   |
 | **determine**              | ascertain, find out, decide                                                       | ...they have yet to **determine** what other purposes it had.                                                  |
 | **astronomer**             | a person who looks up at the night sky and studies stars, planets, etc.           | In the 1960s, the **astronomer** Gerald Hawkins suggested that the cluster of megalithic stones...             |
-| **cluster**                | group, collection, gathering                                                      | ...that the **cluster** of megalithic stones operated as a form of calendar...                                 |
+| **cluster**                | group, collection, gathering                                                      | ...that the **cluster** of megalithic stones operated as a form of calendar...                                 |   x   |
 | **corresponding to**       | related to, connected to, associated with                                         | ...with different points **corresponding to** astrological phenomena...                                        |
 | **phenomena**              | event, occurrence, happening                                                      | ...astrological **phenomena** such as solstices, equinoxes and eclipses...                                     |
 | **considerable**           | significant, substantial, noteworthy                                              | While his theory has received a **considerable** amount of attention over the decades...                       |
-| **critics**                | skeptic, doubter, naysayer                                                        | ...**critics** maintain that Stonehenge's builders probably lacked the knowledge...                            |
+| **critics**                | skeptic, doubter, naysayer                                                        | ...**critics** maintain that Stonehenge's builders probably lacked the knowledge...                            |   x   |
 | **dense**                  | thick, compact, crowded                                                           | ...or that England's **dense** cloud cover would have obscured their view of the skies.                        |
 | **obscured**               | hide, conceal, cover                                                              | ...dense cloud cover would have **obscured** their view of the skies.                                          |
-| **illness**                | sickness, disease, ailment                                                        | More recently, signs of **illness** and injury in the human remains unearthed at Stonehenge...                 |
-| **injury**                 | damage, harm, trauma                                                              | ...signs of illness and **injury** in the human remains unearthed at Stonehenge...                             |
+| **illness**                | sickness, disease, ailment                                                        | More recently, signs of **illness** and injury in the human remains unearthed at Stonehenge...                 |   x   |
+| **injury**                 | damage, harm, trauma                                                              | ...signs of illness and **injury** in the human remains unearthed at Stonehenge...                             |   x   |
 | **unearthed**              | discovered, found, excavated                                                      | ...in the human remains **unearthed** at Stonehenge...                                                         |
 | **speculate**              | hypothesize, guess, conjecture                                                    | ...led a group of British archaeologists to **speculate** that it was considered a place of healing...         |
-| **healing**                | curative, therapeutic, medicinal                                                  | ...a place of **healing**, perhaps because bluestones were thought to have curative powers.                    |
+| **healing**                | curative, therapeutic, medicinal                                                  | ...a place of **healing**, perhaps because bluestones were thought to have curative powers.                    |   x   |
 | **curative**               | healing, therapeutic, remedial                                                    | ...bluestones were thought to have **curative** powers.                                                        |
+
+---
+
+### **Vocabulary Learning Plan: The Mysteries of Stonehenge (4-Part Video Series)**
+
+This is a revised, compact plan that covers all 58 vocabulary words you need to learn. Each video is maximized to the 16-word limit to ensure an efficient and contextual learning experience, telling the complete story of Stonehenge.
+
+---
+
+#### **VIDEO 1: The Ancient Enigma (16 words)**
+
+**Video Script Prompt**
+
+**Objective:**
+"To introduce the mystery of Stonehenge, describing its basic structure and the earliest phase of its construction by Neolithic Britons."
+
+**Target Vocabulary:**
+"This video covers the foundational concepts and the first stage of building."
+
+1.  **puzzled over**
+2.  **prehistoric**
+3.  **erect**
+4.  **comprised of**
+5.  **upright**
+6.  **circular layout**
+7.  **Britons**
+8.  **primitive**
+9.  **fashioned out of**
+10. **dig**
+11. **ditch**
+12. **henge**
+13. **pits**
+14. **dating back to**
+15. **ring**
+16. **posts**
+
+**Suggested Script
+Structure:**
+"**Start with the mystery:** 'For centuries, historians have **puzzled over** the **prehistoric** monument of Stonehenge, which took 1,500 years to **erect**. It is **comprised of** about 100 massive, **upright** stones in a **circular layout**.'
+
+**Describe the first builders:** 'The first phase began with Neolithic **Britons**. Using **primitive** tools, perhaps **fashioned out of** deer antlers, they managed to **dig** a massive circular **ditch** and bank, also known as a **henge**. Deep **pits** found inside, **dating back to** that era, may have once held a **ring** of timber **posts**.'
+
+**Review:** Create a summary screen displaying all 16 words.
+
+**Engagement Question:** 'What does the fact that **primitive** tools were used to **dig** such a massive **henge** tell us about the ancient **Britons**?'"
+
+---
+
+#### **VIDEO 2: The Bluestone Journey (16 words)**
+
+**Video Script Prompt**
+
+**Objective:**
+"To explore the incredible feat of transporting the bluestones from Wales and to examine the competing theories on how this was accomplished."
+
+**Target Vocabulary:**
+"This video focuses on the transportation of the iconic bluestones."
+
+1.  **hoisted**
+2.  **bluestones**
+3.  **horseshoe**
+4.  **traced**
+5.  **sophisticated**
+6.  **haul**
+7.  **boulders**
+8.  **long-standing**
+9.  **sledges**
+10. **rollers**
+11. **lug**
+12. **transferred**
+13. **rafts**
+14. **floated**
+15. **towed**
+16. **hypotheses**
+
+**Suggested Script
+Structure:**
+"**Start with the second phase:** 'Hundreds of years later, builders **hoisted** 80 **bluestones** into a **horseshoe** formation. These stones have been **traced** all the way to Wales, 300 kilometers away.'
+
+**Explain the challenge:** 'How did builders without **sophisticated** tools **haul** these giant **boulders**? One **long-standing** theory suggests they used **sledges** and **rollers** to **lug** the stones. They then **transferred** them onto **rafts** and **floated** or **towed** them to the site.'
+
+**Introduce new ideas:** 'More recent **hypotheses** suggest other advanced methods were used.'
+
+**Review:** Create a summary screen with all 16 words.
+
+**Engagement Question:** 'Which of the **hypotheses** for how the **boulders** were transported do you find most believable?'"
+
+---
+
+#### **VIDEO 3: The Sarsen Stones and the Druids (15 words)**
+
+**Video Script Prompt**
+
+**Objective:**
+"To describe the third phase of construction with the massive sarsen stones and to investigate the popular but incorrect theory about the Druids."
+
+**Target Vocabulary:**
+"This video covers the final construction phase and debunks a famous myth."
+
+1.  **supersized**
+2.  **ball bearings**
+3.  **grooved planks**
+4.  **industrious**
+5.  **glaciers**
+6.  **sceptical**
+7.  **delivered**
+8.  **took place**
+9.  **crescent**
+10. **assembled**
+11. **iconic**
+12. **visible**
+13. **multiple**
+14. **druids**
+15. **religious**
+
+**Suggested Script
+Structure:**
+"**Start with another theory:** 'Another theory suggests builders used **supersized** baskets, **ball bearings**, and **grooved planks**, not just **industrious** labor. Some even say **glaciers**, not humans, **delivered** the stones, though most are **sceptical**.'
+
+**Describe the final phase:** 'The third phase **took place** around 2000 BCE. Sandstone slabs were arranged in a **crescent** and **assembled** into the **iconic** trilithons we see today. About 50 are still **visible**, and they were repositioned **multiple** times.'
+
+**Introduce the Druid theory:** 'Who built it? A famous theory claims it was the work of **druids**, who had important **religious** roles in Celtic society.'
+
+**Review:** Create a summary screen with all 15 words.
+
+**Engagement Question:** 'Why do you think the theory about the **druids** became so popular, even if it was wrong?'"
+
+---
+
+#### **VIDEO 4: The True Builders and Purpose (11 words)**
+
+**Video Script Prompt**
+
+**Objective:**
+"To reveal the modern consensus on who built Stonehenge and to explore the various theories about its mysterious purpose, from burial ground to healing center."
+
+**Target Vocabulary:**
+"This final video uncovers the most likely builders and the enduring mystery of the monument's function."
+
+1.  **judicial**
+2.  **popularized**
+3.  **unearthed**
+4.  **identify**
+5.  **solstice**
+6.  **inhabited**
+7.  **distinct**
+8.  **undertaking**
+9.  **construction**
+10. **agrarians**
+11. **indigenous**
+
+**Suggested Script
+Structure:**
+"**Start by debunking the myth:** 'The Druids also had **judicial** roles. This theory was **popularized** after primitive graves were **unearthed** nearby. Even today, people who **identify** as modern druids gather for the summer **solstice**. However, radiocarbon dating shows Stonehenge was built 1,000 years before Celts **inhabited** the area.'
+
+**Reveal the builders:** 'The truth is that several **distinct** tribes were involved, each **undertaking** a different phase of **construction**. The first were likely Neolithic **agrarians** who were **indigenous** to the British Isles.'
+
+**Discuss the purpose:** 'Theories on its purpose range from a burial ground to an astronomical calendar to a place of healing.'
+
+**Review:** Create a summary screen with all 11 words.
+
+**Engagement Question:** 'If not a temple for **druids**, what do you believe was the main purpose of Stonehenge's **construction**?'"
