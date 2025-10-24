@@ -1,8 +1,9 @@
 Hãy liệt kê chi tiết toàn bộ các từ/cụm từ (collocations) trong tài liệu này theo dạng bảng với các cột (chỉ nghiên cứu tài liệu này) để giúp tôi đọc, hiểu sâu về các bài đọc :
-Collocation/Phrase
-Definition/Meaning
-Example from Passage
-IELTS Application Example (WT2/Speaking)
-Notes on Usage/Register
+Collocation/Phrase (ví dụ: 1. urban rooftop farm )
+Definition/Meaning (ví dụ: A farm located on the roof of a building in a city. (Một trang trại nằm trên sân thượng của một tòa nhà trong thành phố.)     ) - cần có nghĩa tiếng anh và việt
+Example from Passage (ví dụ: ...the world's largest urban rooftop farm has started to bear fruit.)
+IELTS Application Example (WT2/Speaking) (ví dụ: The development of urban rooftop farms can help mitigate the urban heat island effect and improve local food security.)
+Notes on Usage/Register (ví dụ: Cụm danh từ cụ thể, rất phù hợp cho các chủ đề về phát triển đô thị, môi trường và thực phẩm.)
 
-Mỗi bài đọc cần liệt kê được ít nhất 16 key collocations 
+Mỗi bài đọc cần liệt kê được ít nhất 16 key collocations.
+Không cần reference cite_start, cite trong tài liệu

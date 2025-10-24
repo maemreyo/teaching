@@ -234,3 +234,5 @@ VIDEO 4: The Story We Tell Ourselves (13 words)
 **Review:** Create a summary screen displaying all 13 words.
 
 **Engagement Question:** 'Do you agree with the author's **firmly** held belief that we only **retrospectively** turn **happenstance** into a **coherent narrative**?'"
+
+
