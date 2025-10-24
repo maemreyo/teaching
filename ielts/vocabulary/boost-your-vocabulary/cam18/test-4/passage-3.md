@@ -4,17 +4,17 @@
 
 | Vocabulary                    | Synonyms / Explanation                                                                 | Context from the Passage                                                                                           | Done? |
 | :---------------------------- | :------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------- | :---: |
-| **reputation**                | standing, image, fame                                                                  | ...Alfred Wegener, whose **reputation** today rests with his theory of continental displacements...                |
+| **reputation**                | standing, image, fame                                                                  | ...Alfred Wegener, whose **reputation** today rests with his theory of continental displacements...                |   x   |
 | **rests with**                | depend on                                                                              | ...whose reputation today **rests with** his theory of continental displacements...                                |
 | **theory**                    | hypothesis, concept, idea                                                              | ...rests with his **theory** of continental displacements, better known as 'continental drift'.                    |
 | **continental displacements** | relating to a large mass of land (continental); moving to another place (displacement) | ...his theory of **continental displacements**, better known as 'continental drift'.                               |
 | **drift**                     | a continuous slow movement from one place to another                                   | ...better known as 'continental **drift**'.                                                                        |
 | **proposed**                  | suggest, recommend, put forward                                                        | Wegener **proposed** this theory in 1912 and developed it extensively for nearly 20 years.                         |
 | **extensively**               | widely, broadly                                                                        | ...and developed it **extensively** for nearly 20 years.                                                           |
-| **controversy**               | dispute, disagreement, contention                                                      | ...was the focus of an international **controversy** in his lifetime...                                            |
-| **mysteries**                 | enigma, puzzle, riddle                                                                 | Wegener's basic idea was that many **mysteries** about the Earth's history could be solved...                      |
+| **controversy**               | dispute, disagreement, contention                                                      | ...was the focus of an international **controversy** in his lifetime...                                            |   x   |
+| **mysteries**                 | enigma, puzzle, riddle                                                                 | Wegener's basic idea was that many **mysteries** about the Earth's history could be solved...                      |   x   |
 | **supposed**                  | assume, presume, allege                                                                | ...could be solved if one **supposed** that the continents moved laterally...                                      |
-| **continents**                | landmass, landform, mainland                                                           | ...if one supposed that the **continents** moved laterally...                                                      |
+| **continents**                | landmass, landform, mainland                                                           | ...if one supposed that the **continents** moved laterally...                                                      |   x   |
 | **laterally**                 | sideways, horizontally, side-to-side                                                   | ...that the continents moved **laterally**, rather than supposing that they remained fixed in place.               |
 | **plausible**                 | believable, credible, reasonable                                                       | Wegener showed in great detail how such continental movements were **plausible**...                                |
 | **geology**                   | earth science, geosciences, earth study                                                | ...using evidence from a large number of sciences including **geology**, geophysics...                             |
@@ -22,9 +22,9 @@
 | **paleontology**              | study of fossils, fossil science                                                       | ...including geology, geophysics, **paleontology**, and climatology.                                               |
 | **climatology**               | study of climate, climate science                                                      | ...geophysics, paleontology, and **climatology**.                                                                  |
 | **plate tectonics**           | the study of how the surface of the earth is formed and moves                          | ...namely **plate tectonics**.                                                                                     |
-| **respects**                  | aspect, facet, viewpoint                                                               | Plate tectonics is in many **respects** quite different from Wegener's proposal...                                 |
+| **respects**                  | aspect, facet, viewpoint                                                               | Plate tectonics is in many **respects** quite different from Wegener's proposal...                                 |   x   |
 | **evolutionary**              | relating to the way in which living things develop over millions of years              | ...in the same way that modern **evolutionary** theory is very different from the ideas Charles Darwin proposed... |
-| **biological evolution**      | relating to biology (biological); development, growth (evolution)                      | ...Charles Darwin proposed in the 1850s about **biological evolution**.                                            |
+| **biological evolution**      | relating to biology (biological); development, growth (evolution)                      | ...Charles Darwin proposed in the 1850s about **biological evolution**.                                            |   x   |
 | **descendant**                | offspring, successor, heir                                                             | Yet plate tectonics is a **descendant** of Alfred Wegener's theory of continental drift...                         |
 | **natural selection**         | the process of survival of the fittest                                                 | ...Darwin's theory of **natural selection**.                                                                       |
 | **intriguing**                | fascinating, captivating, interesting                                                  | ...one of the most **intriguing** things about him for me was that...                                              |
@@ -57,15 +57,15 @@
 | **entailed**                  | involve, require, necessitate                                                          | ...and renewed efforts this **entailed**.                                                                          |
 | **practice**                  | application, implementation, execution                                                 | ...but, as was standard **practice**, these reported the results of his work...                                    |
 | **exceptions**                | exclusion, exemption, special case                                                     | He was not active (with a few **exceptions**) in scientific societies...                                           |
-| **influence**                 | impact, effect, sway                                                                   | ...and did not seek to find **influence** or advance his ideas...                                                  |
+| **influence**                 | impact, effect, sway                                                                   | ...and did not seek to find **influence** or advance his ideas...                                                  |   x   |
 | **advance**                   | progress, development, advancement                                                     | ...or **advance** his ideas through professional contacts and politics...                                          |
 | **observations**              | monitoring, scrutiny, watching                                                         | ...or in the field collecting **observations**.                                                                    |
 | **mountains of**              | a great number of, many                                                                | Some famous scientists... left **mountains of** written material behind...                                         |
-| **extensive**                 | widespread, comprehensive, vast                                                        | Others, like Michael Faraday, left **extensive** journals of their thoughts and speculations...                    |
+| **extensive**                 | widespread, comprehensive, vast                                                        | Others, like Michael Faraday, left **extensive** journals of their thoughts and speculations...                    |   x   |
 | **speculations**              | conjecture, guess, assumption                                                          | ...left extensive journals of their thoughts and **speculations**, parallel to their scientific notebooks.         |
 | **parallel**                  | similar, analogous, corresponding                                                      | ...speculations, **parallel** to their scientific notebooks.                                                       |
 | **biographer**                | author, writer, chronicler                                                             | ...the better chance a **biographer** has of forming an accurate picture...                                        |
-| **accurate**                  | precise, correct, exact                                                                | ...of forming an **accurate** picture of how a scientist's ideas took shape and evolved.                           |
+| **accurate**                  | precise, correct, exact                                                                | ...of forming an **accurate** picture of how a scientist's ideas took shape and evolved.                           |   x   |
 | **took shape**                | form, develop, evolve                                                                  | ...how a scientist's ideas **took shape** and evolved.                                                             |
 | **evolved**                   | develop, grow, change                                                                  | ...how a scientist's ideas took shape and **evolved**.                                                             |
 | **firmly**                    | strongly, resolutely, decisively                                                       | I am **firmly** of the opinion that most of us, Wegener included, are not in any real sense the authors...         |
@@ -74,6 +74,163 @@
 | **happenstance**              | coincidence, chance, fortuity                                                          | ...we only retrospectively turn this **happenstance** into a coherent narrative...                                 |
 | **coherent**                  | logical, consistent, cohesive                                                          | ...into a **coherent** narrative of fulfilled intentions.                                                          |
 | **narrative**                 | story, account, tale                                                                   | ...a coherent **narrative** of fulfilled intentions.                                                               |
-| **fulfilled**                 | satisfied, accomplished, achieved                                                      | ...a coherent narrative of **fulfilled** intentions.                                                               |
-| **intentions**                | purpose, aim, objective                                                                | ...of fulfilled **intentions**.                                                                                    |
-| **intended**                  | plan, design, mean                                                                     | ...the life and scientific work that Alfred Wegener planned and **intended**...                                    |
+| **fulfilled**                 | satisfied, accomplished, achieved                                                      | ...a coherent narrative of **fulfilled** intentions.                                                               |   x   |
+| **intentions**                | purpose, aim, objective                                                                | ...of fulfilled **intentions**.                                                                                    |   x   |
+| **intended**                  | plan, design, mean                                                                     | ...the life and scientific work that Alfred Wegener planned and **intended**...                                    |   x   |
+
+---
+
+### **Vocabulary Learning Plan: Alfred Wegener (4-Part Video Series)**
+
+---
+
+VIDEO 1: The Outsider's Theory (16 words)
+
+**Video Script Prompt**
+
+**Objective:**
+"To tell the story of the _man_ behind the theory, highlighting the **intriguing** fact that this **geologist** was actually an **astronomer** who **proposed** a revolutionary idea."
+
+**Target Vocabulary:**
+"This video introduces Wegener and his 'discovery'—the theory of continental drift."
+
+1.  **theory**
+2.  **continental displacements**
+3.  **drift**
+4.  **proposed**
+5.  **extensively**
+6.  **supposed**
+7.  **laterally**
+8.  **plausible**
+9.  **geology**
+10. **geophysics**
+11. **paleontology**
+12. **climatology**
+13. **intriguing**
+14. **came up with**
+15. **geologist**
+16. **astronomer**
+
+**Suggested Script Structure (REVISED):**
+"**Start with the 'intriguing' character:** 'The most **intriguing** thing about Alfred Wegener is that he wasn't a **geologist**. He was an **astronomer** who **came up with** a revolutionary **theory**.'
+
+**Next, describe his 'discovery' (the theory):** 'He **proposed** the idea of **continental displacements**, or **drift**. He **supposed** the continents moved **laterally**. He developed this idea **extensively**, using evidence from **geology**, **geophysics**, **paleontology**, and **climatology** to prove it was **plausible**.'
+
+**Review:** Create a summary screen displaying all 16 words.
+
+**Engagement Question:** 'Why do you think it was so **intriguing** that an **astronomer**, not a **geologist**, **came up with** this **theory**?'"
+
+---
+
+VIDEO 2: The Explorer's "Sideline" (16 words)
+
+**Video Script Prompt**
+
+**Objective:**
+"To tell the story of Wegener's _actual_ career, showing that his now-famous theory was just a **sideline** to his work as an **atmospheric** physicist and explorer."
+
+**Target Vocabulary:**
+"This video explains the conflict between his main career and his famous theory."
+
+1.  **plate tectonics**
+2.  **evolutionary**
+3.  **descendant**
+4.  **natural selection**
+5.  **pursued**
+6.  **aloft**
+7.  **publicized**
+8.  **expedition**
+9.  **coast**
+10. **name**
+11. **meteorologists**
+12. **atmospheric**
+13. **turned out to be**
+14. **sideline**
+15. **paleoclimatology**
+16. **rests with**
+
+**Suggested Script Structure (REVISED):**
+"**Start with the 'legacy':** 'Today, Wegener's reputation **rests with** his theory, which is the direct **descendant** of modern **plate tectonics**—just as Darwin's **natural selection** is for **evolutionary** theory.'
+
+**Next, describe his 'real life':** 'But Wegener actually **pursued** a career in **atmospheric** physics. He was famous for a **publicized** **expedition** to the Greenland **coast** and for a world record 52 hours **aloft** in a balloon. He'd made a **name** for himself with **meteorologists**.'
+
+**Then, reveal the 'twist':** 'His work on drift **turned out to be** hugely important, but for him, it was just a **sideline** to his main work in physics and **paleoclimatology**.'
+
+**Review:** Create a summary screen displaying all 16 words.
+
+**Engagement Question:** 'Why do you think his famous theory **turned out to be** just a **sideline** to his main career in **atmospheric** physics?'"
+
+---
+
+VIDEO 3: The Biographer's Challenge (16 words)
+
+**Video Script Prompt**
+
+**Objective:**
+"To tell the story from the _biographer's_ perspective, explaining the **pains** he took to track Wegener's **shifting** career and the problem of him not leaving **mountains of** notes."
+
+**Target Vocabulary:**
+"This video introduces the biographer and the difficulty of researching Wegener."
+
+1.  **pains**
+2.  **treatment**
+3.  **devoted**
+4.  **reception**
+5.  **guideposts**
+6.  **shifting**
+7.  **characterizing**
+8.  **reflected**
+9.  **sufficient**
+10. **practice**
+11. **exceptions**
+12. **advance**
+13. **observations**
+14. **mountains of**
+15. **speculations**
+16. **parallel**
+
+**Suggested Script Structure (REVISED):**
+"**Start with the 'biographer's quest':** 'The author was at great **pains** to show this. His **treatment** is **devoted** to the hostile **reception** of the theory. He provides **guideposts** for Wegener's rapidly **shifting** interests, **characterizing** different phases—which is **reflected** in the chapter titles to be a **sufficient** guide.'
+
+**Next, describe the 'problem':** 'This was hard. Wegener didn't leave **mountains of** notes or journals of his **speculations** in **parallel** notebooks. He collected **observations**, but with few **exceptions**, he didn't follow the **practice** of trying to **advance** his ideas through politics.'
+
+**Review:** Create a summary screen displaying all 16 words.
+
+**Engagement Question:** 'Why does it make a biographer's job harder when a scientist doesn't leave **mountains of** notes or **speculations**?'"
+
+---
+
+VIDEO 4: The Story We Tell Ourselves (13 words)
+
+**Video Script Prompt**
+
+**Objective:**
+"To tell the _conclusion_ of the story, explaining the biographer's **firmly** held belief that we **retrospectively** turn **happenstance** into a **coherent narrative**."
+
+**Target Vocabulary:**
+"This final video explains the 'moral' of the biographer's story."
+
+1.  **biographer**
+2.  **took shape**
+3.  **evolved**
+4.  **urge**
+5.  **interruptions**
+6.  **renewed**
+7.  **entailed**
+8.  **firmly**
+9.  **apparent**
+10. **retrospectively**
+11. **happenstance**
+12. **coherent**
+13. **narrative**
+
+**Suggested Script Structure (REVISED):**
+"**Start with the 'biographer's problem':** 'Without those notes, it's hard for a **biographer** to see how Wegener's ideas **took shape** and **evolved**. The author must **urge** us to see the life as it was: full of **interruptions** and **renewed** efforts and all that **entailed**.'
+
+**Next, reveal the 'story's moral':** 'The author is **firmly** of the opinion that we aren't in control. We act with **apparent** freedom, but our lives are mostly **happenstance** (chance).'
+
+**Then, state the 'conclusion':** 'It is only **retrospectively**, looking back, that we turn that **happenstance** into a **coherent** **narrative**.'
+
+**Review:** Create a summary screen displaying all 13 words.
+
+**Engagement Question:** 'Do you agree with the author's **firmly** held belief that we only **retrospectively** turn **happenstance** into a **coherent narrative**?'"

@@ -1,7 +1,3 @@
-Chắc chắn rồi. Dưới đây là danh sách toàn bộ từ vựng cho bài đọc "Stonehenge", được trình bày dưới dạng một file markdown hoàn chỉnh.
-
----
-
 # **Cambridge IELTS 18 - Test 2 - Reading Passage 1**
 
 ## Stonehenge
@@ -105,8 +101,6 @@ Chắc chắn rồi. Dưới đây là danh sách toàn bộ từ vựng cho bà
 
 ### **Vocabulary Learning Plan: The Mysteries of Stonehenge (4-Part Video Series)**
 
-This is a revised, compact plan that covers all 58 vocabulary words you need to learn. Each video is maximized to the 16-word limit to ensure an efficient and contextual learning experience, telling the complete story of Stonehenge.
-
 ---
 
 #### **VIDEO 1: The Ancient Enigma (16 words)**
@@ -114,7 +108,7 @@ This is a revised, compact plan that covers all 58 vocabulary words you need to 
 **Video Script Prompt**
 
 **Objective:**
-"To introduce the mystery of Stonehenge, describing its basic structure and the earliest phase of its construction by Neolithic Britons."
+"To tell the story of the _first builders_ of Stonehenge, setting the scene of the mystery and describing their first massive undertaking."
 
 **Target Vocabulary:**
 "This video covers the foundational concepts and the first stage of building."
@@ -136,11 +130,10 @@ This is a revised, compact plan that covers all 58 vocabulary words you need to 
 15. **ring**
 16. **posts**
 
-**Suggested Script
-Structure:**
-"**Start with the mystery:** 'For centuries, historians have **puzzled over** the **prehistoric** monument of Stonehenge, which took 1,500 years to **erect**. It is **comprised of** about 100 massive, **upright** stones in a **circular layout**.'
+**Suggested Script Structure**
+"**Start by setting the scene:** 'For centuries, historians have **puzzled over** the **prehistoric** monument of Stonehenge, which took 1,500 years to **erect**. It is **comprised of** about 100 massive, **upright** stones in a **circular layout**.'
 
-**Describe the first builders:** 'The first phase began with Neolithic **Britons**. Using **primitive** tools, perhaps **fashioned out of** deer antlers, they managed to **dig** a massive circular **ditch** and bank, also known as a **henge**. Deep **pits** found inside, **dating back to** that era, may have once held a **ring** of timber **posts**.'
+**Next, describe the first builders' actions:** 'The story begins with Neolithic **Britons**. Using **primitive** tools, perhaps **fashioned out of** deer antlers, they managed to **dig** a massive circular **ditch** and bank, also known as a **henge**. Deep **pits** found inside, **dating back to** that era, may have once held a **ring** of timber **posts**.'
 
 **Review:** Create a summary screen displaying all 16 words.
 
@@ -153,7 +146,7 @@ Structure:**
 **Video Script Prompt**
 
 **Objective:**
-"To explore the incredible feat of transporting the bluestones from Wales and to examine the competing theories on how this was accomplished."
+"To tell the story of the _impossible challenge_ of moving the bluestones, exploring the incredible theories of how the builders accomplished this feat."
 
 **Target Vocabulary:**
 "This video focuses on the transportation of the iconic bluestones."
@@ -175,13 +168,10 @@ Structure:**
 15. **towed**
 16. **hypotheses**
 
-**Suggested Script
-Structure:**
-"**Start with the second phase:** 'Hundreds of years later, builders **hoisted** 80 **bluestones** into a **horseshoe** formation. These stones have been **traced** all the way to Wales, 300 kilometers away.'
+**Suggested Script Structure**
+"**Start with the impossible task:** 'Hundreds of years later, the builders faced a new challenge. They **hoisted** 80 **bluestones** into a **horseshoe** formation. But these stones had been **traced** all the way to Wales, 300 kilometers away.'
 
-**Explain the challenge:** 'How did builders without **sophisticated** tools **haul** these giant **boulders**? One **long-standing** theory suggests they used **sledges** and **rollers** to **lug** the stones. They then **transferred** them onto **rafts** and **floated** or **towed** them to the site.'
-
-**Introduce new ideas:** 'More recent **hypotheses** suggest other advanced methods were used.'
+**Next, describe the competing solutions (the story of 'how'):** 'How did they **haul** these giant **boulders** without **sophisticated** tools? One **long-standing** theory tells a story of ingenuity: they used **sledges** and **rollers** to **lug** the stones. Then, they **transferred** the **boulders** onto **rafts**, which they **floated** or **towed** to the site. Other **hypotheses** tell different stories of how it was done.'
 
 **Review:** Create a summary screen with all 16 words.
 
@@ -194,10 +184,10 @@ Structure:**
 **Video Script Prompt**
 
 **Objective:**
-"To describe the third phase of construction with the massive sarsen stones and to investigate the popular but incorrect theory about the Druids."
+"To tell the story of the _final, giant_ construction phase and introduce the _famous false story_ of who built it: the Druids."
 
 **Target Vocabulary:**
-"This video covers the final construction phase and debunks a famous myth."
+"This video covers the final construction phase and introduces a famous myth."
 
 1.  **supersized**
 2.  **ball bearings**
@@ -215,13 +205,12 @@ Structure:**
 14. **druids**
 15. **religious**
 
-**Suggested Script
-Structure:**
-"**Start with another theory:** 'Another theory suggests builders used **supersized** baskets, **ball bearings**, and **grooved planks**, not just **industrious** labor. Some even say **glaciers**, not humans, **delivered** the stones, though most are **sceptical**.'
+**Suggested Script Structure**
+"**Start with the 'giant' final act:** 'The final, most amazing phase of construction **took place** around 2000 BCE. This is when the giant sandstone slabs were **assembled** into the **iconic** three-pieced structures that are **visible** today, arranged in a **crescent**. These stones were repositioned **multiple** times.'
 
-**Describe the final phase:** 'The third phase **took place** around 2000 BCE. Sandstone slabs were arranged in a **crescent** and **assembled** into the **iconic** trilithons we see today. About 50 are still **visible**, and they were repositioned **multiple** times.'
+**Next, introduce the 'false suspect' (the Druids):** 'So who were these **industrious** builders? For centuries, one story captured the imagination: they were **druids**, who had important **religious** and political roles. This theory became very popular.'
 
-**Introduce the Druid theory:** 'Who built it? A famous theory claims it was the work of **druids**, who had important **religious** roles in Celtic society.'
+**Then, introduce the 'plot twist' (the glacier theory):** 'Other theories are even wilder. Some scientists suggested **glaciers** actually **delivered** the stones, but most archaeologists remain **sceptical**. Others imagine builders using **supersized** baskets, **ball bearings**, and **grooved planks**.'
 
 **Review:** Create a summary screen with all 15 words.
 
@@ -234,10 +223,10 @@ Structure:**
 **Video Script Prompt**
 
 **Objective:**
-"To reveal the modern consensus on who built Stonehenge and to explore the various theories about its mysterious purpose, from burial ground to healing center."
+"To tell the story of _solving the case_—how modern science debunked the Druid myth and revealed the identity of the true, original builders."
 
 **Target Vocabulary:**
-"This final video uncovers the most likely builders and the enduring mystery of the monument's function."
+"This final video uncovers the most likely builders."
 
 1.  **judicial**
 2.  **popularized**
@@ -251,13 +240,12 @@ Structure:**
 10. **agrarians**
 11. **indigenous**
 
-**Suggested Script
-Structure:**
-"**Start by debunking the myth:** 'The Druids also had **judicial** roles. This theory was **popularized** after primitive graves were **unearthed** nearby. Even today, people who **identify** as modern druids gather for the summer **solstice**. However, radiocarbon dating shows Stonehenge was built 1,000 years before Celts **inhabited** the area.'
+**Suggested Script Structure**
+"**Start by debunking the Druid story:** 'For centuries, the story said Stonehenge was built by **druids** for **religious** and **judicial** ceremonies. This theory was **popularized** when graves were **unearthed** nearby, and people who **identify** as modern druids still gather for the **solstice**.'
 
-**Reveal the builders:** 'The truth is that several **distinct** tribes were involved, each **undertaking** a different phase of **construction**. The first were likely Neolithic **agrarians** who were **indigenous** to the British Isles.'
+**Next, reveal the 'truth' from science:** 'But modern science proved this was wrong. The monument was built 1,000 years before Celts **inhabited** the region. The real story is that several **distinct** tribes were involved, each **undertaking** a different phase of **construction**.'
 
-**Discuss the purpose:** 'Theories on its purpose range from a burial ground to an astronomical calendar to a place of healing.'
+**Then, identify the original builders:** 'The very first stage of **construction** was built by Neolithic **agrarians** (farmers), who were likely **indigenous** to the British Isles. They are the original builders, but _why_ they built it remains the greatest mystery of all.'
 
 **Review:** Create a summary screen with all 11 words.
 

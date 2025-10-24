@@ -103,7 +103,7 @@
 
 ### **Vocabulary Learning Plan: The Future of Urban Farming (4-Part Video Series)**
 
-This is a revised, compact plan that covers all 59 vocabulary words you need to learn. Each video is maximized to the 16-word limit to ensure an efficient and comprehensive learning experience, telling the complete story of the Parisian rooftop farm.
+This is a revised plan that focuses on a narrative, storytelling approach to improve vocabulary retention. This plan covers all 59 words, structured as a 4-part story about the Parisian rooftop farm.
 
 ---
 
@@ -112,10 +112,10 @@ This is a revised, compact plan that covers all 59 vocabulary words you need to 
 **Video Script Prompt**
 
 **Objective:**
-"To introduce the concept of soil-free urban agriculture by painting a vivid picture of the striking rooftop farm in Paris, describing what is growing and how."
+"To help learners _discover_ the Parisian rooftop farm through a visual journey, _describing the sense of surprise_ at seeing plants grow without soil."
 
 **Target Vocabulary:**
-"This video covers the foundational descriptions of the farm and its produce."
+"This video introduces the setting, the initial description of the farm, and its produce."
 
 1.  **agriculture**
 2.  **striking**
@@ -134,14 +134,14 @@ This is a revised, compact plan that covers all 59 vocabulary words you need to 
 15. **aromatic herbs**
 16. **packed**
 
-**Suggested Script Structure:**
-"**Start with the concept:** 'In Paris, a new form of **agriculture** is taking root. On top of a **striking** new **exhibition hall**, the world's largest rooftop farm has started to **bear fruit**.'
+**Suggested Script Structure**
+"**Start by setting the scene (Like Prompt 1):** 'Imagine you are in Paris, standing on top of a new, very **striking** **exhibition hall**. You see a new form of **agriculture** that has started to **bear fruit**. Small, **intensely flavored** and **resplendently** red strawberries **sprout abundantly** from large plastic **tubes**.'
 
-**Describe the produce:** 'Small, **intensely flavored** and **resplendently** red strawberries **sprout abundantly** from large plastic **tubes**. **Peer** inside and you'll see the tubes are **hollow**, with roots **dangling** down. From **identical** tubes nearby, lettuces **burst** forth, alongside **aromatic herbs**. Other trays are **packed** with tomatoes.'
+**Next, describe the discovery (Like Prompt 1):** 'How do they grow them? **Peer** inside. The tubes are completely **hollow**, with plant roots **dangling** down. From **identical** tubes nearby, lettuces **burst** forth in rows, next to **aromatic herbs**. Other trays are **packed** with tomatoes.'
 
 **Review:** Create a summary screen displaying all 16 words.
 
-**Engagement Question:** 'How does the image of roots **dangling** in **hollow** tubes change your idea of **agriculture**?'"
+**Engagement Question:** 'How would you feel **Peer**ing into a **hollow** tube and seeing roots **dangling** inside?'"
 
 ---
 
@@ -150,7 +150,7 @@ This is a revised, compact plan that covers all 59 vocabulary words you need to 
 **Video Script Prompt**
 
 **Objective:**
-"To explain the scale and operation of the farm, introducing the technology used and the ambitious goals of the project."
+"To introduce the 'main character' (engineer Pascal Hardy) and his _origin story_, explaining the farm's ambitious scale and operation."
 
 **Target Vocabulary:**
 "This video explores the technology, the scale of the harvest, and the project's vision."
@@ -172,14 +172,16 @@ This is a revised, compact plan that covers all 59 vocabulary words you need to 
 15. **fielding enquiries**
 16. **breed**
 
-**Suggested Script Structure:**
-"**Start with the details:** 'Tomatoes grow not in soil, but in **coconut fiber**, alongside shiny **aubergines** and colorful **chards**. This is **vertical farming**, using **aeroponic** towers. The rooftop space is **somewhat** bigger than a football pitch.'
+**Suggested Script Structure**
+"**Start with the 'character's' journey:** 'This story began 5 years ago with Pascal Hardy, an engineer. He started experimenting with **vertical farming** and **aeroponic** towers. He grew **aubergines** and colorful **chards** not in soil, but in **coconut fiber**.'
 
-**Describe the operation:** 'A team of young farmers **tend** the crops. They have **picked** 3,000 lettuces and 150 **punnets** of strawberries in a single day. Soon, they will harvest 35 different **varieties**. While there are **practical constraints**, this farm is a real-life **showcase** for a **flourishing** new **consultancy**. It's already **fielding enquiries** from around the world to design and **breed** new city farms.'
+**Describe the ambitious result:** 'His new farm today is **somewhat** larger. It's a real-life **showcase** for his **flourishing** new **consultancy**. A team of young farmers **tend** the crops. They have **picked** 3,000 lettuces and 150 **punnets** of strawberries in a single day. Soon, they will harvest 35 different **varieties**.'
+
+**Conclude with the spreading story:** 'Despite **practical constraints**, his company is now **fielding enquiries** from all over the world to design and **breed** a new generation of city farms.'
 
 **Review:** Create a summary screen with all 16 words.
 
-**Engagement Question:** 'What kind of **practical constraints** do you think a **flourishing** rooftop farm in a major city might face?'"
+**Engagement Question:** 'Why do you think Hardy's **consultancy** is **flourishing** so quickly?'"
 
 ---
 
@@ -188,7 +190,7 @@ This is a revised, compact plan that covers all 59 vocabulary words you need to 
 **Video Script Prompt**
 
 **Objective:**
-"To contrast the benefits of this inner-city farm with the significant downsides of traditional, industrial agriculture."
+"To explain the _motivation_ (the 'Why' story) behind the project, by telling the story of Hardy's frustration with traditional agriculture and his solution."
 
 **Target Vocabulary:**
 "This video focuses on the 'why'—the advantages of local, soil-free farming."
@@ -210,14 +212,16 @@ This is a revised, compact plan that covers all 59 vocabulary words you need to 
 15. **classic**
 16. **yield**
 
-**Suggested Script Structure:**
-"**Start with the problem:** 'This new **inner-city** farm model has many advantages. Most food we buy has been **treated** with **pesticides**. Crops are chosen to **withstand** **substantial** journeys, and most of the money goes to **wholesalers**.'
+**Suggested Script Structure**
+"**Start with the problem (the 'villain'):** 'Why build this **inner-city** farm? Hardy explains: "I don't like that the vegetables we eat have been **treated** with 17 different **pesticides**."'
 
-**Explain the solution:** '**Produce** from this farm **relies solely on** water enriched with **organic nutrients**, which is **pumped** around a **closed circuit**. It **barely** travels at all. No soil is **exhausted**, water is **recycled**, and it uses 90% less water than a **classic** farm for the same **yield**.'
+**Describe the conflict:** 'He also doesn't like that crops are chosen just to **withstand** **substantial** journeys, and 80% of the price goes to **wholesalers**.'
+
+**Explain the solution (the 'hero'):** '**Produce** from this farm is different. It **relies solely on** a small amount of water enriched with **organic nutrients**, which is **pumped** around a **closed circuit**. It **barely** travels at all. No soil is **exhausted**; water is **recycled**. This method gives the same **yield** as a **classic** farm but uses 90% less water.'
 
 **Review:** Create a summary screen with all 16 words.
 
-**Engagement Question:** 'How does a **closed circuit** system for water and **organic nutrients** improve the sustainability of farming?'"
+**Engagement Question:** 'How do you think **Produce** **barely** having to travel changes its taste?'"
 
 ---
 
@@ -226,7 +230,7 @@ This is a revised, compact plan that covers all 59 vocabulary words you need to 
 **Video Script Prompt**
 
 **Objective:**
-"To place the Paris farm in the context of a booming global trend, explaining the practical benefits and limitations of this fast-changing approach to food production."
+"To finish the story by showing how this idea is _spreading_, transforming unexpected urban spaces into places of production."
 
 **Target Vocabulary:**
 "This final video covers the global trend, the economics, and the future outlook."
@@ -243,13 +247,13 @@ This is a revised, compact plan that covers all 59 vocabulary words you need to 
 10. **take up**
 11. **Nevertheless**
 
-**Suggested Script Structure:**
-"**Start with the global trend:** 'Urban farming is not a new **phenomenon**; in fact, it's **booming** worldwide, with crops growing in **disused** shipping containers and underground car parks. The method is **'virtuous'**.'
+**Suggested Script Structure**
+"**Start with the spreading story:** 'This **phenomenon** isn't just in Paris. Urban farming is **booming** worldwide. Imagine strawberries growing in **disused** shipping containers, or mushrooms in underground car parks. Hardy calls this method **'virtuous'**.'
 
-**Explain the benefits and limits:** 'The equipment is cheap, **roughly** €100 per square meter, and it runs by **consuming** a tiny **fraction** of the electricity of other techniques. The produce **typically** sells for less than **soil-based** organic food. However, some crops like beans **take up** too much space for little return.'
+**Describe the practical side of the story:** 'The equipment is cheap, **roughly** €100 per square meter. It's also cheap to run, **consuming** a tiny **fraction** of the electricity. The produce **typically** sells for less than **soil-based** organic food.'
 
-**Conclude with the future:** '**Nevertheless**, this is part of a bigger, fast-changing picture bringing food production closer to our lives.'
+**Conclude the narrative:** 'Of course, there are limits. Beans **take up** too much space. **Nevertheless**, the story of the Paris farm is part of a bigger, fast-changing picture bringing food production closer to our lives.'
 
 **Review:** Create a summary screen with all 11 words.
 
-**Engagement Question:** 'Besides the examples in the text, where else could **disused** urban spaces be used for farming?'"
+**Engagement Question:** 'Can you think of other **disused** spaces in your city that could be used for farming?'"

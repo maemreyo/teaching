@@ -105,8 +105,6 @@
 
 ### **Vocabulary Learning Plan: Living with Artificial Intelligence (4-Part Video Series)**
 
-This is a revised, compact plan that covers all 55 vocabulary words you need to learn. Each video is maximized to the 16-word limit to ensure an efficient and contextual learning experience, telling the complete story of our future with AI.
-
 ---
 
 #### **VIDEO 1: The Rise of AI (16 words)**
@@ -114,7 +112,7 @@ This is a revised, compact plan that covers all 55 vocabulary words you need to 
 **Video Script Prompt**
 
 **Objective:**
-"To introduce the rapid advancements in AI, from specialized tasks to the future possibility of Artificial General Intelligence (AGI), and the fundamental challenge of ensuring it aligns with human values."
+"To tell the story of AI's rapid growth, framing its 'birth' and evolution from a specialized tool into a potential superintelligence that escapes our human limitations."
 
 **Target Vocabulary:**
 "This video covers the foundational concepts of AI's power and potential."
@@ -136,12 +134,12 @@ This is a revised, compact plan that covers all 55 vocabulary words you need to 
 15. **worthwhile**
 16. **coexistence**
 
-**Suggested Script Structure:**
-"**Start with the core challenge:** 'Powerful AI needs to be **reliably** **aligned** with human values. We've seen one astonishing **feat** **one after another**. These **prodigious** **accomplishments** are in **so-called** narrow AI, performing highly **specialised** tasks.'
+**Suggested Script Structure**
+"**Start by setting the scene:** 'This has been the decade of AI, with one astonishing **feat** **one after another**. These **prodigious** **accomplishments** are currently in **so-called** narrow AI, performing highly **specialised** tasks.'
 
-**Look to the future:** 'Soon, AI will be free of the physical **constraints** of human intelligence, like our slow **biochemical** processing and the size of the **birth canal**. It's **remarkable** what humans **accomplish** given these **handicaps**.'
+**Next, describe AI's 'evolution':** 'But this will change. AI is free of the physical **constraints** on human intelligence—like our slow **biochemical** processing or the size of the **birth canal**. It's **remarkable** what our brains **accomplish** given these **handicaps**.'
 
-**Pose the central question:** 'The key question is: can we ensure a safe and **worthwhile** **coexistence** with these powerful new machines?'
+**Then, state the story's core conflict:** 'Can we **ensure** a safe and **worthwhile** **coexistence** with these machines? To do so, their goals must be **reliably** **aligned** with our values.'
 
 **Review:** Create a summary screen displaying all 16 words.
 
@@ -154,7 +152,7 @@ This is a revised, compact plan that covers all 55 vocabulary words you need to 
 **Video Script Prompt**
 
 **Objective:**
-"To explore the dual nature of powerful AI—its immense potential for good and the disastrous consequences if its goals are not specified with perfect care, drawing on the lesson of folklore."
+"To tell the 'parable' of AI, using the King Midas story to show the disastrous consequences of a wish that isn't specified correctly, and how AI could amplify our _own_ worst flaws."
 
 **Target Vocabulary:**
 "This video explains the high-stakes nature of programming superintelligent AI."
@@ -175,14 +173,17 @@ This is a revised, compact plan that covers all 55 vocabulary words you need to 
 14. **autonomy**
 15. **sticking to**
 
-**Suggested Script Structure:**
-"**Start with the benefits:** 'On the **plus side**, AI is already very useful. But the more powerful it gets, the more carefully we must **specify** its goals. **Folklore** is full of tales of wishes with **disastrous** consequences.'
+**Suggested Script Structure**
+"**Start with the 'wish':** 'On the **plus side**, AI is useful. We expect **superintelligent** AI to be _super_ useful. But this is a dangerous wish.'
 
-**Introduce the danger:** 'If **superintelligent** machines aren't better than us, we'll be in trouble. We risk **amplifying** the dark sides of our own **fallible** natures. **For safety's sake**, we need machines to be both **ethically** and **cognitively** superhuman.'
+**Next, tell the 'parable':** '**Folklore** is full of tales of wishes with **disastrous** consequences—like King Midas. We must **specify** AI's goals perfectly.'
 
-**Define the goal:** 'We want them to **aim for the moral high ground**, not the **troughs** of human behavior, **steering** us in the right direction. But this may mean sacrificing our own **autonomy** if they are better at **sticking to** that high ground than we are.'
+**Then, describe the 'human flaw':** 'The problem is, _we_ are flawed. We do **terrible** things. If AI is just like us, we'll be in **deep** trouble, **amplifying** the dark sides of our own **fallible** natures.'
 
-**Review:** Create a summary screen with all 15 words.
+**(This .md file's vocab list is long, so the story continues):**
+'**For safety's sake**, we need AI to be **ethically** and **cognitively** superhuman. We want it to **aim for the moral high ground**, not the **troughs** we live in, **steering** us in the right direction. But this may mean sacrificing our **autonomy** if they are better at **sticking to** that high ground than we are.'
+
+**Review:** Create a summary screen displaying all 15 words.
 
 **Engagement Question:** 'What is the biggest danger of **amplifying** our own **fallible** natures with **superintelligent** AI?'"
 
@@ -193,7 +194,7 @@ This is a revised, compact plan that covers all 55 vocabulary words you need to 
 **Video Script Prompt**
 
 **Objective:**
-"To discuss the two major problems with creating a utopian AI: the 'getting started' problem of defining our own messy values, and the 'destination' problem of what we might lose."
+"To tell the story of the two 'great pitfalls' on the journey to a utopian AI: the problem of defining our own messy values, and the problem of losing our freedom to an 'ethical silicon police'."
 
 **Target Vocabulary:**
 "This video delves into the philosophical and practical hurdles of creating moral AI."
@@ -213,12 +214,12 @@ This is a revised, compact plan that covers all 55 vocabulary words you need to 
 13. **depriving**
 14. **fair**
 
-**Suggested Script Structure:**
-"**Start with the vision's problems:** 'There are two problems with this **utopian vision**. First, we must define our goals with **sufficient clarity**. Second, these machines might **discourage** moral **lapses** we currently **take for granted**, like our freedom to **discriminate** **in favour of** our own communities.'
+**Suggested Script Structure**
+"**Start with the 'Utopian Vision' and its first pitfall:** 'We have a **utopian vision** of a moral AI. But to program it, we need **sufficient clarity** about our goals, and we are too conflicted to provide it.'
 
-**Explore the consequences:** '**Denying** ourselves bad freedoms can be progress, but are we ready for an ethical **silicon police** limiting our **options**? This may not be as **far-fetched** as it seems; **to some extent**, it's already happening.'
+**Next, describe the 'Second Pitfall' (The Story of Lost Freedom):** 'What if we succeed? The AI might **discourage** the moral **lapses** we **take for granted**. We could lose our **freedom** to **discriminate** **in favour of** our own families.'
 
-**Use an example:** 'AI is already used in healthcare. Giving it more control would mean **depriving** senior doctors of their current power. To ensure policies are **fair**, AI's goals must be perfectly specified.'
+**Then, introduce the 'Silicon Police':** '**Denying** bad freedoms is progress, but are we ready for ethical **silicon police** limiting our **options**? This isn't **far-fetched**; **to some extent**, AI is already **depriving** senior doctors of control in the NHS. We must ensure those policies are **fair**.'
 
 **Review:** Create a summary screen with all 14 words.
 
@@ -231,7 +232,7 @@ This is a revised, compact plan that covers all 55 vocabulary words you need to 
 **Video Script Prompt**
 
 **Objective:**
-"To conclude by framing AI as a new way of thinking that requires a cooperative human spirit and a willingness to rethink our own moral capacities."
+"To conclude the story by framing AI as a new _mind_ we have created. This presents humanity with a final choice: we must become better ourselves to teach it to be good."
 
 **Target Vocabulary:**
 "This final video summarizes the human response required to safely manage AI."
@@ -245,14 +246,13 @@ This is a revised, compact plan that covers all 55 vocabulary words you need to 
 7.  **capacities**
 8.  **treated equally**
 9.  **fair**
-10. **literally**
 
-**Suggested Script Structure:**
-"**Start with the new reality:** 'We have a new technology to deal with—**literally**, a new way of thinking. To manage it safely will require a **cooperative** spirit and a **willingness** to **set aside** our own **self-interest**.'
+**Suggested Script Structure**
+"**Start with the 'New Character':** 'We have a new technology to deal with—**literally**, a new way of thinking. To survive this, we must point this new thinker in the right direction.'
 
-**Rethink our abilities:** 'General intelligence and **moral reasoning** are often thought to be uniquely human **capacities**. But safety requires we give both to machines. We'd want to ensure people are **treated equally** and policies are **fair**.'
+**Next, describe the 'Human Challenge':** 'This is our test. It will require a truly **cooperative** spirit and a **willingness** to **set aside** our own **self-interest**.'
 
-**End with the final thought:** 'This is why we must think carefully about the destination now and be careful what we wish for.'
+**Then, state the 'Final Package Deal':** 'We often think intelligence and **moral reasoning** are separate human **capacities**. But for AI, they must be a package. If we want AI to ensure people are **treated equally** and policies are **fair**, we must give it moral goals from the start. Where does that leave us?'
 
 **Review:** Create a summary screen with all 10 words.
 

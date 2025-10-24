@@ -96,11 +96,11 @@
 | **environmentalist**      | conservationist, green advocate, nature protector                                          | Jah describes himself as a space **environmentalist**: 'I want to make space a place that is safe to operate...'                      |   x   |
 | **devolving**             | deteriorating, declining, regressing                                                       | ...the space community will continue **devolving** into a tragedy in which all spaceflight operators are polluting a common resource. |
 
+Here are the revised video prompts, rewritten to use a storytelling narrative structure.
+
 ---
 
 ### **Vocabulary Learning Plan: The Space Junk Problem (4-Part Video Series)**
-
-This is a revised, compact plan that covers all 55 vocabulary words you need to learn. Each video is maximized to the 16-word limit to ensure an efficient and contextual learning experience, telling the complete story of the space junk crisis.
 
 ---
 
@@ -109,7 +109,7 @@ This is a revised, compact plan that covers all 55 vocabulary words you need to 
 **Video Script Prompt**
 
 **Objective:**
-"To introduce the rapidly growing problem of space junk, explaining what it is, where it comes from, and why it's becoming an urgent threat."
+"To tell the story of _how_ the space junk problem began with a single disastrous event and is now growing into a major crisis."
 
 **Target Vocabulary:**
 "This video covers the foundational concepts of the space junk problem."
@@ -131,14 +131,16 @@ This is a revised, compact plan that covers all 55 vocabulary words you need to 
 15. **shrapnel**
 16. **altitude**
 
-**Suggested Script Structure:**
-"**Start with the problem:** 'Rocket **shards** and collision **debris** are creating major **threats** in Earth's **orbit**. Last year, **commercial**, **civil**, and even **amateur** groups sent up over 400 satellites.'
+**Suggested Script Structure**
+"**Start by setting the scene:** 'Ten years ago, a disaster happened high in Earth's **orbit**. A US **commercial** satellite **smashed into** an inactive Russian one.'
 
-**Explain the future risk:** 'Numbers could rise **sharply** if **leading** space companies **follow through on** plans to **deploy** huge **constellations** of **satellites**. This is dangerous. Ten years ago, one satellite **smashed into** another, creating thousands of pieces of space **shrapnel** that now threaten everything up to a high **altitude**.'
+**Next, describe the discovery/consequence:** 'The crash created thousands of new pieces of **shrapnel** – rocket **shards** and collision **debris**. This junk created new **threats** for everything in orbit, up to a high **altitude**.'
+
+**Then, describe the new challenge:** 'Now, the problem is rising **sharply**. **Commercial**, **civil**, and even **amateur** groups are sending up **satellites**. **Leading** companies plan to **deploy** vast new **constellations**, and they must **follow through on** these plans.'
 
 **Review:** Create a summary screen displaying all 16 words.
 
-**Engagement Question:** 'What is the biggest danger when large **constellations** of **satellites** are deployed into orbit?'"
+**Engagement Question:** 'How did one satellite crash create **threats** for thousands of others?'"
 
 ---
 
@@ -147,7 +149,7 @@ This is a revised, compact plan that covers all 55 vocabulary words you need to 
 **Video Script Prompt**
 
 **Objective:**
-"To explore the serious consequences of inaction and the methods researchers are developing to assess and manage the growing crisis."
+"To put the learner in the shoes of a satellite operator, telling the story of the constant danger they face and the research being done to help them."
 
 **Target Vocabulary:**
 "This video explains the stakes and the scientific response."
@@ -168,16 +170,16 @@ This is a revised, compact plan that covers all 55 vocabulary words you need to 
 14. **uncontrolled**
 15. **crashes**
 
-**Suggested Script Structure:**
-"**Start with the challenge:** 'Satellite **operators** can't **steer away** from every potential crash, because that uses fuel that could **otherwise** be used for the mission. **Concern** about space **junk** is growing as the number of **objects** in orbit rises.'
+**Suggested Script Structure**
+"**Start by setting the scene:** 'Imagine you are a satellite **operator**. **Concern** is rising. Your screen shows one of 20,000 **objects** **coming their way**. You can't **steer away** from all this **junk**, as that uses fuel that could **otherwise** be used for your mission.'
 
-**Explain the research:** 'Scientists are improving methods for **assessing** what is in our **ever-more-crowded** space. They **compile** massive data sets and develop **taxonomies** based on the **properties** of debris so operators know what's **coming their way**.'
+**Next, describe the action/research:** 'To help, researchers are **assessing** this **ever-more-crowded** space. They **compile** massive data sets. They are even developing **taxonomies**, or classifications, based on the **properties** of debris.'
 
-**Describe the ultimate risk:** 'The alternative is **unthinkable**. Just a few **uncontrolled** **crashes** could make space unusable.'
+**Then, describe the stakes:** 'Why are they so worried? The alternative is **unthinkable**. Just a few **uncontrolled** **crashes** could make near-Earth space unusable forever.'
 
 **Review:** Create a summary screen with all 15 words.
 
-**Engagement Question:** 'Why is developing **taxonomies** of space **junk** so important for satellite **operators**?'"
+**Engagement Question:** 'If you were a satellite **operator**, what **properties** of space **junk** would you be most concerned about?'"
 
 ---
 
@@ -186,7 +188,7 @@ This is a revised, compact plan that covers all 55 vocabulary words you need to 
 **Video Script Prompt**
 
 **Objective:**
-"To explain the international guidelines designed to prevent more space junk and the challenges in getting companies to follow them."
+"To tell the story of the 'race against time,' explaining the international plan to stop a chain reaction and the conflict that arises from not following the rules."
 
 **Target Vocabulary:**
 "This video focuses on the proposed solutions and their real-world problems."
@@ -206,16 +208,16 @@ This is a revised, compact plan that covers all 55 vocabulary words you need to 
 13. **stewards**
 14. **enterprises**
 
-**Suggested Script Structure:**
-"**Start with the worst-case scenario:** 'A few crashes could **set off** a **runaway cascade** of **fragments**, **rendering** space unusable and taking us past a **point of no return**. To avoid this **shared** threat, international groups are **collaborating** on guidelines.'
+**Suggested Script Structure**
+"**Start with the 'villain' - the worst-case scenario:** 'A few crashes could **set off** a **runaway cascade** of **fragments**. This chain reaction would **render** space unusable, pushing us past a **point of no return**.'
 
-**Explain the guidelines:** 'These include venting **pressurized** materials and **leftover** fuel. They also advise lowering satellites so they **burn up** or **disintegrate** in the atmosphere. But so far, only half of all missions have **abided by** these rules.'
+**Next, describe the 'hero's plan':** 'To prevent this **shared** threat, international groups are **collaborating**. Their guidelines are simple: vent **pressurized** materials and **leftover** fuel so satellites don't explode. Then, lower them so they **burn up** or **disintegrate** in the atmosphere.'
 
-**Describe the challenge:** 'Companies promise to be responsible **stewards** in their space **enterprises**, but the rules are not enforced.'
+**Then, describe the conflict:** 'But there's a problem. So far, only half of all missions have **abided by** this 25-year rule. Companies promise to be good **stewards** in their new **enterprises**, but the rules are not being enforced.'
 
 **Review:** Create a summary screen with all 14 words.
 
-**Engagement Question:** 'What do you think should happen to space **enterprises** that have not **abided by** the guidelines to **burn up** their satellites?'"
+**Engagement Question:** 'What should happen to space **enterprises** that have not **abided by** the guidelines to **burn up** their satellites?'"
 
 ---
 
@@ -224,7 +226,7 @@ This is a revised, compact plan that covers all 55 vocabulary words you need to 
 **Video Script Prompt**
 
 **Objective:**
-"To highlight the immense difficulty of tracking space debris accurately and introduce the concept of 'space traffic management' as the ultimate goal."
+"To tell the story of the 'detectives' trying to solve the mystery of "where is the junk?" and their ultimate goal of creating a space traffic system."
 
 **Target Vocabulary:**
 "This final video explains the data problem and the future vision."
@@ -240,11 +242,13 @@ This is a revised, compact plan that covers all 55 vocabulary words you need to 
 9.  **tracked**
 10. **consistently**
 
-**Suggested Script Structure:**
-"**Start with the problem of failed companies:** 'What happens if a company goes **bankrupt**? They won't pay to remove their satellites. Despite the **vastness** of space, scientists are **tackling** this problem by trying to locate debris with a high degree of **precision**. This would **alleviate** the need for unnecessary avoidance **maneuvers**.'
+**Suggested Script Structure**
+"**Start with the mystery:** 'Despite the **vastness** of space, the problem is getting worse. What happens if a company goes **bankrupt**? Scientists are **tackling** this by trying to find the debris with a high degree of **precision**. But this is difficult. Not all objects are **tracked consistently**.'
 
-**Introduce the vision:** 'The field is called space traffic management. An **astrodynamicist** compares it to a carefully **choreographed** airport routine. But unlike planes, not all space objects are **tracked consistently**.'
+**Next, introduce the 'detective':** 'An **astrodynamicist** named Moriba Jah wants to solve this. His goal is to create a "space traffic management" system, like a carefully **choreographed** airport routine.'
+
+**Then, describe the goal of the 'investigation':** 'Why is this so important? Knowing precisely where everything is would **alleviate** the need for so many unnecessary avoidance **maneuvers**, making space safer for everyone.'
 
 **Review:** Create a summary screen with all 10 words.
 
-**Engagement Question:** 'Why is it so much harder for an **astrodynamicist** to create a **choreographed** routine for space than it is for an air traffic controller?'"
+**Engagement Question:** 'Why is it so much harder for an **astrodynamicist** to create a **choreographed** routine for space than for an air traffic controller?'"

@@ -107,9 +107,7 @@
 
 ---
 
-### **Vocabulary Learning Plan: Leonardo's Ideal City (4-Part Video Series - Revised)**
-
-Đây là kế hoạch đã được sửa đổi, đảm bảo không có video tổng kết và mỗi từ mới chỉ xuất hiện một lần. Kế hoạch này bao gồm 4 video, bao quát toàn bộ 67 từ vựng bạn cần học.
+### **Vocabulary Learning Plan: Leonardo's Ideal City (4-Part Video Series)**
 
 ---
 
@@ -118,7 +116,7 @@
 **Video Script Prompt**
 
 **Objective:**
-"To introduce Leonardo da Vinci and explain how historical crises, particularly the plague, spurred the need for radical new thinking in urban design."
+"To tell the story of _why_ Leonardo da Vinci felt the need to design a new city, framing the **plague** as the 'inciting incident' that sparked his innovative quest."
 
 **Target Vocabulary:**
 "This video covers the introduction and the historical context that motivated Leonardo."
@@ -140,10 +138,10 @@
 15. **pestilence**
 16. **urban planning**
 
-**Suggested Script Structure:**
-"**Start with the genius:** 'Leonardo da Vinci **embodied** **artistic** talent and **humanist sensibilities**. Far from **fading into insignificance**, his ideas have been **carried down** through centuries.'
+**Suggested Script Structure**
+"**Start by setting the scene:** 'Meet our hero: Leonardo da Vinci. He **embodied** **artistic** talent and deep **humanist sensibilities**. Far from **fading into insignificance**, his thinking has been **carried down** for centuries.'
 
-**Introduce the crises:** 'The Renaissance came after the **plague**, a **global crisis** **resulting in** millions of deaths. Today, we are **on the cusp of** a climate crisis threatening **extinctions** if left **unaddressed**. Then, as now, radical solutions were **called for** to **safeguard** humanity from **catastrophe**. After a **pestilence** in Milan, Leonardo turned his genius to **urban planning**.'
+**Next, describe the 'inciting incident':** 'His story begins in a time of **global crisis**. The **plague**—a deadly **pestilence**—had become a **catastrophe**, **resulting in** millions of deaths. Much like today, as we are **on the cusp of** a climate crisis threatening **extinctions**, the problem could not be left **unaddressed**. Radical solutions were **called for** to **safeguard** humanity. This is the crisis that forced Leonardo to turn his genius to **urban planning**.'
 
 **Review:** Create a summary screen displaying all 16 words.
 
@@ -156,7 +154,7 @@
 **Video Script Prompt**
 
 **Objective:**
-"To explain the birth of 'urbanism' as a discipline during the Renaissance and how Leonardo, inspired by contemporary projects, began to reconstruct a vision for a new, coordinated city."
+"To tell the story of Leonardo's 'quest'—his decision to fight the 'villain' of the chaotic medieval city and design something truly new, inspired by the spirit of the Renaissance."
 
 **Target Vocabulary:**
 "This video explores the intellectual environment and Leonardo's initial design concepts."
@@ -178,12 +176,14 @@
 15. **coordinated**
 16. **disordered**
 
-**Suggested Script Structure:**
-"**Start with the context:** 'Leonardo's first city project failed due to **excessive** costs. But **given that** our current cities are **unsustainable**, his ideas are vital. The Renaissance is **renowned as** the era that marked the birth of **urbanism** as a formal **discipline**, defined by **rigour** and the **conscious conception** of a city.'
+**Suggested Script Structure**
+"**Start with the 'quest':** 'Leonardo began to work on his 'ideal city.' But his quest was difficult. **Given that** his ideas were seen as having **excessive** costs, his project remained unfulfilled. Yet, his ideas about our **unsustainable** cities are more important than ever.'
 
-**Explain the inspiration:** '**Prominent** thinkers **pushed forward** projects like the **reconfiguration** of towns. This inspired Leonardo to rethink crowded **medieval** cities with their **winding streets** and **piled**-up houses. He aimed for a **coordinated** vision, though his notes were often **disordered**.'
+**Next, describe the 'villain' he was fighting:** 'The Renaissance is **renowned as** the birth of **urbanism** as a new **discipline**. **Prominent** thinkers **pushed forward** projects like the **reconfiguration** of towns. But Leonardo saw the real problem: the dark, **medieval** city, with its **winding streets** and **piled**-up houses.'
 
-**Review:** Create a summary screen with all 16 words.
+**Then, describe his challenge:** 'His goal was to create a **coordinated** plan, a truly **conscious conception** of a city. But his own working method was **disordered**, and applying this new **rigour** was a huge challenge.'
+
+**Review:** Create a summary screen displaying all 16 words.
 
 **Engagement Question:** 'What is the biggest difference between a **medieval** city with **winding streets** and a modern city based on a **conscious conception**?'"
 
@@ -194,7 +194,7 @@
 **Video Script Prompt**
 
 **Objective:**
-"To detail the innovative, multi-level structure of Leonardo's ideal city, highlighting the fusion of architecture and engineering that was centuries ahead of its time."
+"To tell the story of Leonardo's 'discovery'—the secret, unconventional solution he designed. This is the 'stumbling across the scrolls' moment, where we reveal his multi-level vision."
 
 **Target Vocabulary:**
 "This video focuses on the specific, unconventional designs of Leonardo's vision."
@@ -216,10 +216,12 @@
 15. **fusion**
 16. **hydraulic plants**
 
-**Suggested Script Structure:**
-"**Start with the vision:** 'From Leonardo's **sketches**, a vision can be **assembled** **regarding** a new city with walls and **battlements**. While **consistent with** Renaissance ideas, he added innovations like **vertical outdoor staircases**.'
+**Suggested Script Structure**
+"**Start with the 'discovery' of his idea:** 'From his hidden **sketches**, a revolutionary vision can be **assembled**. His notes **regarding** the city included traditional **battlements**, **consistent with** the ideals of his time. But then, he added his secret...'
 
-**Describe the design:** 'His idea of **taking full advantage of** **interior** space wasn't realized until the **Modernist movement**. He imagined **upper layers** where people could walk **undisturbed** among **elegant** palaces, while the **lower layer** was for industry. The true **originality** was the **fusion** of architecture and engineering, like his designs for **hydraulic plants**.'
+**Next, reveal the secret:** 'The innovation was **vertical outdoor staircases**. He dreamed of a city **taking full advantage of** its **interior** space by building on multiple levels. This was so **unconventional** it wasn't truly seen until the **Modernist movement**.'
+
+**Then, describe the 'treasure':** 'In his vision, the **upper layers** were for **elegant** palaces, where people could walk **undisturbed**. The **lower layer** was for industry. The true **originality** was its **fusion** of art and engineering, with massive **hydraulic plants** to power the city.'
 
 **Review:** Create a summary screen with all 16 words.
 
@@ -227,12 +229,12 @@
 
 ---
 
-#### **VIDEO 4: The Enduring Legacy (19 words)**
+#### **VIDEO 4: The Enduring Legacy (14 words)**
 
 **Video Script Prompt**
 
 **Objective:**
-"To explore the practical engineering solutions in Leonardo's design and show how his forward-thinking ideas were eventually applied, cementing his legacy in modern urban planning."
+"To tell the story of how Leonardo's 'lost' ideas were eventually 'spread to the world,' finally being applied hundreds of years later and proving his genius."
 
 **Target Vocabulary:**
 "This final video covers the engineering details and their lasting impact."
@@ -252,12 +254,12 @@
 13. **integrated with**
 14. **unfulfilled**
 
-**Suggested Script Structure:**
-"**Start with the engineering:** 'Canals **regulated by** clocks **were supposed to** make it easier to **navigate inland**. Street width was based on **adjacent** houses, a rule still seen in **contemporary** cities. Before Leonardo's **drawings**, no city was so **technically conceived**.'
+**Suggested Script Structure**
+"**Start with the 'lost treasure':** 'For centuries, his project remained **unfulfilled**. But his **drawings** were waiting. They showed canals, **regulated by** clocks, that **were supposed to** help boats **navigate inland**. They showed street widths based on the **adjacent** houses—a rule still used in **contemporary** cities. No city had ever been so **technically conceived**.'
 
-**Explain the application:** 'His idea for the **subdivision** of a city by function, with **well-ventilated** **boulevards** and **walkways**, was later seen in the **renovation** of Paris. His ideas for a city **integrated with** nature are still relevant today.'
+**Next, describe the 'news spreading':** 'His ideas were finally **applied** nearly 400 years later. The famous **renovation** of Paris, with its **subdivision** of the city, its wide, **well-ventilated** **boulevards**, and its new **walkways**, was an echo of Leonardo's dream.'
 
-**Conclude with his legacy:** 'Though his 'ideal city' project remained **unfulfilled**, his thinking addressed what is a key cause of our modern crisis. The Renaissance was an era of incredible progress and expansion, and Leonardo was at its forefront.'
+**Then, describe the lasting legacy:** 'Today, his vision of a compact city, **integrated with** nature, is seen as the key to a **sustainable** future. Leonardo's vision was not a failure; it was just waiting for the world to catch up.'
 
 **Review:** Create a summary screen with all 14 words.
 

@@ -1,0 +1,12 @@
+Tương tự, hãy sửa file .md này, nhưng cần chú ý việc đọc nội dung file PDF và cách prompt 1 thực hiện
+```
+Lý do Prompt 1 ("The Accidental Discovery") hiệu quả hơn hẳn là vì nó sử dụng phương pháp kể chuyện (storytelling).
+Prompt 1 kể một câu chuyện có trình tự, nhân vật (người chăn cừu), hành động cụ thể (ném đá, nghe tiếng vỡ, đi vào hang), và một kết quả (tìm thấy cuộn sách, bán, tin tức lan truyền). Con người ghi nhớ từ vựng tốt hơn rất nhiều khi chúng được gắn vào một bối cảnh tường thuật (narrative context) rõ ràng.
+Prompt 2 mang tính mô tả, liệt kê (expository) và cung cấp thông tin chung. Nó giống một đoạn trích từ sách giáo khoa hơn là một câu chuyện ("trong 3.000 năm", "phần lớn", "bao gồm..."). Cấu trúc này ít hấp dẫn và khó nhớ hơn.
+Để sửa Prompt 2 cho hiệu quả như Prompt 1, chúng ta cần biến nó từ một bài mô tả chung thành một câu chuyện cụ thể về việc khám phá hoặc điều tra một trong những hình vẽ đó.
+```
+Sử dụng tiếng anh
+Chỉ cần response phần video prompt
+Không cần chỉ rõ cite-start ở đâu
+Loại bỏ các từ đã dược mark DONE ra khỏi video prompts
+Có thể gộp lại để gọn hơn và đỡ phải chia nhiều thành 5 video, tối đa mỗi video có thể là 16 từ/cụm từ
