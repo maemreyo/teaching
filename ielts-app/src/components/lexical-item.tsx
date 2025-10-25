@@ -19,10 +19,9 @@ interface LexicalItemProps {
     };
   };
   children: React.ReactNode;
-  showColors?: boolean;
 }
 
-export function LexicalItem({ item, children, showColors = true }: LexicalItemProps) {
+export function LexicalItem({ item, children }: LexicalItemProps) {
   const {
     targetLexeme,
     phase2Annotation: {
@@ -38,11 +37,11 @@ export function LexicalItem({ item, children, showColors = true }: LexicalItemPr
   const formattedTranslation =
     translationVI.charAt(0).toLowerCase() + translationVI.slice(1);
 
-  const sentimentClass = showColors ? {
+  const sentimentClass = {
     positive: "bg-highlight-positive text-highlight-positive-foreground",
-    negative: "bg-highlight-negative text-highlight-negative-foreground",
-    neutral: "bg-highlight-neutral text-highlight-neutral-foreground",
-  }[sentiment || "neutral"] : "bg-highlight text-highlight-foreground";
+    negative: "bg-highlight-negative text-highlight-negative-foreground", 
+    neutral: "underline decoration-dotted", // No background for neutral, just underline
+  }[sentiment || "neutral"];
 
   return (
     <Popover>

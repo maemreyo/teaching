@@ -258,7 +258,7 @@ export function ReadingView({ passageText, lexicalData }: ReadingViewProps) {
         >
           {paragraphs.map((p, index) => (
             <p key={index} className={cn('mb-8', lineSpacing, fontFamily, focusMode && 'text-justify')} style={{ fontSize: `${fontSize}px` }}>
-              {processParagraph(p, filteredLexicalItems)}
+              {processParagraph(p, sentimentFilter === 'all' ? lexicalData.lexicalItems : filteredLexicalItems)}
             </p>
           ))}
         </div>

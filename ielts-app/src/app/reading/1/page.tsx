@@ -1,6 +1,6 @@
 import { promises as fs } from 'fs';
 import path from 'path';
-import { ReadingView } from '@/components/reading-view';
+import { EnhancedReadingView } from '@/components/enhanced-reading-view';
 import React from 'react';
 
 async function getPassageData() {
@@ -17,6 +17,6 @@ export default async function ReadingPage() {
   const { passageText, lexicalData } = await getPassageData();
 
   return (
-    <ReadingView passageText={passageText} lexicalData={lexicalData} />
+    <EnhancedReadingView passageText={passageText} lexicalData={lexicalData} />
   );
 }
