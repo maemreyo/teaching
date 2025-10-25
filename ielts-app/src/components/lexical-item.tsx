@@ -5,6 +5,7 @@ import {
 } from "@/components/ui/popover";
 import { BookText, FlipHorizontal, Spline, Wand2 } from "lucide-react";
 import { cn } from "@/lib/utils";
+import { PhoneticZoom } from "./phonetic-zoom";
 
 interface LexicalItemProps {
   item: {
@@ -39,7 +40,7 @@ export function LexicalItem({ item, children }: LexicalItemProps) {
 
   const sentimentClass = {
     positive: "bg-highlight-positive text-highlight-positive-foreground",
-    negative: "bg-highlight-negative text-highlight-negative-foreground", 
+    negative: "bg-highlight-negative text-highlight-negative-foreground",
     neutral: "underline decoration-dotted", // No background for neutral, just underline
   }[sentiment || "neutral"];
 
@@ -60,7 +61,12 @@ export function LexicalItem({ item, children }: LexicalItemProps) {
         <div className="p-5">
           <h4 className="font-bold text-2xl text-foreground">{targetLexeme}</h4>
           {phonetic && (
-            <p className="text-sm italic text-muted-foreground">{phonetic}</p>
+            <div className="my-2">
+              <PhoneticZoom
+                text={phonetic}
+                className="text-sm italic text-muted-foreground"
+              />
+            </div>
           )}
 
           <p className="text-lg text-primary">{formattedTranslation}</p>
@@ -102,16 +108,21 @@ export function LexicalItem({ item, children }: LexicalItemProps) {
                       {Object.entries(wordForms).map(
                         ([type, forms]) =>
                           forms &&
-                          (forms as any[]).length > 0 && (
+                          (forms as any[]).length > 0 &&
+                          ((
                             <tr key={type} className="border-b border-muted/50">
-                              <td className="py-2 font-medium text-foreground capitalize">{type}</td>
+                              <td className="py-2 font-medium text-foreground capitalize">
+                                {type}
+                              </td>
                               <td className="py-2 text-muted-foreground">
                                 {(forms as any[])
-                                  .map((form) => `${form.form} (${form.meaning})`)
+                                  .map(
+                                    (form) => `${form.form} (${form.meaning})`
+                                  )
                                   .join(", ")}
                               </td>
                             </tr>
-                          )
+                          ) as any)
                       )}
                     </tbody>
                   </table>

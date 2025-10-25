@@ -11,6 +11,8 @@
         "contextualGuessVI": "Cuộc 'hunt' (săn lùng) 'for' (nhằm vào) Vua Charles II."
       },
       "phase2Annotation": {
+        "phonetic": "/ðə hʌnt fɔː/",
+        "sentiment": "negative",
         "definitionEN": "A major search or pursuit, often organized, to find and capture someone or something.",
         "translationVI": "Cuộc săn lùng (ai đó/cái gì đó).",
         "relatedCollocates": ["a manhunt", "the search for", "in hunt of"],
@@ -37,6 +39,8 @@
         "contextualGuessVI": "Một 'defeat' (thất bại) 'resounding' (vang dội, rất lớn)."
       },
       "phase2Annotation": {
+        "phonetic": "/rɪˈzaʊndɪŋ dɪˈfiːt/",
+        "sentiment": "negative",
         "definitionEN": "A very big, complete, or definite defeat.",
         "translationVI": "Một thất bại thảm hại/vang dội.",
         "relatedCollocates": [
@@ -64,6 +68,8 @@
         "contextualGuessVI": "'Sacrificed' (hy sinh) một trong những 'principles' (nguyên tắc) mà cha ông đã chết vì nó."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈsækrɪfaɪst wʌn əv ðə ˈprɪnsəplz/",
+        "sentiment": "negative",
         "definitionEN": "To give up a fundamental belief or rule of conduct, often for a perceived greater good or personal gain.",
         "translationVI": "Hy sinh một trong những nguyên tắc.",
         "relatedCollocates": [
@@ -94,6 +100,8 @@
         "contextualGuessVI": "'Did a deal' (thực hiện một thỏa thuận) 'with' (với) người Scots."
       },
       "phase2Annotation": {
+        "phonetic": "/dɪd ə diːl wɪð/",
+        "sentiment": "neutral",
         "definitionEN": "To make an agreement or arrangement with someone, often in a business or political context.",
         "translationVI": "Thỏa thuận với (ai đó).",
         "relatedCollocates": [
@@ -124,6 +132,8 @@
         "contextualGuessVI": "Sự có mặt của ông ta đã 'prompted' (thúc đẩy, xúi giục) quân đội Anh 'to invade' (xâm lược) Scotland."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈprɒmptɪd tuː/",
+        "sentiment": "neutral",
         "definitionEN": "To cause someone to take a particular course of action.",
         "translationVI": "Thúc đẩy/khiến (ai đó) làm (gì đó).",
         "relatedCollocates": [
@@ -153,6 +163,8 @@
         "contextualGuessVI": "Một 'strike' (cuộc tấn công) 'pre-emptive' (phủ đầu, đón đầu, trước khi bị tấn công)."
       },
       "phase2Annotation": {
+        "phonetic": "/ə priːˈemptɪv straɪk/",
+        "sentiment": "negative",
         "definitionEN": "An attack launched to prevent an expected enemy attack from happening.",
         "translationVI": "Một đòn tấn công phủ đầu/tiên hạ thủ vi cường.",
         "relatedCollocates": [
@@ -180,6 +192,8 @@
         "contextualGuessVI": "Bị 'defeated' (đánh bại) một cách 'comprehensively' (toàn diện, hoàn toàn)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˌkɒmprɪˈhensɪvli dɪˈfiːtɪd/",
+        "sentiment": "negative",
         "definitionEN": "To be beaten completely and thoroughly in a battle, argument, or competition.",
         "translationVI": "Bị đánh bại (một cách) toàn diện.",
         "relatedCollocates": [
@@ -218,6 +232,8 @@
         "contextualGuessVI": "Nhà vua thấy mình là 'subject' (đối tượng) 'of' (của) một 'national manhunt' (cuộc truy lùng toàn quốc)."
       },
       "phase2Annotation": {
+        "phonetic": "/ðə ˈsʌbdʒɪkt əv ə ˈnæʃənəl ˈmænhʌnt/",
+        "sentiment": "negative",
         "definitionEN": "To be the person that a large, organized search (often by police or military) across the whole country is trying to find.",
         "translationVI": "Đối tượng của một cuộc truy lùng toàn quốc.",
         "relatedCollocates": [
@@ -248,6 +264,8 @@
         "contextualGuessVI": "Một 'huge sum' (số tiền lớn) 'offered' (được đưa ra) 'for his capture' (để bắt ông ta)."
       },
       "phase2Annotation": {
+        "phonetic": "/ə hjuːdʒ sʌm ˈɒfəd/",
+        "sentiment": "neutral",
         "definitionEN": "A very large amount of money was promised as a reward for capturing him.",
         "translationVI": "Một khoản tiền lớn được treo thưởng.",
         "relatedCollocates": [
@@ -282,6 +300,8 @@
         "contextualGuessVI": "Những 'escapes' (cuộc trốn thoát) 'close' (sát sao, suýt soát). 'Heart-poundingly' (làm tim đập thình thịch)."
       },
       "phase2Annotation": {
+        "phonetic": "/kləʊs ɪˈskeɪps/",
+        "sentiment": "negative",
         "definitionEN": "Situations in which one almost gets caught or harmed but manages to get away just in time.",
         "translationVI": "Những cuộc trốn thoát trong gang tấc.",
         "relatedCollocates": [
@@ -312,6 +332,8 @@
         "contextualGuessVI": "'Evade' (lẩn trốn, né tránh) khỏi lính của Nghị viện."
       },
       "phase2Annotation": {
+        "phonetic": "/ɪˈveɪd/",
+        "sentiment": "neutral",
         "definitionEN": "To escape from or avoid someone or something, especially by cleverness or trickery.",
         "translationVI": "Lẩn trốn, né tránh (ai đó/cái gì đó).",
         "relatedCollocates": [
@@ -339,6 +361,8 @@
         "contextualGuessVI": "'Seeking' (tìm kiếm) 'refuge' (nơi ẩn náu, nơi tị nạn) 'in' (ở) Pháp."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈsiːkɪŋ ˈrefjuːdʒ ɪn/",
+        "sentiment": "neutral",
         "definitionEN": "To look for a safe place, especially to escape from danger or persecution.",
         "translationVI": "Tìm nơi ẩn náu/nơi tị nạn ở (một nơi).",
         "relatedCollocates": ["take refuge", "a refugee (n)", "seek asylum"],
@@ -365,6 +389,8 @@
         "contextualGuessVI": "'Penniless' (không một xu dính túi) 'and' (và) 'defeated' (bị đánh bại, thất bại)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈpeniləs ænd dɪˈfiːtɪd/",
+        "sentiment": "negative",
         "definitionEN": "Having no money at all and having been beaten (in battle or spirit).",
         "translationVI": "Không một xu dính túi và thất bại.",
         "relatedCollocates": [
@@ -398,6 +424,8 @@
         "contextualGuessVI": "Sự 'restoration' (phục hồi, phục vị) 'as king' (với tư cách là vua)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˌrestəˈreɪʃən æz kɪŋ/",
+        "sentiment": "positive",
         "definitionEN": "The act of returning a monarch to their throne or position of power.",
         "translationVI": "Sự phục vị (làm vua).",
         "relatedCollocates": [
@@ -424,6 +452,8 @@
         "contextualGuessVI": "Một 'writer' (nhà văn) và 'diarist' (người viết 'diary' - nhật ký)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈdaɪərɪst/",
+        "sentiment": "neutral",
         "definitionEN": "A person who writes a regular record of their thoughts, feelings, and experiences.",
         "translationVI": "Người viết nhật ký.",
         "relatedCollocates": ["write a diary", "a famous diarist"],
@@ -450,6 +480,8 @@
         "contextualGuessVI": "'Commit' (giao phó, gửi gắm) câu chuyện 'to paper' (lên giấy tờ) -> 'viết ra giấy'."
       },
       "phase2Annotation": {
+        "phonetic": "/kəˈmɪt tuː ˈpeɪpə/",
+        "sentiment": "neutral",
         "definitionEN": "To write something down; to record thoughts or a story in written form.",
         "translationVI": "Viết (cái gì đó) ra giấy.",
         "relatedCollocates": [
@@ -476,6 +508,8 @@
         "contextualGuessVI": "Một 'episode' (phần, hồi) 'extraordinary' (phi thường, đặc biệt)."
       },
       "phase2Annotation": {
+        "phonetic": "/ɪkˈstrɔːdənəri ˈepɪsəʊd/",
+        "sentiment": "positive",
         "definitionEN": "A very unusual, special, or remarkable event or period of time.",
         "translationVI": "Một hồi/giai đoạn phi thường.",
         "relatedCollocates": [
@@ -508,6 +542,8 @@
         "contextualGuessVI": "Những 'recollections' (hồi ức) 'personal' (cá nhân)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈpɜːsənəl ˌrekəˈlekʃənz/",
+        "sentiment": "neutral",
         "definitionEN": "A person's own memories of past events.",
         "translationVI": "Những hồi ức cá nhân.",
         "relatedCollocates": [
@@ -535,6 +571,8 @@
         "contextualGuessVI": "Một 'fugitive' (người lẩn trốn, người chạy trốn)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈfjuːdʒətɪv/",
+        "sentiment": "negative",
         "definitionEN": "A person who is running away or hiding, especially from the police or in a time of war.",
         "translationVI": "Kẻ chạy trốn, người tị nạn.",
         "relatedCollocates": ["a fugitive from justice", "on the run"],
@@ -560,6 +598,8 @@
         "contextualGuessVI": "'Commenced' (bắt đầu) câu chuyện của mình."
       },
       "phase2Annotation": {
+        "phonetic": "/kəˈmenst hɪz ˈstɔːri/",
+        "sentiment": "neutral",
         "definitionEN": "To begin or start telling his narrative (a more formal word for 'began').",
         "translationVI": "Bắt đầu câu chuyện của mình.",
         "relatedCollocates": [
@@ -587,6 +627,8 @@
         "contextualGuessVI": "'Beyond' (vượt quá) 'hope of recovery' (hy vọng phục hồi/cứu vãn)."
       },
       "phase2Annotation": {
+        "phonetic": "/bɪˈjɒnd həʊp əv rɪˈkʌvəri/",
+        "sentiment": "negative",
         "definitionEN": "In a state so bad that it is impossible to be saved, fixed, or cured.",
         "translationVI": "Vô vọng cứu vãn/phục hồi.",
         "relatedCollocates": [
@@ -623,6 +665,8 @@
         "contextualGuessVI": "Sự 'retelling' (kể lại) 'day-by-day' (hàng ngày, từng ngày một)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˌdeɪ baɪ ˈdeɪ ˌriːˈtelɪŋ/",
+        "sentiment": "neutral",
         "definitionEN": "A narrative or account of events as they happened each day.",
         "translationVI": "Sự kể lại theo từng ngày.",
         "relatedCollocates": [
@@ -650,6 +694,8 @@
         "contextualGuessVI": "Lính 'scoured' (lùng sục, tìm kiếm kỹ) 'the floor below' (tầng/khu vực bên dưới)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈskaʊəd ðə flɔː bɪˈləʊ/",
+        "sentiment": "negative",
         "definitionEN": "To search a place or thing very carefully and thoroughly.",
         "translationVI": "Lùng sục/sục sạo khu vực bên dưới.",
         "relatedCollocates": [
@@ -677,6 +723,8 @@
         "contextualGuessVI": "Sự 'refusal' (từ chối) 'preposterous' (vô lý, lố bịch)."
       },
       "phase2Annotation": {
+        "phonetic": "/prɪˈpɒstərəs rɪˈfjuːzəl/",
+        "sentiment": "negative",
         "definitionEN": "An act of saying no that is completely unreasonable, ridiculous, or absurd.",
         "translationVI": "Sự từ chối lố bịch/vô lý.",
         "relatedCollocates": [
@@ -706,6 +754,8 @@
         "contextualGuessVI": "'Adopt' (chấp nhận, sử dụng) 'disguise' (sự cải trang)."
       },
       "phase2Annotation": {
+        "phonetic": "/əˈdɒpt dɪsˈɡaɪz/",
+        "sentiment": "neutral",
         "definitionEN": "To put on clothes and change one's appearance in order to hide one's true identity.",
         "translationVI": "Cải trang, ngụy trang.",
         "relatedCollocates": [
@@ -736,6 +786,8 @@
         "contextualGuessVI": "'On the grounds that' (trên cơ sở là, vì lý do là) nó... 'beneath his dignity' (dưới phẩm giá)."
       },
       "phase2Annotation": {
+        "phonetic": "/ɒn ðə ɡraʊndz ðæt/",
+        "sentiment": "neutral",
         "definitionEN": "For the reason that; because. (Used to give a formal reason or justification for an action).",
         "translationVI": "Với lý do là; bởi vì.",
         "relatedCollocates": [
@@ -763,6 +815,8 @@
         "contextualGuessVI": "Ở 'beneath' (bên dưới) 'his dignity' (phẩm giá của ông ta) -> 'hạ thấp phẩm giá'."
       },
       "phase2Annotation": {
+        "phonetic": "/bɪˈniːθ hɪz ˈdɪɡnəti/",
+        "sentiment": "negative",
         "definitionEN": "Considered to be below one's level of importance or self-respect; too degrading or shameful to do.",
         "translationVI": "Hạ thấp/dưới phẩm giá của (ai đó).",
         "relatedCollocates": [
@@ -790,6 +844,8 @@
         "contextualGuessVI": "'Tension' (sự căng thẳng) 'emotional' (về mặt cảm xúc)."
       },
       "phase2Annotation": {
+        "phonetic": "/ɪˈməʊʃənəl ˈtenʃən/",
+        "sentiment": "negative",
         "definitionEN": "A feeling of nervousness, excitement, or suppressed emotion in a situation or between people.",
         "translationVI": "Sự căng thẳng về cảm xúc.",
         "relatedCollocates": [
@@ -825,6 +881,8 @@
         "contextualGuessVI": "Được 'revealed' (tiết lộ) một cách 'cautiously' (cẩn trọng, dè dặt)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈkɔːʃəsli rɪˈviːld/",
+        "sentiment": "neutral",
         "definitionEN": "To make something known in a careful way, to avoid danger or risk.",
         "translationVI": "Tiết lộ một cách cẩn trọng.",
         "relatedCollocates": [
@@ -857,6 +915,8 @@
         "contextualGuessVI": "Một 'truth' (sự thật) 'uncomfortable' (không thoải mái, khó chịu, khó chấp nhận)."
       },
       "phase2Annotation": {
+        "phonetic": "/ʌnˈkʌmfətəbl truːθ/",
+        "sentiment": "negative",
         "definitionEN": "A fact or reality that is unpleasant to acknowledge, hear, or accept.",
         "translationVI": "Sự thật khó nghe/khó chấp nhận.",
         "relatedCollocates": [
@@ -889,6 +949,8 @@
         "contextualGuessVI": "Bị 'appalled' (kinh hoàng, sốc) 'by' (bởi) vụ hành quyết."
       },
       "phase2Annotation": {
+        "phonetic": "/əˈpɔːld baɪ/",
+        "sentiment": "negative",
         "definitionEN": "To be greatly shocked, horrified, or disgusted by something.",
         "translationVI": "Bị kinh hoàng/sốc bởi.",
         "relatedCollocates": ["deeply appalled", "shocked by", "horrified by"],
@@ -917,6 +979,8 @@
         "contextualGuessVI": "'Bolted' (cài then) 'their doors' (cửa) một cách 'firmly' (chắc chắn)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈfɜːmli ˈbəʊltɪd ðeə dɔːz/",
+        "sentiment": "negative",
         "definitionEN": "To securely lock one's doors, often out of fear or refusal to allow entry.",
         "translationVI": "Cài then cửa chắc chắn.",
         "relatedCollocates": ["lock and bolt", "bolted (adj)", "firmly (adv)"],
@@ -940,6 +1004,8 @@
         "contextualGuessVI": "Một 'invasion force' (lực lượng xâm lược) 'foreign' (nước ngoài)."
       },
       "phase2Annotation": {
+        "phonetic": "/ə ˈfɒrən ɪnˈveɪʒən fɔːs/",
+        "sentiment": "negative",
         "definitionEN": "An army from another country that enters a country by force in order to take control.",
         "translationVI": "Một lực lượng xâm lược nước ngoài.",
         "relatedCollocates": ["an invading force", "repel an invasion"],
@@ -969,6 +1035,8 @@
         "contextualGuessVI": "Một 'decade' (thập kỷ) 'of' (của) 'civil war' (nội chiến)."
       },
       "phase2Annotation": {
+        "phonetic": "/ə ˈdekeɪd əv ˈsɪvl wɔː/",
+        "sentiment": "negative",
         "definitionEN": "A period of ten years during which a country is fighting against itself.",
         "translationVI": "Một thập kỷ nội chiến.",
         "relatedCollocates": [
@@ -999,6 +1067,8 @@
         "contextualGuessVI": "'Desperate' (tuyệt vọng, khao khát) 'to avoid' (để né tránh) nó."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈdespərət tu əˈvɔɪd/",
+        "sentiment": "negative",
         "definitionEN": "Having a very strong need or desire to prevent something from happening.",
         "translationVI": "Tuyệt vọng/khao khát né tránh (cái gì).",
         "relatedCollocates": [
@@ -1028,6 +1098,8 @@
         "contextualGuessVI": "Gây ra 'eye-rolling' (sự đảo mắt, biểu lộ sự chán ngán) 'among' (trong đám) 'courtiers' (cận thần)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈkɔːzɪŋ ˈaɪˌrəʊlɪŋ əˈmʌŋ/",
+        "sentiment": "negative",
         "definitionEN": "Leading to a reaction of annoyance, disbelief, or exasperation from a group of people.",
         "translationVI": "Gây ra sự chán ngán/đảo mắt trong (một nhóm).",
         "relatedCollocates": [
@@ -1061,6 +1133,8 @@
         "contextualGuessVI": "'Set in train' (bắt đầu, khởi động) một 'series' (loạt) 'of initiatives' (sáng kiến)."
       },
       "phase2Annotation": {
+        "phonetic": "/set ɪn treɪn ə ˈsɪəriːz əv ɪˈnɪʃətɪvz/",
+        "sentiment": "positive",
         "definitionEN": "To start a process or sequence of actions or new plans.",
         "translationVI": "Khởi động một loạt các sáng kiến.",
         "relatedCollocates": [
@@ -1095,6 +1169,8 @@
         "contextualGuessVI": "Để 'memorialise' (tưởng niệm, kỷ niệm) nó."
       },
       "phase2Annotation": {
+        "phonetic": "/məˈmɔːriəlaɪz/",
+        "sentiment": "positive",
         "definitionEN": "To create something to preserve the memory of a person or event.",
         "translationVI": "Tưởng niệm, kỷ niệm.",
         "relatedCollocates": ["commemorate (synonym)", "in memory of"],
@@ -1120,6 +1196,8 @@
         "contextualGuessVI": "Một 'order' (dòng, hội) 'of chivalry' (hiệp sĩ, tinh thần thượng võ)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈɔːdər əv ˈʃɪvəlri/",
+        "sentiment": "positive",
         "definitionEN": "A formal society or brotherhood of knights, bound by honour and a code of conduct.",
         "translationVI": "Dòng tu/hội hiệp sĩ.",
         "relatedCollocates": [
@@ -1152,6 +1230,8 @@
         "contextualGuessVI": "'Depicting' (mô tả, khắc họa) 'the episode' (hồi/giai đoạn đó)."
       },
       "phase2Annotation": {
+        "phonetic": "/dɪˈpɪktɪŋ ði ˈepɪsəʊd/",
+        "sentiment": "neutral",
         "definitionEN": "Representing or showing the event or period of time in a painting, drawing, or writing.",
         "translationVI": "Khắc họa/mô tả giai đoạn đó.",
         "relatedCollocates": [
@@ -1182,6 +1262,8 @@
         "contextualGuessVI": "Nhà vua 'on the run' (trên đường chạy trốn)."
       },
       "phase2Annotation": {
+        "phonetic": "/ɒn ðə rʌn/",
+        "sentiment": "negative",
         "definitionEN": "In the process of escaping or hiding from the police or other authorities.",
         "translationVI": "Đang trên đường chạy trốn.",
         "relatedCollocates": [
@@ -1209,6 +1291,8 @@
         "contextualGuessVI": "'Commissioned' (ủy thác, đặt hàng) 'the artist' (người nghệ sĩ)."
       },
       "phase2Annotation": {
+        "phonetic": "/kəˈmɪʃənd ði ˈɑːtɪst/",
+        "sentiment": "neutral",
         "definitionEN": "To formally choose and pay an artist to create a specific piece of art.",
         "translationVI": "Ủy thác/đặt hàng người nghệ sĩ.",
         "relatedCollocates": ["commission a painting", "a private commission"],
@@ -1235,6 +1319,8 @@
         "contextualGuessVI": "'Pulling off' (thực hiện thành công) 'such an escape' (một cuộc trốn thoát như vậy)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈpʊlɪŋ ɒf sʌtʃ ən ɪˈskeɪp/",
+        "sentiment": "positive",
         "definitionEN": "To succeed in achieving something difficult, like a complex escape.",
         "translationVI": "Thực hiện thành công một cuộc trốn thoát.",
         "relatedCollocates": [
@@ -1265,6 +1351,8 @@
         "contextualGuessVI": "'Prose' (văn xuôi) 'readable' (dễ đọc) 'pacey' (nhịp độ nhanh)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈpeɪsi, ˈriːdəbl prəʊz/",
+        "sentiment": "positive",
         "definitionEN": "Writing (non-poetry) that is easy to read and moves at a quick, engaging speed.",
         "translationVI": "Lối văn xuôi nhanh, dễ đọc.",
         "relatedCollocates": [
@@ -1298,6 +1386,8 @@
         "contextualGuessVI": "'Steers clear of' (né tránh) một cách 'deftly' (khéo léo) các 'idioms' hiện đại."
       },
       "phase2Annotation": {
+        "phonetic": "/stɪəz ˈdeftli klɪər əv/",
+        "sentiment": "positive",
         "definitionEN": "To cleverly and skilfully avoid something.",
         "translationVI": "Khéo léo né tránh (cái gì đó).",
         "relatedCollocates": [
@@ -1325,6 +1415,8 @@
         "contextualGuessVI": "'Brings to life' (làm sống động) các chi tiết một cách 'elegantly' (thanh lịch, trang nhã)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈelɪɡəntli brɪŋz tə laɪf/",
+        "sentiment": "positive",
         "definitionEN": "To make something seem real, vivid, and exciting in a graceful and stylish way.",
         "translationVI": "Làm sống động (một cách) trang nhã.",
         "relatedCollocates": [
@@ -1355,6 +1447,8 @@
         "contextualGuessVI": "Sự 'sympathy' (đồng cảm) 'even-handed' (công bằng, không thiên vị) 'for' (cho) cả hai bên."
       },
       "phase2Annotation": {
+        "phonetic": "/ˌiːvənˈhændɪd ˈsɪmpəθi fɔː/",
+        "sentiment": "positive",
         "definitionEN": "A fair and impartial feeling of understanding and compassion for all sides of a conflict.",
         "translationVI": "Sự đồng cảm công bằng/không thiên vị.",
         "relatedCollocates": [
@@ -1385,6 +1479,8 @@
         "contextualGuessVI": "Một 'regime' (chế độ) 'republican' (cộng hòa) 'fierce' (mãnh liệt, hung dữ)."
       },
       "phase2Annotation": {
+        "phonetic": "/fɪəs rɪˈpʌblɪkən reɪˈʒiːm/",
+        "sentiment": "negative",
         "definitionEN": "A government (that is not a monarchy) which is intense, aggressive, and powerful.",
         "translationVI": "Chế độ cộng hòa khắc nghiệt/mãnh liệt.",
         "relatedCollocates": [
@@ -1418,6 +1514,8 @@
         "contextualGuessVI": "'Succeeds in' (thành công trong) 'his desire' (mong muốn của mình)."
       },
       "phase2Annotation": {
+        "phonetic": "/səkˈsiːdz ɪn hɪz dɪˈzaɪə/",
+        "sentiment": "positive",
         "definitionEN": "To successfully achieve what one wants to do.",
         "translationVI": "Thành công trong mong muốn.",
         "relatedCollocates": [
@@ -1456,6 +1554,8 @@
         "contextualGuessVI": "'Reason' (lý do) 'alone' (duy nhất, chỉ riêng) -> 'chỉ riêng lý do đó cũng đủ'."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈriːzən əˈləʊn/",
+        "sentiment": "neutral",
         "definitionEN": "The single, sufficient reason, without needing any others.",
         "translationVI": "Chỉ riêng lý do đó (cũng đủ).",
         "relatedCollocates": ["the sole reason", "let alone", "reason enough"],
@@ -1479,6 +1579,8 @@
         "contextualGuessVI": "Một 'question' (câu hỏi) 'tantalising' (trêu ngươi, hấp dẫn, gây tò mò)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈtæntəlaɪzɪŋ ˈkwestʃən/",
+        "sentiment": "neutral",
         "definitionEN": "A question that is very appealing and makes you want to know the answer, but may be difficult to resolve.",
         "translationVI": "Câu hỏi hấp dẫn/gây tò mò.",
         "relatedCollocates": [
@@ -1511,6 +1613,8 @@
         "contextualGuessVI": "'Assume' (cho là, đảm nhận) 'disguises' (sự cải trang) -> 'hóa trang', 'cải trang'."
       },
       "phase2Annotation": {
+        "phonetic": "/əˈsjuːm dɪsˈɡaɪzɪz/",
+        "sentiment": "neutral",
         "definitionEN": "To put on clothes/change appearance to hide one's identity (synonym for 'adopt disguise').",
         "translationVI": "Hóa trang, cải trang.",
         "relatedCollocates": ["assume (a role)", "wear a disguise"],
@@ -1540,6 +1644,8 @@
         "contextualGuessVI": "'Survive' (sống sót) 'on' (dựa vào) 'wit' (sự lanh lợi) 'and' (và) 'charm' (sự quyến rũ)."
       },
       "phase2Annotation": {
+        "phonetic": "/səˈvaɪv ɒn wɪt ænd tʃɑːm/",
+        "sentiment": "positive",
         "definitionEN": "To manage to live or get by using only one's intelligence, cleverness, and ability to please people.",
         "translationVI": "Sống sót/xoay xở bằng sự lanh lợi và quyến rũ.",
         "relatedCollocates": [
@@ -1577,6 +1683,8 @@
         "contextualGuessVI": "Sử dụng 'trickery' (sự lừa lọc) 'and' (và) 'subterfuge' (mánh khóe, mưu mẹo)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈtrɪkəri ænd ˈsʌbtəfjuːdʒ/",
+        "sentiment": "negative",
         "definitionEN": "The use of dishonest methods, deceit, or clever tricks to achieve something.",
         "translationVI": "Sự lừa lọc và mưu mẹo.",
         "relatedCollocates": ["use trickery", "a clever subterfuge"],
@@ -1604,6 +1712,8 @@
         "contextualGuessVI": "Trốn thoát khỏi 'tight corners' (các góc hẹp -> các tình huống khó khăn, kẹt)."
       },
       "phase2Annotation": {
+        "phonetic": "/ɪˈskeɪp frɒm taɪt ˈkɔːnəz/",
+        "sentiment": "positive",
         "definitionEN": "To get out of difficult or dangerous situations.",
         "translationVI": "Thoát khỏi những tình huống khó khăn.",
         "relatedCollocates": [
@@ -1634,6 +1744,8 @@
         "contextualGuessVI": "Cuốn sách 'doesn't quite' (không hoàn toàn) 'hit the mark' (trúng đích, đạt yêu cầu)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈdʌznt kwaɪt hɪt ðə mɑːk/",
+        "sentiment": "negative",
         "definitionEN": "Fails to be completely successful, accurate, or effective.",
         "translationVI": "Không hoàn toàn đạt/trúng đích.",
         "relatedCollocates": [
@@ -1661,6 +1773,8 @@
         "contextualGuessVI": "Một 'monarch' (vị vua) 'pleasure-loving' (ham vui) và 'ineffective' (không hiệu quả, bất tài)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˌɪnɪˈfektɪv, ˈpleʒəˌlʌvɪŋ ˈmɒnək/",
+        "sentiment": "negative",
         "definitionEN": "A king or queen who is not good at their job (ineffectual) and is more focused on enjoyment and leisure.",
         "translationVI": "Một vị vua bất tài, ham vui.",
         "relatedCollocates": [
@@ -1696,6 +1810,8 @@
         "contextualGuessVI": "'Doesn't do justice to' (không công bằng với, không phản ánh đúng) con người ông ta."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈdʌznt duː ˈdʒʌstɪs tuː/",
+        "sentiment": "negative",
         "definitionEN": "To fail to represent someone or something in a way that is fair, accurate, or shows their true qualities.",
         "translationVI": "Không phản ánh đúng/không công bằng với.",
         "relatedCollocates": [
@@ -1726,6 +1842,8 @@
         "contextualGuessVI": "Bỏ 'aside' (sang một bên) 'this one niggle' (một 'niggle' - sự phàn nàn nhỏ, chi tiết vụn vặt)."
       },
       "phase2Annotation": {
+        "phonetic": "/wʌn ˈnɪɡl əˈsaɪd/",
+        "sentiment": "negative",
         "definitionEN": "Apart from this one small, minor complaint or criticism.",
         "translationVI": "Bỏ qua một phàn nàn/lấn cấn nhỏ này.",
         "relatedCollocates": [
@@ -1753,6 +1871,8 @@
         "contextualGuessVI": "Sẽ thấy họ có một 'treat' (điều thú vị, món quà) 'in store' (đang chờ, dự trữ sẵn)."
       },
       "phase2Annotation": {
+        "phonetic": "/hæv ə triːt ɪn stɔː/",
+        "sentiment": "positive",
         "definitionEN": "To have something special, exciting, or very pleasant planned or waiting for someone.",
         "translationVI": "Có một điều thú vị/bất ngờ đang chờ.",
         "relatedCollocates": [
@@ -1786,6 +1906,8 @@
         "contextualGuessVI": "Sự 'innovation' (đổi mới, cải tiến) 'military' (thuộc về quân sự)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈmɪlɪtri ˌɪnəˈveɪʃən/",
+        "sentiment": "neutral",
         "definitionEN": "A new idea, method, or technology related to a country's armed forces.",
         "translationVI": "Sự đổi mới/cải tiến quân sự.",
         "relatedCollocates": [
@@ -1819,6 +1941,8 @@
         "contextualGuessVI": "Một 'reward' (phần thưởng) 'large' (lớn). (Paraphrase cho 'huge sum offered')."
       },
       "phase2Annotation": {
+        "phonetic": "/lɑːdʒ rɪˈwɔːd/",
+        "sentiment": "positive",
         "definitionEN": "A significant amount of money or other prize offered for finding someone or something.",
         "translationVI": "Phần thưởng lớn.",
         "relatedCollocates": [
@@ -1846,6 +1970,8 @@
         "contextualGuessVI": "Một 'conspiracy' (âm mưu) 'widespread' (lan rộng)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈwaɪdspred kənˈspɪrəsi/",
+        "sentiment": "negative",
         "definitionEN": "A secret plan by a large group of people (spread across many places) to do something harmful or illegal.",
         "translationVI": "Âm mưu lan rộng.",
         "relatedCollocates": [
@@ -1876,6 +2002,8 @@
         "contextualGuessVI": "Một 'victory' (chiến thắng) 'decisive' (mang tính quyết định). (Ngược nghĩa với 'resounding defeat')."
       },
       "phase2Annotation": {
+        "phonetic": "/dɪˈsaɪsɪv ˈvɪktəri/",
+        "sentiment": "positive",
         "definitionEN": "A victory that is clear, final, and settles the issue without doubt.",
         "translationVI": "Chiến thắng mang tính quyết định.",
         "relatedCollocates": [
@@ -1911,6 +2039,8 @@
         "contextualGuessVI": "Cuộc 'debate' (tranh luận) 'political' (chính trị)."
       },
       "phase2Annotation": {
+        "phonetic": "/pəˈlɪtɪkl dɪˈbeɪt/",
+        "sentiment": "neutral",
         "definitionEN": "A formal discussion on a matter of public policy or government.",
         "translationVI": "Cuộc tranh luận chính trị.",
         "relatedCollocates": [
@@ -1942,6 +2072,8 @@
         "contextualGuessVI": "Một 'alliance' (liên minh) 'strategic' (mang tính chiến lược). (Paraphrase cho 'did a deal with the Scots')."
       },
       "phase2Annotation": {
+        "phonetic": "/strəˈtiːdʒɪk əˈlaɪəns/",
+        "sentiment": "neutral",
         "definitionEN": "A formal agreement or partnership between two groups or countries, made to achieve a specific long-term goal.",
         "translationVI": "Liên minh chiến lược.",
         "relatedCollocates": [
@@ -1974,6 +2106,8 @@
         "contextualGuessVI": "Một 'solution' (giải pháp) 'popular' (phổ biến, được lòng dân)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈpɒpjələ səˈluːʃən/",
+        "sentiment": "positive",
         "definitionEN": "A way of solving a problem that is liked or supported by many people.",
         "translationVI": "Giải pháp phổ biến/được ưa chuộng.",
         "relatedCollocates": [
@@ -2007,6 +2141,8 @@
         "contextualGuessVI": "Sự 'conviction' (tin tưởng mạnh mẽ) 'religious' (thuộc về tôn giáo). (Paraphrase cho 'principles his father died for')."
       },
       "phase2Annotation": {
+        "phonetic": "/rɪˈlɪdʒəs kənˈvɪkʃən/",
+        "sentiment": "neutral",
         "definitionEN": "A very strong belief or opinion related to faith or a particular religion.",
         "translationVI": "Tín ngưỡng tôn giáo (mãnh liệt).",
         "relatedCollocates": [
@@ -2040,6 +2176,8 @@
         "contextualGuessVI": "'Considered' (coi) ai đó 'to be' (là) 'trustworthy' (đáng tin cậy)."
       },
       "phase2Annotation": {
+        "phonetic": "/kənˈsɪdəd tuː biː ˈtrʌstˌwɜːði/",
+        "sentiment": "positive",
         "definitionEN": "To believe or have the opinion that someone is reliable, honest, and can be trusted.",
         "translationVI": "Coi (ai đó) là đáng tin cậy.",
         "relatedCollocates": [
@@ -2073,6 +2211,8 @@
         "contextualGuessVI": "Hồi ức 'lacked' (thiếu) 'sufficient' (đủ) 'detail' (chi tiết). (Ngược nghĩa với 'related in great detail')."
       },
       "phase2Annotation": {
+        "phonetic": "/lækt səˈfɪʃənt ˈdiːteɪl/",
+        "sentiment": "negative",
         "definitionEN": "Did not have enough information or specific points.",
         "translationVI": "Thiếu chi tiết đầy đủ.",
         "relatedCollocates": [
@@ -2106,6 +2246,8 @@
         "contextualGuessVI": "'Main purpose' (mục đích chính) 'of' (của) 'reviewer' (người đánh giá)."
       },
       "phase2Annotation": {
+        "phonetic": "/rɪˈvjuːəz meɪn ˈpɜːpəs/",
+        "sentiment": "neutral",
         "definitionEN": "The primary reason or intention of the person writing the book review.",
         "translationVI": "Mục đích chính của người đánh giá.",
         "relatedCollocates": [
@@ -2140,6 +2282,8 @@
         "contextualGuessVI": "Cung cấp một 'account' (bản tường thuật, lời kể) 'of' (về) các 'circumstances' (tình huống)."
       },
       "phase2Annotation": {
+        "phonetic": "/ɡɪv ən əˈkaʊnt əv/",
+        "sentiment": "neutral",
         "definitionEN": "To provide a description or report of events or a situation.",
         "translationVI": "Kể lại/tường thuật về.",
         "relatedCollocates": [
@@ -2175,6 +2319,8 @@
         "contextualGuessVI": "'Views' (quan điểm) 'political' (chính trị)."
       },
       "phase2Annotation": {
+        "phonetic": "/pəˈlɪtɪkl vjuːz/",
+        "sentiment": "neutral",
         "definitionEN": "A person's opinions or beliefs about politics and government.",
         "translationVI": "Quan điểm chính trị.",
         "relatedCollocates": [
@@ -2205,6 +2351,8 @@
         "contextualGuessVI": "'Behaviour' (hành vi) 'of' (của) 'fugitives' (những người chạy trốn)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈfjuːdʒətɪvz bɪˈheɪvjə/",
+        "sentiment": "neutral",
         "definitionEN": "The way that the people who were running away or hiding acted or conducted themselves.",
         "translationVI": "Hành vi của những người chạy trốn.",
         "relatedCollocates": [
@@ -2235,6 +2383,8 @@
         "contextualGuessVI": "Được 'prepared' (chuẩn bị) 'badly' (tồi, tệ)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈbædli prɪˈpeəd/",
+        "sentiment": "negative",
         "definitionEN": "Not ready or equipped for something; having made poor preparations.",
         "translationVI": "Chuẩn bị tồi/không kỹ.",
         "relatedCollocates": [
@@ -2265,6 +2415,8 @@
         "contextualGuessVI": "'Misunderstood' (hiểu sai) 'the motives' (động cơ) của đối thủ."
       },
       "phase2Annotation": {
+        "phonetic": "/ˌmɪsʌndəˈstʊd ðə ˈməʊtɪvz/",
+        "sentiment": "negative",
         "definitionEN": "To fail to correctly understand the reasons behind someone's actions.",
         "translationVI": "Hiểu sai động cơ.",
         "relatedCollocates": [
@@ -2298,6 +2450,8 @@
         "contextualGuessVI": "'Restore' (khôi phục) 'faith' (niềm tin) 'of' (của) 'people' (người dân) 'in' (vào) 'monarchy' (chế độ quân chủ)."
       },
       "phase2Annotation": {
+        "phonetic": "/rɪˈstɔː ˈpiːplz feɪθ ɪn/",
+        "sentiment": "positive",
         "definitionEN": "To bring back a feeling of trust and confidence in an institution, person, or idea.",
         "translationVI": "Khôi phục niềm tin của người dân vào.",
         "relatedCollocates": ["lose faith in", "have faith in", "restore (v)"],
@@ -2325,6 +2479,8 @@
         "contextualGuessVI": "Bị 'driven' (thúc đẩy) 'by' (bởi) 'a desire' (một mong muốn)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈdrɪvn baɪ ə dɪˈzaɪə/",
+        "sentiment": "neutral",
         "definitionEN": "To be strongly motivated or compelled to act because of a strong wish.",
         "translationVI": "Bị thúc đẩy bởi một mong muốn.",
         "relatedCollocates": [
@@ -2358,6 +2514,8 @@
         "contextualGuessVI": "Một 'approach' (cách tiếp cận) 'unbiased' (không thiên vị). (Paraphrase cho 'even-handed sympathy')."
       },
       "phase2Annotation": {
+        "phonetic": "/ʌnˈbaɪəst əˈprəʊtʃ/",
+        "sentiment": "positive",
         "definitionEN": "A way of dealing with something that is fair, impartial, and not influenced by personal opinions.",
         "translationVI": "Cách tiếp cận không thiên vị.",
         "relatedCollocates": [
@@ -2391,6 +2549,8 @@
         "contextualGuessVI": "'Language' (ngôn ngữ) 'suitable for' (phù hợp với) 'audience' (khán giả) thế kỷ 21."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈlæŋɡwɪdʒ ˈsuːtəbl fɔː/",
+        "sentiment": "positive",
         "definitionEN": "A style of writing or speaking that is appropriate for a particular group of people.",
         "translationVI": "Ngôn ngữ phù hợp với.",
         "relatedCollocates": [
@@ -2421,6 +2581,8 @@
         "contextualGuessVI": "'Overlooks' (bỏ qua, phớt lờ) 'the impact' (sự ảnh hưởng)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˌəʊvəˈlʊks ði ˈɪmpækt/",
+        "sentiment": "negative",
         "definitionEN": "To fail to notice or consider the effect or influence that events have.",
         "translationVI": "Bỏ qua/phớt lờ sự ảnh hưởng.",
         "relatedCollocates": [
@@ -2451,6 +2613,8 @@
         "contextualGuessVI": "'Lacks' (thiếu) 'an analysis' (một sự phân tích) 'of' (về) 'prevalent views' (các quan điểm thịnh hành)."
       },
       "phase2Annotation": {
+        "phonetic": "/læks ən əˈnæləsɪs əv/",
+        "sentiment": "negative",
         "definitionEN": "To not have a detailed examination or study of common or widespread opinions.",
         "translationVI": "Thiếu một sự phân tích về.",
         "relatedCollocates": [
@@ -2488,6 +2652,8 @@
         "contextualGuessVI": "'Omits' (bỏ qua, không nhắc đến) 'any references to' (bất kỳ sự đề cập nào đến) 'deceit' (sự lừa dối)."
       },
       "phase2Annotation": {
+        "phonetic": "/əʊˈmɪts ˈeni ˈrefrənsɪz tuː/",
+        "sentiment": "negative",
         "definitionEN": "To fail to include or mention any information about a particular subject (e.g., the deceit).",
         "translationVI": "Bỏ qua/không đề cập đến.",
         "relatedCollocates": [
@@ -2523,6 +2689,8 @@
         "contextualGuessVI": "Một 'influence' (sự ảnh hưởng) 'lasting' (kéo dài) 'on him' (lên ông ta)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈlɑːstɪŋ ˈɪnfluəns ɒn hɪm/",
+        "sentiment": "neutral",
         "definitionEN": "An effect or impact that continued for a long time on his character or actions.",
         "translationVI": "Sự ảnh hưởng lâu dài lên ông ấy.",
         "relatedCollocates": [
