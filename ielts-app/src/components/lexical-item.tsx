@@ -3,6 +3,7 @@ import {
   PopoverContent,
   PopoverTrigger,
 } from "@/components/ui/popover";
+import { BookText, Spline, Wand2 } from 'lucide-react';
 
 interface LexicalItemProps {
   item: {
@@ -33,46 +34,55 @@ export function LexicalItem({ item, children }: LexicalItemProps) {
   return (
     <Popover>
       <PopoverTrigger asChild>
-        <span className="underline decoration-dotted cursor-pointer bg-yellow-200/50">
-          <strong>{children}</strong> ({formattedTranslation})
+        <span className="underline decoration-dotted cursor-pointer bg-highlight text-highlight-foreground">
+          <strong>{children}</strong> <em className="text-muted-foreground">({formattedTranslation})</em>
         </span>
       </PopoverTrigger>
-      <PopoverContent className="w-96 shadow-lg rounded-lg">
-        <div className="p-4 bg-blue-500 text-white rounded-t-lg">
-          <h4 className="font-bold text-xl">{targetLexeme}</h4>
-          <p className="text-lg">({formattedTranslation})</p>
+      <PopoverContent className="w-96 shadow-xl rounded-xl border-none bg-background p-0">
+        <div className="p-5">
+          <h4 className="font-bold text-2xl text-foreground">{targetLexeme}</h4>
+          <p className="text-lg text-primary">({formattedTranslation})</p>
         </div>
-        <div className="p-4 space-y-4">
-          <p className="text-base text-gray-700">{definitionEN}</p>
-          <hr />
+        <div className="px-5 pb-5 space-y-5">
+          <div className="flex items-start space-x-3">
+            <BookText className="h-5 w-5 text-muted-foreground mt-1" />
+            <p className="flex-1 text-base text-foreground">{definitionEN}</p>
+          </div>
+
           {relatedCollocates && relatedCollocates.length > 0 && (
-            <div>
-              <h5 className="font-semibold text-gray-800">Collocates:</h5>
-              <ul className="list-disc list-inside text-sm text-gray-600 mt-1">
-                {relatedCollocates.map((collocate, index) => (
-                  <li key={index}>{collocate}</li>
-                ))}
-              </ul>
+            <div className="flex items-start space-x-3">
+              <Spline className="h-5 w-5 text-muted-foreground mt-1" />
+              <div className="flex-1">
+                <h5 className="font-semibold text-foreground">Collocates:</h5>
+                <div className="flex flex-wrap gap-2 mt-2">
+                  {relatedCollocates.map((collocate, index) => (
+                    <span key={index} className="px-2 py-1 bg-muted text-muted-foreground rounded-md text-sm">{collocate}</span>
+                  ))}
+                </div>
+              </div>
             </div>
           )}
 
           {wordForms && (
-            <div>
-              <h5 className="font-semibold text-gray-800">Word Forms:</h5>
-              <div className="text-sm text-gray-600 mt-1 space-y-1">
-                {Object.entries(wordForms).map(
-                  ([type, forms]) =>
-                    forms &&
-                    (forms as any[]).length > 0 && (
-                      <div key={type}>
-                        <strong className="text-gray-700">{type}:</strong>
-                        {' '}
-                        {(forms as any[])
-                          .map((form) => `${form.form} (${form.meaning})`)
-                          .join(', ')}
-                      </div>
-                    )
-                )}
+            <div className="flex items-start space-x-3">
+               <Wand2 className="h-5 w-5 text-muted-foreground mt-1" />
+              <div className="flex-1">
+                <h5 className="font-semibold text-foreground">Word Forms:</h5>
+                <div className="text-sm text-muted-foreground mt-2 space-y-1">
+                  {Object.entries(wordForms).map(
+                    ([type, forms]) =>
+                      forms &&
+                      (forms as any[]).length > 0 && (
+                        <div key={type}>
+                          <strong className="text-foreground capitalize">{type}:</strong>
+                          {' '}
+                          {(forms as any[])
+                            .map((form) => `${form.form} (${form.meaning})`)
+                            .join(', ')}
+                        </div>
+                      )
+                  )}
+                </div>
               </div>
             </div>
           )}

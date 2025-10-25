@@ -11,7 +11,10 @@ async function getPassageData() {
   const passageText = await fs.readFile(passagePath, 'utf8');
   const lexicalData = JSON.parse(await fs.readFile(lexicalDataPath, 'utf8'));
 
-  return { passageText, lexicalData };
+  const wordCount = passageText.split(/\s+/).length;
+  const readingTime = Math.ceil(wordCount / 200);
+
+  return { passageText, lexicalData, readingTime };
 }
 
 function processParagraph(paragraph: string, lexicalItems: any[]) {
@@ -82,16 +85,16 @@ function processParagraph(paragraph: string, lexicalItems: any[]) {
 
 
 export default async function ReadingPage() {
-  const { passageText, lexicalData } = await getPassageData();
+  const { passageText, lexicalData, readingTime } = await getPassageData();
   const lines = passageText.split('\n');
   const title = lines[0].replace(/## /g, '');
   const paragraphs = lines.slice(1).join('\n').split('\n\n');
 
   return (
     <div className="container mx-auto p-4">
-      <ReadingView title={title}>
+      <ReadingView title={title} readingTime={readingTime}>
         {paragraphs.map((p, index) => (
-          <p key={index} className="text-2xl">
+          <p key={index}>
             {processParagraph(p, lexicalData.lexicalItems)}
           </p>
         ))}
