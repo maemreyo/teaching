@@ -28,27 +28,27 @@ export function LexicalItem({ item, children }: LexicalItemProps) {
     },
   } = item;
 
+  const formattedTranslation = translationVI.charAt(0).toLowerCase() + translationVI.slice(1);
+
   return (
     <Popover>
       <PopoverTrigger asChild>
         <span className="underline decoration-dotted cursor-pointer bg-yellow-200/50">
-          {children}
+          <strong>{children}</strong> ({formattedTranslation})
         </span>
       </PopoverTrigger>
-      <PopoverContent className="w-96">
-        <div className="space-y-4">
-          <div>
-            <h4 className="font-bold text-lg">{targetLexeme}</h4>
-            <p className="text-base font-semibold text-blue-600">
-              ({translationVI})
-            </p>
-          </div>
-          <p className="text-base">{definitionEN}</p>
-
+      <PopoverContent className="w-96 shadow-lg rounded-lg">
+        <div className="p-4 bg-blue-500 text-white rounded-t-lg">
+          <h4 className="font-bold text-xl">{targetLexeme}</h4>
+          <p className="text-lg">({formattedTranslation})</p>
+        </div>
+        <div className="p-4 space-y-4">
+          <p className="text-base text-gray-700">{definitionEN}</p>
+          <hr />
           {relatedCollocates && relatedCollocates.length > 0 && (
             <div>
-              <h5 className="font-semibold">Collocates:</h5>
-              <ul className="list-disc list-inside text-sm">
+              <h5 className="font-semibold text-gray-800">Collocates:</h5>
+              <ul className="list-disc list-inside text-sm text-gray-600 mt-1">
                 {relatedCollocates.map((collocate, index) => (
                   <li key={index}>{collocate}</li>
                 ))}
@@ -58,18 +58,18 @@ export function LexicalItem({ item, children }: LexicalItemProps) {
 
           {wordForms && (
             <div>
-              <h5 className="font-semibold">Word Forms:</h5>
-              <div className="text-sm">
+              <h5 className="font-semibold text-gray-800">Word Forms:</h5>
+              <div className="text-sm text-gray-600 mt-1 space-y-1">
                 {Object.entries(wordForms).map(
                   ([type, forms]) =>
                     forms &&
                     (forms as any[]).length > 0 && (
                       <div key={type}>
-                        <strong>{type}:</strong>
-                        {", "}
+                        <strong className="text-gray-700">{type}:</strong>
+                        {' '}
                         {(forms as any[])
                           .map((form) => `${form.form} (${form.meaning})`)
-                          .join(", ")}
+                          .join(', ')}
                       </div>
                     )
                 )}
