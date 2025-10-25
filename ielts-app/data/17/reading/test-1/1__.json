@@ -11,6 +11,8 @@
         "contextualGuessVI": "Tăng trưởng ở một tốc độ 'astonishing' -> tốc độ rất nhanh, đáng kinh ngạc."
       },
       "phase2Annotation": {
+        "phonetic": "/ɡruː æt ən əˈstɒnɪʃɪŋ reɪt/",
+        "sentiment": "neutral",
         "definitionEN": "To increase in size or number very quickly and surprisingly.",
         "translationVI": "Tăng trưởng với tốc độ đáng kinh ngạc.",
         "relatedCollocates": [
@@ -43,6 +45,8 @@
         "contextualGuessVI": "'Congested' là tắc nghẽn, 'increasingly' là ngày càng. -> 'ngày càng tắc nghẽn/đông đúc'."
       },
       "phase2Annotation": {
+        "phonetic": "/ɪnˈkriːsɪŋli kənˈdʒestɪd/",
+        "sentiment": "negative",
         "definitionEN": "Becoming more and more crowded with traffic or people, making movement difficult.",
         "translationVI": "Ngày càng tắc nghẽn.",
         "relatedCollocates": [
@@ -70,6 +74,8 @@
         "contextualGuessVI": "'Expansion' là 'sự mở rộng' của 'network' (mạng lưới) đường sắt 'overground' (trên mặt đất)."
       },
       "phase2Annotation": {
+        "phonetic": "/ɪkˈspænʃən əv ði ˈəʊvəɡraʊnd ˈreɪlweɪ ˈnetwɜːk/",
+        "sentiment": "neutral",
         "definitionEN": "The process of increasing the size and reach of the railway system that runs on the surface.",
         "translationVI": "Sự mở rộng của mạng lưới đường sắt trên mặt đất.",
         "relatedCollocates": [
@@ -100,6 +106,8 @@
         "contextualGuessVI": "Hành khách 'arriving' (đi đến) 'capital' (thủ đô)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈpæsɪndʒəz əˈraɪvɪŋ ɪn ðə ˈkæpɪtl/",
+        "sentiment": "neutral",
         "definitionEN": "People who are travelling, reaching the main city of a country.",
         "translationVI": "Hành khách đến thủ đô.",
         "relatedCollocates": [
@@ -131,6 +139,8 @@
         "contextualGuessVI": "Một 'Commission' (Ủy ban) 'Royal' (Hoàng gia). Chắc là một nhóm người được vua/nữ hoàng chỉ định để điều tra/quyết định việc gì đó."
       },
       "phase2Annotation": {
+        "phonetic": "/ə ˈrɔɪəl kəˈmɪʃən/",
+        "sentiment": "neutral",
         "definitionEN": "A formal group of people appointed by a monarch (on the advice of the government) to investigate a matter of public concern.",
         "translationVI": "Một Ủy ban Hoàng gia (ủy ban điều tra chính thức).",
         "relatedCollocates": [
@@ -161,6 +171,8 @@
         "contextualGuessVI": "Trung tâm 'historic' (lịch sử) và 'business' (kinh doanh) của thủ đô."
       },
       "phase2Annotation": {
+        "phonetic": "/hɪˈstɒrɪk ænd ˈbɪznəs ˈsentə/",
+        "sentiment": "neutral",
         "definitionEN": "The main area of a city that is important for both its history and its commercial activities.",
         "translationVI": "Trung tâm lịch sử và kinh doanh.",
         "relatedCollocates": [
@@ -195,6 +207,8 @@
         "contextualGuessVI": "'Formed' (hình thành) một 'ring' (vòng tròn) 'around' (xung quanh) thành phố."
       },
       "phase2Annotation": {
+        "phonetic": "/fɔːmd ə rɪŋ əˈraʊnd/",
+        "sentiment": "neutral",
         "definitionEN": "To create a circular shape or border surrounding a central area.",
         "translationVI": "Tạo thành một vòng đai/vòng tròn xung quanh.",
         "relatedCollocates": ["form a circle", "a ring road", "surround (v)"],
@@ -222,6 +236,8 @@
         "contextualGuessVI": "'Slums' là 'khu ổ chuột', 'overcrowded' là 'quá đông đúc'. -> 'các khu ổ chuột quá đông đúc/chật chội'."
       },
       "phase2Annotation": {
+        "phonetic": "/ˌəʊvəˈkraʊdɪd slʌmz/",
+        "sentiment": "negative",
         "definitionEN": "Areas of a city with very poor-quality housing that are excessively full of people.",
         "translationVI": "Các khu ổ chuột quá đông đúc.",
         "relatedCollocates": [
@@ -252,6 +268,8 @@
         "contextualGuessVI": "'Traffic' (giao thông) mà 'horse-drawn' (được kéo bởi ngựa). -> 'giao thông xe ngựa'."
       },
       "phase2Annotation": {
+        "phonetic": "/hɔːs-drɔːn ˈtræfɪk/",
+        "sentiment": "neutral",
         "definitionEN": "Transport that is pulled by a horse (e.g., carriages, buses).",
         "translationVI": "Giao thông xe ngựa.",
         "relatedCollocates": ["horse-drawn carriage", "horse-drawn vehicle"],
@@ -280,6 +298,8 @@
         "contextualGuessVI": "Việc đi qua thành phố trở thành một 'nightmare' (cơn ác mộng) -> rất kinh khủng, khó khăn."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈkrɒsɪŋ ðə ˈsɪti bɪˈkeɪm ə ˈnaɪtmeə/",
+        "sentiment": "negative",
         "definitionEN": "The act of travelling from one side of the city to the other became an extremely unpleasant and difficult experience.",
         "translationVI": "Việc đi qua thành phố trở thành một cơn ác mộng.",
         "relatedCollocates": [
@@ -310,6 +330,8 @@
         "contextualGuessVI": "'Resolve' (giải quyết) 'problems' (vấn đề). -> 'giải quyết những vấn đề này'."
       },
       "phase2Annotation": {
+        "phonetic": "/rɪˈzɒlv ðiːz ˈprɒbləmz/",
+        "sentiment": "positive",
         "definitionEN": "To find a satisfactory solution to a problem or difficulty.",
         "translationVI": "Giải quyết (triệt để) những vấn đề này.",
         "relatedCollocates": [
@@ -343,6 +365,8 @@
         "contextualGuessVI": "Những 'advocates' (người ủng hộ) mà 'vocal' (lên tiếng) nhất. -> 'Những người ủng hộ mạnh mẽ/lên tiếng nhiều nhất cho...'"
       },
       "phase2Annotation": {
+        "phonetic": "/ðə məʊst ˈvəʊkəl ˈædvəkəts fɔː/",
+        "sentiment": "neutral",
         "definitionEN": "The people who speak most publicly and forcefully in support of an idea or plan.",
         "translationVI": "Những người ủng hộ (lên tiếng) mạnh mẽ nhất cho.",
         "relatedCollocates": [
@@ -373,6 +397,8 @@
         "contextualGuessVI": "Lợi ích ('advantages') về 'social' (xã hội) và 'economic' (kinh tế)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈsəʊʃəl ænd ˌiːkəˈnɒmɪk ədˈvɑːntɪdʒɪz/",
+        "sentiment": "positive",
         "definitionEN": "Benefits relating to society and the management of a country's wealth.",
         "translationVI": "Các lợi ích về mặt xã hội và kinh tế.",
         "relatedCollocates": [
@@ -416,6 +442,8 @@
         "contextualGuessVI": "'Clear' (dọn dẹp, giải tỏa) 'slums' (khu ổ chuột). -> 'giải tỏa các khu ổ chuột ở London'."
       },
       "phase2Annotation": {
+        "phonetic": "/klɪə ˈlʌndən slʌmz/",
+        "sentiment": "positive",
         "definitionEN": "To remove or get rid of the overcrowded, poor-quality housing areas in London.",
         "translationVI": "Giải toả các khu ổ chuột ở London.",
         "relatedCollocates": [
@@ -446,6 +474,8 @@
         "contextualGuessVI": "'Relocate' (tái định vị, di dời) 'poor workers' (công nhân nghèo). -> 'di dời/tái định cư công nhân nghèo'."
       },
       "phase2Annotation": {
+        "phonetic": "/ˌriːləʊˈkeɪt ðə pɔː ˈwɜːkəz/",
+        "sentiment": "neutral",
         "definitionEN": "To move the low-income labourers to a new place to live.",
         "translationVI": "Tái định cư (di dời) những người lao động nghèo.",
         "relatedCollocates": [
@@ -481,6 +511,8 @@
         "contextualGuessVI": "'Suburbs' (vùng ngoại ô) 'newly constructed' (mới được xây dựng)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈnjuːli kənˈstrʌktɪd ˈsʌbɜːbz/",
+        "sentiment": "neutral",
         "definitionEN": "Residential areas on the edge of a city that have been built recently.",
         "translationVI": "Các khu ngoại ô mới được xây dựng.",
         "relatedCollocates": [
@@ -514,6 +546,8 @@
         "contextualGuessVI": "'Provide' (cung cấp) 'cheap' (rẻ) 'rail travel' (việc đi lại bằng đường sắt)."
       },
       "phase2Annotation": {
+        "phonetic": "/prəˈvaɪd tʃiːp reɪl ˈtrævl/",
+        "sentiment": "positive",
         "definitionEN": "To offer low-cost transportation by train.",
         "translationVI": "Cung cấp phương tiện đi lại bằng đường sắt giá rẻ.",
         "relatedCollocates": [
@@ -548,6 +582,8 @@
         "contextualGuessVI": "'Gained' (giành được, có được) 'support' (sự ủng hộ) 'amongst' (từ, trong số) doanh nhân."
       },
       "phase2Annotation": {
+        "phonetic": "/ɡeɪnd səˈpɔːt əˈmʌŋst/",
+        "sentiment": "positive",
         "definitionEN": "To gradually get more approval or help from a specific group of people.",
         "translationVI": "Giành được/Nhận được sự ủng hộ từ (trong giới).",
         "relatedCollocates": [
@@ -582,6 +618,8 @@
         "contextualGuessVI": "'Submit' (nộp, đệ trình) một 'plan' (kế hoạch) cho 'Parliament' (Nghị viện)."
       },
       "phase2Annotation": {
+        "phonetic": "/səbˈmɪtɪd ə plæn tə ˈpɑːləmənt/",
+        "sentiment": "neutral",
         "definitionEN": "To formally give a plan or document to the legislature (government body) for consideration.",
         "translationVI": "Trình một kế hoạch lên Nghị viện.",
         "relatedCollocates": [
@@ -618,6 +656,8 @@
         "contextualGuessVI": "'Coincided with' (trùng hợp với, xảy ra cùng lúc với) một 'proposal' (đề xuất)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˌkəʊɪnˈsaɪdɪd wɪð ə prəˈpəʊzəl/",
+        "sentiment": "neutral",
         "definitionEN": "To happen at the same time as another suggestion or plan.",
         "translationVI": "Trùng hợp với một đề xuất.",
         "relatedCollocates": [
@@ -655,6 +695,8 @@
         "contextualGuessVI": "Hai nhóm 'merged'... chắc là 'hợp nhất', 'sáp nhập'."
       },
       "phase2Annotation": {
+        "phonetic": "/ðə tuː ɡruːps mɜːdʒd/",
+        "sentiment": "neutral",
         "definitionEN": "To combine or join two organizations to form a single, larger one.",
         "translationVI": "Hai nhóm sáp nhập.",
         "relatedCollocates": [
@@ -685,6 +727,8 @@
         "contextualGuessVI": "Gặp 'difficulty' (khó khăn) trong việc 'raising funding' (huy động vốn)."
       },
       "phase2Annotation": {
+        "phonetic": "/hæd ˈdɪfɪkəlti ɪn ˈreɪzɪŋ ðə ˈfʌndɪŋ/",
+        "sentiment": "negative",
         "definitionEN": "To experience problems trying to collect or find enough money for a specific purpose.",
         "translationVI": "Gặp khó khăn trong việc huy động vốn.",
         "relatedCollocates": [
@@ -720,6 +764,8 @@
         "contextualGuessVI": "Một 'scheme' (kế hoạch) 'radical' (cấp tiến, mới lạ) và 'expensive' (đắt đỏ)."
       },
       "phase2Annotation": {
+        "phonetic": "/ə ˈrædɪkəl ænd ɪkˈspensɪv skiːm/",
+        "sentiment": "negative",
         "definitionEN": "A plan that is very new, different (and often extreme), and costs a lot of money.",
         "translationVI": "Một kế hoạch cấp tiến (mới lạ) và tốn kém.",
         "relatedCollocates": [
@@ -759,6 +805,8 @@
         "contextualGuessVI": "'Demolish' (phá hủy, dỡ bỏ) 'buildings' (các tòa nhà). -> 'việc phá dỡ các tòa nhà'."
       },
       "phase2Annotation": {
+        "phonetic": "/dɪˈmɒlɪʃɪŋ ˈbɪldɪŋz/",
+        "sentiment": "neutral",
         "definitionEN": "To pull or knock down buildings.",
         "translationVI": "Phá dỡ các tòa nhà.",
         "relatedCollocates": [
@@ -792,6 +840,8 @@
         "contextualGuessVI": "'Originally scheduled' (ban đầu được lên lịch) 'to be completed' (để được hoàn thành). -> 'ban đầu được lên lịch hoàn thành'."
       },
       "phase2Annotation": {
+        "phonetic": "/əˈrɪdʒənəli ˈʃedjuːld tə bi kəmˈpliːtɪd/",
+        "sentiment": "neutral",
         "definitionEN": "Planned at the beginning to be finished by a certain time.",
         "translationVI": "Ban đầu được lên lịch/dự kiến sẽ hoàn thành.",
         "relatedCollocates": [
@@ -828,6 +878,8 @@
         "contextualGuessVI": "Được xây 'just below' (ngay bên dưới) 'street level' (mặt đường)."
       },
       "phase2Annotation": {
+        "phonetic": "/bɪlt dʒəst bɪˈləʊ striːt ˈlevl/",
+        "sentiment": "neutral",
         "definitionEN": "Constructed at a very shallow depth, immediately under the surface of the road.",
         "translationVI": "Được xây ngay dưới mặt đường.",
         "relatedCollocates": [
@@ -855,6 +907,8 @@
         "contextualGuessVI": "Một 'technique' (kỹ thuật) 'known as' (được biết đến với tên là)..."
       },
       "phase2Annotation": {
+        "phonetic": "/tekˈniːk nəʊn æz/",
+        "sentiment": "neutral",
         "definitionEN": "A specific method or skill that is called by a particular name.",
         "translationVI": "Kỹ thuật được biết đến với tên gọi là.",
         "relatedCollocates": ["a method called", "a process known as"],
@@ -881,6 +935,8 @@
         "contextualGuessVI": "'Temporarily' (tạm thời) 'held up' (được chống đỡ) 'with' (bằng) 'timber beams' (dầm gỗ)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈtempərərɪli held ʌp wɪð ˈtɪmbə biːmz/",
+        "sentiment": "neutral",
         "definitionEN": "Supported for a short time using large, long pieces of wood.",
         "translationVI": "Được chống đỡ tạm thời bằng các dầm gỗ.",
         "relatedCollocates": [
@@ -913,6 +969,8 @@
         "contextualGuessVI": "'Laid' (được đặt, rải) 'on top of' (lên trên) 'the tunnel' (đường hầm)."
       },
       "phase2Annotation": {
+        "phonetic": "/leɪd ɒn tɒp əv ðə ˈtʌnl/",
+        "sentiment": "neutral",
         "definitionEN": "Placed over the upper surface of the tunnel.",
         "translationVI": "Được đặt/rải lên trên đường hầm.",
         "relatedCollocates": ["lay bricks", "lay the foundation", "on top of"],
@@ -936,6 +994,8 @@
         "contextualGuessVI": "Năm 'operation' (hoạt động) 'first' (đầu tiên)."
       },
       "phase2Annotation": {
+        "phonetic": "/fɜːst jɪər əv ˌɒpəˈreɪʃən/",
+        "sentiment": "neutral",
         "definitionEN": "The initial 12-month period during which a system or business is working.",
         "translationVI": "Năm hoạt động đầu tiên.",
         "relatedCollocates": [
@@ -966,6 +1026,8 @@
         "contextualGuessVI": "'Extensions' (sự mở rộng, các tuyến nối dài) 'were being authorised' (đang được 'authorise' -> phê duyệt, cấp phép)."
       },
       "phase2Annotation": {
+        "phonetic": "/ɪkˈstenʃənz wɜː ˈbiːɪŋ ˈɔːθəraɪzd/",
+        "sentiment": "positive",
         "definitionEN": "Official permission was being given to build new parts to make the line longer (past continuous passive).",
         "translationVI": "Các tuyến mở rộng đang được cấp phép.",
         "relatedCollocates": [
@@ -1003,6 +1065,8 @@
         "contextualGuessVI": "'Pull' (kéo) 'the trains' (tàu) 'with' (bằng) 'steam locomotives' (đầu máy hơi nước)."
       },
       "phase2Annotation": {
+        "phonetic": "/pʊl ðə treɪnz wɪð stiːm ˌləʊkəˈməʊtɪvz/",
+        "sentiment": "neutral",
         "definitionEN": "To use engines powered by steam to move the train carriages.",
         "translationVI": "Kéo tàu bằng đầu máy hơi nước.",
         "relatedCollocates": ["steam engine", "diesel locomotive"],
@@ -1029,6 +1093,8 @@
         "contextualGuessVI": "'Provide' (cung cấp) 'steam' (hơi nước)."
       },
       "phase2Annotation": {
+        "phonetic": "/prəˈvaɪd stiːm/",
+        "sentiment": "neutral",
         "definitionEN": "To produce or supply steam (e.g., for power).",
         "translationVI": "Cung cấp/tạo ra hơi nước.",
         "relatedCollocates": [
@@ -1059,6 +1125,8 @@
         "contextualGuessVI": "Đầu máy 'specially designed' (được thiết kế đặc biệt)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈspeʃəli dɪˈzaɪnd ˌləʊkəˈməʊtɪvz/",
+        "sentiment": "neutral",
         "definitionEN": "Engines that were created for a particular, specific purpose.",
         "translationVI": "Các đầu máy được thiết kế đặc biệt.",
         "relatedCollocates": [
@@ -1093,6 +1161,8 @@
         "contextualGuessVI": "Được 'fitted with' (lắp đặt, trang bị) 'water tanks' (bể chứa nước)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈfɪtɪd wɪð ˈwɔːtə tæŋks/",
+        "sentiment": "neutral",
         "definitionEN": "To be equipped with or have water tanks as a feature.",
         "translationVI": "Được trang bị/lắp đặt các bể chứa nước.",
         "relatedCollocates": [
@@ -1123,6 +1193,8 @@
         "contextualGuessVI": "Hơi nước 'could be condensed' (có thể được 'condense' -> ngưng tụ)."
       },
       "phase2Annotation": {
+        "phonetic": "/stiːm kəd bi kənˈdenst/",
+        "sentiment": "neutral",
         "definitionEN": "It was possible for the steam (gas) to be turned back into a liquid.",
         "translationVI": "Hơi nước có thể được ngưng tụ.",
         "relatedCollocates": ["condensation (n)", "condensed milk"],
@@ -1146,6 +1218,8 @@
         "contextualGuessVI": "'Smoke and fumes' (khói và khói độc) 'remained a problem' (vẫn là một vấn đề)."
       },
       "phase2Annotation": {
+        "phonetic": "/sməʊk ænd fjuːmz rɪˈmeɪnd ə ˈprɒbləm/",
+        "sentiment": "negative",
         "definitionEN": "Smoke and harmful gases continued to be an unresolved issue.",
         "translationVI": "Khói và khí độc vẫn là một vấn đề.",
         "relatedCollocates": [
@@ -1180,6 +1254,8 @@
         "contextualGuessVI": "'Ventilation shafts' (trục thông gió/giếng thông gió) 'were added' (đã được thêm vào)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˌventɪˈleɪʃən ʃɑːfts wər ˈædɪd/",
+        "sentiment": "positive",
         "definitionEN": "Passages or tunnels built to allow fresh air to enter and smoke/fumes to escape.",
         "translationVI": "Các trục thông gió đã được thêm vào.",
         "relatedCollocates": [
@@ -1214,6 +1290,8 @@
         "contextualGuessVI": "'Congestion' (sự tắc nghẽn) 'had become worse' (đã trở nên tồi tệ hơn)."
       },
       "phase2Annotation": {
+        "phonetic": "/kənˈdʒestʃən hæd bɪˈkʌm wɜːs/",
+        "sentiment": "negative",
         "definitionEN": "The problem of overcrowding (especially traffic) had intensified; it was not better.",
         "translationVI": "Sự tắc nghẽn đã trở nên tồi tệ hơn.",
         "relatedCollocates": [
@@ -1244,6 +1322,8 @@
         "contextualGuessVI": "Không 'cross' (đi ngang qua) 'centre' (trung tâm) của 'capital' (thủ đô)."
       },
       "phase2Annotation": {
+        "phonetic": "/dɪd nɒt krɒs ðə ˈkæpɪtlz ˈsentə/",
+        "sentiment": "negative",
         "definitionEN": "It did not travel from one side of the central part of the capital city to the other.",
         "translationVI": "Không đi qua trung tâm thủ đô.",
         "relatedCollocates": [
@@ -1274,6 +1354,8 @@
         "contextualGuessVI": "'Alternative' (sự thay thế, lựa chọn) 'only' (duy nhất) 'was to' (là làm gì đó)."
       },
       "phase2Annotation": {
+        "phonetic": "/ði ˈəʊnli ɔːlˈtɜːnətɪv wɒz tuː/",
+        "sentiment": "neutral",
         "definitionEN": "The one and only other choice or solution was to do (something).",
         "translationVI": "Giải pháp/lựa chọn thay thế duy nhất là.",
         "relatedCollocates": [
@@ -1301,6 +1383,8 @@
         "contextualGuessVI": "Trong một 'space' (không gian) 'confined' (bị giới hạn, chật hẹp) 'such a' (như vậy)."
       },
       "phase2Annotation": {
+        "phonetic": "/ɪn sʌtʃ ə kənˈfaɪnd speɪs/",
+        "sentiment": "negative",
         "definitionEN": "In an area that is very small and enclosed.",
         "translationVI": "Trong một không gian chật hẹp/bị giới hạn như vậy.",
         "relatedCollocates": ["a confined area", "confined to (a place)"],
@@ -1329,6 +1413,8 @@
         "contextualGuessVI": "Sự 'development' (phát triển) của một 'electric motor' (động cơ điện) 'reliable' (đáng tin cậy)."
       },
       "phase2Annotation": {
+        "phonetic": "/dɪˈveləpmənt əv ə rɪˈlaɪəbl ɪˈlektrɪk ˈməʊtə/",
+        "sentiment": "positive",
         "definitionEN": "The creation of an electric engine that could be trusted to work well consistently.",
         "translationVI": "Sự phát triển của một động cơ điện đáng tin cậy.",
         "relatedCollocates": [
@@ -1368,6 +1454,8 @@
         "contextualGuessVI": "Một 'means' (phương tiện, cách thức) 'of transferring' (truyền/chuyển giao) 'power' (năng lượng/điện)."
       },
       "phase2Annotation": {
+        "phonetic": "/ə miːnz əv trænsˈfɜːrɪŋ ˈpaʊə/",
+        "sentiment": "neutral",
         "definitionEN": "A method or way of moving energy (electricity) from one point to another.",
         "translationVI": "Một phương thức truyền tải/chuyển giao năng lượng.",
         "relatedCollocates": [
@@ -1399,6 +1487,8 @@
         "contextualGuessVI": "Một 'achievement' (thành tựu) 'technical' (kỹ thuật) 'great' (to lớn)."
       },
       "phase2Annotation": {
+        "phonetic": "/ɡreɪt ˈteknɪkəl əˈtʃiːvmənt/",
+        "sentiment": "positive",
         "definitionEN": "A very significant and impressive accomplishment related to engineering or technology.",
         "translationVI": "Một thành tựu kỹ thuật vĩ đại/to lớn.",
         "relatedCollocates": [
@@ -1433,6 +1523,8 @@
         "contextualGuessVI": "Không 'make a profit' (tạo ra lợi nhuận)."
       },
       "phase2Annotation": {
+        "phonetic": "/dɪd nɒt meɪk ə ˈprɒfɪt/",
+        "sentiment": "negative",
         "definitionEN": "It failed to earn more money than it cost to operate; it lost money.",
         "translationVI": "Không tạo ra lợi nhuận (bị lỗ).",
         "relatedCollocates": [
@@ -1463,6 +1555,8 @@
         "contextualGuessVI": "'Solution' (giải pháp) 'proposed' (được đề xuất)."
       },
       "phase2Annotation": {
+        "phonetic": "/ðə prəˈpəʊzd səˈluːʃən/",
+        "sentiment": "positive",
         "definitionEN": "The plan or action that has been suggested to solve a problem.",
         "translationVI": "Giải pháp được đề xuất.",
         "relatedCollocates": [
@@ -1496,6 +1590,8 @@
         "contextualGuessVI": "'Initially' (ban đầu) 'had problems' (gặp vấn đề)."
       },
       "phase2Annotation": {
+        "phonetic": "/ɪˈnɪʃəli hæd ˈprɒbləmz/",
+        "sentiment": "negative",
         "definitionEN": "To experience difficulties at the beginning of a process.",
         "translationVI": "Ban đầu gặp vấn đề/khó khăn.",
         "relatedCollocates": [
@@ -1526,6 +1622,8 @@
         "contextualGuessVI": "'Articles' (bài báo) 'Negative' (tiêu cực)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈneɡətɪv ˈɑːtɪklz/",
+        "sentiment": "negative",
         "definitionEN": "News reports or essays that criticize or speak badly about a subject.",
         "translationVI": "Các bài báo tiêu cực (chỉ trích).",
         "relatedCollocates": [
@@ -1557,6 +1655,8 @@
         "contextualGuessVI": "'Appeared' (xuất hiện) 'in the press' (trên báo chí)."
       },
       "phase2Annotation": {
+        "phonetic": "/əˈpɪəd ɪn ðə pres/",
+        "sentiment": "neutral",
         "definitionEN": "Was published in newspapers and magazines.",
         "translationVI": "Xuất hiện trên báo chí.",
         "relatedCollocates": [
@@ -1590,6 +1690,8 @@
         "contextualGuessVI": "Bị 'pulled down' (kéo xuống) -> bị phá sập, dỡ bỏ."
       },
       "phase2Annotation": {
+        "phonetic": "/tə bi pʊld daʊn/",
+        "sentiment": "neutral",
         "definitionEN": "To be demolished (used for buildings).",
         "translationVI": "Bị phá sập, dỡ bỏ.",
         "relatedCollocates": [
@@ -1617,6 +1719,8 @@
         "contextualGuessVI": "Với 'completion' (sự hoàn thành) 'of' (của) cái gì đó..."
       },
       "phase2Annotation": {
+        "phonetic": "/wɪð ðə kəmˈpliːʃən əv/",
+        "sentiment": "positive",
         "definitionEN": "At the point when (something) was finished.",
         "translationVI": "Với sự hoàn thành của...",
         "relatedCollocates": [
@@ -1646,6 +1750,8 @@
         "contextualGuessVI": "'Statements' (Các phát biểu) 'agree with' (đồng ý với, trùng khớp với) 'the information' (thông tin)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈsteɪtmənts əˈɡriː wɪð ði ˌɪnfəˈmeɪʃən/",
+        "sentiment": "neutral",
         "definitionEN": "When a sentence (the statement) says the same thing as the information in the text.",
         "translationVI": "Các phát biểu trùng khớp với thông tin (TRUE).",
         "relatedCollocates": [
@@ -1681,6 +1787,8 @@
         "contextualGuessVI": "Phát biểu 'contradicts' (mâu thuẫn với, trái ngược với) 'the information' (thông tin)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈsteɪtmənt ˌkɒntrəˈdɪkts ði ˌɪnfəˈmeɪʃən/",
+        "sentiment": "neutral",
         "definitionEN": "When a sentence (the statement) says the opposite of the information in the text.",
         "translationVI": "Phát biểu mâu thuẫn với thông tin (FALSE).",
         "relatedCollocates": [
@@ -1710,6 +1818,8 @@
         "contextualGuessVI": "Không có 'information' (thông tin) 'on this' (về điều này)."
       },
       "phase2Annotation": {
+        "phonetic": "/ðər ɪz nəʊ ˌɪnfəˈmeɪʃən ɒn ðɪs/",
+        "sentiment": "neutral",
         "definitionEN": "When the text does not mention the topic of the statement at all.",
         "translationVI": "Không có thông tin về điều này (NOT GIVEN).",
         "relatedCollocates": [
@@ -1736,6 +1846,8 @@
         "contextualGuessVI": "Nhiều người 'than' (hơn) 'predicted' (đã dự đoán)."
       },
       "phase2Annotation": {
+        "phonetic": "/ˈpiːpl ðæn prɪˈdɪktɪd/",
+        "sentiment": "neutral",
         "definitionEN": "A greater number of people than was expected or forecasted.",
         "translationVI": "(Nhiều) người hơn (so với) dự đoán.",
         "relatedCollocates": [
@@ -1771,6 +1883,8 @@
         "contextualGuessVI": "'Failed to' (thất bại trong việc) 'prevent' (ngăn chặn) 'pollution' (sự ô nhiễm)."
       },
       "phase2Annotation": {
+        "phonetic": "/feɪld tə prɪˈvent pəˈluːʃən/",
+        "sentiment": "negative",
         "definitionEN": "Did not succeed in stopping pollution from happening.",
         "translationVI": "Thất bại trong việc ngăn chặn ô nhiễm.",
         "relatedCollocates": [
@@ -1810,6 +1924,8 @@
         "contextualGuessVI": "Một 'approach' (cách tiếp cận) 'different' (khác) 'from' (so với)..."
       },
       "phase2Annotation": {
+        "phonetic": "/ə ˈdɪfrənt əˈprəʊtʃ frɒm/",
+        "sentiment": "neutral",
         "definitionEN": "A method or way of doing something that is not the same as (another method).",
         "translationVI": "Một cách tiếp cận khác với...",
         "relatedCollocates": [
@@ -1845,6 +1961,8 @@
         "contextualGuessVI": "Ở 'eye level' (tầm mắt)."
       },
       "phase2Annotation": {
+        "phonetic": "/æt aɪ ˈlevl/",
+        "sentiment": "neutral",
         "definitionEN": "At the same height as a person's eyes.",
         "translationVI": "Ở ngang tầm mắt.",
         "relatedCollocates": ["above/below eye level", "eye-level (adj)"],
@@ -1871,6 +1989,8 @@
         "contextualGuessVI": "Là một 'success' (thành công) 'financial' (về mặt tài chính)."
       },
       "phase2Annotation": {
+        "phonetic": "/wəz ə faɪˈnænʃəl səkˈses/",
+        "sentiment": "positive",
         "definitionEN": "It made a profit; it was commercially successful.",
         "translationVI": "Là một thành công về mặt tài chính (tạo ra lợi nhuận).",
         "relatedCollocates": [
@@ -1911,6 +2031,8 @@
         "contextualGuessVI": "'Ran' (chạy) 'on time' (đúng giờ)."
       },
       "phase2Annotation": {
+        "phonetic": "/ræn ɒn taɪm/",
+        "sentiment": "positive",
         "definitionEN": "To operate according to the schedule; to not be late.",
         "translationVI": "Chạy đúng giờ.",
         "relatedCollocates": ["arrive on time", "be late", "on schedule"],
